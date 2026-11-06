@@ -21,6 +21,13 @@
   "evidence": "infobox (Amadeus Cho): Amazing Fantasy vol. 2 #15 (January 2005)"
  },
  {
+  "id": "angela",
+  "name": "Angela",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Black Panther: …ans.{{rp|23}} * Sterling K. Brown as N'Jobu: T'Chaka's brother and Killmonger's father. * Angela Bassett as Ramonda: T'Challa and Shuri's mother, the Queen Mother of Wakanda. Ramonda ser… | Avengers: Endgame: …nt One, Hayley Atwell as Peggy Carter, Marisa Tomei as May Parker, Taika Waititi as Korg, Angela Bassett as Ramonda, Michael Douglas as Hank Pym, Michelle Pfeiffer as Janet van Dyne, Lin… | Black Panther: Wakanda Forever: …as Valentina Allegra de Fontaine: The new director of the CIA and the ex-wife of Ross. * Angela Bassett as Ramonda: The queen regnant of Wakanda who is grieving the death of her son T'C… | Echo: …'s parents Bill and Marlene Fisk in the final episode, replacing Domenick Lombardozzi and Angela Reed, who portrayed the characters in Daredevil. Pat Kiernan and Errol Louis portray them…"
+ },
+ {
   "id": "ant-man-hank-pym",
   "name": "Ant-Man (Hank Pym)",
   "field": "realName",
@@ -40,6 +47,41 @@
   "field": "mcuFirst",
   "record": "Ant-Man",
   "evidence": "earliest cast match: Avengers: Age of Ultron: …ed to reshoot the final scene of the film to incorporate the new Falcon suit designed for Ant-Man (2015), which was released after Age of Ultron, as Falcon was originally shot in his orig…"
+ },
+ {
+  "id": "apocalypse",
+  "name": "Apocalypse",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Iron Man 3: …us ancient arts of warfare that he studied\". The filmmakers also cited Colonel Kurtz from Apocalypse Now (1979) as an influence for the character. The videos where the Mandarin gives histori… | Deadpool & Wolverine: …the Hulk, referencing the cover of The Incredible Hulk #340 (October 1987); and an Age of Apocalypse (1995) variant with glam rock hair, one hand, and a black-and-red costume. * Emma Corrin…"
+ },
+ {
+  "id": "armor",
+  "name": "Armor",
+  "field": "source",
+  "record": 2004,
+  "evidence": "no reliable infobox (resolved to Iron Man); verify debut, real name and teams directly"
+ },
+ {
+  "id": "armor",
+  "name": "Armor",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Iron Man 2: …Tony Stark / Iron Man: A billionaire who escaped captivity in Afghanistan with a suit of armor he created, he now struggles to keep his technology out of the government's hands. Downey… | The Avengers: …d genius, billionaire, playboy, and philanthropist who wears an electromechanical suit of armor of his own invention. Downey was cast as part of his four-picture deal with Marvel Studio… | Iron Man 3: …self-described genius, billionaire, playboy, and philanthropist with mechanical suits of armor of his own invention. Stark now struggles to come to terms with his near-death experience… | Avengers: Age of Ultron: …escribed genius, billionaire, playboy, and philanthropist with electromechanical suits of armor of his own invention. On how his character evolves after the events of Iron Man 3 (2013),…"
+ },
+ {
+  "id": "attuma",
+  "name": "Attuma",
+  "field": "primaryTeam",
+  "record": "atlantis",
+  "evidence": "infobox alliances: Deep Six; The Worthy"
+ },
+ {
+  "id": "baron-mordo",
+  "name": "Baron Mordo",
+  "field": "mcu",
+  "record": "true (Doctor Strange)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
  },
  {
   "id": "baron-zemo",
@@ -98,6 +140,13 @@
   "evidence": "infobox alliances: Avengers; Fantastic Four; Mighty Avengers; Fantastic Force; New Avengers; Ultimates; The Crew"
  },
  {
+  "id": "blade",
+  "name": "Blade",
+  "field": "mcuFirst",
+  "record": "Deadpool & Wolverine",
+  "evidence": "earliest cast match: WandaVision: …za delivery man cast as \"Dennis\", the mailman/delivery man; Ithamar Enriquez and Victoria Blade as residents cast as the commercial man and woman actors; Emma Caulfield Ford as Sarah Pr…"
+ },
+ {
   "id": "boomerang",
   "name": "Boomerang",
   "field": "source",
@@ -126,11 +175,46 @@
   "evidence": "earliest cast match: The Incredible Hulk: …occasionally recovers.\" In June 2015, when reflecting on how his reprisal in the MCU film Captain America: Civil War (2016) was different from this film, Hurt said, \"What I created [for The Incre…"
  },
  {
+  "id": "captain-mar-vell",
+  "name": "Captain Mar-Vell",
+  "field": "primaryTeam",
+  "record": "kree-empire",
+  "evidence": "infobox alliances: {{ubl|Defenders|Avengers|Legion of the Unliving}}"
+ },
+ {
+  "id": "captain-mar-vell",
+  "name": "Captain Mar-Vell",
+  "field": "mcu",
+  "record": "true (Captain Marvel)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
   "id": "chameleon",
   "name": "Chameleon",
   "field": "mcu",
   "record": "true (Spider-Man: Far From Home)",
   "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "chthon",
+  "name": "Chthon",
+  "field": "source",
+  "record": 1975,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: C); verify debut, real name and teams directly"
+ },
+ {
+  "id": "clea",
+  "name": "Clea",
+  "field": "mcuFirst",
+  "record": "Doctor Strange in the Multiverse of Madness",
+  "evidence": "earliest cast match: Doctor Strange: …lmer was chosen for the character over the more prominent, but more fantastical character Clea. Palmer is also known as the hero Night Nurse in the comics, a storyline that does not pl…"
+ },
+ {
+  "id": "cloak",
+  "name": "Cloak",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Iron Man 3: …e Fu Manchu stereotype: \"We're not saying he's Chinese, we're saying he, in fact, draws a cloak around him of Chinese symbols and dragons because it represents his obsessions with Sun T… | Doctor Strange: …apons, and creating portals for quick travel around the world. Strange is also aided by a Cloak of Levitation for flight, and the Eye of Agamotto, a relic containing an Infinity Stone t… | Ms. Marvel: …gilantes who wear red bandanas and wield throwing knives. * Aramis Knight as Kareem / Red Dagger: A member of the Red Daggers. Knight trained with a dialect coach so he could speak Urdu… | Ironheart: …arker Robbins / The Hood: A gang leader and former ally-turned-enemy of Riri's who dons a cloak that allows him to tap into dark arts and magic. Ramos said Parker was complex and a misf…"
  },
  {
   "id": "crimson-dynamo",
@@ -140,6 +224,34 @@
   "evidence": "Iron Man 2: …erts, a reporter covering the Stark expo. Yevgeni Lazarev appears as Ivan Vanko's father, Anton Vanko, Kate Mara portrays a process server who summons Tony to the government hearing, and Stan… | Iron Man 2: …to exact vengeance on the Stark family. The character is an amalgamation of Whiplash and Crimson Dynamo. Rourke visited Butyrka prison to research the role, and he suggested that half of the ch…"
  },
  {
+  "id": "dagger",
+  "name": "Dagger",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Iron Man 3: …e Fu Manchu stereotype: \"We're not saying he's Chinese, we're saying he, in fact, draws a cloak around him of Chinese symbols and dragons because it represents his obsessions with Sun T… | Doctor Strange: …apons, and creating portals for quick travel around the world. Strange is also aided by a Cloak of Levitation for flight, and the Eye of Agamotto, a relic containing an Infinity Stone t… | Ms. Marvel: …gilantes who wear red bandanas and wield throwing knives. * Aramis Knight as Kareem / Red Dagger: A member of the Red Daggers. Knight trained with a dialect coach so he could speak Urdu… | Ironheart: …arker Robbins / The Hood: A gang leader and former ally-turned-enemy of Riri's who dons a cloak that allows him to tap into dark arts and magic. Ramos said Parker was complex and a misf…"
+ },
+ {
+  "id": "daredevil",
+  "name": "Daredevil",
+  "field": "mcuFirst",
+  "record": "Spider-Man: No Way Home",
+  "evidence": "earliest cast match: Hawkeye: …eanor has connections with. D'Onofrio reprises his role from the Marvel Television series Daredevil (2015–2018). On Kingpin's portrayal in the series, directors Bert & Bertie said they want…"
+ },
+ {
+  "id": "deadpool",
+  "name": "Deadpool",
+  "field": "realName",
+  "record": "Wade Wilson",
+  "evidence": "infobox alter ego: | species = Human mutate"
+ },
+ {
+  "id": "deadpool",
+  "name": "Deadpool",
+  "field": "mcuFirst",
+  "record": "Deadpool & Wolverine",
+  "evidence": "earliest cast match: Guardians of the Galaxy Vol. 2: …change for changing the power set of Negasonic Teenage Warhead, whom Fox wanted to use in Deadpool (2016). Gunn originally thought Marvel held the rights to Ego and stated that, had the de…"
+ },
+ {
   "id": "death",
   "name": "Death",
   "field": "mcuFirst",
@@ -147,11 +259,53 @@
   "evidence": "earliest cast match: Iron Man 2: …perhero, but she's also human. She's small, but she's strong... She is dark and has faced death so many times that she has a deep perspective on the value of life... It's hard not to ad…"
  },
  {
+  "id": "destiny",
+  "name": "Destiny",
+  "field": "debut",
+  "record": "1981 The Uncanny X-Men #141",
+  "evidence": "infobox (Destiny (Irene Adler)): Uncanny X-Men #141; (October 21, 1980)"
+ },
+ {
   "id": "devil-dinosaur",
   "name": "Devil Dinosaur",
   "field": "primaryTeam",
   "record": "secret-warriors",
   "evidence": "infobox alliances: Fallen Angels; Circus of Crime; Pet Avengers"
+ },
+ {
+  "id": "doctor-doom",
+  "name": "Doctor Doom",
+  "field": "primaryTeam",
+  "record": "latveria",
+  "evidence": "infobox alliances: Acts of Vengeance; Cabal; Intelligencia; Future Foundation; Astonishing Avengers; Doom's Avengers; Guardians of the Galaxy"
+ },
+ {
+  "id": "doctor-voodoo",
+  "name": "Doctor Voodoo",
+  "field": "debut",
+  "record": "1973 Strange Tales #169",
+  "evidence": "infobox (Doctor Doom): The Fantastic Four #5; (cover-dated July 1962; published April 10, 1962)"
+ },
+ {
+  "id": "domino",
+  "name": "Domino",
+  "field": "debut",
+  "record": "1992 X-Force #8",
+  "evidence": "infobox (Domino (character)): Impersonated by Copycat:; The New Mutants #98; (February 1991); Herself: ; Cameo: X-Force #8; (March 1992); Full appearance: X-Force #11; (June 1992)"
+ },
+ {
+  "id": "dracula",
+  "name": "Dracula",
+  "field": "debut",
+  "record": "1972 The Tomb of Dracula #1",
+  "evidence": "infobox (Dracula (Marvel Comics)): The Tomb of Dracula #1; (April 1972); Suspense #7; (March 1951, retroactive)"
+ },
+ {
+  "id": "dragon-man",
+  "name": "Dragon Man",
+  "field": "source",
+  "record": 1965,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: D); verify debut, real name and teams directly"
  },
  {
   "id": "dum-dum-dugan",
@@ -166,6 +320,13 @@
   "field": "source",
   "record": 2013,
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: M); verify debut, real name and teams directly"
+ },
+ {
+  "id": "echo",
+  "name": "Echo",
+  "field": "mcuFirst",
+  "record": "Hawkeye",
+  "evidence": "earliest cast match: Echo: …== Cast and characters ==   * Alaqua Cox as Maya Lopez / Echo: A deaf Native American Choctaw and the former leader of the Tracksuit Mafia, a criminal…"
  },
  {
   "id": "ego-the-living-planet",
@@ -196,6 +357,27 @@
   "evidence": "no reliable infobox (resolved to Falcon (comics)); verify debut, real name and teams directly"
  },
  {
+  "id": "ghost-iron-man-villain",
+  "name": "Ghost (Iron Man villain)",
+  "field": "source",
+  "record": 1987,
+  "evidence": "no reliable infobox (resolved to Ghost (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "gladiator-kallark",
+  "name": "Gladiator (Kallark)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: Ragnarok: …ars since the film Avengers: Age of Ultron (2015), he has become a successful and popular gladiator on Sakaar and has suppressed the Banner side during those years. He is forming the vocabu… | Thor: Love and Thunder: …based on the Norse mythological deity of the same name. * Taika Waititi as Korg: A Kronan gladiator who befriended Thor. Waititi also voices the Kronan god Ninny of the Nonny. * Russell Cro…"
+ },
+ {
+  "id": "gladiator-melvin-potter",
+  "name": "Gladiator (Melvin Potter)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: Ragnarok: …ars since the film Avengers: Age of Ultron (2015), he has become a successful and popular gladiator on Sakaar and has suppressed the Banner side during those years. He is forming the vocabu… | Thor: Love and Thunder: …based on the Norse mythological deity of the same name. * Taika Waititi as Korg: A Kronan gladiator who befriended Thor. Waititi also voices the Kronan god Ninny of the Nonny. * Russell Cro…"
+ },
+ {
   "id": "green-goblin",
   "name": "Green Goblin",
   "field": "primaryTeam",
@@ -215,6 +397,20 @@
   "field": "mcuFirst",
   "record": "Hawkeye",
   "evidence": "earliest cast match: Thor: …amuel L. Jackson and Jeremy Renner have uncredited cameos as Nick Fury and Clint Barton / Hawkeye, respectively.…"
+ },
+ {
+  "id": "he-who-remains",
+  "name": "He Who Remains",
+  "field": "source",
+  "record": 2021,
+  "evidence": "no reliable infobox (resolved to Death (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "he-who-remains",
+  "name": "He Who Remains",
+  "field": "mcuFirst",
+  "record": "Loki season 1",
+  "evidence": "earliest cast match: Loki: …animated anthropomorphic artificial intelligence (AI) clock mascot of the TVA created by He Who Remains, who she is in love with. Strong voices Miss Minutes with a \"Southern drawl\", which Herro…"
  },
  {
   "id": "hela",
@@ -238,6 +434,27 @@
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: K); verify debut, real name and teams directly"
  },
  {
+  "id": "human-torch-jim-hammond",
+  "name": "Human Torch (Jim Hammond)",
+  "field": "source",
+  "record": 1939,
+  "evidence": "no reliable infobox (resolved to Human Torch (android)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "human-torch-johnny-storm",
+  "name": "Human Torch (Johnny Storm)",
+  "field": "source",
+  "record": 1961,
+  "evidence": "no reliable infobox (resolved to Human Torch); verify debut, real name and teams directly"
+ },
+ {
+  "id": "human-torch-johnny-storm",
+  "name": "Human Torch (Johnny Storm)",
+  "field": "mcuFirst",
+  "record": "Deadpool & Wolverine",
+  "evidence": "earliest cast match: Captain America: The First Avenger: …rder to aid the United States war effort. Evans, who previously worked with Marvel as the Human Torch in the Fantastic Four film series (2005-2007), said he declined the part three times befo…"
+ },
+ {
   "id": "hydro-man",
   "name": "Hydro-Man",
   "field": "mcu",
@@ -250,6 +467,13 @@
   "field": "debut",
   "record": "2012 Avengers (vol. 5) #1",
   "evidence": "infobox (Hyperion (character)): Zhib-Ran:; The Avengers #69; (October 1969); Mark Milton:; The Avengers #85; (February 1971); Squadron Supreme's Mark Milton:; Supreme Power #1; (October 2003); (Marcus Milton):; Avengers vol. 5 #1; (December 2012)"
+ },
+ {
+  "id": "iron-fist",
+  "name": "Iron Fist",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "WandaVision: …rold's wife who plays \"Dottie Jones\", a \"skeptical mom who rules the neighborhood with an iron fist and poison smile\"; and David Payton as John Collins who plays \"Herb\". Josh Stamberg also… | Daredevil: Born Again: …arlem's \"sheriff\" and has done work overseas for Mr. Charles * Finn Jones as Danny Rand / Iron Fist: A billionaire Buddhist monk, co-CEO of Rand Enterprises, and martial arts expert with th…"
  },
  {
   "id": "iron-man",
@@ -266,6 +490,41 @@
   "evidence": "no reliable infobox (resolved to Venom (character)); verify debut, real name and teams directly"
  },
  {
+  "id": "jessica-jones",
+  "name": "Jessica Jones",
+  "field": "mcuFirst",
+  "record": "Daredevil: Born Again season 2",
+  "evidence": "earliest cast match: Echo: …earance in the series would see him searching for a former ally, which was reported to be Jessica Jones. * Devery Jacobs as Bonnie: A \"resilient and strong willed\" person who is a child of deaf…"
+ },
+ {
+  "id": "jolt",
+  "name": "Jolt",
+  "field": "source",
+  "record": 1997,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: J); verify debut, real name and teams directly"
+ },
+ {
+  "id": "jolt",
+  "name": "Jolt",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Hawkeye: …r respective roles as Barton's children Cooper, Lila, and Nathaniel from prior MCU films; Jolt, a Golden Retriever, playing Lucky the Pizza Dog, Kate's adopted dog; Clayton English, Ad…"
+ },
+ {
+  "id": "kang-the-conqueror",
+  "name": "Kang the Conqueror",
+  "field": "mcuFirst",
+  "record": "Loki season 1",
+  "evidence": "earliest cast match: Loki: …e illusions than Loki. * Jonathan Majors as He Who Remains and Victor Timely: Variants of Kang the Conqueror. ** He Who Remains is a scientist from the 31st century who ended the first multiversal w…"
+ },
+ {
+  "id": "karma",
+  "name": "Karma",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: …-leave-it. Women are much more forgiving; men are not so forgiving. I know in my life, my karma is, 'If you don't like it, tough, move on.' And I move on. I'm a little like Odin myself\"…"
+ },
+ {
   "id": "karnilla",
   "name": "Karnilla",
   "field": "source",
@@ -278,6 +537,48 @@
   "field": "source",
   "record": 1984,
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: A); verify debut, real name and teams directly"
+ },
+ {
+  "id": "klaw",
+  "name": "Klaw",
+  "field": "mcu",
+  "record": "true (Avengers: Age of Ultron)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "korath-the-pursuer",
+  "name": "Korath the Pursuer",
+  "field": "primaryTeam",
+  "record": "kree-empire",
+  "evidence": "infobox alliances: Starforce"
+ },
+ {
+  "id": "korath-the-pursuer",
+  "name": "Korath the Pursuer",
+  "field": "mcu",
+  "record": "true (Guardians of the Galaxy)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "kraglin",
+  "name": "Kraglin",
+  "field": "primaryTeam",
+  "record": "guardians-of-the-galaxy",
+  "evidence": "infobox alliances: Ravagers"
+ },
+ {
+  "id": "kro",
+  "name": "Kro",
+  "field": "debut",
+  "record": "1976 The Eternals #1",
+  "evidence": "infobox (Kro (character)): As Rudolph Hendler/Pluto:; Red Raven Comics #1 (August 1940); As Kro:; The Eternals #1 (July 1976)"
+ },
+ {
+  "id": "kro",
+  "name": "Kro",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Eternals: …and staffs for the role, as well as taking ballet.    Additionally, Bill Skarsgård voices Kro, one of the Deviants, and David Kaye voices the Celestial Arishem. Harish Patel appears a…"
  },
  {
   "id": "laufey",
@@ -301,6 +602,20 @@
   "evidence": "earliest cast match: Iron Man 2: …cockatoo, paying for the teeth and bird with his own money. One of Rourke's tattoos read \"Loki\", the name of one of his dogs that had died prior to filming, which Feige requested be di…"
  },
  {
+  "id": "luke-cage",
+  "name": "Luke Cage",
+  "field": "mcuFirst",
+  "record": "Daredevil: Born Again season 2",
+  "evidence": "earliest cast match: Captain America: Civil War: …la's Dora Milaje. Alfre Woodard, who portrays Mariah Dillard in the MCU television series Luke Cage (2016–2018), briefly appears in the film as Miriam Sharpe, the mother of an American citi…"
+ },
+ {
+  "id": "magneto",
+  "name": "Magneto",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Black Panther: …for \"a while\", and likened Killmonger and T'Challa's relationship to the X-Men characters Magneto and Professor X. He added that Killmonger is strategic, thoughtful, patient, and \"trained…"
+ },
+ {
   "id": "magus",
   "name": "Magus",
   "field": "debut",
@@ -308,11 +623,60 @@
   "evidence": "infobox (Adam Warlock): As Him:; Fantastic Four #66–67 (September–October 1967); As Adam Warlock:; Marvel Premiere #1 (April 1972)"
  },
  {
+  "id": "makkari",
+  "name": "Makkari",
+  "field": "debut",
+  "record": "1976 The Eternals #5",
+  "evidence": "infobox (Makkari (character)): As Mercury:; Red Raven Comics #1; (August 1940); As Hurricane:; Captain America Comics #1; (March 1941); As Makkari:; The Eternals #5; (November 1976)"
+ },
+ {
+  "id": "maximus",
+  "name": "Maximus",
+  "field": "primaryTeam",
+  "record": "inhumans",
+  "evidence": "infobox alliances: Cabal"
+ },
+ {
+  "id": "maximus",
+  "name": "Maximus",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: Love and Thunder: …h accent, with Waititi suggesting the British accent be similar to the one Crowe used for Maximus Decimus Meridius in the film Gladiator (2000). Waititi finally concluded that Crowe was c…"
+ },
+ {
+  "id": "mbaku",
+  "name": "M'Baku",
+  "field": "source",
+  "record": 1969,
+  "evidence": "no reliable infobox (resolved to Man-Ape); verify debut, real name and teams directly"
+ },
+ {
+  "id": "mephisto",
+  "name": "Mephisto",
+  "field": "mcuFirst",
+  "record": "Ironheart",
+  "evidence": "earliest cast match: Avengers: Infinity War: …d providing the rest on set. Ebony Maw's look was inspired by the Marvel Comics character Mephisto, who appeared in the Infinity Gauntlet storyline.  Ross Marquand voices Johann Schmidt /…"
+ },
+ {
   "id": "mister-negative",
   "name": "Mister Negative",
   "field": "realName",
   "record": "Martin Li",
   "evidence": "infobox alter ego: | alliances = Inner Demons"
+ },
+ {
+  "id": "mister-sinister",
+  "name": "Mister Sinister",
+  "field": "debut",
+  "record": "1987 The Uncanny X-Men #213",
+  "evidence": "infobox (Mister Sinister): * First mentioned: The Uncanny X-Men #212 (1986); First seen in silhouette: The Uncanny X-Men #213 (1987); First full appearance: The Uncanny X-Men #221 (1987)"
+ },
+ {
+  "id": "mobius-m-mobius",
+  "name": "Mobius M. Mobius",
+  "field": "mcuFirst",
+  "record": "Loki season 1",
+  "evidence": "earliest cast match: Loki: …nd Renslayer to chameleons, and said Renslayer was always \"trying to dance the line\" with Mobius M. Mobius of being both his superior and his friend. Herron added that Mbatha-Raw brought a warmth…"
  },
  {
   "id": "molten-man",
@@ -327,6 +691,83 @@
   "field": "source",
   "record": 2016,
   "evidence": "no reliable infobox (resolved to Squirrel Girl); verify debut, real name and teams directly"
+ },
+ {
+  "id": "moonstone",
+  "name": "Moonstone",
+  "field": "source",
+  "record": 1975,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: M); verify debut, real name and teams directly"
+ },
+ {
+  "id": "muse",
+  "name": "Muse",
+  "field": "mcuFirst",
+  "record": "Daredevil: Born Again season 1",
+  "evidence": "earliest cast match: Daredevil: Born Again: …his size to be more specific and more detailed.'}} * Margarita Levieva as Heather Glenn / Muse: A therapist and Murdock's new love interest,{{rp|3}} who becomes Fisk's Commissioner of…"
+ },
+ {
+  "id": "namor",
+  "name": "Namor",
+  "field": "realName",
+  "record": "Namor McKenzie",
+  "evidence": "infobox alter ego: | affiliations ="
+ },
+ {
+  "id": "namor",
+  "name": "Namor",
+  "field": "primaryTeam",
+  "record": "atlantis",
+  "evidence": "infobox alliances: Avengers; All-Winners Squad; The Cabal; Dark X-Men; Defenders; Defenders of the Deep; Deep Six; Fantastic Four; Heroes for Hire/Oracle, Inc.; Illuminati; Invaders; The Order; Phoenix Five; X-Men }}"
+ },
+ {
+  "id": "namora",
+  "name": "Namora",
+  "field": "primaryTeam",
+  "record": "atlantis",
+  "evidence": "infobox alliances: Monster Hunters; Agents of Atlas; Renegades; \"Avengers\" (1959)"
+ },
+ {
+  "id": "night-nurse",
+  "name": "Night Nurse",
+  "field": "source",
+  "record": 1961,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: C); verify debut, real name and teams directly"
+ },
+ {
+  "id": "night-nurse",
+  "name": "Night Nurse",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Doctor Strange: …the more prominent, but more fantastical character Clea. Palmer is also known as the hero Night Nurse in the comics, a storyline that does not play into the film, but that Feige hinted could…"
+ },
+ {
+  "id": "nova-frankie-raye",
+  "name": "Nova (Frankie Raye)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy: …versity in the role of the superhero\". * John C. Reilly as Rhomann Dey: A corpsman in the Nova Corps, the Nova Empire's military and police force. * Glenn Close as Irani Rael: The lead… | Spider-Man: Homecoming: …interest. Director Jon Watts wanted him to be a \"regular guy\", closer to John C. Reilly's Nova Corpsman Rhomann Dey from the Marvel Cinematic Universe (MCU) film Guardians of the Galax… | Guardians of the Galaxy Vol. 3: …rcery.  Asim Chaudhry voices Teefs, an anthropomorphic walrus; Mikaela Hoover (who played Nova Prime's assistant in the first film) voices Floor, an anthropomorphic rabbit; Daniela Mel… | Deadpool & Wolverine: …nt with glam rock hair, one hand, and a black-and-red costume. * Emma Corrin as Cassandra Nova: A mutant with telekinetic and telepathic powers who is the twin sister of Charles Xavier…"
+ },
+ {
+  "id": "nova-richard-rider",
+  "name": "Nova (Richard Rider)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy: …versity in the role of the superhero\". * John C. Reilly as Rhomann Dey: A corpsman in the Nova Corps, the Nova Empire's military and police force. * Glenn Close as Irani Rael: The lead… | Spider-Man: Homecoming: …interest. Director Jon Watts wanted him to be a \"regular guy\", closer to John C. Reilly's Nova Corpsman Rhomann Dey from the Marvel Cinematic Universe (MCU) film Guardians of the Galax… | Guardians of the Galaxy Vol. 3: …rcery.  Asim Chaudhry voices Teefs, an anthropomorphic walrus; Mikaela Hoover (who played Nova Prime's assistant in the first film) voices Floor, an anthropomorphic rabbit; Daniela Mel… | Deadpool & Wolverine: …nt with glam rock hair, one hand, and a black-and-red costume. * Emma Corrin as Cassandra Nova: A mutant with telekinetic and telepathic powers who is the twin sister of Charles Xavier…"
+ },
+ {
+  "id": "nova-sam-alexander",
+  "name": "Nova (Sam Alexander)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy: …versity in the role of the superhero\". * John C. Reilly as Rhomann Dey: A corpsman in the Nova Corps, the Nova Empire's military and police force. * Glenn Close as Irani Rael: The lead… | Spider-Man: Homecoming: …interest. Director Jon Watts wanted him to be a \"regular guy\", closer to John C. Reilly's Nova Corpsman Rhomann Dey from the Marvel Cinematic Universe (MCU) film Guardians of the Galax… | Guardians of the Galaxy Vol. 3: …rcery.  Asim Chaudhry voices Teefs, an anthropomorphic walrus; Mikaela Hoover (who played Nova Prime's assistant in the first film) voices Floor, an anthropomorphic rabbit; Daniela Mel… | Deadpool & Wolverine: …nt with glam rock hair, one hand, and a black-and-red costume. * Emma Corrin as Cassandra Nova: A mutant with telekinetic and telepathic powers who is the twin sister of Charles Xavier…"
+ },
+ {
+  "id": "onslaught",
+  "name": "Onslaught",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Hawkeye: …own in the film Avengers: Endgame (2019). Renner said that meeting Kate Bishop brings \"an onslaught of problems\" into Barton's life, as Barton does not understand her obsession with him. Di…"
  },
  {
   "id": "patriot-eli-bradley",
@@ -355,6 +796,13 @@
   "field": "mcuFirst",
   "record": "Iron Man",
   "evidence": "earliest cast match: Iron Man 2: …the role. Six-year-old Davin Ransom portrays Tony Stark as a child. * Gwyneth Paltrow as Pepper Potts: Stark's closest friend, budding love interest, and business partner; Pepper is promoted…"
+ },
+ {
+  "id": "phastos",
+  "name": "Phastos",
+  "field": "primaryTeam",
+  "record": "eternals",
+  "evidence": "infobox alliances: |aliases = Hephaestus; Vulcan; Ceasefire; Phillip Stoss"
  },
  {
   "id": "phil-coulson",
@@ -392,6 +840,41 @@
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: M); verify debut, real name and teams directly"
  },
  {
+  "id": "punisher",
+  "name": "Punisher",
+  "field": "mcuFirst",
+  "record": "Daredevil: Born Again season 1",
+  "evidence": "earliest cast match: The Incredible Hulk: …ut Marvel and Norton were initially reluctant to cast him. Before he was cast in the film Punisher: War Zone (2008), Ray Stevenson was in discussions for the role. Roth trained with gun an…"
+ },
+ {
+  "id": "quasar",
+  "name": "Quasar",
+  "field": "source",
+  "record": 1979,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: P); verify debut, real name and teams directly"
+ },
+ {
+  "id": "ravonna-renslayer",
+  "name": "Ravonna Renslayer",
+  "field": "primaryTeam",
+  "record": "time-variance-authority",
+  "evidence": "infobox alliances: The Council of Kangs; Anachronauts"
+ },
+ {
+  "id": "ravonna-renslayer",
+  "name": "Ravonna Renslayer",
+  "field": "mcuFirst",
+  "record": "Loki season 1",
+  "evidence": "earliest cast match: Loki: …shapeshifting, which plays into the series' exploration of identity. * Gugu Mbatha-Raw as Ravonna Renslayer: The former Time Variance Authority (TVA) Hunter A-23 who rose from the ranks to become a…"
+ },
+ {
+  "id": "rocket-raccoon",
+  "name": "Rocket Raccoon",
+  "field": "mcu",
+  "record": "true (Guardians of the Galaxy)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
   "id": "rocket-racer",
   "name": "Rocket Racer",
   "field": "source",
@@ -406,11 +889,32 @@
   "evidence": "Guardians of the Galaxy: …as a kid, and now he goes around space, making out with hot alien girls and just being a rogue and a bit of a jerk, and through teaming up with these guys, finds a higher purpose for h… | The Falcon and the Winter Soldier: …the series, and called the reveal \"very fitting [since] she was hurt and scorned and went rogue\". Spellman said the writers chose not to \"be fake\" by simply saying she had been in hidin… | Doctor Strange in the Multiverse of Madness: …the Darkhold. * Elizabeth Olsen as Wanda Maximoff / Scarlet Witch: A former Avenger gone rogue who can harness chaos magic, engage in telepathy and telekinesis, and alter reality. The…"
  },
  {
+  "id": "sauron",
+  "name": "Sauron",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Doctor Strange: …ls who live in other dimensions\". Derrickson compared this dynamic to that of Saruman and Sauron in The Lord of the Rings, giving the film a \"huge and fantastical\" villain like Sauron, b…"
+ },
+ {
   "id": "sentry",
   "name": "Sentry",
   "field": "mcuFirst",
   "record": "Thunderbolts*",
   "evidence": "earliest cast match: Thor: …uit that flexes with me.\" * Idris Elba as Heimdall: The all-seeing, all-hearing Asgardian sentry of the bifröst bridge, based on the mythological deity of the same name. Elba said Branag…"
+ },
+ {
+  "id": "sersi",
+  "name": "Sersi",
+  "field": "debut",
+  "record": "1976 The Eternals #3",
+  "evidence": "infobox (Sersi): As Circe (pre-Marvel):; Venus #9 (May 1950); As Circe:; Strange Tales #109 (June 1963); As Sersi:; The Eternals #3 (September 1976)"
+ },
+ {
+  "id": "shang-chi",
+  "name": "Shang-Chi",
+  "field": "mcuFirst",
+  "record": "Shang-Chi and the Legend of the Ten Rings",
+  "evidence": "earliest cast match: Black Widow: …ectively, while Jade Xu portrays another Black Widow who was later identified as Helen in Shang-Chi and the Legend of the Ten Rings (2021). Olivier Richters portrays Ursa Major, a fellow in…"
  },
  {
   "id": "she-hulk",
@@ -432,6 +936,13 @@
   "field": "mcu",
   "record": "true (Spider-Man: Homecoming)",
   "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "sin",
+  "name": "Sin",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy: …has a very sick and twisted view of what morality is; strength is virtue and weakness is sin and that is what he lives by, and I think he is very scary because of his beliefs, which… | Black Panther: Wakanda Forever: …the meaning of Namor's name from \"Avenging Son\" in Atlantean, as in the comics, to \"niño sin amor\" (Spanish for \"child without love\"), the latter of which is intended to reflect Namo…"
  },
  {
   "id": "speed",
@@ -504,11 +1015,25 @@
   "evidence": "Captain America: Civil War: …can do is figure out ways to undermine them. He's emotionally driven and he finds a weak spot.\" Brühl, who was cast due to his German accent, did not feel the role was a stereotype, s…"
  },
  {
+  "id": "sprite",
+  "name": "Sprite",
+  "field": "source",
+  "record": 1977,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: S); verify debut, real name and teams directly"
+ },
+ {
   "id": "stature",
   "name": "Stature",
   "field": "primaryTeam",
   "record": "young-avengers",
   "evidence": "infobox alliances: {{Unbulleted list"
+ },
+ {
+  "id": "stick",
+  "name": "Stick",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy Vol. 2: …raglin has a little bit of a crisis of conscience and has to decide whether he's going to stick with Yondu or join forces with the growing faction of mutineers.\"  Additionally, reprisin… | Black Panther: …Fela Kuti songs; talked to a Yoruba Babalawo; trained in Dambe, Capoeira Angola, and Zulu stick fighting; and took a DNA test to better understand his African ancestry. He signed a five…"
  },
  {
   "id": "storm",
@@ -518,11 +1043,32 @@
   "evidence": "Deadpool & Wolverine: …/ Blade from New Line Cinema's Blade film trilogy (1998–2004); and Chris Evans as Johnny Storm / Human Torch—a member of the Fantastic Four who can engulf himself in and control fire,… | The Fantastic Four: First Steps: …e to having a long-standing relationship working together in film. * Vanessa Kirby as Sue Storm / Invisible Woman: Reed's pregnant wife, Johnny's older sister, and a member of the Fanta…"
  },
  {
+  "id": "super-skrull",
+  "name": "Super-Skrull",
+  "field": "primaryTeam",
+  "record": "skrull-empire",
+  "evidence": "infobox alliances: Secret Defenders ; United Front"
+ },
+ {
   "id": "supergiant",
   "name": "Supergiant",
   "field": "source",
   "record": 2013,
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: S); verify debut, real name and teams directly"
+ },
+ {
+  "id": "swordsman",
+  "name": "Swordsman",
+  "field": "mcuFirst",
+  "record": "Hawkeye",
+  "evidence": "earliest cast match: Captain Marvel: …ion of the script had the character dying in the film. * Djimon Hounsou as Korath: A Kree swordsman and second-in-command of Starforce. Hounsou explained that Korath was \"at his infancy\" in…"
+ },
+ {
+  "id": "talos",
+  "name": "Talos",
+  "field": "primaryTeam",
+  "record": "skrull-empire",
+  "evidence": "infobox alliances: United Front"
  },
  {
   "id": "tarantula",
@@ -551,6 +1097,20 @@
   "field": "primaryTeam",
   "record": "asgard",
   "evidence": "infobox alliances: Worthy"
+ },
+ {
+  "id": "thena",
+  "name": "Thena",
+  "field": "debut",
+  "record": "1976 The Eternals #5",
+  "evidence": "infobox (Thena): As Minerva:; Red Raven Comics #1; (August 1940); As Thena:; The Eternals #5; (November 1976); As Corona:; New Eternals: Apocalypse Now #1; (February 2000)"
+ },
+ {
+  "id": "thing",
+  "name": "Thing",
+  "field": "mcuFirst",
+  "record": "The Fantastic Four: First Steps",
+  "evidence": "earliest cast match: Iron Man: …u're supposed to buy into all his 'Let's go do some good!' That Eliot Ness-in-a-cape-type thing. What was really important to me was to not have him change so much that he's unrecogniza…"
  },
  {
   "id": "thor",
@@ -588,6 +1148,27 @@
   "evidence": "earliest cast match: Ant-Man: …'s lost control of his company. He lives in sort of a time warp. He was always a bit of a tinkerer. He's got a lab, plus a lot of other stuff, in his basement that we find out about. He's…"
  },
  {
+  "id": "titania",
+  "name": "Titania",
+  "field": "mcuFirst",
+  "record": "She-Hulk: Attorney at Law",
+  "evidence": "earliest cast match: Ms. Marvel: …rs / Captain Marvel in the series finale's mid-credits scene. A photo of Jameela Jamil as Titania, who stars as the character in the Disney+ series She-Hulk: Attorney at Law (2022), appea…"
+ },
+ {
+  "id": "toro",
+  "name": "Toro",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: The Dark World: …ys an Asgardian nurse. Chris O'Dowd plays Richard, a suitor of Jane Foster's. Benicio del Toro, who plays Taneleer Tivan / The Collector in Guardians of the Galaxy (2014), appears in a… | Guardians of the Galaxy: …Con. From top to bottom: Pratt, Saldaña, Bautista, Pace, Rooker, Gillan, Hounsou, and del Toro (scrollable image)}}   * Chris Pratt as Peter Quill / Star-Lord: The half-human, half-ali… | Thor: Ragnarok: …lum's personality by concealing his appearance. Grandmaster is the brother of Benicio del Toro's Taneleer Tivan / Collector from the film Guardians of the Galaxy (2014), and producer K… | Avengers: Infinity War: …really see how that can add to the something-worth-fighting-for of it all\". * Benicio del Toro as Taneleer Tivan / The Collector: One of the Elders of the Universe who is an obsessive…"
+ },
+ {
+  "id": "typhoid-mary",
+  "name": "Typhoid Mary",
+  "field": "primaryTeam",
+  "record": "the-hand",
+  "evidence": "infobox alliances: Hand; The Initiative; Shadow Initiative; Woman's Action Movement; Sisterhood of Mutants"
+ },
+ {
   "id": "valkyrie-brunnhilde",
   "name": "Valkyrie (Brunnhilde)",
   "field": "source",
@@ -600,6 +1181,13 @@
   "field": "realName",
   "record": "Eddie Brock",
   "evidence": "infobox alter ego: Various hosts"
+ },
+ {
+  "id": "venus",
+  "name": "Venus",
+  "field": "primaryTeam",
+  "record": "olympus",
+  "evidence": "infobox alliances: |aliases = Venus"
  },
  {
   "id": "viper-ophelia-sarkissian",
@@ -630,6 +1218,34 @@
   "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: H); verify debut, real name and teams directly"
  },
  {
+  "id": "warlock-technarch",
+  "name": "Warlock (Technarch)",
+  "field": "source",
+  "record": 1984,
+  "evidence": "no reliable infobox (resolved to Warlock (New Mutants)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "warlock-technarch",
+  "name": "Warlock (Technarch)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy Vol. 3: …lso voiced adolescent Rocket while Noah Raskin voiced baby Rocket. * Will Poulter as Adam Warlock: A powerful artificial being created by the Sovereign to destroy the Guardians. Given War…"
+ },
+ {
+  "id": "white-tiger-hector-ayala",
+  "name": "White Tiger (Hector Ayala)",
+  "field": "source",
+  "record": 1975,
+  "evidence": "no reliable infobox (resolved to White Tiger (comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "white-tiger-hector-ayala",
+  "name": "White Tiger (Hector Ayala)",
+  "field": "mcuFirst",
+  "record": "Daredevil: Born Again season 1",
+  "evidence": "earliest cast match: Daredevil: Born Again: …evil, was brought back after the creative overhaul of Born Again. * Kamar de los Reyes as Hector Ayala / White Tiger: A vigilante represented by Murdock whose superhuman abilities come from th…"
+ },
+ {
   "id": "wiccan",
   "name": "Wiccan",
   "field": "mcu",
@@ -642,5 +1258,19 @@
   "field": "mcuFirst",
   "record": "Captain America: The First Avenger",
   "evidence": "earliest cast match: Captain America: The Winter Soldier: …stion what they want and what is their true identity.\" * Sebastian Stan as Bucky Barnes / Winter Soldier: Steve Rogers' childhood best friend who has re-emerged as an enhanced brainwashed assass…"
+ },
+ {
+  "id": "wizard",
+  "name": "Wizard",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Ant-Man: …rn and raised in a town even further out than Siberia and he was just an amazing computer wizard who fell in with the wrong people. But he was obsessed with two things: Saturday Night Fe… | Thor: Ragnarok: …s, \"he's gone from this elder statesmen, the gatekeeper to Asgard, to this badass warrior-wizard character who lives in the hills and kicks a lot of ass throughout the entire film.\" * Je…"
+ },
+ {
+  "id": "yon-rogg",
+  "name": "Yon-Rogg",
+  "field": "primaryTeam",
+  "record": "kree-empire",
+  "evidence": "infobox alliances: |aliases = Colonel Yon-Rogg; Magnitron"
  }
 ]

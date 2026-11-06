@@ -1,0 +1,1192 @@
+{
+ "characters": [
+  {
+   "id": "kang-the-conqueror",
+   "name": "Kang the Conqueror",
+   "aliases": [
+    "Nathaniel Richards",
+    "Rama-Tut",
+    "Scarlet Centurion",
+    "Iron Lad",
+    "Victor Timely"
+   ],
+   "realName": "Nathaniel Richards",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Council of Kangs"
+   ],
+   "debutYear": 1963,
+   "debutIssue": "Fantastic Four #19",
+   "debutDate": "1963-10",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Loki season 1",
+   "difficulty": 3,
+   "answerOk": false,
+   "caseNote": "Subject is a conqueror from the 31st century who travels through time with advanced technology. Has appeared under many names and in many eras. Agents are advised that he has already met them, or will.",
+   "archetype": "armored",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+   ],
+   "notes": "Infobox debut is Fantastic Four #19 (as Rama-Tut). MCU first: He Who Remains (a Kang variant) in Loki season 1 versus Quantumania as Kang proper."
+  },
+  {
+   "id": "he-who-remains",
+   "name": "He Who Remains",
+   "aliases": [],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 2021,
+   "debutIssue": "Loki (season 1, episode 6)",
+   "debutDate": "2021-07",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Loki season 1",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a 31st-century scientist who ended a multiversal war and founded the Time Variance Authority. Spent his remaining years at the end of time. Agents are advised not to touch the lever.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kang_the_Conqueror",
+    "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+   ],
+   "notes": "Character originates in the MCU as a Kang variant; the comics character 'Death' page resolved by infobox was wrong and ignored. Debut is the Loki finale (July 14, 2021). Origin could also be trained."
+  },
+  {
+   "id": "ravonna-renslayer",
+   "name": "Ravonna Renslayer",
+   "aliases": [
+    "Ravonna",
+    "Rebecca Tourminet",
+    "Terminatrix",
+    "Temptress",
+    "Hunter A-23"
+   ],
+   "realName": "Ravonna Renslayer",
+   "primaryTeam": "time-variance-authority",
+   "teams": [
+    "time-variance-authority"
+   ],
+   "otherTeams": [
+    "Council of Kangs",
+    "Anachronauts"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "The Avengers #23",
+   "debutDate": "1965-12",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Loki season 1",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a Time Variance Authority officer who has served, and later opposed, powerful time-traveling conquerors. Comics history includes a spell as Terminatrix. Agents are advised that her loyalties are subject to change without notice.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ravonna"
+   ],
+   "notes": "Alignment (villain vs antihero) and primary team (TVA is MCU-derived) are contested."
+  },
+  {
+   "id": "mobius-m-mobius",
+   "name": "Mobius M. Mobius",
+   "aliases": [
+    "Mr. Tesseract",
+    "Mr. Ouroboros",
+    "Mr. Paradox"
+   ],
+   "realName": "",
+   "primaryTeam": "time-variance-authority",
+   "teams": [
+    "time-variance-authority"
+   ],
+   "otherTeams": [],
+   "debutYear": 1990,
+   "debutIssue": "Fantastic Four #346",
+   "debutDate": "1990-11",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Loki season 1",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a Time Variance Authority analyst who keeps the timeline tidy. Prefers jet skis and has a loyalty to his office. Agents are advised that he has paperwork for them.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mobius_M._Mobius"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "count-nefaria",
+   "name": "Count Nefaria",
+   "aliases": [
+    "Luchino Nefaria",
+    "Dream Master",
+    "Dream Maker"
+   ],
+   "realName": "Luchino Nefaria",
+   "primaryTeam": "maggia",
+   "teams": [
+    "maggia"
+   ],
+   "otherTeams": [
+    "Lethal Legion",
+    "Legion of the Unliving",
+    "Ani-Men"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "The Avengers #13",
+   "debutDate": "1965-02",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an Italian nobleman and crime boss of the Maggia. Later gained superhuman power through technology and has fought the Avengers repeatedly. Agents are advised to decline dinner invitations.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Count_Nefaria"
+   ],
+   "notes": "Origin per infobox 'Human mutate' (powers from experiment/technology)."
+  },
+  {
+   "id": "graviton",
+   "name": "Graviton",
+   "aliases": [
+    "Franklin Hall",
+    "Master of the Fundamental Force"
+   ],
+   "realName": "Franklin Hall",
+   "primaryTeam": "none",
+   "teams": [
+    "aim",
+    "masters-of-evil"
+   ],
+   "otherTeams": [
+    "Army of Evil"
+   ],
+   "debutYear": 1977,
+   "debutIssue": "The Avengers #158",
+   "debutDate": "1977-04",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a physicist who gained control of gravity after a laboratory accident. Has threatened the Avengers on multiple planetary scales. Agents are advised to remain seated.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Graviton_(character)"
+   ],
+   "notes": "No clear primary team."
+  },
+  {
+   "id": "whirlwind",
+   "name": "Whirlwind",
+   "aliases": [
+    "Human Top",
+    "David Cannon"
+   ],
+   "realName": "David Cannon",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil",
+    "thunderbolts",
+    "defenders"
+   ],
+   "otherTeams": [
+    "Assassins Guild",
+    "Lethal Legion"
+   ],
+   "debutYear": 1963,
+   "debutIssue": "Tales to Astonish #50",
+   "debutDate": "1963-12",
+   "alignment": "villain",
+   "origin": "mutant",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a mutant who spins at high speed to generate winds and cyclonic force. Has fought Giant-Man, the Avengers and Spider-Man. Agents are advised to keep a handhold available.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Whirlwind_(comics)"
+   ],
+   "notes": "Origin: infobox says human mutant (mutation and later alteration). Primary team contested."
+  },
+  {
+   "id": "grim-reaper",
+   "name": "Grim Reaper",
+   "aliases": [
+    "Eric Williams",
+    "The Reaper",
+    "Master of Death"
+   ],
+   "realName": "Eric Williams",
+   "primaryTeam": "none",
+   "teams": [
+    "sinister-six",
+    "hydra",
+    "maggia"
+   ],
+   "otherTeams": [
+    "Lethal Legion",
+    "Legion of the Unliving",
+    "Horsemen of Death"
+   ],
+   "debutYear": 1968,
+   "debutIssue": "The Avengers #52",
+   "debutDate": "1968-05",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the brother of Wonder Man and wields a scythe that fires energy blasts. Blames the Avengers for a death in the family. Agents are advised against jokes about the family reunion.",
+   "archetype": "hooded",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grim_Reaper_(Marvel_Comics)"
+   ],
+   "notes": "Infobox lists 'human mutate / cyborg' (after resurrection); powers come mainly from scythe, so tech chosen."
+  },
+  {
+   "id": "egghead",
+   "name": "Egghead",
+   "aliases": [
+    "Elihas Starr"
+   ],
+   "realName": "Elihas Starr",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil"
+   ],
+   "otherTeams": [
+    "Emissaries of Evil",
+    "Intelligencia"
+   ],
+   "debutYear": 1962,
+   "debutIssue": "Tales to Astonish #38",
+   "debutDate": "1962-12",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a scientist who has repeatedly built robotic weapons against Ant-Man and the Avengers. Frequently foiled by his own lab assistants. Agents are advised not to give him access to the budget.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "moonstone",
+   "name": "Moonstone",
+   "aliases": [
+    "Karla Sofen",
+    "Dr. Karla Sofen",
+    "Meteorite"
+   ],
+   "realName": "Karla Sofen",
+   "primaryTeam": "thunderbolts",
+   "teams": [
+    "thunderbolts",
+    "masters-of-evil",
+    "dark-avengers"
+   ],
+   "otherTeams": [
+    "The Corporation"
+   ],
+   "debutYear": 1975,
+   "debutIssue": "Captain America #192",
+   "debutDate": "1975-12",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a psychiatrist who gained powers from an alien gravity stone. Has served with the Masters of Evil, the Thunderbolts and the Dark Avengers. Agents are advised not to accept therapy from her.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karla_Sofen"
+   ],
+   "notes": "Unreliable infobox (list page, Mad Merlin/Journey into Mystery #96) was ignored; Karla Sofen article used. Debut is Karla Sofen (Captain America #192); Moonstone identity first appears Incredible Hulk #228 (1978-10). Alignment villain vs antihero and origin (tech vs cosmic) contested. Other characters have used the Moonstone name."
+  },
+  {
+   "id": "songbird",
+   "name": "Songbird",
+   "aliases": [
+    "Melissa Gold",
+    "Screaming Mimi",
+    "Mimi Schwartz"
+   ],
+   "realName": "Melissa Gold",
+   "primaryTeam": "thunderbolts",
+   "teams": [
+    "thunderbolts",
+    "masters-of-evil",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Grapplers",
+    "Lethal Legion"
+   ],
+   "debutYear": 1979,
+   "debutIssue": "Marvel Two-in-One #54",
+   "debutDate": "1979-08",
+   "alignment": "antihero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a former criminal who uses sonic powers. Has served on the Thunderbolts and the Avengers. Agents are advised to bring ear protection.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Songbird_(character)"
+   ],
+   "notes": "Alignment hero vs antihero contested; origin per infobox."
+  },
+  {
+   "id": "atlas-erik-josten",
+   "name": "Atlas (Erik Josten)",
+   "aliases": [
+    "Erik Josten",
+    "Power Man",
+    "Smuggler",
+    "Goliath"
+   ],
+   "realName": "Erik Josten",
+   "primaryTeam": "thunderbolts",
+   "teams": [
+    "thunderbolts",
+    "masters-of-evil",
+    "defenders"
+   ],
+   "otherTeams": [
+    "Lethal Legion",
+    "Emissaries of Evil",
+    "Revengers"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "The Avengers #21",
+   "debutDate": "1965-10",
+   "alignment": "antihero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a former mercenary who has used several identities, including Power Man and Goliath. Joined the Thunderbolts and sought redemption. Agents are advised to check the name tag.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Erik_Josten"
+   ],
+   "notes": "Alignment contested (villain turned hero)."
+  },
+  {
+   "id": "jolt",
+   "name": "Jolt",
+   "aliases": [
+    "Hallie Takahama",
+    "Helen Takahama"
+   ],
+   "realName": "Helen Takahama",
+   "primaryTeam": "thunderbolts",
+   "teams": [
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "Young Allies"
+   ],
+   "debutYear": 1997,
+   "debutIssue": "Thunderbolts #1",
+   "debutDate": "1997-04",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a teenager who gained speed and energy powers from experiments by Arnim Zola. Served on the Thunderbolts and the Young Allies. Agents are advised that she is quick to volunteer.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jolt_(comics)"
+   ],
+   "notes": "Infobox from the shared list page was for Jetstream (Hellions) and was ignored. Debut is Thunderbolts #1 (cameo) per the Wikipedia infobox; costumed debut is #4."
+  },
+  {
+   "id": "sin",
+   "name": "Sin",
+   "aliases": [
+    "Mother Superior",
+    "Sinthea Schmidt",
+    "Skadi"
+   ],
+   "realName": "Sinthea Schmidt",
+   "primaryTeam": "hydra",
+   "teams": [
+    "hydra"
+   ],
+   "otherTeams": [
+    "Serpent Squad",
+    "The Worthy",
+    "Sisters of Sin"
+   ],
+   "debutYear": 1984,
+   "debutIssue": "Captain America #290",
+   "debutDate": "1984-02",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the daughter of the Red Skull and a leader of the Serpent Squad. Has acted as head of Hydra. Agents are advised that family gatherings are not safe.",
+   "archetype": "hooded",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sin_(Marvel_Comics)"
+   ],
+   "notes": "MCU snippets were unrelated uses of the word sin. Origin per infobox."
+  },
+  {
+   "id": "living-laser",
+   "name": "Living Laser",
+   "aliases": [
+    "Arthur Parks"
+   ],
+   "realName": "Arthur Parks",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Lethal Legion",
+    "Legion Accursed",
+    "Mandarin's Minions"
+   ],
+   "debutYear": 1966,
+   "debutIssue": "The Avengers #34",
+   "debutDate": "1966-11",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a physicist who converted himself into living laser light. Has fought the Avengers and Iron Man. Agents are advised to avoid mirrors.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Living_Laser"
+   ],
+   "notes": "Origin could also be tech (self-built device)."
+  },
+  {
+   "id": "ghost-iron-man-villain",
+   "name": "Ghost (Iron Man villain)",
+   "aliases": [
+    "Phantasm",
+    "Casper"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [
+    "thunderbolts",
+    "aim"
+   ],
+   "otherTeams": [
+    "Roxxon Energy Corporation"
+   ],
+   "debutYear": 1987,
+   "debutIssue": "Iron Man #219",
+   "debutDate": "1987-06",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Ant-Man and the Wasp",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an anonymous corporate saboteur who phases through matter using a suit. Real name is unknown. Agents are advised not to try locks.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
+   ],
+   "notes": "Infobox from list page ignored in favor of the Ghost article. MCU Ghost (Ava Starr) is a gender-flipped reimagining of this character, so mcu is true but contested. Also in Thunderbolts*."
+  },
+  {
+   "id": "radioactive-man",
+   "name": "Radioactive Man",
+   "aliases": [
+    "Chen Lu",
+    "R-Man"
+   ],
+   "realName": "Chen Lu",
+   "primaryTeam": "none",
+   "teams": [
+    "masters-of-evil",
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "People's Defense Force"
+   ],
+   "debutYear": 1963,
+   "debutIssue": "Journey into Mystery #93",
+   "debutDate": "1963-06",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a Chinese nuclear physicist who gained radiation powers. Has served as a villain and a Thunderbolt. Agents are advised to bring lead-lined clothing.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Radioactive_Man_(comics)"
+   ],
+   "notes": "Infobox lists two bearers; Chen Lu is the original."
+  },
+  {
+   "id": "swordsman",
+   "name": "Swordsman",
+   "aliases": [
+    "Jacques Duquesne",
+    "Jack Duquesne"
+   ],
+   "realName": "Jacques Duquesne",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "masters-of-evil"
+   ],
+   "otherTeams": [
+    "Lethal Legion",
+    "Circus of Crime",
+    "Legion of the Unliving"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "The Avengers #19",
+   "debutDate": "1965-08",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Hawkeye",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a swordsman and former circus performer who infiltrated the Avengers. Later died fighting for them. Agents are advised not to challenge him to duels.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Swordsman_(character)"
+   ],
+   "notes": "Captain Marvel snippet was an unrelated common noun. Jack Duquesne appears in Hawkeye (2021) and Daredevil: Born Again; Hawkeye was not in the match file and is based on cast knowledge, verify. Alignment contested."
+  },
+  {
+   "id": "super-adaptoid",
+   "name": "Super-Adaptoid",
+   "aliases": [
+    "Adaptoid",
+    "Supreme Adaptoid"
+   ],
+   "realName": "",
+   "primaryTeam": "aim",
+   "teams": [
+    "aim"
+   ],
+   "otherTeams": [
+    "A.I. Army",
+    "Heavy Metal"
+   ],
+   "debutYear": 1966,
+   "debutIssue": "Tales of Suspense #82",
+   "debutDate": "1966-10",
+   "alignment": "villain",
+   "origin": "synthetic",
+   "gender": "other",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is an android capable of copying the powers of heroes it touches. Created by A.I.M. Agents are advised not to shake hands with it.",
+   "archetype": "synthetic",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Super-Adaptoid"
+   ],
+   "notes": "Infobox debut (as Adaptoid) used."
+  },
+  {
+   "id": "titania",
+   "name": "Titania",
+   "aliases": [
+    "Mary MacPherran",
+    "Thunder Girl",
+    "Skirn"
+   ],
+   "realName": "Mary MacPherran",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil",
+    "frightful-four"
+   ],
+   "otherTeams": [
+    "Femizons",
+    "The Worthy"
+   ],
+   "debutYear": 1984,
+   "debutIssue": "Secret Wars #3",
+   "debutDate": "1984-07",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "She-Hulk: Attorney at Law",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is a wrestler whose strength was boosted by the Beyonder. Frequent partner of the Absorbing Man. Agents are advised not to cut in line.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Titania_(Marvel_Comics)"
+   ],
+   "notes": "Ms. Marvel snippet is only a photo reference."
+  },
+  {
+   "id": "skaar",
+   "name": "Skaar",
+   "aliases": [
+    "Son of Hulk",
+    "Sakaarson",
+    "World Breaker",
+    "Killer of Killers",
+    "Santos"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [
+    "dark-avengers"
+   ],
+   "otherTeams": [],
+   "debutYear": 2007,
+   "debutIssue": "What If? Planet Hulk #1",
+   "debutDate": "2007-12",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "She-Hulk: Attorney at Law",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the son of the Hulk, born on the planet Sakaar. Inherited Hulk's strength and anger. Agents are advised to avoid family reunions.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Skaar_(character)"
+   ],
+   "notes": "Origin contested between mutate (gamma) and alien (Sakaaran). Appears in She-Hulk via motion capture."
+  },
+  {
+   "id": "rick-jones",
+   "name": "Rick Jones",
+   "aliases": [
+    "Richard Jones",
+    "Bucky",
+    "A-Bomb",
+    "Whisperer"
+   ],
+   "realName": "Richard Jones",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "champions"
+   ],
+   "otherTeams": [
+    "Loners"
+   ],
+   "debutYear": 1962,
+   "debutIssue": "The Incredible Hulk #1",
+   "debutDate": "1962-05",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a teenager who was saved by Bruce Banner during a gamma test. Has been Captain America's sidekick and the Hulk's friend. Agents are advised to keep distance from gamma tests.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rick_Jones_(character)"
+   ],
+   "notes": "Origin contested: gamma mutate vs other enhancements."
+  },
+  {
+   "id": "howard-the-duck",
+   "name": "Howard the Duck",
+   "aliases": [],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1973,
+   "debutIssue": "Adventure into Fear #19",
+   "debutDate": "1973-12",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Guardians of the Galaxy",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a cigar-smoking duck from Duckworld who was displaced to Earth. Noted for his short temper. Agents are advised not to stare at the beak.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Howard_the_Duck"
+   ],
+   "notes": "MCU: puppet or CGI with Seth Green voice; appears on screen in Guardians of the Galaxy (2014 post-credits)."
+  },
+  {
+   "id": "machine-man",
+   "name": "Machine Man",
+   "aliases": [
+    "Aaron Stack",
+    "X-51",
+    "Mister Machine"
+   ],
+   "realName": "Aaron Stack",
+   "primaryTeam": "none",
+   "teams": [
+    "shield",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Nextwave",
+    "A.R.M.O.R.",
+    "Heavy Metal"
+   ],
+   "debutYear": 1977,
+   "debutIssue": "2001: A Space Odyssey #8",
+   "debutDate": "1977-07",
+   "alignment": "hero",
+   "origin": "synthetic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an android built for the military that developed free will. Has served with S.H.I.E.L.D. and the Avengers. Agents are advised to treat it politely.",
+   "archetype": "synthetic",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Man"
+   ],
+   "notes": "Primary team unclear."
+  },
+  {
+   "id": "jocasta",
+   "name": "Jocasta",
+   "aliases": [
+    "Bride of Ultron"
+   ],
+   "realName": "",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers"
+   ],
+   "otherTeams": [
+    "Mavericks",
+    "Avengers Academy"
+   ],
+   "debutYear": 1977,
+   "debutIssue": "The Avengers #162",
+   "debutDate": "1977-08",
+   "alignment": "hero",
+   "origin": "synthetic",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "VisionQuest",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an android built by Ultron with Janet van Dyne's brain patterns. Has served with the Avengers. Agents are advised to have a name ready.",
+   "archetype": "synthetic",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jocasta_(Marvel_Comics)"
+   ],
+   "notes": "MCU: VisionQuest Jo Carrington / Jocasta is a human neuroscientist; counted as an on-screen appearance but contested."
+  },
+  {
+   "id": "spiral",
+   "name": "Spiral",
+   "aliases": [
+    "Rita Wayword",
+    "Ricochet Rita"
+   ],
+   "realName": "Rita Wayword",
+   "primaryTeam": "none",
+   "teams": [
+    "x-force"
+   ],
+   "otherTeams": [
+    "Sisterhood of Mutants",
+    "Freedom Force"
+   ],
+   "debutYear": 1985,
+   "debutIssue": "Longshot #1",
+   "debutDate": "1985-09",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a six-armed sorceress who serves Mojo. Has opposed and later aided the X-Men. Agents are advised not to count her hands.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Spiral_(character)"
+   ],
+   "notes": "Infobox says human mutate; she is a sorcerer in practice. Alignment contested."
+  },
+  {
+   "id": "constrictor",
+   "name": "Constrictor",
+   "aliases": [
+    "Frank Payne",
+    "Frank Schlichting"
+   ],
+   "realName": "Frank Payne",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil",
+    "frightful-four"
+   ],
+   "otherTeams": [
+    "Initiative",
+    "Six-Pack",
+    "Corporation"
+   ],
+   "debutYear": 1977,
+   "debutIssue": "The Incredible Hulk #212",
+   "debutDate": "1977-06",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a mercenary equipped with coiling mechanical cables. Has fought the Hulk and Captain America. Agents are advised to avoid contact with the cables.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Constrictor_(character)"
+   ],
+   "notes": "Real name given variously (Frank Payne, Frank Schlichting)."
+  },
+  {
+   "id": "madame-masque",
+   "name": "Madame Masque",
+   "aliases": [
+    "Giulietta Nefaria",
+    "Whitney Frost",
+    "Big M"
+   ],
+   "realName": "Giulietta Nefaria",
+   "primaryTeam": "maggia",
+   "teams": [
+    "maggia",
+    "masters-of-evil"
+   ],
+   "otherTeams": [
+    "Inner Guard"
+   ],
+   "debutYear": 1967,
+   "debutIssue": "Tales of Suspense #97",
+   "debutDate": "1967-10",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a crime figure who wears a golden mask to hide scars. Has been both an enemy and lover of Iron Man. Agents are advised not to ask about the mask.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Madame_Masque"
+   ],
+   "notes": "Alignment contested."
+  },
+  {
+   "id": "wendigo",
+   "name": "Wendigo",
+   "aliases": [
+    "Paul Cartier"
+   ],
+   "realName": "Paul Cartier",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1973,
+   "debutIssue": "The Incredible Hulk (vol. 2) #162",
+   "debutDate": "1973-04",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a cursed monster associated with cannibal spirits of northern folklore. Fought the Hulk and Wolverine. Agents are advised not to hike in the Canadian wilds.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wendigo_(comics)"
+   ],
+   "notes": "Several men have been the Wendigo; Paul Cartier is the original."
+  },
+  {
+   "id": "human-torch-jim-hammond",
+   "name": "Human Torch (Jim Hammond)",
+   "aliases": [
+    "Jim Hammond",
+    "The Torch"
+   ],
+   "realName": "Jim Hammond",
+   "primaryTeam": "invaders",
+   "teams": [
+    "invaders",
+    "avengers",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "All-Winners Squad",
+    "V-Battalion",
+    "Legion of the Unliving"
+   ],
+   "debutYear": 1939,
+   "debutIssue": "Marvel Comics #1",
+   "debutDate": "1939-10",
+   "alignment": "hero",
+   "origin": "synthetic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Captain America: The First Avenger",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an android who can ignite himself and was created in the 1930s. Served in the Invaders and the Avengers. Agents are advised to keep a fire extinguisher at hand.",
+   "archetype": "synthetic",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Human_Torch_(android)"
+   ],
+   "notes": "MCU: appears as an exhibit at the 1943 Stark Expo in Captain America: The First Avenger; counted but a prop cameo. Johnny Storm is a different character."
+  },
+  {
+   "id": "toro",
+   "name": "Toro",
+   "aliases": [
+    "Thomas Raymond",
+    "The Flaming Kid"
+   ],
+   "realName": "Thomas Raymond",
+   "primaryTeam": "invaders",
+   "teams": [
+    "invaders"
+   ],
+   "otherTeams": [
+    "Young Allies",
+    "Kid Commandos",
+    "All-Winners Squad"
+   ],
+   "debutYear": 1940,
+   "debutIssue": "Human Torch Comics #2",
+   "debutDate": "1940-09",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the teenage partner of the original Human Torch. Can ignite himself and fly. Agents are advised not to give him matches.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Toro_(character)"
+   ],
+   "notes": "MCU snippets were Benicio del Toro."
+  },
+  {
+   "id": "venus",
+   "name": "Venus",
+   "aliases": [
+    "Aphrodite"
+   ],
+   "realName": "",
+   "primaryTeam": "olympus",
+   "teams": [
+    "olympus",
+    "agents-of-atlas"
+   ],
+   "otherTeams": [],
+   "debutYear": 1948,
+   "debutIssue": "Venus #1",
+   "debutDate": "1948-08",
+   "alignment": "hero",
+   "origin": "deity",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the Olympian goddess of love and beauty. Has appeared in comics since the 1940s. Agents are advised to avoid romantic complications.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
+   ],
+   "notes": "Venus #1 debut per infobox."
+  },
+  {
+   "id": "the-angel-thomas-halloway",
+   "name": "The Angel (Thomas Halloway)",
+   "aliases": [
+    "Thomas Halloway",
+    "Tom Halloway"
+   ],
+   "realName": "Thomas Halloway",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "All-Winners Squad",
+    "V-Battalion",
+    "Scourges of the Underworld"
+   ],
+   "debutYear": 1939,
+   "debutIssue": "Marvel Comics #1",
+   "debutDate": "1939-10",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a masked detective and occult scholar from the Golden Age. Founding member of the All-Winners Squad. Agents are advised to leave his cape alone.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angel_(Thomas_Halloway)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "ka-zar",
+   "name": "Ka-Zar",
+   "aliases": [
+    "Kevin Plunder",
+    "Kazar"
+   ],
+   "realName": "Kevin Plunder",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Agents of Wakanda"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "The X-Men #10",
+   "debutDate": "1965-03",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is a British aristocrat raised in the Savage Land. Travels with a sabretooth tiger named Zabu. Agents are advised to keep their distance from the big cat.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ka-Zar_(Kevin_Plunder)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "shanna-the-she-devil",
+   "name": "Shanna the She-Devil",
+   "aliases": [
+    "Shanna O'Hara",
+    "Lady Plunder",
+    "Jungle Princess"
+   ],
+   "realName": "Shanna O'Hara",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1972,
+   "debutIssue": "Shanna the She-Devil #1",
+   "debutDate": "1972-12",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a jungle adventurer and wife of Ka-Zar. Raised in the wild. Agents are advised to leave the animals alone.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shanna_the_She-Devil"
+   ],
+   "notes": "Origin per infobox 'human mutate'; could also be trained."
+  },
+  {
+   "id": "battlestar",
+   "name": "Battlestar",
+   "aliases": [
+    "Lemar Hoskins",
+    "Bucky"
+   ],
+   "realName": "Lemar Hoskins",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Bold Urban Commandos",
+    "Wild Pack",
+    "U.S. Army"
+   ],
+   "debutYear": 1986,
+   "debutIssue": "Captain America #323",
+   "debutDate": "1986-11",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "The Falcon and the Winter Soldier",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a soldier who served as partner to U.S. Agent. Gained strength through enhancement. Agents are advised not to ask which shield.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battlestar_(character)"
+   ],
+   "notes": "Origin could be super-soldier (Power Broker enhancement). Debut: first appearance as unnamed man in Captain America #323 per infobox."
+  }
+ ],
+ "dropped": []
+}
