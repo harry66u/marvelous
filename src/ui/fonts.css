@@ -1,9 +1,11 @@
 /* Marvelous Display: our own stencil face (tools/font, SIL Open Font License).
    Two fonts with identical metrics, stacked by DisplayText: the base draws every
-   stroke, the shade only the tone-B strokes. */
+   stroke, the shade only the tone-B strokes.
+   ?no-inline: both files are under Vite's 4 KB inline limit; keep them as hashed
+   files rather than base64 inside the CSS. */
 @font-face {
   font-family: 'Marvelous Display';
-  src: url('./fonts/MarvelousDisplay-Base.woff2') format('woff2');
+  src: url('./fonts/MarvelousDisplay-Base.woff2?no-inline') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -13,7 +15,7 @@
    than drawing a fallback face out of register with the letters underneath. */
 @font-face {
   font-family: 'Marvelous Display Shade';
-  src: url('./fonts/MarvelousDisplay-Shade.woff2') format('woff2');
+  src: url('./fonts/MarvelousDisplay-Shade.woff2?no-inline') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: block;
