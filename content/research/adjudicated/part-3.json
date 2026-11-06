@@ -1,520 +1,520 @@
 [
- {
-  "id": "angela",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "angela",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "No on-screen MCU appearance; cast-text hits are unrelated words.",
+    "source": ""
   },
-  "contested": false,
-  "note": "No on-screen MCU appearance; cast-text hits are unrelated words.",
-  "source": ""
- },
- {
-  "id": "armor",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Astonishing X-Men #4 (2004), Hisako Ichiki, X-Men all check out.",
-  "source": "https://en.wikipedia.org/wiki/Armor_(Marvel_Comics_character)"
- },
- {
-  "id": "armor",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "armor",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Astonishing X-Men #4 (2004), Hisako Ichiki, X-Men all check out.",
+    "source": "https://en.wikipedia.org/wiki/Armor_(Marvel_Comics_character)"
   },
-  "contested": false,
-  "note": "Only matches are the word armor; Armor has not appeared.",
-  "source": ""
- },
- {
-  "id": "beast",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "The Marvels"
+  {
+    "id": "armor",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only matches are the word armor; Armor has not appeared.",
+    "source": ""
   },
-  "contested": false,
-  "note": "Kelsey Grammer's Beast appears in the The Marvels post-credits scene; Thor: The Dark World hit is Kurse.",
-  "source": "https://en.wikipedia.org/wiki/The_Marvels"
- },
- {
-  "id": "black-dwarf",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Black Order debut New Avengers vol. 3 #8 (2013) is right; no real name; team black-order correct.",
-  "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
- },
- {
-  "id": "black-dwarf",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Avengers: Infinity War"
+  {
+    "id": "beast",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "The Marvels"
+    },
+    "contested": false,
+    "note": "Kelsey Grammer's Beast appears in the The Marvels post-credits scene; Thor: The Dark World hit is Kurse.",
+    "source": "https://en.wikipedia.org/wiki/The_Marvels"
   },
-  "contested": false,
-  "note": "Black Dwarf is Cull Obsidian (Terry Notary, motion capture) in Infinity War; the cast uses the film name.",
-  "source": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
- },
- {
-  "id": "cable",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "black-dwarf",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Black Order debut New Avengers vol. 3 #8 (2013) is right; no real name; team black-order correct.",
+    "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
   },
-  "contested": false,
-  "note": "Cable only appeared in Fox's Deadpool 2, which does not count.",
-  "source": ""
- },
- {
-  "id": "chthon",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Marvel Chillers #1 (Oct 1975), no real name, no team: fine.",
-  "source": "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
- },
- {
-  "id": "dagger",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "black-dwarf",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Avengers: Infinity War"
+    },
+    "contested": false,
+    "note": "Black Dwarf is Cull Obsidian (Terry Notary, motion capture) in Infinity War; the cast uses the film name.",
+    "source": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
   },
-  "contested": false,
-  "note": "Cloak and Dagger was a Freeform series (not counted); Red Dagger in Ms. Marvel is a different character.",
-  "source": ""
- },
- {
-  "id": "destiny",
-  "field": "debut",
-  "action": "set",
-  "value": {
-   "debutYear": 1980,
-   "debutIssue": "The Uncanny X-Men #141",
-   "debutDate": "1980-10"
+  {
+    "id": "cable",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Cable only appeared in Fox's Deadpool 2, which does not count.",
+    "source": ""
   },
-  "contested": false,
-  "note": "Infobox lists Uncanny X-Men #141 (October 1980 on sale); same decade as 1981 cover date, so infobox value per policy 2.",
-  "source": "https://en.wikipedia.org/wiki/Destiny_(Irene_Adler)"
- },
- {
-  "id": "domino",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 1992,
-   "debutIssue": "X-Force #8",
-   "debutDate": "1992-03"
+  {
+    "id": "chthon",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Marvel Chillers #1 (Oct 1975), no real name, no team: fine.",
+    "source": "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Infobox: New Mutants #98 is Copycat impersonating Domino; Domino herself first appears in X-Force #8 (Mar 1992) cameo. Record stands.",
-  "source": "https://en.wikipedia.org/wiki/Domino_(character)"
- },
- {
-  "id": "ebony-maw",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Black Order debut New Avengers vol. 3 #8 (2013), team black-order correct; infobox was the wrong character (Maha Yogi).",
-  "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
- },
- {
-  "id": "eternity",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Thor: Love and Thunder"
+  {
+    "id": "dagger",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Cloak and Dagger was a Freeform series (not counted); Red Dagger in Ms. Marvel is a different character.",
+    "source": ""
   },
-  "contested": false,
-  "note": "Eternity is seen on screen as a CGI cosmic being in Love and Thunder; no named cast credit.",
-  "source": "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
- },
- {
-  "id": "gladiator-melvin-potter",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "destiny",
+    "field": "debut",
+    "action": "set",
+    "value": {
+      "debutYear": 1981,
+      "debutIssue": "The Uncanny X-Men #141",
+      "debutDate": "1981-01"
+    },
+    "contested": false,
+    "note": "Cover date per RUBRIC (Wikipedia infobox shows the on-sale date). Set in review.",
+    "source": "https://en.wikipedia.org/wiki/Destiny_(Irene_Adler)"
   },
-  "contested": false,
-  "note": "Gladiator/Melvin Potter appears only in Netflix Daredevil; Ragnarok gladiator hits are unrelated.",
-  "source": ""
- },
- {
-  "id": "he-who-remains",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Debut is Loki season 1 episode 6 (July 2021), the MCU character; no team.",
-  "source": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
- },
- {
-  "id": "he-who-remains",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Loki season 1"
+  {
+    "id": "domino",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1992,
+      "debutIssue": "X-Force #8",
+      "debutDate": "1992-03"
+    },
+    "contested": false,
+    "note": "Infobox: New Mutants #98 is Copycat impersonating Domino; Domino herself first appears in X-Force #8 (Mar 1992) cameo. Record stands.",
+    "source": "https://en.wikipedia.org/wiki/Domino_(character)"
   },
-  "contested": false,
-  "note": "Jonathan Majors plays He Who Remains in Loki S1; Miss Minutes hit is a different character.",
-  "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
- },
- {
-  "id": "human-torch-jim-hammond",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Marvel Comics #1 (Oct 1939), Jim Hammond, Invaders/Avengers correct.",
-  "source": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
- },
- {
-  "id": "human-torch-jim-hammond",
-  "field": "mcu",
-  "action": "set",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "ebony-maw",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Black Order debut New Avengers vol. 3 #8 (2013), team black-order correct; infobox was the wrong character (Maha Yogi).",
+    "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
   },
-  "contested": false,
-  "note": "Only the exhibit android in Captain America: The First Avenger, which does not count by policy 3.",
-  "source": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
- },
- {
-  "id": "iron-fist",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "eternity",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Thor: Love and Thunder"
+    },
+    "contested": false,
+    "note": "Eternity is seen on screen as a CGI cosmic being in Love and Thunder; no named cast credit.",
+    "source": "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
   },
-  "contested": false,
-  "note": "Finn Jones's Iron Fist is announced for Daredevil: Born Again season 3 (expected 2027), after the cutoff.",
-  "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
- },
- {
-  "id": "jolt",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Thunderbolts #1 (Apr 1997), Helen Takahama, thunderbolts correct; infobox was a different Jolt; Hawkeye's Jolt is a dog.",
-  "source": "https://en.wikipedia.org/wiki/Jolt_(comics)"
- },
- {
-  "id": "jolt",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "gladiator-melvin-potter",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Gladiator/Melvin Potter appears only in Netflix Daredevil; Ragnarok gladiator hits are unrelated.",
+    "source": ""
   },
-  "contested": false,
-  "note": "The Jolt in Hawkeye is a dog, not the character.",
-  "source": ""
- },
- {
-  "id": "katie-power",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Power Pack #1 (Aug 1984), power-pack correct.",
-  "source": "https://en.wikipedia.org/wiki/Katie_Power"
- },
- {
-  "id": "kro",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 1976,
-   "debutIssue": "The Eternals #1",
-   "debutDate": "1976-07"
+  {
+    "id": "he-who-remains",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Debut is Loki season 1 episode 6 (July 2021), the MCU character; no team.",
+    "source": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
   },
-  "contested": false,
-  "note": "Red Raven Comics #1 (1940) Pluto is a different precursor concept; modern Kro debut Eternals #1 (1976) kept (policy 1).",
-  "source": "https://en.wikipedia.org/wiki/Kro_(character)"
- },
- {
-  "id": "kro",
-  "field": "mcu",
-  "action": "set",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Eternals"
+  {
+    "id": "he-who-remains",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Loki season 1"
+    },
+    "contested": false,
+    "note": "Jonathan Majors plays He Who Remains in Loki S1; Miss Minutes hit is a different character.",
+    "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
   },
-  "contested": false,
-  "note": "Kro is a CGI Deviant voiced by Bill Skarsgard, seen on screen in Eternals (2021).",
-  "source": "https://en.wikipedia.org/wiki/Eternals_(film)"
- },
- {
-  "id": "magneto",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "human-torch-jim-hammond",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Marvel Comics #1 (Oct 1939), Jim Hammond, Invaders/Avengers correct.",
+    "source": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
   },
-  "contested": false,
-  "note": "Only Fox films and X-Men '97; name appears in MCU only as a comparison.",
-  "source": ""
- },
- {
-  "id": "mbaku",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Man-Ape debut Avengers #62 (Mar 1969), M'Baku, teams fine.",
-  "source": "https://en.wikipedia.org/wiki/M%27Baku"
- },
- {
-  "id": "mobius-m-mobius",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Loki season 1"
+  {
+    "id": "human-torch-jim-hammond",
+    "field": "mcu",
+    "action": "set",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only the exhibit android in Captain America: The First Avenger, which does not count by policy 3.",
+    "source": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
   },
-  "contested": false,
-  "note": "Owen Wilson as Mobius in Loki season 1; cast match was prose.",
-  "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
- },
- {
-  "id": "muse",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Daredevil: Born Again season 1"
+  {
+    "id": "iron-fist",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Finn Jones's Iron Fist is announced for Daredevil: Born Again season 3 (expected 2027), after the cutoff.",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
   },
-  "contested": false,
-  "note": "The masked serial killer Muse appears in season 1 (Heather Glenn only takes the mantle later); S1 premiered 2025-03-04.",
-  "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
- },
- {
-  "id": "nova-frankie-raye",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "jolt",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Thunderbolts #1 (Apr 1997), Helen Takahama, thunderbolts correct; infobox was a different Jolt; Hawkeye's Jolt is a dog.",
+    "source": "https://en.wikipedia.org/wiki/Jolt_(comics)"
   },
-  "contested": false,
-  "note": "Nova Corps members are other characters; Frankie Raye has not appeared.",
-  "source": ""
- },
- {
-  "id": "patriot-eli-bradley",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Young Avengers #1 (Apr 2005) correct; Eli Bradley.",
-  "source": "https://en.wikipedia.org/wiki/Patriot_(Marvel_Comics)"
- },
- {
-  "id": "patriot-eli-bradley",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "The Falcon and the Winter Soldier"
+  {
+    "id": "jolt",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "The Jolt in Hawkeye is a dog, not the character.",
+    "source": ""
   },
-  "contested": false,
-  "note": "Eli Bradley appears in The Falcon and the Winter Soldier (2021); Incredible Hulk match is the word patriot.",
-  "source": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
- },
- {
-  "id": "phil-coulson",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 2008,
-   "debutIssue": "Iron Man (2008 film)",
-   "debutDate": "2008-05"
+  {
+    "id": "katie-power",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Power Pack #1 (Aug 1984), power-pack correct.",
+    "source": "https://en.wikipedia.org/wiki/Katie_Power"
   },
-  "contested": false,
-  "note": "Infobox lists Battle Scars #6 (2012) as the comics debut for the Marvel Comics character derived from the MCU; the character originated in Iron Man (2008), so the MCU debut is the true first appearance. Record stands.",
-  "source": "https://en.wikipedia.org/wiki/Phil_Coulson"
- },
- {
-  "id": "punisher",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Daredevil: Born Again season 1"
+  {
+    "id": "kro",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1976,
+      "debutIssue": "The Eternals #1",
+      "debutDate": "1976-07"
+    },
+    "contested": false,
+    "note": "Red Raven Comics #1 (1940) Pluto is a different precursor concept; modern Kro debut Eternals #1 (1976) kept (policy 1).",
+    "source": "https://en.wikipedia.org/wiki/Kro_(character)"
   },
-  "contested": false,
-  "note": "Jon Bernthal appears in Born Again S1 (2025); no earlier qualifying title.",
-  "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
- },
- {
-  "id": "rocket-racer",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Amazing Spider-Man #172 (Sep 1977), Robert Farrell, no team: fine.",
-  "source": "https://en.wikipedia.org/wiki/Rocket_Racer"
- },
- {
-  "id": "sersi",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 1976,
-   "debutIssue": "The Eternals #3",
-   "debutDate": "1976-09"
+  {
+    "id": "kro",
+    "field": "mcu",
+    "action": "set",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Eternals"
+    },
+    "contested": false,
+    "note": "Kro is a CGI Deviant voiced by Bill Skarsgard, seen on screen in Eternals (2021).",
+    "source": "https://en.wikipedia.org/wiki/Eternals_(film)"
   },
-  "contested": false,
-  "note": "Circe/Venus precursor is a different concept; The Eternals #3 (1976) kept (policy 1).",
-  "source": "https://en.wikipedia.org/wiki/Sersi"
- },
- {
-  "id": "sin",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "magneto",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only Fox films and X-Men '97; name appears in MCU only as a comparison.",
+    "source": ""
   },
-  "contested": false,
-  "note": "No on-screen MCU appearance; cast-text hits are unrelated words.",
-  "source": ""
- },
- {
-  "id": "spider-ham",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "web-warriors",
-  "contested": false,
-  "note": "Web Warriors is the infobox alliance and in the vocabulary.",
-  "source": "https://en.wikipedia.org/wiki/Spider-Ham"
- },
- {
-  "id": "spot",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "mbaku",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Man-Ape debut Avengers #62 (Mar 1969), M'Baku, teams fine.",
+    "source": "https://en.wikipedia.org/wiki/M%27Baku"
   },
-  "contested": false,
-  "note": "Spot has not appeared; hit is the word spot.",
-  "source": ""
- },
- {
-  "id": "storm",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "mobius-m-mobius",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Loki season 1"
+    },
+    "contested": false,
+    "note": "Owen Wilson as Mobius in Loki season 1; cast match was prose.",
+    "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
   },
-  "contested": false,
-  "note": "Only Fox films and X-Men '97; the Storm hits are Johnny and Sue Storm.",
-  "source": ""
- },
- {
-  "id": "talos",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "skrull-empire",
-  "contested": false,
-  "note": "Skrull Empire fits Talos as Skrull leader; United Front is not in vocabulary.",
-  "source": "https://en.wikipedia.org/wiki/Talos_the_Untamed"
- },
- {
-  "id": "the-serpent",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "asgard",
-  "contested": false,
-  "note": "Asgard fits; Worthy is not in vocabulary.",
-  "source": "https://en.wikipedia.org/wiki/Serpent_(character)"
- },
- {
-  "id": "throg",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Thor #364 (Feb 1986), Simon Walterson, no teams: fine.",
-  "source": "https://en.wikipedia.org/wiki/Throg"
- },
- {
-  "id": "throg",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Loki season 1"
+  {
+    "id": "muse",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Daredevil: Born Again season 1"
+    },
+    "contested": false,
+    "note": "The masked serial killer Muse appears in season 1 (Heather Glenn only takes the mantle later); S1 premiered 2025-03-04.",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
   },
-  "contested": false,
-  "note": "Throg (Frog Thor) appears as a CGI frog in Loki S1 episode 5.",
-  "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
- },
- {
-  "id": "toro",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "nova-frankie-raye",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Nova Corps members are other characters; Frankie Raye has not appeared.",
+    "source": ""
   },
-  "contested": false,
-  "note": "Toro has not appeared; hits are del Toro.",
-  "source": ""
- },
- {
-  "id": "venus",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "olympus",
-  "contested": false,
-  "note": "Olympus fits; the infobox hit is an alias field.",
-  "source": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
- },
- {
-  "id": "volstagg",
-  "field": "source",
-  "action": "keep",
-  "value": null,
-  "contested": false,
-  "note": "Journey into Mystery #119 (Aug 1965), warriors-three/asgard correct; Ray Stevenson in Thor (2011).",
-  "source": "https://en.wikipedia.org/wiki/Warriors_Three"
- },
- {
-  "id": "winter-soldier",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Captain America: The First Avenger"
+  {
+    "id": "patriot-eli-bradley",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Young Avengers #1 (Apr 2005) correct; Eli Bradley.",
+    "source": "https://en.wikipedia.org/wiki/Patriot_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Sebastian Stan appears as Bucky Barnes in The First Avenger; same person.",
-  "source": "https://en.wikipedia.org/wiki/Bucky_Barnes"
- }
+  {
+    "id": "patriot-eli-bradley",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "The Falcon and the Winter Soldier"
+    },
+    "contested": false,
+    "note": "Eli Bradley appears in The Falcon and the Winter Soldier (2021); Incredible Hulk match is the word patriot.",
+    "source": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
+  },
+  {
+    "id": "phil-coulson",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 2008,
+      "debutIssue": "Iron Man (2008 film)",
+      "debutDate": "2008-05"
+    },
+    "contested": false,
+    "note": "Infobox lists Battle Scars #6 (2012) as the comics debut for the Marvel Comics character derived from the MCU; the character originated in Iron Man (2008), so the MCU debut is the true first appearance. Record stands.",
+    "source": "https://en.wikipedia.org/wiki/Phil_Coulson"
+  },
+  {
+    "id": "punisher",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Daredevil: Born Again season 1"
+    },
+    "contested": false,
+    "note": "Jon Bernthal appears in Born Again S1 (2025); no earlier qualifying title.",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+  },
+  {
+    "id": "rocket-racer",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Amazing Spider-Man #172 (Sep 1977), Robert Farrell, no team: fine.",
+    "source": "https://en.wikipedia.org/wiki/Rocket_Racer"
+  },
+  {
+    "id": "sersi",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1976,
+      "debutIssue": "The Eternals #3",
+      "debutDate": "1976-09"
+    },
+    "contested": false,
+    "note": "Circe/Venus precursor is a different concept; The Eternals #3 (1976) kept (policy 1).",
+    "source": "https://en.wikipedia.org/wiki/Sersi"
+  },
+  {
+    "id": "sin",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "No on-screen MCU appearance; cast-text hits are unrelated words.",
+    "source": ""
+  },
+  {
+    "id": "spider-ham",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "web-warriors",
+    "contested": false,
+    "note": "Web Warriors is the infobox alliance and in the vocabulary.",
+    "source": "https://en.wikipedia.org/wiki/Spider-Ham"
+  },
+  {
+    "id": "spot",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Spot has not appeared; hit is the word spot.",
+    "source": ""
+  },
+  {
+    "id": "storm",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only Fox films and X-Men '97; the Storm hits are Johnny and Sue Storm.",
+    "source": ""
+  },
+  {
+    "id": "talos",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "skrull-empire",
+    "contested": false,
+    "note": "Skrull Empire fits Talos as Skrull leader; United Front is not in vocabulary.",
+    "source": "https://en.wikipedia.org/wiki/Talos_the_Untamed"
+  },
+  {
+    "id": "the-serpent",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "asgard",
+    "contested": false,
+    "note": "Asgard fits; Worthy is not in vocabulary.",
+    "source": "https://en.wikipedia.org/wiki/Serpent_(character)"
+  },
+  {
+    "id": "throg",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Thor #364 (Feb 1986), Simon Walterson, no teams: fine.",
+    "source": "https://en.wikipedia.org/wiki/Throg"
+  },
+  {
+    "id": "throg",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Loki season 1"
+    },
+    "contested": false,
+    "note": "Throg (Frog Thor) appears as a CGI frog in Loki S1 episode 5.",
+    "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  {
+    "id": "toro",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Toro has not appeared; hits are del Toro.",
+    "source": ""
+  },
+  {
+    "id": "venus",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "olympus",
+    "contested": false,
+    "note": "Olympus fits; the infobox hit is an alias field.",
+    "source": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
+  },
+  {
+    "id": "volstagg",
+    "field": "source",
+    "action": "keep",
+    "value": null,
+    "contested": false,
+    "note": "Journey into Mystery #119 (Aug 1965), warriors-three/asgard correct; Ray Stevenson in Thor (2011).",
+    "source": "https://en.wikipedia.org/wiki/Warriors_Three"
+  },
+  {
+    "id": "winter-soldier",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger"
+    },
+    "contested": false,
+    "note": "Sebastian Stan appears as Bucky Barnes in The First Avenger; same person.",
+    "source": "https://en.wikipedia.org/wiki/Bucky_Barnes"
+  }
 ]

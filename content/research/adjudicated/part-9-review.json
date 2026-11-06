@@ -1,0 +1,14 @@
+[
+  {
+    "id": "kraglin",
+    "field": "teams",
+    "action": "set",
+    "value": [
+      "ravagers",
+      "guardians-of-the-galaxy"
+    ],
+    "contested": false,
+    "note": "Teams follow the adjudicated primary team (Ravagers) plus his Guardians tenure.",
+    "source": "https://en.wikipedia.org/wiki/Kraglin"
+  }
+]

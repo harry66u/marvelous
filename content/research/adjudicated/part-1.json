@@ -1,533 +1,533 @@
 [
- {
-  "id": "alex-power",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 1984,
-   "debutIssue": "Power Pack #1",
-   "debutDate": "1984-08"
+  {
+    "id": "alex-power",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1984,
+      "debutIssue": "Power Pack #1",
+      "debutDate": "1984-08"
+    },
+    "contested": false,
+    "note": "Infobox evidence is for Alex Wilder (Runaways), a different character. Alex Power debuted in Power Pack #1.",
+    "source": "https://en.wikipedia.org/wiki/Alex_Power"
   },
-  "contested": false,
-  "note": "Infobox evidence is for Alex Wilder (Runaways), a different character. Alex Power debuted in Power Pack #1.",
-  "source": "https://en.wikipedia.org/wiki/Alex_Power"
- },
- {
-  "id": "ant-man-scott-lang",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Ant-Man"
+  {
+    "id": "ant-man-scott-lang",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Ant-Man"
+    },
+    "contested": false,
+    "note": "Age of Ultron match is a production note about the film; Scott Lang first appears on screen in Ant-Man (2015).",
+    "source": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
   },
-  "contested": false,
-  "note": "Age of Ultron match is a production note about the film; Scott Lang first appears on screen in Ant-Man (2015).",
-  "source": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
- },
- {
-  "id": "baron-mordo",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Doctor Strange"
+  {
+    "id": "baron-mordo",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Doctor Strange"
+    },
+    "contested": false,
+    "note": "Chiwetel Ejiofor plays Karl Mordo in Doctor Strange; cast list uses the civilian name.",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
   },
-  "contested": false,
-  "note": "Chiwetel Ejiofor plays Karl Mordo in Doctor Strange; cast list uses the civilian name.",
-  "source": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
- },
- {
-  "id": "big-wheel",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Infobox resolved to Carol Danvers (wrong). Jackson Weele, Big Wheel, debuted in Amazing Spider-Man #183 (Aug 1978); no team memberships of note.",
-  "source": "https://en.wikipedia.org/wiki/Big_Wheel_(comics)"
- },
- {
-  "id": "blade",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Deadpool & Wolverine"
+  {
+    "id": "big-wheel",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Infobox resolved to Carol Danvers (wrong). Jackson Weele, Big Wheel, debuted in Amazing Spider-Man #183 (Aug 1978); no team memberships of note.",
+    "source": "https://en.wikipedia.org/wiki/Big_Wheel_(comics)"
   },
-  "contested": false,
-  "note": "Eternals cameo is voice-only (does not count); Wesley Snipes appears on screen as Blade in Deadpool & Wolverine. WandaVision match is an unrelated surname.",
-  "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
- },
- {
-  "id": "captain-mar-vell",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "kree-empire",
-  "contested": false,
-  "note": "Record is defensible: Mar-Vell is a Kree Starforce officer; Avengers and Defenders remain in teams.",
-  "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(Mar-Vell)"
- },
- {
-  "id": "captain-mar-vell",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Captain Marvel"
+  {
+    "id": "blade",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine"
+    },
+    "contested": false,
+    "note": "Eternals cameo is voice-only (does not count); Wesley Snipes appears on screen as Blade in Deadpool & Wolverine. WandaVision match is an unrelated surname.",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
   },
-  "contested": false,
-  "note": "Annette Bening plays Mar-Vell / Dr. Wendy Lawson in Captain Marvel (adaptation counts).",
-  "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
- },
- {
-  "id": "cloak",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "captain-mar-vell",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "kree-empire",
+    "contested": false,
+    "note": "Record is defensible: Mar-Vell is a Kree Starforce officer; Avengers and Defenders remain in teams.",
+    "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(Mar-Vell)"
   },
-  "contested": false,
-  "note": "Matches are the garment/Cloak of Levitation, not Tyrone Johnson. Runaways/Cloak & Dagger (Freeform/Hulu) are not MCU.",
-  "source": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
- },
- {
-  "id": "deadpool",
-  "field": "realName",
-  "action": "keep",
-  "value": "Wade Wilson",
-  "contested": false,
-  "note": "Infobox full name Wade Winston Wilson; commonly Wade Wilson.",
-  "source": "https://en.wikipedia.org/wiki/Deadpool"
- },
- {
-  "id": "deadpool",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Deadpool & Wolverine"
+  {
+    "id": "captain-mar-vell",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Captain Marvel"
+    },
+    "contested": false,
+    "note": "Annette Bening plays Mar-Vell / Dr. Wendy Lawson in Captain Marvel (adaptation counts).",
+    "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
   },
-  "contested": false,
-  "note": "Earlier matches only mention Fox films; Reynolds first appears in the MCU in Deadpool & Wolverine (2024).",
-  "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
- },
- {
-  "id": "doctor-doom",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "latveria",
-  "contested": false,
-  "note": "Latveria is in the team vocabulary and is the most iconic association; teams already include cabal.",
-  "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
- },
- {
-  "id": "dragon-man",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Infobox hit is a different character (Captain America Annual #4). Dragon Man debuted in Fantastic Four #35 (Feb 1965); no real name, no team.",
-  "source": "https://en.wikipedia.org/wiki/Dragon_Man"
- },
- {
-  "id": "ego-the-living-planet",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Guardians of the Galaxy Vol. 2"
+  {
+    "id": "cloak",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are the garment/Cloak of Levitation, not Tyrone Johnson. Runaways/Cloak & Dagger (Freeform/Hulu) are not MCU.",
+    "source": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
   },
-  "contested": false,
-  "note": "Kurt Russell plays Ego, who is seen on screen (as a human avatar and as the planet).",
-  "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
- },
- {
-  "id": "ghost-iron-man-villain",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Debut Iron Man #219 (Jun 1987) verified; Ava Starr is an MCU adaptation (Ant-Man and the Wasp). Real name left blank for the original comic Ghost; teams acceptable.",
-  "source": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
- },
- {
-  "id": "hammerhead",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "deadpool",
+    "field": "realName",
+    "action": "keep",
+    "value": "Wade Wilson",
+    "contested": false,
+    "note": "Infobox full name Wade Winston Wilson; commonly Wade Wilson.",
+    "source": "https://en.wikipedia.org/wiki/Deadpool"
   },
-  "contested": false,
-  "note": "Matches are the first name Joseph in unrelated cast lists; no Hammerhead on screen in MCU.",
-  "source": "https://en.wikipedia.org/wiki/Hammerhead_(character)"
- },
- {
-  "id": "hobgoblin-roderick-kingsley",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Debut Amazing Spider-Man #238 (Mar 1983) verified; real name Roderick Kingsley; no notable team.",
-  "source": "https://en.wikipedia.org/wiki/Hobgoblin_(Marvel_Comics)"
- },
- {
-  "id": "hydro-man",
-  "field": "mcu",
-  "action": "set",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "deadpool",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine"
+    },
+    "contested": false,
+    "note": "Earlier matches only mention Fox films; Reynolds first appears in the MCU in Deadpool & Wolverine (2024).",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
   },
-  "contested": false,
-  "note": "Far From Home's Water Elemental was a Mysterio illusion inspired by the character, not Morris Bench; not an on-screen appearance as himself.",
-  "source": "https://en.wikipedia.org/wiki/Hydro-Man"
- },
- {
-  "id": "jack-olantern",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Wikipedia: Jason Macendale first appears as Jack O'Lantern in Machine Man #19 (Feb 1981); real name Jason Macendale Jr.; no notable team.",
-  "source": "https://en.wikipedia.org/wiki/Jack_O%27Lantern_(Marvel_Comics)"
- },
- {
-  "id": "karma",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "doctor-doom",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "latveria",
+    "contested": false,
+    "note": "Latveria is in the team vocabulary and is the most iconic association; teams already include cabal.",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
   },
-  "contested": false,
-  "note": "Match is the word karma in a quote; Karma not in MCU.",
-  "source": "https://en.wikipedia.org/wiki/Karma_(character)"
- },
- {
-  "id": "korath-the-pursuer",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "kree-empire",
-  "contested": false,
-  "note": "Starforce has no team id; Kree Empire is the closest vocabulary match.",
-  "source": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
- },
- {
-  "id": "korath-the-pursuer",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Guardians of the Galaxy"
+  {
+    "id": "dragon-man",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Infobox hit is a different character (Captain America Annual #4). Dragon Man debuted in Fantastic Four #35 (Feb 1965); no real name, no team.",
+    "source": "https://en.wikipedia.org/wiki/Dragon_Man"
   },
-  "contested": false,
-  "note": "Djimon Hounsou plays Korath in Guardians of the Galaxy (2014).",
-  "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
- },
- {
-  "id": "loki",
-  "field": "debut",
-  "action": "set",
-  "value": {
-   "debutYear": 1962,
-   "debutIssue": "Journey into Mystery #85",
-   "debutDate": "1962-10"
+  {
+    "id": "ego-the-living-planet",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2"
+    },
+    "contested": false,
+    "note": "Kurt Russell plays Ego, who is seen on screen (as a human avatar and as the planet).",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
   },
-  "contested": false,
-  "note": "Venus #6 (1949) is a different precursor concept; policy uses the modern debut.",
-  "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
- },
- {
-  "id": "loki",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "asgard",
-  "contested": false,
-  "note": "Infobox alliances incomplete; Asgard is the clear association.",
-  "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
- },
- {
-  "id": "loki",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Thor"
+  {
+    "id": "ghost-iron-man-villain",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Debut Iron Man #219 (Jun 1987) verified; Ava Starr is an MCU adaptation (Ant-Man and the Wasp). Real name left blank for the original comic Ghost; teams acceptable.",
+    "source": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Iron Man 2 match is a tattoo; Tom Hiddleston debuts as Loki in Thor (2011).",
-  "source": "https://en.wikipedia.org/wiki/Thor_(film)"
- },
- {
-  "id": "makkari",
-  "field": "debut",
-  "action": "keep",
-  "value": {
-   "debutYear": 1976,
-   "debutIssue": "The Eternals #5",
-   "debutDate": "1976-11"
+  {
+    "id": "hammerhead",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are the first name Joseph in unrelated cast lists; no Hammerhead on screen in MCU.",
+    "source": "https://en.wikipedia.org/wiki/Hammerhead_(character)"
   },
-  "contested": false,
-  "note": "Mercury (1940)/Hurricane are precursor identities per policy 1; modern Makkari debut kept.",
-  "source": "https://en.wikipedia.org/wiki/Makkari_(character)"
- },
- {
-  "id": "mister-negative",
-  "field": "realName",
-  "action": "keep",
-  "value": "Martin Li",
-  "contested": false,
-  "note": "Alias list confirms Martin Li; the evidence field was a parse error.",
-  "source": "https://en.wikipedia.org/wiki/Mister_Negative"
- },
- {
-  "id": "moon-girl",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Infobox resolved to Squirrel Girl (wrong). Lunella Lafayette debuted in Moon Girl and Devil Dinosaur #1 (series launched Nov 2015, cover date Jan 2016); joined Secret Warriors in Secret Empire. Cover-date convention retained.",
-  "source": "https://en.wikipedia.org/wiki/Moon_Girl_(Marvel_Comics)"
- },
- {
-  "id": "namora",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "atlantis",
-  "contested": false,
-  "note": "Namora is an Atlantean; Agents of Atlas stays in teams. Not clearly wrong.",
-  "source": "https://en.wikipedia.org/wiki/Namora"
- },
- {
-  "id": "nova-sam-alexander",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "hobgoblin-roderick-kingsley",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Debut Amazing Spider-Man #238 (Mar 1983) verified; real name Roderick Kingsley; no notable team.",
+    "source": "https://en.wikipedia.org/wiki/Hobgoblin_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Matches are Nova Corps members (Rhomann Dey) and Cassandra Nova; Sam Alexander not on screen.",
-  "source": "https://en.wikipedia.org/wiki/Nova_(Sam_Alexander)"
- },
- {
-  "id": "pepper-potts",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Iron Man"
+  {
+    "id": "hydro-man",
+    "field": "mcu",
+    "action": "set",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Far From Home's Water Elemental was a Mysterio illusion inspired by the character, not Morris Bench; not an on-screen appearance as himself.",
+    "source": "https://en.wikipedia.org/wiki/Hydro-Man"
   },
-  "contested": false,
-  "note": "Gwyneth Paltrow plays Pepper in Iron Man (2008); the Iron Man 2 match is just a later film.",
-  "source": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
- },
- {
-  "id": "prowler-hobie-brown",
-  "field": "teams",
-  "action": "set",
-  "value": [
-   "defenders"
-  ],
-  "contested": false,
-  "note": "Debut ASM #78 (Nov 1969) and name verified. Wikipedia lists Defenders, Outlaws, Wild Pack, Parker Industries; only Defenders has an id. Applies to teams.",
-  "source": "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
- },
- {
-  "id": "prowler-hobie-brown",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "jack-olantern",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Wikipedia: Jason Macendale first appears as Jack O'Lantern in Machine Man #19 (Feb 1981); real name Jason Macendale Jr.; no notable team.",
+    "source": "https://en.wikipedia.org/wiki/Jack_O%27Lantern_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Donald Glover plays Aaron Davis, a different character, in Homecoming; Hobie Brown has no live-action MCU appearance.",
-  "source": "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
- },
- {
-  "id": "ravonna-renslayer",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "time-variance-authority",
-  "contested": false,
-  "note": "TVA is her defining team across comics and MCU; infobox lists only Kang-related groups.",
-  "source": "https://en.wikipedia.org/wiki/Ravonna"
- },
- {
-  "id": "ravonna-renslayer",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Loki season 1"
+  {
+    "id": "karma",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Match is the word karma in a quote; Karma not in MCU.",
+    "source": "https://en.wikipedia.org/wiki/Karma_(character)"
   },
-  "contested": false,
-  "note": "Gugu Mbatha-Raw debuts in Loki season 1 (2021).",
-  "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
- },
- {
-  "id": "sauron",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "korath-the-pursuer",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "kree-empire",
+    "contested": false,
+    "note": "Starforce has no team id; Kree Empire is the closest vocabulary match.",
+    "source": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
   },
-  "contested": false,
-  "note": "Match is a Lord of the Rings comparison; no Marvel Sauron on screen.",
-  "source": "https://en.wikipedia.org/wiki/Sauron_(Marvel_Comics)"
- },
- {
-  "id": "she-hulk",
-  "field": "debut",
-  "action": "set",
-  "value": {
-   "debutYear": 1979,
-   "debutIssue": "The Savage She-Hulk #1",
-   "debutDate": "1979-11"
+  {
+    "id": "korath-the-pursuer",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy"
+    },
+    "contested": false,
+    "note": "Djimon Hounsou plays Korath in Guardians of the Galaxy (2014).",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
   },
-  "contested": true,
-  "note": "Infobox gives November 1979; cover date is Feb 1980. Different decades, so contested; stays guessable but out of the answer pool.",
-  "source": "https://en.wikipedia.org/wiki/She-Hulk"
- },
- {
-  "id": "she-hulk",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "She-Hulk: Attorney at Law"
+  {
+    "id": "loki",
+    "field": "debut",
+    "action": "set",
+    "value": {
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #85",
+      "debutDate": "1962-10"
+    },
+    "contested": false,
+    "note": "Venus #6 (1949) is a different precursor concept; policy uses the modern debut.",
+    "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Ms. Marvel match is a photo of Titania, not She-Hulk. First on-screen: She-Hulk: Attorney at Law (2022).",
-  "source": "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law"
- },
- {
-  "id": "spider-girl-mayday-parker",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "loki",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "asgard",
+    "contested": false,
+    "note": "Infobox alliances incomplete; Asgard is the clear association.",
+    "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Matches are Aunt May Parker; Mayday Parker not on screen.",
-  "source": "https://en.wikipedia.org/wiki/Mayday_Parker"
- },
- {
-  "id": "spider-man-miles-morales",
-  "field": "mcu",
-  "action": "keep",
-  "value": {
-   "mcu": false,
-   "mcuFirst": ""
+  {
+    "id": "loki",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Thor"
+    },
+    "contested": false,
+    "note": "Iron Man 2 match is a tattoo; Tom Hiddleston debuts as Loki in Thor (2011).",
+    "source": "https://en.wikipedia.org/wiki/Thor_(film)"
   },
-  "contested": false,
-  "note": "Matches are other Spider-Man mentions; Miles appears only in animation (voice).",
-  "source": "https://en.wikipedia.org/wiki/Miles_Morales"
- },
- {
-  "id": "stature",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "young-avengers",
-  "contested": false,
-  "note": "Infobox unparsed; Young Avengers is her main team, Avengers in teams.",
-  "source": "https://en.wikipedia.org/wiki/Cassie_Lang"
- },
- {
-  "id": "supergiant",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Black Order member debuted in Infinity (2013); infobox hit is a different Supergiant (Ora Serrata, 2022). No real name; team black-order correct.",
-  "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
- },
- {
-  "id": "thane",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Thanos's son Thane debuted in New Avengers (vol. 3) #10 (Nov 2013); infobox hit was a Skrull. Half-Inhuman/Eternal; Inhuman origin acceptable; no teams.",
-  "source": "https://marvelcodex.com/_export/xhtml/thane"
- },
- {
-  "id": "thing",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "The Fantastic Four: First Steps"
+  {
+    "id": "makkari",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1976,
+      "debutIssue": "The Eternals #5",
+      "debutDate": "1976-11"
+    },
+    "contested": false,
+    "note": "Mercury (1940)/Hurricane are precursor identities per policy 1; modern Makkari debut kept.",
+    "source": "https://en.wikipedia.org/wiki/Makkari_(character)"
   },
-  "contested": false,
-  "note": "Iron Man match was the word thing; Ebon Moss-Bachrach is first live-action MCU Thing in First Steps (2025).",
-  "source": "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
- },
- {
-  "id": "tinkerer",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Spider-Man: Homecoming"
+  {
+    "id": "mister-negative",
+    "field": "realName",
+    "action": "keep",
+    "value": "Martin Li",
+    "contested": false,
+    "note": "Alias list confirms Martin Li; the evidence field was a parse error.",
+    "source": "https://en.wikipedia.org/wiki/Mister_Negative"
   },
-  "contested": false,
-  "note": "Ant-Man match was the word tinkerer; Michael Chernus plays Phineas Mason in Homecoming.",
-  "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
- },
- {
-  "id": "valkyrie-brunnhilde",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Debut Thor #133 (Oct 1966) per infobox verified; teams Defenders, Avengers, Asgard acceptable; real name Brunnhilde.",
-  "source": "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)"
- },
- {
-  "id": "vision",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Avengers: Age of Ultron"
+  {
+    "id": "moon-girl",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Infobox resolved to Squirrel Girl (wrong). Lunella Lafayette debuted in Moon Girl and Devil Dinosaur #1 (series launched Nov 2015, cover date Jan 2016); joined Secret Warriors in Secret Empire. Cover-date convention retained.",
+    "source": "https://en.wikipedia.org/wiki/Moon_Girl_(Marvel_Comics)"
   },
-  "contested": false,
-  "note": "Match was the word vision; J.A.R.V.I.S. was voice-only; Vision appears in Age of Ultron.",
-  "source": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
- },
- {
-  "id": "white-tiger-hector-ayala",
-  "field": "source",
-  "action": "keep",
-  "value": "",
-  "contested": false,
-  "note": "Debut Deadly Hands of Kung Fu #19 (Dec 1975) verified; real name Hector Ayala; Sons of the Tiger has no id, no other team fits.",
-  "source": "https://en.wikipedia.org/wiki/White_Tiger_(comics)"
- },
- {
-  "id": "white-tiger-hector-ayala",
-  "field": "mcuFirst",
-  "action": "keep",
-  "value": {
-   "mcu": true,
-   "mcuFirst": "Daredevil: Born Again season 1"
+  {
+    "id": "namora",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "atlantis",
+    "contested": false,
+    "note": "Namora is an Atlantean; Agents of Atlas stays in teams. Not clearly wrong.",
+    "source": "https://en.wikipedia.org/wiki/Namora"
   },
-  "contested": false,
-  "note": "Kamar de los Reyes plays Hector Ayala in Born Again season 1 (Mar 2025).",
-  "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
- },
- {
-  "id": "yon-rogg",
-  "field": "primaryTeam",
-  "action": "keep",
-  "value": "kree-empire",
-  "contested": false,
-  "note": "Starforce has no id; Kree Empire is the closest.",
-  "source": "https://en.wikipedia.org/wiki/Yon-Rogg"
- }
+  {
+    "id": "nova-sam-alexander",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are Nova Corps members (Rhomann Dey) and Cassandra Nova; Sam Alexander not on screen.",
+    "source": "https://en.wikipedia.org/wiki/Nova_(Sam_Alexander)"
+  },
+  {
+    "id": "pepper-potts",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Iron Man"
+    },
+    "contested": false,
+    "note": "Gwyneth Paltrow plays Pepper in Iron Man (2008); the Iron Man 2 match is just a later film.",
+    "source": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "id": "prowler-hobie-brown",
+    "field": "teams",
+    "action": "set",
+    "value": [
+      "defenders"
+    ],
+    "contested": false,
+    "note": "Debut ASM #78 (Nov 1969) and name verified. Wikipedia lists Defenders, Outlaws, Wild Pack, Parker Industries; only Defenders has an id. Applies to teams.",
+    "source": "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
+  },
+  {
+    "id": "prowler-hobie-brown",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Donald Glover plays Aaron Davis, a different character, in Homecoming; Hobie Brown has no live-action MCU appearance.",
+    "source": "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
+  },
+  {
+    "id": "ravonna-renslayer",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "time-variance-authority",
+    "contested": false,
+    "note": "TVA is her defining team across comics and MCU; infobox lists only Kang-related groups.",
+    "source": "https://en.wikipedia.org/wiki/Ravonna"
+  },
+  {
+    "id": "ravonna-renslayer",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Loki season 1"
+    },
+    "contested": false,
+    "note": "Gugu Mbatha-Raw debuts in Loki season 1 (2021).",
+    "source": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  {
+    "id": "sauron",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Match is a Lord of the Rings comparison; no Marvel Sauron on screen.",
+    "source": "https://en.wikipedia.org/wiki/Sauron_(Marvel_Comics)"
+  },
+  {
+    "id": "she-hulk",
+    "field": "debut",
+    "action": "set",
+    "value": {
+      "debutYear": 1980,
+      "debutIssue": "The Savage She-Hulk #1",
+      "debutDate": "1980-02"
+    },
+    "contested": false,
+    "note": "Cover date per RUBRIC (Wikipedia infobox shows the on-sale date). Set in review.",
+    "source": "https://en.wikipedia.org/wiki/She-Hulk"
+  },
+  {
+    "id": "she-hulk",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "She-Hulk: Attorney at Law"
+    },
+    "contested": false,
+    "note": "Ms. Marvel match is a photo of Titania, not She-Hulk. First on-screen: She-Hulk: Attorney at Law (2022).",
+    "source": "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law"
+  },
+  {
+    "id": "spider-girl-mayday-parker",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are Aunt May Parker; Mayday Parker not on screen.",
+    "source": "https://en.wikipedia.org/wiki/Mayday_Parker"
+  },
+  {
+    "id": "spider-man-miles-morales",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are other Spider-Man mentions; Miles appears only in animation (voice).",
+    "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+  },
+  {
+    "id": "stature",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "young-avengers",
+    "contested": false,
+    "note": "Infobox unparsed; Young Avengers is her main team, Avengers in teams.",
+    "source": "https://en.wikipedia.org/wiki/Cassie_Lang"
+  },
+  {
+    "id": "supergiant",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Black Order member debuted in Infinity (2013); infobox hit is a different Supergiant (Ora Serrata, 2022). No real name; team black-order correct.",
+    "source": "https://en.wikipedia.org/wiki/Black_Order_(comics)"
+  },
+  {
+    "id": "thane",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Thanos's son Thane debuted in New Avengers (vol. 3) #10 (Nov 2013); infobox hit was a Skrull. Half-Inhuman/Eternal; Inhuman origin acceptable; no teams.",
+    "source": "https://marvelcodex.com/_export/xhtml/thane"
+  },
+  {
+    "id": "thing",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps"
+    },
+    "contested": false,
+    "note": "Iron Man match was the word thing; Ebon Moss-Bachrach is first live-action MCU Thing in First Steps (2025).",
+    "source": "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+  },
+  {
+    "id": "tinkerer",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming"
+    },
+    "contested": false,
+    "note": "Ant-Man match was the word tinkerer; Michael Chernus plays Phineas Mason in Homecoming.",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+  },
+  {
+    "id": "valkyrie-brunnhilde",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Debut Thor #133 (Oct 1966) per infobox verified; teams Defenders, Avengers, Asgard acceptable; real name Brunnhilde.",
+    "source": "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)"
+  },
+  {
+    "id": "vision",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Avengers: Age of Ultron"
+    },
+    "contested": false,
+    "note": "Match was the word vision; J.A.R.V.I.S. was voice-only; Vision appears in Age of Ultron.",
+    "source": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  {
+    "id": "white-tiger-hector-ayala",
+    "field": "source",
+    "action": "keep",
+    "value": "",
+    "contested": false,
+    "note": "Debut Deadly Hands of Kung Fu #19 (Dec 1975) verified; real name Hector Ayala; Sons of the Tiger has no id, no other team fits.",
+    "source": "https://en.wikipedia.org/wiki/White_Tiger_(comics)"
+  },
+  {
+    "id": "white-tiger-hector-ayala",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Daredevil: Born Again season 1"
+    },
+    "contested": false,
+    "note": "Kamar de los Reyes plays Hector Ayala in Born Again season 1 (Mar 2025).",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+  },
+  {
+    "id": "yon-rogg",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "kree-empire",
+    "contested": false,
+    "note": "Starforce has no id; Kree Empire is the closest.",
+    "source": "https://en.wikipedia.org/wiki/Yon-Rogg"
+  }
 ]

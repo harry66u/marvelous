@@ -112,10 +112,6 @@ def bar(x0, y0, x1, y1, w) -> Path:
     return _path([(x0 + nx, y0 + ny), (x1 + nx, y1 + ny), (x1 - nx, y1 - ny), (x0 - nx, y0 - ny)])
 
 
-def moved(p: Path, dx=0.0, dy=0.0) -> Path:
-    return p.transform(1, 0, 0, 1, dx, dy)
-
-
 def mirrored(p: Path, width: float) -> Path:
     """Mirror left-right within [0, width]."""
     return p.transform(-1, 0, 0, 1, width, 0)
@@ -273,9 +269,9 @@ def _R():
 
 @glyph('S')
 def _S():
-    upper = union(sector(39, 69, 31, 7, 90, 270), rect(39, 76, 78, 100))
-    lower = union(sector(39, 31, 31, 7, -90, 90), rect(0, 0, 39, 24))
-    return 78, [('A', upper), ('B', lower)]
+    # Two stacked rings with radial terminals, like C: round at every corner, so it
+    # never reads as the square-shouldered 5. The spine steps through the stencil gap.
+    return 78, [('A', sector(39, 68, 32, 8, 30, 270)), ('B', sector(39, 33, 33, 9, -150, 90))]
 
 
 @glyph('T')

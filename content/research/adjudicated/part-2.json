@@ -1,0 +1,471 @@
+[
+  {
+    "id": "amadeus-cho",
+    "field": "debut",
+    "action": "set",
+    "value": {
+      "debutYear": 2006,
+      "debutIssue": "Amazing Fantasy vol. 2 #15",
+      "debutDate": "2006-01"
+    },
+    "contested": false,
+    "note": "Cover date per RUBRIC (Wikipedia infobox shows the on-sale date). Set in review.",
+    "source": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+  },
+  {
+    "id": "apocalypse",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches were unrelated text; Deadpool & Wolverine only has an Age of Apocalypse Wolverine variant. Fox film not counted.",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+  },
+  {
+    "id": "baron-zemo",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "masters-of-evil",
+    "contested": false,
+    "note": "Infobox hit was aliases text, not alliances. Zemo founded/led the Masters of Evil; Thunderbolts also listed in teams.",
+    "source": ""
+  },
+  {
+    "id": "bishop",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are Kate Bishop and the word onslaught; Lucas Bishop has not appeared in the MCU.",
+    "source": ""
+  },
+  {
+    "id": "boomerang",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Tales to Astonish #81 (1966), Fred Myers, Sinister Six/Thunderbolts/Masters of Evil are consistent with Wikipedia's Boomerang entries and character lists.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B"
+  },
+  {
+    "id": "chameleon",
+    "field": "mcu",
+    "action": "set",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Not in any MCU cast section; no on-screen Chameleon in Far From Home. Record was unsupported.",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
+  },
+  {
+    "id": "crimson-dynamo",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": true,
+    "note": "Anton Vanko (Yevgeni Lazarev) appears in Iron Man 2 as Ivan's father, and Ivan Vanko is a Whiplash/Crimson Dynamo amalgam, but nobody is shown as the Crimson Dynamo. Defensible either way; kept false, out of answer pool.",
+    "source": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+  },
+  {
+    "id": "death",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Agatha All Along"
+    },
+    "contested": false,
+    "note": "Aubrey Plaza's Rio Vidal is Death in Agatha All Along; Iron Man 2 match was the word death.",
+    "source": ""
+  },
+  {
+    "id": "doctor-voodoo",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1973,
+      "debutIssue": "Strange Tales #169",
+      "debutDate": "1973-09"
+    },
+    "contested": false,
+    "note": "Flag evidence was for Doctor Doom (wrong page). Jericho Drumm debuted in Strange Tales #169 (Sept 1973).",
+    "source": ""
+  },
+  {
+    "id": "dum-dum-dugan",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger"
+    },
+    "contested": false,
+    "note": "Neal McDonough plays Timothy 'Dum Dum' Dugan in the film's cast.",
+    "source": "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
+  },
+  {
+    "id": "enchantress",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Loki's Sylvie is only inspired by Sylvie Lushton/Enchantress and is a different character; Amora does not appear on screen.",
+    "source": ""
+  },
+  {
+    "id": "gladiator-kallark",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Matches are the Hulk as Sakaar gladiator and Korg; Kallark of the Shi'ar is absent.",
+    "source": ""
+  },
+  {
+    "id": "hawkeye-kate-bishop",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Hawkeye"
+    },
+    "contested": false,
+    "note": "Thor match is Clint Barton; Kate Bishop debuts on screen in Hawkeye (2021).",
+    "source": ""
+  },
+  {
+    "id": "honey-badger",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Gabby Kinney, All-New Wolverine #2 (Nov 2015 release, Jan 2016 cover), X-Men affiliation per Wikipedia list; year gap would be same decade anyway.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_K"
+  },
+  {
+    "id": "hyperion-marcus-milton",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 2012,
+      "debutIssue": "Avengers (vol. 5) #1",
+      "debutDate": "2012-12"
+    },
+    "contested": false,
+    "note": "Marcus Milton entry in Hyperion infobox is Avengers vol. 5 #1 (December 2012); earlier entries are other Hyperions.",
+    "source": "https://en.wikipedia.org/wiki/Hyperion_(character)"
+  },
+  {
+    "id": "jessica-jones",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Daredevil: Born Again season 2"
+    },
+    "contested": false,
+    "note": "Krysten Ritter is in the Born Again cast; Echo match was only a report. Netflix series do not count.",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+  },
+  {
+    "id": "karnilla",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Journey into Mystery #107 (Aug 1964), Asgard; no MCU appearance. Wikipedia list section matches.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_K"
+  },
+  {
+    "id": "kraglin",
+    "field": "primaryTeam",
+    "action": "set",
+    "value": "ravagers",
+    "contested": false,
+    "note": "Wikipedia infobox lists Ravagers; comics membership is Yondu's Ravagers. Guardians membership is MCU-driven, kept in teams. teams should be [ravagers, guardians-of-the-galaxy].",
+    "source": "https://en.wikipedia.org/wiki/Kraglin"
+  },
+  {
+    "id": "luke-cage",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Daredevil: Born Again season 2"
+    },
+    "contested": false,
+    "note": "Mike Colter is in the Born Again cast; Civil War match is Alfre Woodard's unrelated role.",
+    "source": "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+  },
+  {
+    "id": "maximus",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "inhumans",
+    "contested": false,
+    "note": "Royal Family of Attilan is his core association; Cabal is incidental.",
+    "source": ""
+  },
+  {
+    "id": "maximus",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only Black Bolt appears (Multiverse of Madness); Maximus is in ABC Inhumans only.",
+    "source": ""
+  },
+  {
+    "id": "mister-sinister",
+    "field": "debut",
+    "action": "keep",
+    "value": {
+      "debutYear": 1987,
+      "debutIssue": "The Uncanny X-Men #213",
+      "debutDate": "1987-01"
+    },
+    "contested": false,
+    "note": "#212 is only a mention; #213 is first seen (silhouette). Same decade.",
+    "source": "https://en.wikipedia.org/wiki/Mister_Sinister"
+  },
+  {
+    "id": "moonstone",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Karla Sofen, Captain America #192 (Dec 1975); Thunderbolts, Masters of Evil, Dark Avengers verified.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M"
+  },
+  {
+    "id": "night-nurse",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Linda Carter, debut Linda Carter, Student Nurse #1 (Sept 1961) per Wikipedia; no team.",
+    "source": "https://en.wikipedia.org/wiki/Night_Nurse_(comics)"
+  },
+  {
+    "id": "night-nurse",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only Netflix Claire Temple (Rosario Dawson); Doctor Strange's Christine Palmer is a hint only.",
+    "source": "https://en.wikipedia.org/wiki/Night_Nurse_(comics)"
+  },
+  {
+    "id": "onslaught",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Match was the word onslaught in Hawkeye.",
+    "source": ""
+  },
+  {
+    "id": "phastos",
+    "field": "primaryTeam",
+    "action": "keep",
+    "value": "eternals",
+    "contested": false,
+    "note": "Infobox hit was aliases text; Eternals is correct.",
+    "source": ""
+  },
+  {
+    "id": "proxima-midnight",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "New Avengers vol. 3 #8 (Sept 2013) cameo, Black Order; mocap Carrie Coon in Infinity War is on screen.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M"
+  },
+  {
+    "id": "rocket-raccoon",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy"
+    },
+    "contested": false,
+    "note": "CGI/mocap raccoon seen on screen from Guardians of the Galaxy (2014); cast text names him Rocket.",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "id": "sentry",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Thunderbolts*"
+    },
+    "contested": false,
+    "note": "Lewis Pullman as Bob Reynolds / Sentry; Thor match was Heimdall.",
+    "source": "https://en.wikipedia.org/wiki/Thunderbolts*"
+  },
+  {
+    "id": "silk",
+    "field": "mcu",
+    "action": "set",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Cindy Moon is in no MCU cast section; Silk shows are Sony/Amazon, not MCU.",
+    "source": ""
+  },
+  {
+    "id": "spider-gwen",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Only Gwen Stacy mentioned in No Way Home; no Spider-Gwen on screen.",
+    "source": ""
+  },
+  {
+    "id": "spider-man-peter-parker",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Amazing Fantasy #15 (Aug 1962), Peter Parker; teams acceptable.",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": "spider-man-peter-parker",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Captain America: Civil War"
+    },
+    "contested": false,
+    "note": "Tom Holland debuts in Civil War (2016-05-06).",
+    "source": ""
+  },
+  {
+    "id": "stick",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": false,
+      "mcuFirst": ""
+    },
+    "contested": false,
+    "note": "Stick (Scott Glenn) is only in Netflix Daredevil; matches were the verb.",
+    "source": ""
+  },
+  {
+    "id": "swordsman",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Hawkeye"
+    },
+    "contested": false,
+    "note": "Jack Duquesne (Tony Dalton) in Hawkeye is the Swordsman adaptation; Captain Marvel match is Korath.",
+    "source": ""
+  },
+  {
+    "id": "the-leader",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk"
+    },
+    "contested": false,
+    "note": "Samuel Sterns begins becoming the Leader in The Incredible Hulk.",
+    "source": ""
+  },
+  {
+    "id": "thor",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "Thor"
+    },
+    "contested": false,
+    "note": "Iron Man 2 match is a title mention; Hemsworth debuts in Thor (2011).",
+    "source": ""
+  },
+  {
+    "id": "titania",
+    "field": "mcuFirst",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "She-Hulk: Attorney at Law"
+    },
+    "contested": false,
+    "note": "Ms. Marvel only shows a photo; first on-screen is She-Hulk.",
+    "source": ""
+  },
+  {
+    "id": "venom",
+    "field": "realName",
+    "action": "keep",
+    "value": "Eddie Brock",
+    "contested": false,
+    "note": "Infobox says various hosts; Eddie Brock is the commonly used form.",
+    "source": ""
+  },
+  {
+    "id": "viv-vision",
+    "field": "source",
+    "action": "keep",
+    "value": "ok",
+    "contested": false,
+    "note": "Vivian Vision, Vision vol. 3 #1 (Jan 2016 cover), Champions; no MCU appearance.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_V"
+  },
+  {
+    "id": "wiccan",
+    "field": "mcu",
+    "action": "keep",
+    "value": {
+      "mcu": true,
+      "mcuFirst": "WandaVision"
+    },
+    "contested": false,
+    "note": "Billy Maximoff (WandaVision, then Joe Locke as Billy Kaplan in Agatha All Along) is the MCU Wiccan adaptation.",
+    "source": "https://en.wikipedia.org/wiki/Wiccan_(character)"
+  }
+]
