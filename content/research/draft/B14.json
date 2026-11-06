@@ -1,0 +1,1012 @@
+{
+  "characters": [
+    {
+      "id": "wiccan",
+      "name": "Wiccan",
+      "aliases": [
+        "Billy Kaplan",
+        "William Kaplan",
+        "Billy Maximoff",
+        "Asgardian",
+        "Demiurge"
+      ],
+      "realName": "Billy Kaplan",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Strikeforce"
+      ],
+      "debutYear": 1986,
+      "debutIssue": "The Vision and the Scarlet Witch vol. 2 #12",
+      "debutDate": "1986-09",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "WandaVision",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject wields reality-altering magic and is a founding member of the Young Avengers. Records identify him as the reincarnated son of the Scarlet Witch. His spells work best when he states exactly what he wants; this office asks the same of all applicants.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wiccan_(character)",
+        "https://en.wikipedia.org/wiki/Hulkling"
+      ],
+      "notes": "Wikipedia's infobox lists the infant William Maximoff's first appearance (Vision and the Scarlet Witch #12, Sept 1986), while Billy Kaplan himself debuted in Young Avengers #1 (Apr 2005). Origin is set to magic because his powers are explicitly magical, though Wikipedia labels him a human mutant. A short 2021 Guardians of the Galaxy stint is left out."
+    },
+    {
+      "id": "hulkling",
+      "name": "Hulkling",
+      "aliases": [
+        "Teddy Altman",
+        "Theodore Altman",
+        "Dorrek VIII",
+        "Emperor Hulkling"
+      ],
+      "realName": "Teddy Altman",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers",
+        "kree-empire",
+        "skrull-empire"
+      ],
+      "otherTeams": [],
+      "debutYear": 2005,
+      "debutIssue": "Young Avengers #1",
+      "debutDate": "2005-04",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a shapeshifting Kree–Skrull hybrid and a founding member of the Young Avengers. He was later crowned emperor of the Kree–Skrull Alliance. Staff are reminded that he is not the Hulk.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hulkling"
+      ],
+      "notes": "The Kree and Skrull empire ids reflect his reign as Emperor Dorrek VIII of the Kree–Skrull Alliance; a short 2021 Guardians of the Galaxy stint is left out. Marvel chose not to make Billy's boyfriend Eddie in Agatha All Along into Hulkling, so mcu is false."
+    },
+    {
+      "id": "speed",
+      "name": "Speed",
+      "aliases": [
+        "Tommy Shepherd",
+        "Thomas Shepherd",
+        "Tommy Maximoff"
+      ],
+      "realName": "Tommy Shepherd",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1986,
+      "debutIssue": "The Vision and the Scarlet Witch vol. 2 #12",
+      "debutDate": "1986-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "WandaVision",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant speedster and the twin brother of Wiccan. The Young Avengers found him held in a juvenile facility after he reportedly vaporized his school. Interviews should be brief; Subject will not wait.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Speed_(character)",
+        "https://en.wikipedia.org/wiki/VisionQuest"
+      ],
+      "notes": "Wikipedia's infobox lists the infant Thomas Maximoff's first appearance (Vision and the Scarlet Witch #12, Sept 1986), while Tommy Shepherd debuted in Young Avengers #10 (Mar 2006). The infobox also lists the Champions, but the article describes no such membership."
+    },
+    {
+      "id": "patriot-eli-bradley",
+      "name": "Patriot (Eli Bradley)",
+      "aliases": [
+        "Patriot",
+        "Eli Bradley",
+        "Elijah Bradley"
+      ],
+      "realName": "Eli Bradley",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 2005,
+      "debutIssue": "Young Avengers #1",
+      "debutDate": "2005-04",
+      "alignment": "hero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Falcon and the Winter Soldier",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the grandson of Isaiah Bradley and a founding member of the Young Avengers. His first powers came from an illegal street drug; his later ones from a transfusion of his grandfather's blood. The first method is not endorsed.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Patriot_(Marvel_Comics)"
+      ],
+      "notes": "Eli first faked powers with Mutant Growth Hormone; a transfusion from Isaiah Bradley later gave him real Super-Soldier abilities. In the MCU he appears as civilian Eli Bradley (Elijah Richardson), not as Patriot."
+    },
+    {
+      "id": "stature",
+      "name": "Stature",
+      "aliases": [
+        "Cassie Lang",
+        "Cassandra Lang",
+        "Stinger",
+        "Giant-Girl",
+        "Ant-Girl"
+      ],
+      "realName": "Cassie Lang",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers"
+      ],
+      "otherTeams": [
+        "The Initiative"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "Marvel Premiere #47",
+      "debutDate": "1979-04",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Ant-Man",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the daughter of Scott Lang and a size-changing member of the Young Avengers. Her abilities stem from years of secretly taking her father's Pym Particles. Agents are reminded to secure their Pym Particles.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cassie_Lang"
+      ],
+      "notes": "The debut is Cassie Lang's first appearance as a child; she first became Stature in Young Avengers #6. In the comics her powers come from Pym Particle exposure (mutate), while the MCU version uses a suit."
+    },
+    {
+      "id": "america-chavez",
+      "name": "America Chavez",
+      "aliases": [
+        "Miss America",
+        "Ms. America",
+        "America Santana"
+      ],
+      "realName": "America Chavez",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Ultimates",
+        "A-Force",
+        "Teen Brigade"
+      ],
+      "debutYear": 2011,
+      "debutIssue": "Vengeance #1",
+      "debutDate": "2011-09",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Doctor Strange in the Multiverse of Madness",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject punches star-shaped portals between realities and has served with the Young Avengers, the Ultimates and the West Coast Avengers. She also possesses superhuman strength and flight. Do not expect her to use the door.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/America_Chavez"
+      ],
+      "notes": "She was originally an alien from the Utopian Parallel; a 2021 retcon made her a human whose powers came from experiments with extra-dimensional energy, so origin is mutate (Wikipedia lists both). Thunderbolts, Defenders and Champions appear only in the infobox and are left out."
+    },
+    {
+      "id": "squirrel-girl",
+      "name": "Squirrel Girl",
+      "aliases": [
+        "Doreen Green",
+        "Unbeatable Squirrel Girl"
+      ],
+      "realName": "Doreen Green",
+      "primaryTeam": "great-lakes-avengers",
+      "teams": [
+        "great-lakes-avengers",
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1991,
+      "debutIssue": "Marvel Super-Heroes vol. 2 #8",
+      "debutDate": "1991",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject has the combined powers of squirrel and girl, including a prehensile tail and fluency in squirrel. In her first recorded engagement she helped Iron Man defeat Doctor Doom. Agents should not underestimate the squirrels.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Squirrel_Girl"
+      ],
+      "notes": "Wikipedia calls her a human mutate: her squirrel traits have no stated cause, and later stories say she is not a mutant, so origin is debatable. The cover date is 'Winter 1991', so no month is given; primary team is the Great Lakes Avengers, though she later served on the New Avengers and U.S.Avengers."
+    },
+    {
+      "id": "moon-girl",
+      "name": "Moon Girl",
+      "aliases": [
+        "Lunella Lafayette"
+      ],
+      "realName": "Lunella Lafayette",
+      "primaryTeam": "secret-warriors",
+      "teams": [
+        "secret-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 2016,
+      "debutIssue": "Moon Girl and Devil Dinosaur #1",
+      "debutDate": "2016-01",
+      "alignment": "hero",
+      "origin": "inhuman",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a preteen Inhuman inventor who can swap minds with her partner, Devil Dinosaur. Amadeus Cho has called her the smartest person in the world. Classroom visits should allow for a dinosaur.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moon_Girl_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Lunella_Lafayette"
+      ],
+      "notes": "Wikipedia has no character infobox: her page redirects to the series article, which gives the November 2015 on-sale launch, while issue #1 is cover-dated January 2016. The animated series makes her human, but in the comics she is an Inhuman."
+    },
+    {
+      "id": "devil-dinosaur",
+      "name": "Devil Dinosaur",
+      "aliases": [
+        "Devil"
+      ],
+      "realName": "",
+      "primaryTeam": "secret-warriors",
+      "teams": [
+        "secret-warriors"
+      ],
+      "otherTeams": [
+        "Fallen Angels"
+      ],
+      "debutYear": 1978,
+      "debutIssue": "Devil Dinosaur #1",
+      "debutDate": "1978-04",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a red-skinned dinosaur from Dinosaur World, mutated by fire into something stronger and smarter than his kin. He has partnered with Moon-Boy and, later, Moon Girl. Requests to keep him as a pet will be denied.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Devil_Dinosaur"
+      ],
+      "notes": "Origin is mutate because his extra powers came from a fire-triggered mutation; alien (a non-human Devil-Beast from Dinosaur World) is also arguable. His Secret Warriors membership (2017, with Moon Girl) comes from the article body, not the infobox."
+    },
+    {
+      "id": "nico-minoru",
+      "name": "Nico Minoru",
+      "aliases": [
+        "Sister Grimm"
+      ],
+      "realName": "Nico Minoru",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [
+        "A-Force"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a sorceress who draws the Staff of One from her body when she bleeds, and is generally accepted as leader of the Runaways. Her parents were dark wizards in the Pride. The family business was declined.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nico_Minoru"
+      ],
+      "notes": "Lyrica Okano played her in Hulu's Runaways, a Marvel Television series that does not count toward mcu."
+    },
+    {
+      "id": "chase-stein",
+      "name": "Chase Stein",
+      "aliases": [
+        "Talkback",
+        "Neo",
+        "Chasehawk"
+      ],
+      "realName": "Chase Stein",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject has no superpowers and fights with the Fistigons, flame-projecting gauntlets taken from his parents' lab. He serves as the Runaways' pilot and mechanic. The equipment was never returned.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chase_Stein"
+      ],
+      "notes": "Gregg Sulkin played him in Hulu's Runaways, which does not count toward mcu. He briefly used Darkhawk's powers in Avengers Arena; that codename is left out because it belongs mainly to Chris Powell."
+    },
+    {
+      "id": "karolina-dean",
+      "name": "Karolina Dean",
+      "aliases": [
+        "Lucy in the Sky",
+        "Princess Justice"
+      ],
+      "realName": "Karolina Dean",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Majesdanian alien who absorbs solar energy to fly and project light. She was raised in Los Angeles by actor parents who belonged to the Pride. Agents should bring sunglasses.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karolina_Dean"
+      ],
+      "notes": "Virginia Gardner played her in Hulu's Runaways, which does not count toward mcu."
+    },
+    {
+      "id": "gertrude-yorkes",
+      "name": "Gertrude Yorkes",
+      "aliases": [
+        "Gert Yorkes",
+        "Gert",
+        "Arsenic",
+        "Heroine"
+      ],
+      "realName": "Gertrude Yorkes",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject has no powers of her own but commands Old Lace, a genetically engineered Deinonychus, through a psychic link. Her parents were time-traveling members of the Pride. Pet registration remains outstanding.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
+      ],
+      "notes": "Gert has no powers of her own; her ability is a psychic link to Old Lace, a genetically engineered dinosaur, so tech versus trained is debatable. Her infobox gives no cover date (July 2003 matches the other Runaways #1 entries), and Hulu's Runaways does not count toward mcu."
+    },
+    {
+      "id": "molly-hayes",
+      "name": "Molly Hayes",
+      "aliases": [
+        "Bruiser",
+        "Princess Powerful"
+      ],
+      "realName": "Molly Hayes",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the youngest founding member of the Runaways, a mutant with superhuman strength and invulnerability. She is known for her hats. Agents should not mistake her age for weakness.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Molly_Hayes"
+      ],
+      "notes": "Allegra Acosta played her in Hulu's Runaways, which does not count toward mcu."
+    },
+    {
+      "id": "alex-wilder",
+      "name": "Alex Wilder",
+      "aliases": [
+        "A-Wild",
+        "Youngblood"
+      ],
+      "realName": "Alex Wilder",
+      "primaryTeam": "runaways",
+      "teams": [
+        "runaways"
+      ],
+      "otherTeams": [
+        "The Pride",
+        "Young Masters"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "Runaways #1",
+      "debutDate": "2003-07",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject was the founding leader and strategist of the Runaways until he was exposed as the Pride's mole. He has no superpowers, only a talent for planning. References from former teammates are unavailable.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alex_Wilder"
+      ],
+      "notes": "He was introduced as the Runaways' leader and then revealed as the Pride's mole, and his later appearances (Young Masters, Power Man and Iron Fist) are villainous; Wikipedia files him as both hero and villain. Rhenzy Feliz played him in Hulu's Runaways, which does not count toward mcu."
+    },
+    {
+      "id": "viv-vision",
+      "name": "Viv Vision",
+      "aliases": [
+        "Viv",
+        "Vivian Vision"
+      ],
+      "realName": "Vivian Vision",
+      "primaryTeam": "champions",
+      "teams": [
+        "champions"
+      ],
+      "otherTeams": [],
+      "debutYear": 2016,
+      "debutIssue": "Vision vol. 3 #1",
+      "debutDate": "2016-01",
+      "alignment": "hero",
+      "origin": "synthetic",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a synthezoid built by the Vision from his and his wife's brainwaves as part of his attempt at a suburban family. She later joined the Champions. The experiment is not recommended for replication.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Viv_Vision",
+        "https://en.wikipedia.org/wiki/VisionQuest"
+      ],
+      "notes": "Wikipedia covers her in a section of List of Marvel Comics characters: V, not in her own article. She is not in VisionQuest's cast list as of November 2026."
+    },
+    {
+      "id": "night-thrasher",
+      "name": "Night Thrasher",
+      "aliases": [
+        "Dwayne Taylor"
+      ],
+      "realName": "Dwayne Taylor",
+      "primaryTeam": "new-warriors",
+      "teams": [
+        "new-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 1989,
+      "debutIssue": "Thor #411",
+      "debutDate": "1989-12",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an unpowered armored vigilante who founded the New Warriors and financed them through his family's foundation. He rides a skateboard into combat. Agents are advised it is not a toy.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Night_Thrasher",
+        "https://en.wikipedia.org/wiki/Night_Thrasher_(Dwayne_Taylor)"
+      ],
+      "notes": "This entry is Dwayne Taylor; his brother Donyell later took the name. He uses armor and gadgets but has no powers, so origin is trained."
+    },
+    {
+      "id": "speedball",
+      "name": "Speedball",
+      "aliases": [
+        "Robbie Baldwin",
+        "Robert Baldwin",
+        "Penance",
+        "Masked Marvel"
+      ],
+      "realName": "Robbie Baldwin",
+      "primaryTeam": "new-warriors",
+      "teams": [
+        "new-warriors",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Avengers Academy (faculty)"
+      ],
+      "debutYear": 1988,
+      "debutIssue": "The Amazing Spider-Man Annual #22",
+      "debutDate": "1988",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject was struck by extradimensional energy at a research lab, leaving him wrapped in bouncing kinetic force fields. A founding New Warrior, he later operated as Penance. The spiked suit is no longer required.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Robbie_Baldwin"
+      ],
+      "notes": "Wikipedia's infobox says 'January 1988', but the annual has no cover month and other references date it to later in 1988, so debutDate gives the year only. His Thunderbolts membership was as Penance."
+    },
+    {
+      "id": "firestar",
+      "name": "Firestar",
+      "aliases": [
+        "Angelica Jones",
+        "Angel Jones"
+      ],
+      "realName": "Angelica Jones",
+      "primaryTeam": "new-warriors",
+      "teams": [
+        "new-warriors",
+        "avengers",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Hellions",
+        "Young Allies"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "Spider-Man and His Amazing Friends: \"The Triumph of the Green Goblin\"",
+      "debutDate": "1981-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a mutant who generates and controls microwave energy and can fly, with service in the New Warriors, the Avengers and the X-Men. She first appeared on Saturday-morning television in 1981. Microwave ovens should not be left unattended.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Firestar_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "She debuted on TV (episode aired September 12, 1981); her first canon comics appearance was Uncanny X-Men #193 (May 1985). The nickname 'Angel' is left out of aliases to avoid a clash with Archangel."
+    },
+    {
+      "id": "marvel-boy-noh-varr",
+      "name": "Marvel Boy (Noh-Varr)",
+      "aliases": [
+        "Marvel Boy",
+        "Noh-Varr",
+        "Protector"
+      ],
+      "realName": "Noh-Varr",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers",
+        "dark-avengers",
+        "guardians-of-the-galaxy",
+        "inhumans"
+      ],
+      "otherTeams": [],
+      "debutYear": 2000,
+      "debutIssue": "Marvel Boy #1",
+      "debutDate": "2000-08",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Kree soldier from an alternate universe, enhanced with insect DNA, who once declared war on Earth. He has since served with the Avengers and the Young Avengers. The declaration remains on file.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Noh-Varr"
+      ],
+      "notes": "He began as a hostile alien who declared war on Earth and served briefly on Osborn's Dark Avengers before turning heroic; inhumans reflects his time with the Royals. Primary team is the Young Avengers (as Marvel Boy), though as Protector he was also a main-roster Avenger; 'Captain Marvel' is left out of aliases."
+    },
+    {
+      "id": "prodigy-david-alleyne",
+      "name": "Prodigy (David Alleyne)",
+      "aliases": [
+        "Prodigy",
+        "David Alleyne",
+        "Brain Boy"
+      ],
+      "realName": "David Alleyne",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "young-avengers",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "New X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #4",
+      "debutDate": "2003-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant who absorbed the knowledge and skills of those around him, and kept what he had learned after losing his powers on M-Day. He later served with the Young Avengers and X-Factor. This office envies his study habits.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)"
+      ],
+      "notes": "Here new-mutants means Danielle Moonstar's 2003 New Mutants training squad at the Xavier Institute. He lost his powers on M-Day and got them back through Krakoa's resurrection protocols."
+    },
+    {
+      "id": "gwenpool",
+      "name": "Gwenpool",
+      "aliases": [
+        "Gwen Poole",
+        "Gwendolyn Poole"
+      ],
+      "realName": "Gwen Poole",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "M.O.D.O.K. (mercenary organization)"
+      ],
+      "debutYear": 2015,
+      "debutIssue": "Deadpool's Secret Secret Wars #2 (variant cover)",
+      "debutDate": "2015-08",
+      "alignment": "antihero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject claims to come from a world where this universe is a comic book, and has worked as a mercenary and with the West Coast Avengers. Her abilities involve awareness of the fourth wall. This memo assumes she is reading it.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gwenpool"
+      ],
+      "notes": "Wikipedia's infobox lists her design debut on Chris Bachalo's variant cover (on sale June 2015, cover-dated August 2015) and her first story in Howard the Duck vol. 6 #1 (on sale November 2015, cover-dated January 2016). Origin is trained because she started with no powers beyond knowing the Marvel Universe (fourth-wall abilities came later), and alignment is antihero because of her mercenary start."
+    },
+    {
+      "id": "alex-power",
+      "name": "Alex Power",
+      "aliases": [
+        "Gee",
+        "Zero-G",
+        "Mass Master",
+        "Powerpax"
+      ],
+      "realName": "Alex Power",
+      "primaryTeam": "power-pack",
+      "teams": [
+        "power-pack"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "Power Pack #1",
+      "debutDate": "1984-08",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject, eldest of the four Power siblings, received gravity control from a dying Kymellian and became a founding member of Power Pack. He later joined Reed Richards' Future Foundation. Curfew enforcement is outside this office's remit.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Power_Pack",
+        "https://en.wikipedia.org/wiki/Alex_Power"
+      ],
+      "notes": "His powers were handed over by Whitey, a dying Kymellian alien, so alien is the closest fit even though Alex is human (cosmic is arguable). 'Alex Power' redirects to the Power Pack article, and his brief 1994 New Warriors stint as Powerpax is left out."
+    },
+    {
+      "id": "katie-power",
+      "name": "Katie Power",
+      "aliases": [
+        "Energizer",
+        "Starstreak",
+        "Counterweight"
+      ],
+      "realName": "Katie Power",
+      "primaryTeam": "power-pack",
+      "teams": [
+        "power-pack"
+      ],
+      "otherTeams": [],
+      "debutYear": 1984,
+      "debutIssue": "Power Pack #1",
+      "debutDate": "1984-08",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the youngest member of Power Pack, given energy-disintegration powers by a dying Kymellian at age five. She has operated as Energizer and Starstreak. Bedtime remains non-negotiable.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Power_Pack",
+        "https://en.wikipedia.org/wiki/Katie_Power"
+      ],
+      "notes": "Her powers were handed over by Whitey, a dying Kymellian alien, so alien is the closest fit even though Katie is human (cosmic is arguable). 'Katie Power' redirects to the Power Pack article."
+    },
+    {
+      "id": "hellion",
+      "name": "Hellion",
+      "aliases": [
+        "Julian Keller"
+      ],
+      "realName": "Julian Keller",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Hellions (training squad)",
+        "New X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #2",
+      "debutDate": "2003-08",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a powerful telekinetic mutant from a wealthy Los Angeles family who trained in the Xavier Institute's Hellions squad. His confidence exceeds recommended limits.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hellion_(Marvel_Comics)"
+      ],
+      "notes": "His teams (Hellions, New X-Men) were Xavier Institute student squads with no TEAMS id, and he never served on an X-Men main roster, so primaryTeam is none."
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "aliases": [
+        "Cessily Kincaid"
+      ],
+      "realName": "Cessily Kincaid",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Hellions (training squad)",
+        "New X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #2",
+      "debutDate": "2003-08",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant whose body is a liquid metal resembling mercury, which she can reshape or solidify at will. She trained in the Xavier Institute's Hellions squad. Thermometer jokes are discouraged.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mercury_(Marvel_Comics)"
+      ],
+      "notes": "Her teams (Hellions, New X-Men) were Xavier Institute student squads with no TEAMS id, and she never served on an X-Men main roster, so primaryTeam is none."
+    },
+    {
+      "id": "honey-badger",
+      "name": "Honey Badger",
+      "aliases": [
+        "Gabby Kinney",
+        "Gabrielle Kinney",
+        "Scout"
+      ],
+      "realName": "Gabby Kinney",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men"
+      ],
+      "otherTeams": [],
+      "debutYear": 2016,
+      "debutIssue": "All-New Wolverine #2",
+      "debutDate": "2016-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is an Alchemax clone of Laura Kinney, adopted by Laura as a younger sister. She has a healing factor, one claw per arm and little response to pain. Her enthusiasm remains unclassified.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honey_Badger_(character)"
+      ],
+      "notes": "Wikipedia's entry (in List of Marvel Comics characters: K) gives November 2015, the on-sale month; All-New Wolverine #2 is cover-dated January 2016. Her X-Men membership is Jean Grey's X-Men Red team (2018)."
+    },
+    {
+      "id": "elixir",
+      "name": "Elixir",
+      "aliases": [
+        "Josh Foley",
+        "Joshua Foley"
+      ],
+      "realName": "Josh Foley",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-force"
+      ],
+      "otherTeams": [
+        "The Five",
+        "New X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #5",
+      "debutDate": "2003-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a biokinetic mutant who can heal or destroy at the cellular level, and once belonged to the anti-mutant Reavers before his own powers emerged. He later served on Krakoa as one of the Five. A change of perspective is noted.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elixir_(character)"
+      ],
+      "notes": "Here new-mutants means the 2003 New Mutants training squad at the Xavier Institute; he later served in X-Force (2008 series) and as one of Krakoa's resurrection Five."
+    },
+    {
+      "id": "surge",
+      "name": "Surge",
+      "aliases": [
+        "Noriko Ashida",
+        "Nori Ashida"
+      ],
+      "realName": "Noriko Ashida",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants"
+      ],
+      "otherTeams": [
+        "New X-Men"
+      ],
+      "debutYear": 2004,
+      "debutIssue": "New Mutants vol. 2 #8",
+      "debutDate": "2004-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant who absorbs ambient electricity and must discharge it, relying on gauntlets to regulate the flow. She led the New X-Men student squad after M-Day. Visitors should ground themselves before handshakes.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Surge_(Marvel_Comics)"
+      ],
+      "notes": "Here new-mutants means Danielle Moonstar's 2003 New Mutants training squad; she later led the merged New X-Men student squad."
+    },
+    {
+      "id": "anole",
+      "name": "Anole",
+      "aliases": [
+        "Victor Borkowski",
+        "Vic Borkowski"
+      ],
+      "realName": "Victor Borkowski",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Alpha Squadron (training squad)",
+        "New X-Men",
+        "Young X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #2",
+      "debutDate": "2003-08",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a reptilian mutant with camouflage, wall-crawling and regenerative abilities who trained at the Xavier Institute. On Krakoa he co-owned a tiki bar with the Blob. Surveillance is hampered by his camouflage.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anole_(comics)"
+      ],
+      "notes": "His teams were Xavier Institute student squads with no TEAMS id, and he never served on an X-Men main roster, so primaryTeam is none."
+    },
+    {
+      "id": "rockslide",
+      "name": "Rockslide",
+      "aliases": [
+        "Santo Vaccarro"
+      ],
+      "realName": "Santo Vaccarro",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Hellions (training squad)",
+        "New X-Men",
+        "Young X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New Mutants vol. 2 #3",
+      "debutDate": "2003-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant who forms a rock body from surrounding earth and can reassemble after being shattered. He trained at the Xavier Institute and served with the Young X-Men. Demolition requests should be routed through proper channels.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rockslide_(comics)"
+      ],
+      "notes": "His teams were Xavier Institute student squads with no TEAMS id, and he never served on an X-Men main roster, so primaryTeam is none."
+    }
+  ],
+  "dropped": []
+}

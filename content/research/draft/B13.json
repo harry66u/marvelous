@@ -1,0 +1,1076 @@
+{
+  "characters": [
+    {
+      "id": "red-skull",
+      "name": "Red Skull",
+      "aliases": [
+        "Johann Schmidt",
+        "Johann Shmidt",
+        "Der Rote Schädel",
+        "Red Onslaught",
+        "White Skull",
+        "Skull"
+      ],
+      "realName": "Johann Shmidt",
+      "primaryTeam": "hydra",
+      "teams": [
+        "hydra"
+      ],
+      "otherTeams": [
+        "Nazi Germany (SS)",
+        "Skeleton Crew",
+        "The Exiles"
+      ],
+      "debutYear": 1941,
+      "debutIssue": "Captain America Comics #1",
+      "debutDate": "1941-03",
+      "alignment": "villain",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is a Nazi operative with a face like a crimson skull and the archenemy of Captain America. Has commanded Hydra and favors a poison known as the dust of death. Agents are advised to decline all handshakes.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Skull"
+      ],
+      "notes": "Origin is contested: the comics Johann Shmidt is unpowered for most of his history, but super-soldier fits the MCU's early Super-Soldier Serum and his comics years in a Super-Soldier-derived clone body. Wikipedia dates the Red Skull to Captain America Comics #1 (1941), where George Maxon wore the identity."
+    },
+    {
+      "id": "baron-zemo",
+      "name": "Baron Zemo",
+      "aliases": [
+        "Helmut Zemo",
+        "Zemo",
+        "Baron Helmut Zemo",
+        "Citizen V",
+        "Iron Cross"
+      ],
+      "realName": "Helmut Zemo",
+      "primaryTeam": "masters-of-evil",
+      "teams": [
+        "masters-of-evil",
+        "thunderbolts",
+        "hydra"
+      ],
+      "otherTeams": [
+        "V-Battalion"
+      ],
+      "debutYear": 1973,
+      "debutIssue": "Captain America #168",
+      "debutDate": "1973-12",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: Civil War",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the thirteenth holder of a German noble title and a persistent enemy of Captain America and the Avengers. Once disguised a team of villains as heroes and named them the Thunderbolts. The purple mask stays on.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baron_Zemo",
+        "https://en.wikipedia.org/wiki/Helmut_Zemo",
+        "https://en.wikipedia.org/wiki/Heinrich_Zemo"
+      ],
+      "notes": "Record follows Helmut Zemo, the MCU's Zemo, who debuted as the Phoenix in 1973 and first appeared as Baron Zemo in 1982. The original Baron, his father Heinrich, debuted in The Avengers #4 (March 1964, flashback cameo), so the debut is contested."
+    },
+    {
+      "id": "baron-strucker",
+      "name": "Baron Strucker",
+      "aliases": [
+        "Wolfgang von Strucker",
+        "Strucker",
+        "Baron von Strucker",
+        "Supreme Hydra"
+      ],
+      "realName": "Wolfgang von Strucker",
+      "primaryTeam": "hydra",
+      "teams": [
+        "hydra"
+      ],
+      "otherTeams": [
+        "Power Elite",
+        "Death's Head Squadron"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Sgt. Fury and His Howling Commandos #5",
+      "debutDate": "1964-01",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a German aristocrat and former Nazi officer, founder and supreme leader of Hydra. Wears the Satan Claw, a gauntlet that amplifies his strength and delivers electric shocks. Hail with caution.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baron_Strucker"
+      ],
+      "notes": "Origin set to trained because he is defined by skill and command, though Wikipedia lists superhuman traits from the Satan Claw gauntlet and the Death Spore virus."
+    },
+    {
+      "id": "arnim-zola",
+      "name": "Arnim Zola",
+      "aliases": [
+        "Zola",
+        "Arnim",
+        "The Bio-Fanatic"
+      ],
+      "realName": "",
+      "primaryTeam": "hydra",
+      "teams": [
+        "hydra"
+      ],
+      "otherTeams": [],
+      "debutYear": 1977,
+      "debutIssue": "Captain America and the Falcon #208",
+      "debutDate": "1977-04",
+      "alignment": "villain",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Swiss biochemist who now inhabits an android body, his face displayed on a screen in its chest. A longtime Hydra scientist and associate of the Red Skull. Agents should not attempt to change the channel.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arnim_Zola"
+      ],
+      "notes": "Origin set to synthetic because he has lived in android bodies since his 1977 debut; Wikipedia calls him a 'human mutate-cyborg', and the MCU version is human before becoming a computer-stored mind."
+    },
+    {
+      "id": "crossbones",
+      "name": "Crossbones",
+      "aliases": [
+        "Brock Rumlow",
+        "Rumlow",
+        "Frag",
+        "Bingo Brock",
+        "Mr. Bones"
+      ],
+      "realName": "Brock Rumlow",
+      "primaryTeam": "hydra",
+      "teams": [
+        "hydra",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Skeleton Crew",
+        "Assassins Guild"
+      ],
+      "debutYear": 1989,
+      "debutIssue": "Captain America #359",
+      "debutDate": "1989-10",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a mercenary enforcer frequently employed by the Red Skull and Hydra. An expert combatant and marksman who wears a black-and-white skull mask. His stint with the Thunderbolts ended in discharge, which surprised no one.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Crossbones_(character)"
+      ],
+      "notes": "Debut is the cameo in Captain America #359 listed in Wikipedia's infobox (full appearance #360, named in #362). Energy powers from corrupted Terrigen Mist were temporary, so origin is trained."
+    },
+    {
+      "id": "sharon-carter",
+      "name": "Sharon Carter",
+      "aliases": [
+        "Agent 13",
+        "Power Broker",
+        "Sharon"
+      ],
+      "realName": "",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield",
+        "avengers",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Daughters of Liberty"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Tales of Suspense #75",
+      "debutDate": "1966-03",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a veteran S.H.I.E.L.D. field agent known by a numbered code name. A longtime partner of Captain America and kin to a celebrated World War II heroine. Family reunions are classified.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sharon_Carter"
+      ],
+      "notes": "Avengers membership is via the 2010 Secret Avengers and Thunderbolts via Bucky Barnes's 2023 team. The MCU version is revealed as the Power Broker in The Falcon and the Winter Soldier, but she is a hero across her history."
+    },
+    {
+      "id": "peggy-carter",
+      "name": "Peggy Carter",
+      "aliases": [
+        "Margaret Carter",
+        "Peggy",
+        "Agent Carter",
+        "Captain Carter",
+        "Dryad"
+      ],
+      "realName": "Margaret Carter",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield"
+      ],
+      "otherTeams": [
+        "French Resistance",
+        "Strategic Scientific Reserve",
+        "Daughters of Liberty"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Tales of Suspense #75",
+      "debutDate": "1966-03",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject fought with the French Resistance during World War II and later served S.H.I.E.L.D. for many years. Was Captain America's wartime sweetheart. Agents are reminded she was doing this job before most of them were born.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Peggy_Carter"
+      ],
+      "notes": "Wikipedia's infobox lists her first, unnamed and obscured, in Tales of Suspense #75 (March 1966); she was first named in 1973. The infobox's Avengers link was a support-staff role and is omitted; the Strategic Scientific Reserve is her MCU agency."
+    },
+    {
+      "id": "phil-coulson",
+      "name": "Phil Coulson",
+      "aliases": [
+        "Agent Coulson",
+        "Coulson",
+        "Phil",
+        "Phillip Coulson",
+        "Cheese"
+      ],
+      "realName": "Phillip Coulson",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield",
+        "avengers",
+        "squadron-supreme"
+      ],
+      "otherTeams": [
+        "Power Elite",
+        "75th Ranger Regiment"
+      ],
+      "debutYear": 2008,
+      "debutIssue": "Iron Man (2008 film)",
+      "debutDate": "2008-05",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a S.H.I.E.L.D. agent first encountered on the Iron Man case. Noted for composure under fire and a prized set of vintage Captain America trading cards. Reports of Subject's death have repeatedly proven unreliable.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phil_Coulson"
+      ],
+      "notes": "Created for the 2008 Iron Man film; his comics debut is Battle Scars #6 (April 2012). Classed as a hero overall, though the comics version later served Mephisto, led the Squadron Supreme of America and was the main villain of Heroes Reborn (2021)."
+    },
+    {
+      "id": "dum-dum-dugan",
+      "name": "Dum Dum Dugan",
+      "aliases": [
+        "Timothy Dugan",
+        "Dum Dum",
+        "Dugan",
+        "Timothy Aloysius Cadwallader Dugan"
+      ],
+      "realName": "Timothy Dugan",
+      "primaryTeam": "howling-commandos",
+      "teams": [
+        "howling-commandos",
+        "shield"
+      ],
+      "otherTeams": [
+        "U.S. Army"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Sgt. Fury and His Howling Commandos #1",
+      "debutDate": "1963-05",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a former circus strongman who served as second-in-command of the Howling Commandos and later as deputy director of S.H.I.E.L.D. Rarely seen without his bowler hat. The hat is not regulation; nobody has raised the issue.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dum_Dum_Dugan"
+      ],
+      "notes": "Original Sin (2014) revealed the modern Dugan to be a Life Model Decoy carrying his mind; origin stays trained for his long history as a human soldier."
+    },
+    {
+      "id": "viper-ophelia-sarkissian",
+      "name": "Viper (Ophelia Sarkissian)",
+      "aliases": [
+        "Viper",
+        "Ophelia Sarkissian",
+        "Madame Hydra",
+        "Madame Viper"
+      ],
+      "realName": "Ophelia Sarkissian",
+      "primaryTeam": "hydra",
+      "teams": [
+        "hydra"
+      ],
+      "otherTeams": [
+        "Serpent Squad",
+        "H.A.M.M.E.R.",
+        "Femme Fatales"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "Captain America #110",
+      "debutDate": "1969-02",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject has served as a commander of Hydra and led the Serpent Squad. Immune to most toxins and venoms, and once forced Wolverine into marriage. Agents should not accept any drink Subject has poured.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Viper_(Ophelia_Sarkissian)"
+      ],
+      "notes": "mcu is false: her live-action versions are in Fox's The Wolverine (2013) and ABC's Agents of S.H.I.E.L.D., neither of which counts. Wikipedia tags her 'human mutate', but her listed abilities are training plus toxin immunity; Hellfire Club and Hand ties were brief and are omitted."
+    },
+    {
+      "id": "modok",
+      "name": "M.O.D.O.K.",
+      "aliases": [
+        "MODOK",
+        "George Tarleton",
+        "MODOC",
+        "Mental Organism Designed Only for Killing"
+      ],
+      "realName": "George Tarleton",
+      "primaryTeam": "aim",
+      "teams": [
+        "aim"
+      ],
+      "otherTeams": [
+        "Intelligencia",
+        "Headmen"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Tales of Suspense #93",
+      "debutDate": "1967-09",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Ant-Man and the Wasp: Quantumania",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject underwent A.I.M. mutagenic experiments that vastly enlarged both his intellect and his head. Travels by hoverchair and wields psionic powers. Hat size remains classified.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/MODOK",
+        "https://en.wikipedia.org/w/index.php?title=MODOK&action=raw"
+      ],
+      "notes": "Wikipedia's infobox gives Tales of Suspense #94 (October 1967), but its lead and publication history name #93 (September 1967) as the first appearance, so #93 is used. The MCU's M.O.D.O.K. is Darren Cross (Corey Stoll), not George Tarleton."
+    },
+    {
+      "id": "taskmaster",
+      "name": "Taskmaster",
+      "aliases": [
+        "Tony Masters",
+        "Anthony Masters",
+        "Tasky",
+        "Antonia Dreykov"
+      ],
+      "realName": "Anthony Masters",
+      "primaryTeam": "none",
+      "teams": [
+        "avengers",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Avengers Initiative",
+        "Shadow Initiative"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Avengers #195",
+      "debutDate": "1980-05",
+      "alignment": "villain",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Black Widow",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject possesses photographic reflexes, allowing him to replicate any fighting technique after watching it. Has trained countless henchmen for a fee. Agents are advised not to demonstrate their signature moves in his presence.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taskmaster_(character)"
+      ],
+      "notes": "Origin is contested: his photographic reflexes were long presented as innate, but a later retcon credits a modified Nazi Super-Soldier Serum. The MCU Taskmaster is a woman, Antonia Dreykov (Olga Kurylenko); the Avengers entry is the Marvel NOW! Secret Avengers."
+    },
+    {
+      "id": "us-agent",
+      "name": "U.S. Agent",
+      "aliases": [
+        "John Walker",
+        "USAgent",
+        "US Agent",
+        "Super-Patriot",
+        "Jack Daniels"
+      ],
+      "realName": "John Walker",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "thunderbolts",
+        "dark-avengers"
+      ],
+      "otherTeams": [
+        "Force Works",
+        "Omega Flight",
+        "Commission on Superhuman Activities"
+      ],
+      "debutYear": 1986,
+      "debutIssue": "Captain America #323",
+      "debutDate": "1986-11",
+      "alignment": "antihero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Falcon and the Winter Soldier",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a former Army soldier who underwent strength augmentation and briefly replaced Captain America. Has since served with the West Coast Avengers and the Thunderbolts. Agents should not call Subject the other guy with the shield.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/U.S._Agent"
+      ],
+      "notes": "His comics powers come from the Power Broker's augmentation (Wikipedia: 'mutagenic augmentation'), classed here as a super-soldier enhancement program; the MCU version takes a super-soldier serum."
+    },
+    {
+      "id": "batroc-the-leaper",
+      "name": "Batroc the Leaper",
+      "aliases": [
+        "Georges Batroc",
+        "Batroc",
+        "The Leaper"
+      ],
+      "realName": "Georges Batroc",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Batroc's Brigade"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Tales of Suspense #75",
+      "debutDate": "1966-03",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a French mercenary and master of savate, a form of kickboxing. Has clashed with Captain America for decades and occasionally leads a brigade of his own. Agents are advised to watch his feet.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Batroc_the_Leaper"
+      ],
+      "notes": "Wikipedia also lists the Thunderbolts and Masters of Evil, but his Thunderbolts stints were a forced draft and a King in Black tie-in, so only Batroc's Brigade is kept."
+    },
+    {
+      "id": "red-guardian",
+      "name": "Red Guardian",
+      "aliases": [
+        "Alexei Shostakov",
+        "Alexei"
+      ],
+      "realName": "Alexei Shostakov",
+      "primaryTeam": "thunderbolts",
+      "teams": [
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "KGB"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "The Avengers #43",
+      "debutDate": "1967-08",
+      "alignment": "antihero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Black Widow",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a former Soviet test pilot and KGB agent trained as his nation's answer to Captain America. Was once married to the Black Widow. His throwing disc doubles as a belt buckle.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Guardian"
+      ],
+      "notes": "Record follows Alexei Shostakov, the MCU's Red Guardian, in a mantle with several holders. Comics Alexei has no superhuman powers, but MCU tie-in material presents him as a Soviet super-soldier, so origin is contested."
+    },
+    {
+      "id": "yelena-belova",
+      "name": "Yelena Belova",
+      "aliases": [
+        "White Widow",
+        "Yelena",
+        "Belova"
+      ],
+      "realName": "",
+      "primaryTeam": "thunderbolts",
+      "teams": [
+        "thunderbolts",
+        "red-room",
+        "shield"
+      ],
+      "otherTeams": [],
+      "debutYear": 1999,
+      "debutIssue": "Inhumans vol. 2 #5",
+      "debutDate": "1999-03",
+      "alignment": "antihero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Black Widow",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Red Room-trained operative who spent years trying to supplant Natasha Romanova as the Black Widow. Has since served with S.H.I.E.L.D. and the Thunderbolts. Agents should not confuse the two.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yelena_Belova"
+      ],
+      "notes": "Wikipedia's infobox dates Inhumans #5 to January 1999, its on-sale month; the cover date is March 1999. A design sketch appeared earlier in Marvel Knights: Wave 2 Sketchbook #1 (January 1998)."
+    },
+    {
+      "id": "mandarin",
+      "name": "Mandarin",
+      "aliases": [
+        "The Mandarin",
+        "Xu Wenwu",
+        "Wenwu",
+        "Zhang Tong",
+        "Gene Khan",
+        "Tem Borjigin"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Ten Rings (MCU)"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Tales of Suspense #50",
+      "debutDate": "1964-02",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man 3",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a master martial artist whose ten rings, salvaged from a crashed alien starship, each grant a different power. A longtime nemesis of Iron Man. Agents are advised to count the rings before engaging.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mandarin_(character)"
+      ],
+      "notes": "mcuFirst is contested: Iron Man 3 has the Mandarin persona (Trevor Slattery as figurehead, Aldrich Killian claiming the title), while Shang-Chi's Xu Wenwu is the closer adaptation but never uses the name himself. The comics never reveal his birth name, so realName is empty."
+    },
+    {
+      "id": "justin-hammer",
+      "name": "Justin Hammer",
+      "aliases": [
+        "Hammer"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Hammer Industries"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "Iron Man #120",
+      "debutDate": "1979-03",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man 2",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a British financier who bankrolls costumed criminals in exchange for half of their profits and pays their bail. A persistent business rival of Tony Stark. Subject has no superpowers, merely excellent lawyers.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Justin_Hammer"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "iron-monger",
+      "name": "Iron Monger",
+      "aliases": [
+        "Obadiah Stane",
+        "Obie",
+        "Stane"
+      ],
+      "realName": "Obadiah Stane",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Stane International",
+        "The Chessmen"
+      ],
+      "debutYear": 1982,
+      "debutIssue": "Iron Man #163",
+      "debutDate": "1982-10",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a ruthless industrialist and champion chess player who bought out Tony Stark's company and renamed it after himself. Later built an oversized suit of armor of his own. Board meetings with Subject are not recommended.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Obadiah_Stane"
+      ],
+      "notes": "Debut is Obadiah Stane's first appearance; the Iron Monger armor debuted in Iron Man #200 (November 1985)."
+    },
+    {
+      "id": "titanium-man",
+      "name": "Titanium Man",
+      "aliases": [
+        "Boris Bullski",
+        "Boris the Merciless"
+      ],
+      "realName": "Boris Bullski",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Titanic Three",
+        "KGB",
+        "Green Liberation Front"
+      ],
+      "debutYear": 1965,
+      "debutIssue": "Tales of Suspense #69",
+      "debutDate": "1965-09",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Soviet operative who donned massive green armor to defeat Iron Man in the name of his nation. Has also served with the Titanic Three. Results to date have not favored Subject.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Titanium_Man"
+      ],
+      "notes": "Several characters have used the name; the record follows the original, Boris Bullski."
+    },
+    {
+      "id": "crimson-dynamo",
+      "name": "Crimson Dynamo",
+      "aliases": [
+        "Anton Vanko",
+        "Dmitri Bukharin",
+        "Valentin Shatalov",
+        "Boris Turgenov",
+        "Alexander Nevsky",
+        "Galina Nemirovsky"
+      ],
+      "realName": "Anton Vanko",
+      "primaryTeam": "winter-guard",
+      "teams": [
+        "winter-guard"
+      ],
+      "otherTeams": [
+        "Soviet Super-Soldiers",
+        "Titanic Three",
+        "Remont 4"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Tales of Suspense #46",
+      "debutDate": "1963-10",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject designation covers a succession of Soviet and Russian pilots of the same red powered armor, the first built by an expert on electricity. Most have fought Iron Man; some later joined the Winter Guard. Agents should confirm which pilot they are facing.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+      ],
+      "notes": "Legacy mantle with more than a dozen holders: realName gives the original, Anton Vanko, while the Winter Guard link comes from later pilots such as Dmitri Bukharin. mcu is false because no Crimson Dynamo appears on screen; Anton Vanko appears unarmored in Iron Man 2."
+    },
+    {
+      "id": "whiplash",
+      "name": "Whiplash",
+      "aliases": [
+        "Mark Scarlotti",
+        "Marco Scarlotti",
+        "Blacklash",
+        "Ivan Vanko"
+      ],
+      "realName": "Mark Scarlotti",
+      "primaryTeam": "maggia",
+      "teams": [
+        "maggia"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate",
+        "Death Squad"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "Tales of Suspense #97",
+      "debutDate": "1968-01",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man 2",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a mercenary armed with cybernetically controlled titanium whips. Has worked for the Maggia and repeatedly tangled with Iron Man. Agents should maintain a distance of at least one whip length.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Whiplash_(Marvel_Comics)"
+      ],
+      "notes": "Mantle record anchored on the original, Mark Scarlotti; the MCU's Whiplash is Ivan Vanko (Mickey Rourke), an original character who inspired the comics' Anton Vanko Whiplash."
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "aliases": [
+        "Crimson Cowl",
+        "Ultron-5"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Phalanx"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "The Avengers #54",
+      "debutDate": "1968-07",
+      "alignment": "villain",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Avengers: Age of Ultron",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a robot built by Hank Pym that soon turned on its creator and the Avengers. Has rebuilt itself in hundreds of numbered versions, many with adamantium bodies. Unplugging has been attempted.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ultron"
+      ],
+      "notes": "Debut uses the cameo in The Avengers #54, where he appears as the Crimson Cowl; first full appearance is #55 (August 1968). He led the Masters of Evil in that debut story, a short stint left out of teams."
+    },
+    {
+      "id": "pepper-potts",
+      "name": "Pepper Potts",
+      "aliases": [
+        "Rescue",
+        "Virginia Potts",
+        "Pepper",
+        "Hera"
+      ],
+      "realName": "Virginia Potts",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Stark Industries",
+        "The Order"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Tales of Suspense #45",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject began as Tony Stark's secretary and has since helped run his company. Has taken the field in powered armor of her own. Subject's patience with Mr. Stark is considered her greatest power.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pepper_Potts"
+      ],
+      "notes": "Origin is tech for the Rescue armor and the chest-mounted device that leads Wikipedia to class her as a cyborg. The Avengers entry in her infobox is not supported by the comics text, so it is left out."
+    },
+    {
+      "id": "ironheart",
+      "name": "Ironheart",
+      "aliases": [
+        "Riri Williams",
+        "Riri"
+      ],
+      "realName": "Riri Williams",
+      "primaryTeam": "champions",
+      "teams": [
+        "champions"
+      ],
+      "otherTeams": [],
+      "debutYear": 2016,
+      "debutIssue": "Invincible Iron Man vol. 2 #7",
+      "debutDate": "2016-05",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Black Panther: Wakanda Forever",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a teenage engineering prodigy who built her own suit of powered armor while a student at MIT. Has fought alongside the Champions. MIT has been notified.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ironheart_(character)"
+      ],
+      "notes": "Debut is the cameo in Invincible Iron Man vol. 2 #7 (May 2016), with her full appearance in #9 (July 2016); Wikipedia's lead calls it vol. 3. Avengers and Young Avengers appear only in her infobox and are left out."
+    },
+    {
+      "id": "the-hood",
+      "name": "The Hood",
+      "aliases": [
+        "Parker Robbins",
+        "Hood"
+      ],
+      "realName": "Parker Robbins",
+      "primaryTeam": "cabal",
+      "teams": [
+        "cabal"
+      ],
+      "otherTeams": [
+        "Hood's crime syndicate",
+        "Shadow Initiative",
+        "Illuminati (villain group)"
+      ],
+      "debutYear": 2002,
+      "debutIssue": "The Hood #1",
+      "debutDate": "2002-07",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Ironheart",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a small-time thief who acquired a demonic cloak and boots granting invisibility and the ability to walk on air. Later organized much of the costumed underworld into a single syndicate. Agents should keep an eye on empty air.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hood_(comics)"
+      ],
+      "notes": "The Illuminati in his infobox is the villain group he formed, separate from the heroes' Illuminati, so it is listed under otherTeams."
+    },
+    {
+      "id": "abomination",
+      "name": "Abomination",
+      "aliases": [
+        "Emil Blonsky",
+        "Blonsky",
+        "Agent R-7"
+      ],
+      "realName": "Emil Blonsky",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "KGB"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Tales to Astonish #90",
+      "debutDate": "1967-04",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a former KGB agent who deliberately exposed himself to gamma radiation and became a scaly creature stronger than the Hulk. Retains his full intellect in that form. Agents should not comment on his appearance.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abomination_(character)"
+      ],
+      "notes": "Infobox teams (A.I.M., Masters of Evil, Lethal Legion, Thunderbolts) are adversarial, adaptation-only or single-storyline links, so none are kept."
+    },
+    {
+      "id": "the-leader",
+      "name": "The Leader",
+      "aliases": [
+        "Samuel Sterns",
+        "Sam Sterns",
+        "Red Leader"
+      ],
+      "realName": "Samuel Sterns",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Intelligencia",
+        "Freehold",
+        "Riot Squad"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Tales to Astonish #62",
+      "debutDate": "1964-12",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject was a menial laborer until gamma radiation turned his skin green and enlarged his cranium and intellect to superhuman levels. A longtime foe of the Hulk. Agents should not attempt to out-think Subject.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Leader_(comics)"
+      ],
+      "notes": "mcuFirst is The Incredible Hulk (2008), where Samuel Sterns appears before his transformation; he returns as the Leader in Captain America: Brave New World. He was forced to work for Ross's Thunderbolts, so that team is omitted."
+    },
+    {
+      "id": "red-hulk",
+      "name": "Red Hulk",
+      "aliases": [
+        "Thaddeus Ross",
+        "Thunderbolt Ross",
+        "General Ross",
+        "Rulk",
+        "President Ross"
+      ],
+      "realName": "Thaddeus Ross",
+      "primaryTeam": "thunderbolts",
+      "teams": [
+        "thunderbolts",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Hulkbusters",
+        "Offenders",
+        "U.S. Air Force"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "The Incredible Hulk #1",
+      "debutDate": "1962-05",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a career general who spent years hunting the Hulk before becoming a red gamma giant himself. Radiates heat, absorbs energy, and has led the Thunderbolts. The irony has been noted for the record.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Hulk",
+        "https://en.wikipedia.org/w/index.php?title=Red_Hulk&action=raw",
+        "https://en.wikipedia.org/wiki/Thunderbolt_Ross"
+      ],
+      "notes": "Record treats Red Hulk as Thaddeus Ross, so debut and mcuFirst follow Ross (Wikipedia's Red Hulk mantle article has no infobox). As Red Hulk he debuted in Hulk vol. 2 #1 (2008) and first appeared on screen in Captain America: Brave New World (2025)."
+    },
+    {
+      "id": "red-she-hulk",
+      "name": "Red She-Hulk",
+      "aliases": [
+        "Betty Ross",
+        "Elizabeth Ross",
+        "Betty Banner",
+        "Betty Ross-Talbot",
+        "Harpy",
+        "Red Harpy"
+      ],
+      "realName": "Betty Ross",
+      "primaryTeam": "defenders",
+      "teams": [
+        "defenders"
+      ],
+      "otherTeams": [
+        "Ancient Order of the Shield"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "The Incredible Hulk #1",
+      "debutDate": "1962-05",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a general's daughter and Bruce Banner's wife who was transformed by gamma radiation into a red-skinned powerhouse. Has served with the Defenders. Family gatherings are considered high-risk.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_She-Hulk"
+      ],
+      "notes": "Wikipedia's Red She-Hulk redirects to Betty Ross, so debut and MCU follow Betty (the infobox says March 1962, but The Incredible Hulk #1 is cover-dated May 1962). She first became Red She-Hulk in Hulk vol. 2 #15 (September 2009) and has never appeared in that form in live action."
+    },
+    {
+      "id": "amadeus-cho",
+      "name": "Amadeus Cho",
+      "aliases": [
+        "Brawn",
+        "Totally Awesome Hulk",
+        "Mastermind Excello",
+        "Amadeus"
+      ],
+      "realName": "",
+      "primaryTeam": "champions",
+      "teams": [
+        "champions",
+        "agents-of-atlas",
+        "avengers"
+      ],
+      "otherTeams": [
+        "God Squad"
+      ],
+      "debutYear": 2006,
+      "debutIssue": "Amazing Fantasy vol. 2 #15",
+      "debutDate": "2006-01",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a teenage super-genius who later used nanobots to absorb the Hulk's gamma radiation into himself. Has served with the Champions and led the Agents of Atlas in the field. Agents should assume he has already done the math.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amadeus_Cho"
+      ],
+      "notes": "Wikipedia gives January 2005, but Amazing Fantasy vol. 2 #15 went on sale November 30, 2005 with a January 2006 cover date. Origin is mutate for his gamma-powered Hulk/Brawn identity; he was an unpowered genius before 2015, and a planned live-action debut was cut from Brave New World."
+    }
+  ],
+  "dropped": []
+}

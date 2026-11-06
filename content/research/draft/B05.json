@@ -1,0 +1,1063 @@
+{
+  "characters": [
+    {
+      "id": "spider-man-peter-parker",
+      "name": "Spider-Man (Peter Parker)",
+      "aliases": [
+        "Spidey",
+        "Peter Parker",
+        "Web-Head",
+        "Wall-Crawler",
+        "Web-Slinger",
+        "Iron Spider",
+        "Friendly Neighborhood Spider-Man",
+        "Ricochet"
+      ],
+      "realName": "Peter Parker",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "fantastic-four",
+        "web-warriors"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Amazing Fantasy #15",
+      "debutDate": "1962-08",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: Civil War",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject gained spider-like abilities after a radioactive spider bit him at a science exhibit. Has sold photographs of himself to the Daily Bugle, which routinely labels him a menace. Agents are advised not to ask who took the pictures.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spider-Man",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Teams follow the Wikipedia infobox: fantastic-four reflects his 2011 Future Foundation/FF membership and web-warriors the Spider-Army of the Spider-Verse events."
+    },
+    {
+      "id": "spider-man-miles-morales",
+      "name": "Spider-Man (Miles Morales)",
+      "aliases": [
+        "Miles Morales",
+        "Miles",
+        "Kid Arachnid",
+        "Spin",
+        "Shadow Spider"
+      ],
+      "realName": "Miles Morales",
+      "primaryTeam": "champions",
+      "teams": [
+        "champions",
+        "avengers",
+        "web-warriors"
+      ],
+      "otherTeams": [
+        "The Ultimates"
+      ],
+      "debutYear": 2011,
+      "debutIssue": "Ultimate Fallout #4",
+      "debutDate": "2011-08",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject was bitten by a genetically engineered spider and took up the Spider-Man name after the apparent death of his universe's Peter Parker. Can turn invisible and deliver a paralyzing 'venom strike'. Agents should not assume there is only one Spider-Man.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Miles_Morales",
+        "https://en.wikipedia.org/wiki/Ultimate_Fallout",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Primary team is the Champions (founding member, longest tenure) rather than the All-New, All-Different Avengers; in the MCU he is only alluded to, never shown. Wikipedia's August 2011 is the on-sale month (released 3 August 2011); dealer listings suggest an October 2011 cover date that I could not confirm from a source I could open."
+    },
+    {
+      "id": "spider-gwen",
+      "name": "Spider-Gwen",
+      "aliases": [
+        "Gwen Stacy",
+        "Ghost-Spider",
+        "Gwenom",
+        "Gwen"
+      ],
+      "realName": "Gwen Stacy",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors"
+      ],
+      "otherTeams": [
+        "The Mary Janes",
+        "Spider-Society"
+      ],
+      "debutYear": 2014,
+      "debutIssue": "Edge of Spider-Verse #2",
+      "debutDate": "2014-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is the Gwen Stacy of Earth-65, where she, not Peter Parker, was bitten by the radioactive spider. Has operated as Spider-Woman and Ghost-Spider and drums for a band called the Mary Janes. Agents should confirm which Gwen Stacy they are addressing.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spider-Woman_(Gwen_Stacy)",
+        "https://en.wikipedia.org/wiki/Spider-Gwen",
+        "https://www.cgcgrading.com/news/articles/sept-2022-comic-month-spiderverse-spider-gwen-705kU0C28e8mFNInSgZokF/"
+      ],
+      "notes": "Wikipedia's infobox gives September 2014, the on-sale month; CGC lists the November 2014 cover date. Her Spider-Woman codename is left out of aliases because it belongs to Jessica Drew."
+    },
+    {
+      "id": "black-cat",
+      "name": "Black Cat",
+      "aliases": [
+        "Felicia Hardy",
+        "Felicia",
+        "Queenpin",
+        "Felicity Harmon"
+      ],
+      "realName": "Felicia Hardy",
+      "primaryTeam": "none",
+      "teams": [
+        "heroes-for-hire"
+      ],
+      "otherTeams": [
+        "Black Cat's Gang"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "The Amazing Spider-Man #194",
+      "debutDate": "1979-07",
+      "alignment": "antihero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a cat burglar who has alternated between adversary, ally and romantic interest of Spider-Man. Has Olympic-level acrobatic skill and has at times possessed the power to cause bad luck. Valuables in her vicinity should be considered already missing.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Cat_(Marvel_Comics)"
+      ],
+      "notes": "Origin is contested: she began without powers, later gained psionic 'bad luck' powers from a Kingpin-backed experiment, and has gained and lost powers several times; trained reflects her core skills. The infobox also lists Avengers, A-Force and Defenders, which the article text does not support, so only Heroes for Hire (joined during Civil War) is counted."
+    },
+    {
+      "id": "silk",
+      "name": "Silk",
+      "aliases": [
+        "Cindy Moon",
+        "Silkworm",
+        "Spider-Bride"
+      ],
+      "realName": "Cindy Moon",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors",
+        "agents-of-atlas"
+      ],
+      "otherTeams": [],
+      "debutYear": 2014,
+      "debutIssue": "The Amazing Spider-Man (vol. 3) #1",
+      "debutDate": "2014-06",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was bitten by the same radioactive spider as Peter Parker, then spent years locked in a facility for her own protection. Shoots webbing from her fingertips and has a danger sense stronger than Parker's. Agents should not offer to lock any doors for her.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silk_(character)",
+        "https://atomicavenue.com/atomic/item/606415/1/The-Amazing-SpiderMan-3rd-Series-1-Regular-Cover-by-Humberto-Ramos"
+      ],
+      "notes": "MCU status rests on Cindy Moon appearing as Peter's classmate (Tiffany Espensen) from Homecoming on, never as Silk. Wikipedia lists April 2014 (on-sale month) for the cameo; the issue's cover date is June 2014, and her full appearance is #4."
+    },
+    {
+      "id": "spider-girl-mayday-parker",
+      "name": "Spider-Girl (Mayday Parker)",
+      "aliases": [
+        "Mayday Parker",
+        "May Parker",
+        "Mayday"
+      ],
+      "realName": "May Parker",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 1998,
+      "debutIssue": "What If (vol. 2) #105",
+      "debutDate": "1998-02",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the teenage daughter of Peter Parker and Mary Jane Watson in the alternate MC2 reality. Inherited her father's spider-powers and became Spider-Girl, at first hindered and then helped by her worried parents. Curfew violations are presumed.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mayday_Parker"
+      ],
+      "notes": "Her powers are inherited from Peter Parker rather than gained in an accident; mutate follows Wikipedia's 'human mutate'. Her reserve status with MC2's A-Next is not counted as Avengers membership."
+    },
+    {
+      "id": "scarlet-spider-ben-reilly",
+      "name": "Scarlet Spider (Ben Reilly)",
+      "aliases": [
+        "Ben Reilly",
+        "Chasm",
+        "Spider-Carnage"
+      ],
+      "realName": "Ben Reilly",
+      "primaryTeam": "none",
+      "teams": [
+        "new-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 1975,
+      "debutIssue": "The Amazing Spider-Man #149",
+      "debutDate": "1975-10",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a clone of Peter Parker grown by the Jackal, who named himself after Uncle Ben and Aunt May's maiden name. Took over as Spider-Man in the mid-1990s while both men believed Parker was the clone. The matter has since been settled; agents should not reopen it.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ben_Reilly"
+      ],
+      "notes": "Debut uses the 1975 clone listed first in the infobox; he returned as Ben Reilly/Scarlet Spider in 1994. Wikipedia calls him a superhero, but he has had villainous turns as the Jackal and Chasm, and his New Warriors stint was brief."
+    },
+    {
+      "id": "spider-man-2099",
+      "name": "Spider-Man 2099",
+      "aliases": [
+        "Miguel O'Hara",
+        "Miguel"
+      ],
+      "realName": "Miguel O'Hara",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors"
+      ],
+      "otherTeams": [
+        "Exiles",
+        "Spider-Society"
+      ],
+      "debutYear": 1992,
+      "debutIssue": "The Amazing Spider-Man #365",
+      "debutDate": "1992-08",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Miguel O'Hara, a geneticist of the year 2099 whose DNA was half-rewritten with spider genes in an accident at Alchemax. Has talons, venomous fangs and the ability to see in darkness. Reports he files are dated 2099; this is not a clerical error.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spider-Man_2099"
+      ],
+      "notes": "Debut is the preview in ASM #365; his first full appearance is Spider-Man 2099 #1 (November 1992). The infobox lists only Exiles and Alchemax; web-warriors reflects his Spider-Army role in the 2014 Spider-Verse event."
+    },
+    {
+      "id": "madame-web",
+      "name": "Madame Web",
+      "aliases": [
+        "Cassandra Webb",
+        "Cassie Webb"
+      ],
+      "realName": "Cassandra Webb",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1980,
+      "debutIssue": "The Amazing Spider-Man #210",
+      "debutDate": "1980-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Cassandra Webb, a blind clairvoyant and precognitive mutant who long depended on a web-shaped life-support system. Has used her abilities to help Spider-Man on several occasions. Meetings with Subject need not be scheduled; she will already know.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madame_Web"
+      ],
+      "notes": "This entry is Cassandra Webb, the original; Julia Carpenter later inherited the name. The 2024 Sony film is not MCU and gives her a spider-bite origin, unlike the comics' mutant."
+    },
+    {
+      "id": "prowler-hobie-brown",
+      "name": "Prowler (Hobie Brown)",
+      "aliases": [
+        "Hobie Brown",
+        "Hobart Brown",
+        "Hobie"
+      ],
+      "realName": "Hobie Brown",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Outlaws",
+        "Parker Industries"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "The Amazing Spider-Man #78",
+      "debutDate": "1969-11",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an inventor who built the Prowler gear after being fired from his window-washing job and first used it as a thief. Spider-Man unmasked him and advised him to rethink his life; he has been an ally since. Agents should not underestimate window washers.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
+      ],
+      "notes": "Not the MCU Prowler (Aaron Davis) or Spider-Punk, the Earth-138 Hobie Brown; this Hobie Brown has never appeared in live action, so players are likely to confuse the entries."
+    },
+    {
+      "id": "spider-ham",
+      "name": "Spider-Ham",
+      "aliases": [
+        "Peter Porker",
+        "Spectacular Spider-Ham"
+      ],
+      "realName": "Peter Porker",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 1983,
+      "debutIssue": "Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham #1",
+      "debutDate": "1983-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject was born a spider and was bitten by scientist May Porker after she irradiated herself with an atomic-powered hairdryer, turning him into an anthropomorphic pig with spider-powers. Agents are reminded that he is, in fact, a pig.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spider-Ham"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "silver-sable",
+      "name": "Silver Sable",
+      "aliases": [
+        "Silvija Sablinova",
+        "Silver Sablinova",
+        "Sable"
+      ],
+      "realName": "Silvija Sablinova",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Wild Pack",
+        "Outlaws",
+        "Silver Sable International"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "The Amazing Spider-Man #265",
+      "debutDate": "1985-06",
+      "alignment": "antihero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Symkarian mercenary who leads the Wild Pack and runs Silver Sable International, which hunts war criminals for a fee. Has no superhuman powers and has been both ally and opponent to Spider-Man. Agents should request a quote in advance.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silver_Sable"
+      ],
+      "notes": "Wikipedia gives her real name as Silvija Sablinova (older sources: Silver Sablinova). The infobox lists Heroes for Hire, but the article only shows her fighting them, so it is omitted."
+    },
+    {
+      "id": "agent-venom",
+      "name": "Agent Venom",
+      "aliases": [
+        "Flash Thompson",
+        "Eugene Thompson",
+        "Flash",
+        "Agent Anti-Venom",
+        "Venom Space Knight"
+      ],
+      "realName": "Eugene \"Flash\" Thompson",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "thunderbolts",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Agents of the Cosmos",
+        "U.S. Army"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Amazing Fantasy #15",
+      "debutDate": "1962-08",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is Flash Thompson, Peter Parker's high-school bully turned friend, who lost both legs in the Iraq War. Bonded with the Venom symbiote under a military program, which let him walk again. Bonding sessions are limited to 48 hours; Subject is asked to keep track.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flash_Thompson",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Debut uses Flash Thompson's first appearance; he first became Agent Venom in ASM #654 (April 2011). MCU is true because Flash Thompson (Tony Revolori) appears from Homecoming onward, though never as Agent Venom."
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "aliases": [
+        "Eddie Brock",
+        "Lethal Protector",
+        "Anti-Venom",
+        "Toxin",
+        "Black Suit",
+        "Alien Costume"
+      ],
+      "realName": "Eddie Brock",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1984,
+      "debutIssue": "The Amazing Spider-Man #252",
+      "debutDate": "1984-05",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is an alien symbiote first worn by Spider-Man as a black costume, later bonded to journalist Eddie Brock, who blamed Spider-Man for ruining his career. Has since operated as a violent 'Lethal Protector'. Subject refers to itself as 'we'; agents may do likewise.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Venom_(character)",
+        "https://en.wikipedia.org/wiki/Eddie_Brock",
+        "https://en.wikipedia.org/wiki/Savage_Avengers"
+      ],
+      "notes": "Debut uses the infobox's first entry, the symbiote as Spider-Man's alien costume (ASM #252, May 1984); Venom proper debuted with a cameo in ASM #299 (April 1988). The symbiote has had many hosts; realName follows Eddie Brock, and his temporary Sinister Six stint and Savage Avengers membership of unclear length are not counted."
+    },
+    {
+      "id": "carnage",
+      "name": "Carnage",
+      "aliases": [
+        "Cletus Kasady",
+        "Kasady",
+        "Superior Carnage",
+        "Carnage Cosmic"
+      ],
+      "realName": "Cletus Kasady",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Carnage's Family"
+      ],
+      "debutYear": 1991,
+      "debutIssue": "The Amazing Spider-Man #345",
+      "debutDate": "1991-03",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is serial killer Cletus Kasady, who bonded with an offspring of the Venom symbiote while sharing a prison cell with Eddie Brock. Regarded as Venom's archenemy. Cellmate assignments have since been reviewed.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carnage_(character)",
+        "https://en.wikipedia.org/wiki/Cletus_Kasady",
+        "https://www.comicbookreligion.com/?c=509"
+      ],
+      "notes": "The Carnage article lists an unnamed appearance in ASM #345 (March 1991); Cletus Kasady's own article gives ASM #344, and he first appeared as Carnage in ASM #360-361 (1992). His live-action films are Sony's, not MCU."
+    },
+    {
+      "id": "spider-girl-anya-corazon",
+      "name": "Spider-Girl (Anya Corazon)",
+      "aliases": [
+        "Anya Corazon",
+        "Araña",
+        "Arana"
+      ],
+      "realName": "Anya Corazon",
+      "primaryTeam": "web-warriors",
+      "teams": [
+        "web-warriors"
+      ],
+      "otherTeams": [
+        "Young Allies",
+        "Spider Society",
+        "WebCorps"
+      ],
+      "debutYear": 2004,
+      "debutIssue": "Amazing Fantasy (vol. 2) #1",
+      "debutDate": "2004-08",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was mortally wounded in a clash between two mystical clans and saved by a Spider Society ritual that granted her spider-powers. Operated as Araña before taking the Spider-Girl name. The Spider Society is not a book club.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anya_Corazon",
+        "https://en.wikipedia.org/wiki/Mayday_Parker"
+      ],
+      "notes": "Origin is contested: her first powers came from a Spider Society mystical ritual, while her later spider-powers came from the Jackal's Spider-Island virus; Wikipedia classes her as human mutate. Her only live-action role is in Sony's Madame Web (2024), not MCU."
+    },
+    {
+      "id": "green-goblin",
+      "name": "Green Goblin",
+      "aliases": [
+        "Norman Osborn",
+        "Gobby",
+        "Goblin King",
+        "Red Goblin",
+        "Gold Goblin",
+        "The Goblin"
+      ],
+      "realName": "Norman Osborn",
+      "primaryTeam": "dark-avengers",
+      "teams": [
+        "dark-avengers",
+        "cabal",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "H.A.M.M.E.R.",
+        "Sinister Twelve",
+        "Goblin Nation"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #14",
+      "debutDate": "1964-07",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is industrialist Norman Osborn, whose botched recreation of a strength-enhancing formula gave him superhuman abilities and drove him insane. Attacks from a glider with pumpkin bombs. Was later given command of H.A.M.M.E.R., which replaced S.H.I.E.L.D., with predictable results.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Green_Goblin",
+        "https://en.wikipedia.org/wiki/Norman_Osborn"
+      ],
+      "notes": "This entry is Norman Osborn; Harry Osborn, Bart Hamilton and Phil Urich have also been the Green Goblin. Primary team is the Dark Avengers he led as Iron Patriot; 'Iron Patriot' is left out of aliases to avoid a clash with War Machine."
+    },
+    {
+      "id": "hobgoblin-roderick-kingsley",
+      "name": "Hobgoblin (Roderick Kingsley)",
+      "aliases": [
+        "Roderick Kingsley",
+        "Kingsley"
+      ],
+      "realName": "Roderick Kingsley",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1983,
+      "debutIssue": "The Amazing Spider-Man #238",
+      "debutDate": "1983-03",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is fashion designer Roderick Kingsley, who found one of Norman Osborn's hideouts and perfected a strength formula from his notes. For years a brainwashed Ned Leeds stood in for him as the Hobgoblin. He later licensed the identity to others for a cut.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Roderick_Kingsley"
+      ],
+      "notes": "Roderick_Kingsley redirects to Hobgoblin (Marvel Comics), whose infobox gives only ASM #238 (March 1983); Kingsley appeared in civilian guise earlier in The Spectacular Spider-Man. Others (Ned Leeds, Jason Macendale, Phil Urich) have also been the Hobgoblin."
+    },
+    {
+      "id": "doctor-octopus",
+      "name": "Doctor Octopus",
+      "aliases": [
+        "Otto Octavius",
+        "Doc Ock",
+        "Dr. Octopus",
+        "Superior Spider-Man",
+        "Superior Octopus",
+        "Master Planner",
+        "Ock"
+      ],
+      "realName": "Otto Octavius",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "masters-of-evil",
+        "avengers",
+        "hydra"
+      ],
+      "otherTeams": [
+        "Superior Six"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #3",
+      "debutDate": "1963-07",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is nuclear physicist Otto Octavius, whose four mechanical arms were fused to his body in a laboratory accident. Founded the Sinister Six. Once spent a period living as Spider-Man in Peter Parker's body and declared himself 'Superior'.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doctor_Octopus"
+      ],
+      "notes": "Origin is classed tech because his abilities come from the mechanical arms; the radiation accident fused them to him and gave him mental control (Wikipedia: human mutate/cyborg). Avengers and Hydra memberships come from his time as the Superior Spider-Man and Superior Octopus."
+    },
+    {
+      "id": "vulture",
+      "name": "Vulture",
+      "aliases": [
+        "Adrian Toomes",
+        "Toomes",
+        "The Vulture"
+      ],
+      "realName": "Adrian Toomes",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #2",
+      "debutDate": "1963-05",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Adrian Toomes, an elderly electronics engineer who built an electromagnetic flight harness and turned to crime after his business partner embezzled their profits. A founding member of the Sinister Six. Considered a flight risk.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vulture_(Marvel_Comics)"
+      ],
+      "notes": "Others have used the Vulture name; this entry is Adrian Toomes, the original."
+    },
+    {
+      "id": "electro",
+      "name": "Electro",
+      "aliases": [
+        "Max Dillon",
+        "Maxwell Dillon",
+        "Master of Electricity"
+      ],
+      "realName": "Max Dillon",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "frightful-four"
+      ],
+      "otherTeams": [
+        "Emissaries of Evil"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #9",
+      "debutDate": "1964-02",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Max Dillon, a lineman turned into a living electrical capacitor when lightning struck as he repaired a power line. A founding member of the Sinister Six. Agents should not offer to shake hands.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Electro_(Marvel_Comics)"
+      ],
+      "notes": "Francine Frye has also used the Electro name; this entry is Max Dillon. The 'Jolt' alias is left out because it belongs to the Thunderbolts' Jolt."
+    },
+    {
+      "id": "sandman",
+      "name": "Sandman",
+      "aliases": [
+        "Flint Marko",
+        "William Baker",
+        "Sylvester Mann",
+        "Quarryman"
+      ],
+      "realName": "William Baker",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "frightful-four"
+      ],
+      "otherTeams": [
+        "Wild Pack",
+        "Outlaws"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #4",
+      "debutDate": "1963-09",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is career criminal William Baker, alias Flint Marko, whose body turned to sand after exposure to irradiated sand at a nuclear test site. A founding member of both the Sinister Six and the Frightful Four. Agents should check their shoes after any encounter.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)"
+      ],
+      "notes": "Wikipedia notes he later became an antihero (Avengers reserve, Wild Pack, Outlaws), but he has spent most of his history as a villain; the brief Avengers reserve stint is not counted. His birth name is William Baker; Flint Marko is an alias."
+    },
+    {
+      "id": "mysterio",
+      "name": "Mysterio",
+      "aliases": [
+        "Quentin Beck",
+        "Beck",
+        "Ludwig Rinehart"
+      ],
+      "realName": "Quentin Beck",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #13",
+      "debutDate": "1964-06",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Far From Home",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Quentin Beck, a special-effects artist and stuntman who turned his illusions to crime after his film career stalled. Has no superhuman powers, only smoke, holograms and a fishbowl helmet. Nothing Subject shows you should be believed.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mysterio"
+      ],
+      "notes": "Others have used the Mysterio identity; this entry is Quentin Beck."
+    },
+    {
+      "id": "kraven-the-hunter",
+      "name": "Kraven the Hunter",
+      "aliases": [
+        "Sergei Kravinoff",
+        "Kraven",
+        "The Hunter"
+      ],
+      "realName": "Sergei Kravinoff",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six"
+      ],
+      "otherTeams": [
+        "Kravinoff Family"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #15",
+      "debutDate": "1964-08",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is Sergei Kravinoff, a big-game hunter who regards Spider-Man as the most dangerous game. Maintains superhuman strength and slowed aging with a potion of jungle herbs. Agents should not wear animal print in his presence.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
+      ],
+      "notes": "Origin is contested: his potion is described both as a 'mystical serum' and as jungle herbs, and Wikipedia classes him as human mutate. A silhouette of Kraven in the No Way Home sky is not counted as a live-action appearance, and the 2024 film is Sony's."
+    },
+    {
+      "id": "lizard",
+      "name": "Lizard",
+      "aliases": [
+        "Curt Connors",
+        "Curtis Connors",
+        "Dr. Connors",
+        "The Lizard"
+      ],
+      "realName": "Curt Connors",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Sinister Twelve"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #6",
+      "debutDate": "1963-11",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: No Way Home",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Dr. Curt Connors, a former army surgeon who lost his right arm and developed a lizard-DNA serum to regrow it. The serum worked, with side effects. Connors and the Lizard do not share priorities.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lizard_(character)"
+      ],
+      "notes": "The infobox lists the Sinister Six, but his comics membership was a one-off during Civil War, so it is not counted."
+    },
+    {
+      "id": "scorpion",
+      "name": "Scorpion",
+      "aliases": [
+        "Mac Gargan",
+        "MacDonald Gargan",
+        "Gargan",
+        "Virus"
+      ],
+      "realName": "Mac Gargan",
+      "primaryTeam": "dark-avengers",
+      "teams": [
+        "dark-avengers",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Sinister Twelve"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #19",
+      "debutDate": "1964-12",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is Mac Gargan, a private investigator hired by J. Jonah Jameson, who then funded an untested procedure to make him a match for Spider-Man. It granted scorpion-like abilities and a mechanical tail but damaged his mind. Mr. Jameson's research funding is under review.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scorpion_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Debut uses Mac Gargan's first appearance (ASM #19, December 1964); he became the Scorpion in ASM #20 (January 1965). His Dark Avengers and Thunderbolts tenures were as Venom, and he first appears as the Scorpion on screen in Brand New Day (2026)."
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "aliases": [
+        "Aleksei Sytsevich",
+        "Alex O'Hirn",
+        "The Rhino"
+      ],
+      "realName": "Aleksei Sytsevich",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate",
+        "Emissaries of Evil"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "The Amazing Spider-Man #41",
+      "debutDate": "1966-10",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Aleksei Sytsevich, a low-ranking Russian mobster who volunteered for chemical and radiation treatments. They left him with superhuman strength and a rhinoceros-shaped polymer suit. Agents are advised to step aside.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rhino_(Marvel_Comics)"
+      ],
+      "notes": "Thunderbolts membership comes from Wilson Fisk's teams in King in Black and Devil's Reign. His live-action films (The Amazing Spider-Man 2, Kraven the Hunter) are Sony productions, not MCU."
+    },
+    {
+      "id": "shocker",
+      "name": "Shocker",
+      "aliases": [
+        "Herman Schultz",
+        "Quilty",
+        "The Shocker"
+      ],
+      "realName": "Herman Schultz",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "masters-of-evil",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "The Amazing Spider-Man #46",
+      "debutDate": "1967-03",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Herman Schultz, a self-taught engineer who built vibro-shock gauntlets after being jailed and used them to escape. Wears a foam-lined suit to absorb the vibrations. Agents should stand well back.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shocker_(character)"
+      ],
+      "notes": "Two men were the Shocker in Homecoming (Jackson Brice, then Herman Schultz played by Bokeem Woodbine); this entry is Schultz."
+    },
+    {
+      "id": "chameleon",
+      "name": "Chameleon",
+      "aliases": [
+        "Dmitri Smerdyakov",
+        "Dmitri",
+        "The Chameleon"
+      ],
+      "realName": "Dmitri Smerdyakov",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six"
+      ],
+      "otherTeams": [
+        "Sinister Twelve",
+        "KGB"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #1",
+      "debutDate": "1963-03",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Far From Home",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is Dmitri Smerdyakov, a master of disguise who debuted in the first issue of The Amazing Spider-Man in 1963. Half-brother of Kraven the Hunter. Agents should verify the identity of everyone present at this briefing.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chameleon_(character)",
+        "https://en.wikipedia.org/wiki/Kraven_the_Hunter",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "MCU status rests on Wikipedia identifying Numan Acar's 'Dimitri' in Far From Home as Dmitri Smerdyakov; he never appears as the Chameleon there. Origin is contested: masks and gadgets at first, later a serum that made his features malleable (Wikipedia: human mutate)."
+    },
+    {
+      "id": "morbius",
+      "name": "Morbius",
+      "aliases": [
+        "Michael Morbius",
+        "Morbius the Living Vampire",
+        "The Living Vampire",
+        "Dr. Morbius"
+      ],
+      "realName": "Michael Morbius",
+      "primaryTeam": "midnight-sons",
+      "teams": [
+        "midnight-sons",
+        "legion-of-monsters"
+      ],
+      "otherTeams": [],
+      "debutYear": 1971,
+      "debutIssue": "The Amazing Spider-Man #101",
+      "debutDate": "1971-10",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is Michael Morbius, a Nobel Prize-winning biochemist who tried to cure a rare blood disease with vampire bat DNA and electroshock. He survived as a pseudo-vampire who must drink human blood. Blood drives in his vicinity should be postponed.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morbius,_the_Living_Vampire"
+      ],
+      "notes": "Primary team could also be the Legion of Monsters (founding member, 2011 series); the Midnight Sons was chosen for his core role in the 1992 crossover. The 2022 Morbius film is Sony's, not MCU."
+    },
+    {
+      "id": "harry-osborn",
+      "name": "Harry Osborn",
+      "aliases": [
+        "Harold Osborn",
+        "Harry Lyman",
+        "American Son",
+        "Kindred",
+        "New Goblin"
+      ],
+      "realName": "Harry Osborn",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "The Amazing Spider-Man #31",
+      "debutDate": "1965-12",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the son of Norman Osborn and was Peter Parker's best friend and roommate in college. Has taken up his father's Green Goblin identity on more than one occasion. Chemical storage at Osborn properties is under review.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harry_Osborn",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Alignment is contested: he is mostly Peter's best friend but has been the Green Goblin and Kindred; antihero reflects a character defined by switching sides. His powers came from the Goblin formula, but for long stretches he has none."
+    }
+  ],
+  "dropped": []
+}

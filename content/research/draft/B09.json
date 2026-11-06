@@ -1,0 +1,951 @@
+{
+  "characters": [
+    {
+      "id": "thanos",
+      "name": "Thanos",
+      "aliases": [
+        "The Mad Titan",
+        "Mad Titan"
+      ],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order",
+        "cabal"
+      ],
+      "otherTeams": [],
+      "debutYear": 1973,
+      "debutIssue": "The Invincible Iron Man #55",
+      "debutDate": "1973-02",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Avengers",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is a warlord from Titan who once assembled the Infinity Gauntlet and erased half of all life in the universe to impress Death. Commands the Black Order. Agents are reminded that snapping is not an approved form of resource management.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thanos",
+        "https://en.wikipedia.org/wiki/Cabal_(comics)"
+      ],
+      "notes": "Eternal-Deviant hybrid, so origin is alien under the rubric. The infobox also lists the Infinity Watch, but Thanos was an ally of that team, not a member, so it is left out. Cabal membership (Namor's Cabal) comes from the Cabal article."
+    },
+    {
+      "id": "ego-the-living-planet",
+      "name": "Ego the Living Planet",
+      "aliases": [
+        "Ego",
+        "Egros",
+        "Ego-Prime",
+        "The Living Planet"
+      ],
+      "realName": "Egros",
+      "primaryTeam": "elders-of-the-universe",
+      "teams": [
+        "elders-of-the-universe"
+      ],
+      "otherTeams": [],
+      "debutYear": 1966,
+      "debutIssue": "The Mighty Thor #132",
+      "debutDate": "1966-09",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a sentient planet with a face on its surface and a brain at its core. Has clashed with Thor, Galactus and the Silver Surfer, and once had a starship engine bolted to its south pole. Agents are advised not to land without an invitation.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ego_the_Living_Planet",
+        "https://en.wikipedia.org/wiki/Elders_of_the_Universe"
+      ],
+      "notes": "Debut is a last-page cameo in Thor #132 (full appearance #133). The infobox also lists the Nova Corps, but Ego only briefly joined before taking the Corps over, so it is left out. The Elders of the Universe article counts Ego as an Elder."
+    },
+    {
+      "id": "the-collector",
+      "name": "The Collector",
+      "aliases": [
+        "Collector",
+        "Taneleer Tivan",
+        "Tivan"
+      ],
+      "realName": "Taneleer Tivan",
+      "primaryTeam": "elders-of-the-universe",
+      "teams": [
+        "elders-of-the-universe"
+      ],
+      "otherTeams": [],
+      "debutYear": 1966,
+      "debutIssue": "The Avengers #28",
+      "debutDate": "1966-05",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: The Dark World",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is an Elder of the Universe who has spent billions of years gathering rare artifacts and living specimens. Once held an Infinity Gem without understanding what it was. Personnel are advised not to stand still near display cases.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Collector_(character)"
+      ],
+      "notes": "Origin set to cosmic because Elders draw their power from the Power Primordial. He is also an alien by birth."
+    },
+    {
+      "id": "the-grandmaster",
+      "name": "The Grandmaster",
+      "aliases": [
+        "Grandmaster",
+        "En Dwi Gast",
+        "The Master of Games"
+      ],
+      "realName": "En Dwi Gast",
+      "primaryTeam": "elders-of-the-universe",
+      "teams": [
+        "elders-of-the-universe"
+      ],
+      "otherTeams": [
+        "Squadron Sinister"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "The Avengers #69",
+      "debutDate": "1969-10",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is an Elder of the Universe devoted to mastering games of skill and chance. Has used the Avengers as game pieces and once challenged Death to a contest of strategy. Agents should decline all invitations to play.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grandmaster_(Marvel_Comics)"
+      ],
+      "notes": "His MCU debut is the credits cameo in Guardians of the Galaxy Vol. 2 (May 2017), which came before Thor: Ragnarok. Squadron Sinister is listed because he created and directed that team."
+    },
+    {
+      "id": "high-evolutionary",
+      "name": "High Evolutionary",
+      "aliases": [
+        "Herbert Edgar Wyndham",
+        "Herbert Wyndham",
+        "Lord High Evolutionary",
+        "High Evo"
+      ],
+      "realName": "Herbert Edgar Wyndham",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "New Men (Knights of Wundagore)"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "The Mighty Thor #134",
+      "debutDate": "1966-11",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 3",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a geneticist who accelerated his own evolution and now operates inside sentient armor. Created the New Men and an entire Counter-Earth. Agents are advised to decline any offer of improvement.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/High_Evolutionary"
+      ],
+      "notes": "The infobox also gives a mention in Thor #133 (Oct 1966); the first actual appearance, #134, is used here. Origin could be argued as tech because of his armor, but Wikipedia files him as a mutate who experimented on his own genome."
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "aliases": [
+        "Mistress Death",
+        "Lady Death",
+        "Rio Vidal",
+        "Spectre of Death",
+        "Dark Beauty"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1973,
+      "debutIssue": "Captain Marvel #26",
+      "debutDate": "1973-06",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Agatha All Along",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the abstract embodiment of mortality, usually appearing as a hooded skeleton or a dark-haired woman. Has been courted by Thanos and by Deadpool. Agents are reminded that all appointments with Subject are eventually kept.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Death_(Marvel_Comics)"
+      ],
+      "notes": "An abstract entity with no fixed alignment. Set to villain because she usually acts as an antagonist (for example in Agatha All Along), but this is contested. The alias Grim Reaper is left out because it belongs to another game character; Rio Vidal is her MCU disguise."
+    },
+    {
+      "id": "eternity",
+      "name": "Eternity",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "Strange Tales #138",
+      "debutDate": "1965-11",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Love and Thunder",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the abstract entity embodying time and the living universe. First contacted by Doctor Strange during his struggle against Baron Mordo and Dormammu. Agents are advised that Subject does not keep office hours.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eternity_(Marvel_Comics)",
+        "https://www.slashfilm.com/919967/who-is-eternity-in-thor-love-and-thunder-a-key-marvel-character-explained/"
+      ],
+      "notes": "A neutral cosmic entity, set to hero because it generally helps heroes such as Doctor Strange; contested. First mentioned in Strange Tales #134 (July 1965). Counted as MCU because Wikipedia lists the entity itself, not a statue, in Thor: Love and Thunder."
+    },
+    {
+      "id": "living-tribunal",
+      "name": "Living Tribunal",
+      "aliases": [
+        "The Living Tribunal"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1967,
+      "debutIssue": "Strange Tales #157",
+      "debutDate": "1967-06",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "other",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a three-faced cosmic judge charged with keeping balance across the multiverse. Once moved to destroy Earth until Doctor Strange argued the planet's case. Agents are advised not to appeal Subject's rulings.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Living_Tribunal",
+        "https://nerdist.com/article/who-is-mcu-living-tribunal-comics-history-doctor-strange-multiverse-of-madness-powerful-cosmic-entity/"
+      ],
+      "notes": "MCU set to false. Wikipedia calls its Multiverse of Madness moment a cameo, but only statues or heads of the Tribunal are shown there and in Loki. A neutral judge written mostly as 'it', so alignment and gender are contested."
+    },
+    {
+      "id": "arishem",
+      "name": "Arishem",
+      "aliases": [
+        "Arishem the Judge"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Celestials"
+      ],
+      "debutYear": 1976,
+      "debutIssue": "The Eternals #2",
+      "debutDate": "1976-08",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Eternals",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Celestial empowered to judge which civilizations live and which die. Has led every Celestial Host to visit Earth. Agents are advised to remain worthy for fifty years at a time.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arishem_the_Judge"
+      ],
+      "notes": "Counts as MCU because he appears on screen in Eternals as a CGI Celestial voiced by David Kaye. Alignment is contested: the comics present an impartial judge, but he is usually grouped with the Eternals' antagonists."
+    },
+    {
+      "id": "knull",
+      "name": "Knull",
+      "aliases": [
+        "King in Black",
+        "God of the Symbiotes",
+        "God of the Void",
+        "God of Darkness",
+        "Lord of the Abyss",
+        "Slicer of Worlds"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Symbiote Imperium"
+      ],
+      "debutYear": 2013,
+      "debutIssue": "Thor: God of Thunder #6",
+      "debutDate": "2013-03",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a primordial god of darkness who created the symbiotes and the living blade All-Black. Once sealed Earth inside a sphere of symbiote dragons. Agents are advised to carry a flashlight.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Knull"
+      ],
+      "notes": "The infobox lists an unnamed figure in Thor: God of Thunder #6 (March 2013), later identified as Knull, before his full debut in Venom vol. 4 #3 (August 2018), so the debut year is contested. Origin set to deity (a primordial god); Venom: The Last Dance is a Sony film, not MCU."
+    },
+    {
+      "id": "proxima-midnight",
+      "name": "Proxima Midnight",
+      "aliases": [
+        "Proxima"
+      ],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order",
+        "cabal"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "New Avengers (vol. 3) #8",
+      "debutDate": "2013-09",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Avengers: Infinity War",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Black Order enforcer armed with a spear forged from a star that homes in on its target. Married to fellow Order member Corvus Glaive. Agents should not assume they can outrun the spear.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M",
+        "https://en.wikipedia.org/wiki/Cabal_(comics)",
+        "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/Proxima_Midnight"
+      ],
+      "notes": "Wikipedia now covers her in a list entry with no infobox. The debut comes from the entry text (New Avengers #8, September 2013), which matches the infobox of the 2023 version of her article."
+    },
+    {
+      "id": "corvus-glaive",
+      "name": "Corvus Glaive",
+      "aliases": [
+        "Corvus"
+      ],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order",
+        "cabal"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "Infinity: Free Comic Book Day",
+      "debutDate": "2013-05",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Avengers: Infinity War",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the Black Order's field leader and Thanos's most loyal lieutenant. His namesake glaive grants him immortality. Agents are advised to confiscate the weapon first.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Corvus_Glaive",
+        "https://en.wikipedia.org/wiki/Cabal_(comics)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ebony-maw",
+      "name": "Ebony Maw",
+      "aliases": [
+        "Maw"
+      ],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "New Avengers (vol. 3) #8",
+      "debutDate": "2013-09",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Avengers: Infinity War",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the Black Order's chief manipulator, relying on persuasion and mind control rather than brawn. Once compelled Doctor Strange to summon Shuma-Gorath. Agents are advised not to engage Subject in conversation.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M",
+        "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/Ebony_Maw"
+      ],
+      "notes": "The current Wikipedia list entry has no infobox. The cameo debut (New Avengers vol. 3 #8, Sept 2013; full appearance Infinity #1, Oct 2013) comes from the 2023 version of his article."
+    },
+    {
+      "id": "black-dwarf",
+      "name": "Black Dwarf",
+      "aliases": [
+        "Cull Obsidian"
+      ],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "New Avengers (vol. 3) #8",
+      "debutDate": "2013-09",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Avengers: Infinity War",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the Black Order's resident powerhouse. Was expelled from the Order after failing to take Wakanda, and was later killed by Ronan the Accuser. Known on some screens as Cull Obsidian.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B"
+      ],
+      "notes": "The debut is a one-panel cameo (full appearance Infinity #1, Oct 2013). In the MCU he is renamed Cull Obsidian (Terry Notary)."
+    },
+    {
+      "id": "supergiant",
+      "name": "Supergiant",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "black-order",
+      "teams": [
+        "black-order"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "Infinity #1",
+      "debutDate": "2013-10",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a Black Order telepath who seizes control of other minds. Once hijacked Black Bolt to trigger the Illuminati's hidden bombs. Agents are advised to keep their thoughts to themselves.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_S",
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_teams_and_organizations"
+      ],
+      "notes": "The only founding Black Order member left out of the MCU films."
+    },
+    {
+      "id": "thane",
+      "name": "Thane",
+      "aliases": [
+        "Healer"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "New Avengers (vol. 3) #10",
+      "debutDate": "2013-11",
+      "alignment": "villain",
+      "origin": "inhuman",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the son of Thanos and an Inhuman mother; Terrigenesis gave him a lethal touch and the power to encase targets in amber. Wears a containment suit supplied by Ebony Maw. Handshakes are not recommended.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_T"
+      ],
+      "notes": "Titanian-Inhuman hybrid. Origin set to inhuman because his powers came from Terrigenesis. The alias Phoenix is left out because it belongs to another game character."
+    },
+    {
+      "id": "magus",
+      "name": "Magus",
+      "aliases": [
+        "The Magus"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Universal Church of Truth"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Strange Tales #178",
+      "debutDate": "1975-02",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the dark aspect of Adam Warlock and has ruled the Universal Church of Truth. Has repeatedly tried to claim the Infinity Gems. Agents are advised that Subject is, quite literally, his own worst enemy.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adam_Warlock",
+        "https://en.wikipedia.org/wiki/Magus_(Marvel_Comics)"
+      ],
+      "notes": "The name is ambiguous: Wikipedia's 'Magus (Marvel Comics)' is the Technarch father of Warlock (New Mutants #18, 1984). Given this cosmic batch, this record is Adam Warlock's evil self, covered in the Adam Warlock article without an infobox; the debut is from its Strange Tales #178 citation."
+    },
+    {
+      "id": "pip-the-troll",
+      "name": "Pip the Troll",
+      "aliases": [
+        "Pip",
+        "Pip Gofern",
+        "Prince Gofern"
+      ],
+      "realName": "Pip Gofern",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Infinity Watch"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Strange Tales #179",
+      "debutDate": "1975-04",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Eternals",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Laxidazian prince turned troll by mutagenic ale. Has served with the Infinity Watch and X-Factor Investigations, and once kept the Space Gem between his toes. Agents are advised to inspect all footwear.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pip_the_Troll",
+        "https://en.wikipedia.org/wiki/Adam_Warlock"
+      ],
+      "notes": "The infobox dates Strange Tales #179 to February 1975, but the Adam Warlock article cites it as April 1975 (#178 was February). Best known for the Infinity Watch; X-Factor Investigations is his only membership on the TEAMS list. He appears in Eternals as a CGI character voiced by Patton Oswalt."
+    },
+    {
+      "id": "champion-of-the-universe",
+      "name": "Champion of the Universe",
+      "aliases": [
+        "The Champion",
+        "Champion",
+        "Tryco Slatterus"
+      ],
+      "realName": "Tryco Slatterus",
+      "primaryTeam": "elders-of-the-universe",
+      "teams": [
+        "elders-of-the-universe"
+      ],
+      "otherTeams": [],
+      "debutYear": 1982,
+      "debutIssue": "Marvel Two-in-One Annual #7",
+      "debutDate": "1982",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an Elder of the Universe who channels the Power Primordial entirely into physical might. Travels the cosmos challenging the strongest fighters he can find. Agents are advised to decline all rematches.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Champion_of_the_Universe",
+        "https://en.wikipedia.org/wiki/Elders_of_the_Universe"
+      ],
+      "notes": "Wikipedia says he is 'not necessarily a villain' but has played the role, and files him as a supervillain, so alignment is somewhat contested."
+    },
+    {
+      "id": "beyonder",
+      "name": "Beyonder",
+      "aliases": [
+        "The Beyonder",
+        "The One from Beyond",
+        "Kosmos"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1984,
+      "debutIssue": "Secret Wars #1",
+      "debutDate": "1984-05",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a near-omnipotent being from beyond the multiverse who built Battleworld for the original Secret Wars. Later visited Earth to study humanity and turned a building into solid gold. Agents should not explain money to Subject.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beyonder"
+      ],
+      "notes": "The debut is a cameo (full appearance Secret Wars II). He is written mainly as male, but Wikipedia also files him as genderfluid (female form as Kosmos), and his origin has been retconned several times (Cosmic Cube, Inhuman-mutant hybrid, child of the Beyonders)."
+    },
+    {
+      "id": "ayesha",
+      "name": "Ayesha",
+      "aliases": [
+        "Kismet",
+        "Her",
+        "Paragon"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1977,
+      "debutIssue": "The Incredible Hulk Annual #6",
+      "debutDate": "1977",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a golden-skinned being engineered by the Enclave after their earlier creation, Him. Has operated as Paragon, Her and Kismet. Agents are advised not to steal from Subject's people.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kismet_(Marvel_Comics)"
+      ],
+      "notes": "Wikipedia covers her as Kismet and its infobox marks her as a hero, but the MCU Ayesha (Elizabeth Debicki) is a villain and her early comics roles were antagonistic, so alignment is contested. Origin: created by the Enclave (mutate); the MCU version is a Sovereign."
+    },
+    {
+      "id": "morg",
+      "name": "Morg",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "heralds-of-galactus",
+      "teams": [
+        "heralds-of-galactus"
+      ],
+      "otherTeams": [],
+      "debutYear": 1992,
+      "debutIssue": "Silver Surfer (vol. 3) #69",
+      "debutDate": "1992-08",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a former court executioner who betrayed his own people before Galactus made him a herald. Wields the Power Cosmic and a double-bladed axe. Agents are advised not to request a reference.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morg"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "genis-vell",
+      "name": "Genis-Vell",
+      "aliases": [
+        "Legacy",
+        "Genis"
+      ],
+      "realName": "Genis-Vell",
+      "primaryTeam": "thunderbolts",
+      "teams": [
+        "thunderbolts"
+      ],
+      "otherTeams": [],
+      "debutYear": 1993,
+      "debutIssue": "Silver Surfer Annual #6",
+      "debutDate": "1993-10",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the son of the Kree hero Mar-Vell, artificially aged by his mother and given false memories. Has operated as Legacy, Captain Marvel and Photon, and served with the Thunderbolts. Agents are reminded that cosmic awareness is not the same as sanity.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Genis-Vell"
+      ],
+      "notes": "Origin set to alien (Kree and Titanian Eternal hybrid), though his powers largely come from the Nega-Bands and cosmic awareness. The aliases Captain Marvel and Photon are left out because they belong mainly to other game characters."
+    },
+    {
+      "id": "hyperion-marcus-milton",
+      "name": "Hyperion (Marcus Milton)",
+      "aliases": [
+        "Hyperion",
+        "Marcus Milton"
+      ],
+      "realName": "Marcus Milton",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "squadron-supreme"
+      ],
+      "otherTeams": [],
+      "debutYear": 2012,
+      "debutIssue": "Avengers (vol. 5) #1",
+      "debutDate": "2012-12",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was sent to Earth as an infant, the last survivor of a race of Eternals, and raised by a man he called Father. After his universe was destroyed, he was freed from A.I.M. captivity and joined the Avengers. Comparisons to other caped strongmen are discouraged.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyperion_(character)",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Several Hyperions exist (Zhib-Ran, Mark Milton and others), which invites confusion; this is the Avenger from Hickman's run. He later led the 2015 Squadron Supreme, so the primary team is arguable."
+    },
+    {
+      "id": "starhawk",
+      "name": "Starhawk",
+      "aliases": [
+        "Stakar Ogord",
+        "Stakar",
+        "One Who Knows",
+        "Giver of Light"
+      ],
+      "realName": "Stakar Ogord",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1975,
+      "debutIssue": "The Defenders #27",
+      "debutDate": "1975-09",
+      "alignment": "antihero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a 31st-century hero fated to relive his own life repeatedly, and calls himself the One Who Knows. Shares a long, strained history with his adoptive sister Aleta. Agents should assume Subject has read this memo before.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Starhawk_(character)",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Wikipedia's lead calls him an antihero, but he is filed as a superhero. His powers come from the Arcturan Hawk God, so origin is set to cosmic. Ravagers is an MCU-only affiliation; the 1969 Guardians were only honorary Avengers (Korvac Saga), so that is left out."
+    },
+    {
+      "id": "charlie-27",
+      "name": "Charlie-27",
+      "aliases": [
+        "Charlie 27",
+        "Captain Charlie-27"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1969,
+      "debutIssue": "Marvel Super-Heroes #18",
+      "debutDate": "1969-01",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a Jovian militia captain descended from colonists engineered for Jupiter's gravity, with eleven times a normal human's muscle mass. Founding member of the original Guardians of the Galaxy. Agents are advised against arm-wrestling.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charlie-27",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Jovians are genetically engineered descendants of human colonists, classed as alien. Ravagers is MCU-only; his Avengers status was honorary during the Korvac Saga and is left out."
+    },
+    {
+      "id": "martinex",
+      "name": "Martinex",
+      "aliases": [
+        "Martinex T'Naga"
+      ],
+      "realName": "Martinex T'Naga",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers"
+      ],
+      "otherTeams": [
+        "Galactic Guardians"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "Marvel Super-Heroes #18",
+      "debutDate": "1969-01",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the last surviving Pluvian, with crystalline skin engineered for Pluto's harsh conditions. Founding member of the original Guardians of the Galaxy and its resident scientist. Do not mistake Subject for a chandelier.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Martinex",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Pluvians are genetically engineered descendants of human colonists, classed as alien. Ravagers is MCU-only; his Avengers status was honorary during the Korvac Saga and is left out."
+    },
+    {
+      "id": "aleta-ogord",
+      "name": "Aleta Ogord",
+      "aliases": [
+        "Aleta"
+      ],
+      "realName": "Aleta Ogord",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1975,
+      "debutIssue": "The Defenders #29",
+      "debutDate": "1975-11",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is an Arcturan who for years shared a single body with her adoptive brother Stakar as Starhawk. Now projects solid-light constructs in her own right. Agents are advised not to raise the topic of sibling rivalry.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aleta_Ogord",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Arcturan by birth, but her light powers came from merging with Stakar through the Hawk God, so origin is set to cosmic (alien is arguable). The aliases Starhawk, Stakar and One Who Knows are left out as Starhawk's; Ravagers is MCU-only."
+    },
+    {
+      "id": "nikki-gold",
+      "name": "Nikki Gold",
+      "aliases": [
+        "Nikki",
+        "Nicholette Gold"
+      ],
+      "realName": "Nicholette Gold",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [],
+      "debutYear": 1976,
+      "debutIssue": "Marvel Presents #4",
+      "debutDate": "1976-04",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a 31st-century Mercurian rescued by the Guardians of the Galaxy from an abandoned spacecraft. Flames radiating from her scalp double as a weapon. Agents are advised to keep extinguishers within reach.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nikki_(comics)",
+        "https://en.wikipedia.org/wiki/List_of_Avengers_members"
+      ],
+      "notes": "Mercurians are genetically engineered descendants of human colonists, classed as alien. Her Avengers status was honorary during the Korvac Saga and is left out."
+    },
+    {
+      "id": "jack-flag",
+      "name": "Jack Flag",
+      "aliases": [
+        "Jack Harrison"
+      ],
+      "realName": "Jack Harrison",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [],
+      "debutYear": 1994,
+      "debutIssue": "Captain America #434",
+      "debutDate": "1994-12",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is an Arizona vigilante who gained superhuman strength after being drenched in Mister Hyde's chemicals. Has aided Captain America and served with the Guardians of the Galaxy. Patriotism is not a registration exemption.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Flag"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "the-stranger",
+      "name": "The Stranger",
+      "aliases": [
+        "Stranger"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "The X-Men #11",
+      "debutDate": "1965-05",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a cosmic surveyor who studies other worlds and keeps specimens on a private laboratory planet. Has more than once attempted to destroy Earth. Agents are advised against volunteering for research.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stranger_(Marvel_Comics)"
+      ],
+      "notes": "Alignment is contested: a detached cosmic scientist who has tried to destroy Earth but has also helped heroes; set to villain. The infobox names the debut 'Uncanny X-Men #11', the series' later title."
+    }
+  ],
+  "dropped": []
+}

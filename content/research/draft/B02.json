@@ -1,0 +1,1155 @@
+{
+  "characters": [
+    {
+      "id": "wolverine",
+      "name": "Wolverine",
+      "aliases": [
+        "Logan",
+        "James Howlett",
+        "Patch",
+        "Weapon X",
+        "Wolvie",
+        "Old Man Logan"
+      ],
+      "realName": "James Howlett",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "avengers",
+        "x-force",
+        "alpha-flight",
+        "weapon-x"
+      ],
+      "otherTeams": [
+        "Team X"
+      ],
+      "debutYear": 1974,
+      "debutIssue": "The Incredible Hulk #180",
+      "debutDate": "1974-10",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject heals from nearly any injury and carries an adamantium-laced skeleton with three retractable claws per hand. Has served with the X-Men, the Avengers and X-Force, sometimes concurrently. Agents are advised not to ask his age.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wolverine_(character)",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+      ],
+      "notes": "Infobox lists The Incredible Hulk #180 (Oct 1974); his first full appearance is #181 (Nov 1974). weapon-x is included for his iconic origin as that program's subject, and antihero follows the rubric's lethal-methods definition."
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops",
+      "aliases": [
+        "Scott Summers",
+        "Slim",
+        "Cyke",
+        "Slym Dayspring",
+        "Eric the Red",
+        "Captain Krakoa"
+      ],
+      "realName": "Scott Summers",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Phoenix Five"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject projects concussive optic blasts that only ruby quartz can contain. Founding member and longtime field leader of the X-Men. Agents are advised to stay out of his line of sight.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+      ],
+      "notes": "James Marsden returns in Avengers: Doomsday (Dec 2026) and Kit Connor is cast for the 2028 X-Men film, both after the cutoff, so mcu is false. 'Phoenix' (from Phoenix Five) is omitted as an alias because it belongs to Jean Grey."
+    },
+    {
+      "id": "jean-grey",
+      "name": "Jean Grey",
+      "aliases": [
+        "Marvel Girl",
+        "Phoenix",
+        "Dark Phoenix",
+        "Jean Grey-Summers",
+        "Jean Elaine Grey",
+        "Redd Dayspring",
+        "White Phoenix of the Crown"
+      ],
+      "realName": "Jean Grey",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "x-force"
+      ],
+      "otherTeams": [
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Brand New Day",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a telepath and telekinetic of the first rank and the best-known host of the Phoenix Force. Founding member of the X-Men; reported dead on several occasions. Agents should treat any such report as provisional.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jean_Grey",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Sadie Sink debuted as the MCU's Jean Grey in Spider-Man: Brand New Day (released 2026-07-31). Origin is mutant; the Phoenix Force is an external cosmic entity she has hosted."
+    },
+    {
+      "id": "storm",
+      "name": "Storm",
+      "aliases": [
+        "Ororo Munroe",
+        "Ororo",
+        "Weather Witch",
+        "Windrider",
+        "Mistress of the Elements",
+        "Queen of Wakanda"
+      ],
+      "realName": "Ororo Munroe",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "avengers",
+        "fantastic-four",
+        "wakanda"
+      ],
+      "otherTeams": [
+        "Great Ring of Arakko",
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Giant-Size X-Men #1",
+      "debutDate": "1975-05",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject commands weather on a planetary scale and has led the X-Men in the field. Has also served with the Avengers and the Fantastic Four, and reigned as Queen of Wakanda. Agents are advised not to schedule picnics.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+      ],
+      "notes": "No live-action MCU appearance by the cutoff; Maya Boyd is cast for the 2028 X-Men film. wakanda reflects her tenure as Queen of Wakanda."
+    },
+    {
+      "id": "professor-x",
+      "name": "Professor X",
+      "aliases": [
+        "Charles Xavier",
+        "Charles Francis Xavier",
+        "Professor Xavier",
+        "Prof X",
+        "Professor",
+        "Xavier"
+      ],
+      "realName": "Charles Xavier",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "illuminati",
+        "starjammers",
+        "new-mutants",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Doctor Strange in the Multiverse of Madness",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is among the world's most powerful telepaths and founded the X-Men at his school in Westchester, New York. Has relied on a wheelchair for much of his career. Agents are advised that he already knows why they called.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Professor_X"
+      ],
+      "notes": "Patrick Stewart played Earth-838's Charles Xavier in Doctor Strange in the Multiverse of Madness; his Avengers: Doomsday return (Dec 2026) is after the cutoff. 'Onslaught' is omitted as an alias because Onslaught is a separate game character."
+    },
+    {
+      "id": "beast",
+      "name": "Beast",
+      "aliases": [
+        "Hank McCoy",
+        "Henry McCoy",
+        "Henry Philip McCoy",
+        "Dr. Hank McCoy",
+        "Kreature"
+      ],
+      "realName": "Henry McCoy",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "avengers",
+        "defenders",
+        "x-factor",
+        "illuminati"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Marvels",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a genius biochemist with the strength and agility of a great ape and a coat of blue fur. Founding X-Man who has also served with the Avengers and the Defenders. Agents are advised to bring a dictionary.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beast_(Marvel_Comics)"
+      ],
+      "notes": "Kelsey Grammer appears as an alternate-universe Beast in the mid-credits scene of The Marvels (2023). Born a mutant; the blue fur came later from a self-administered serum."
+    },
+    {
+      "id": "iceman",
+      "name": "Iceman",
+      "aliases": [
+        "Bobby Drake",
+        "Robert Drake",
+        "Robert Louis Drake",
+        "Mister Friese",
+        "Frosty"
+      ],
+      "realName": "Robert Drake",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "champions",
+        "defenders",
+        "marauders"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject freezes the moisture around him and can convert his body into living ice. Founding member of the X-Men, since described as an Omega-level mutant. Agents are advised to dress warmly.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iceman_(Marvel_Comics)"
+      ],
+      "notes": "champions refers to the 1975 Champions of Los Angeles and marauders to Kate Pryde's Krakoa-era crew. Ben Wang is only in talks for the 2028 X-Men film, so mcu is false."
+    },
+    {
+      "id": "archangel",
+      "name": "Archangel",
+      "aliases": [
+        "Angel",
+        "Warren Worthington III",
+        "Warren Worthington",
+        "Warren",
+        "Avenging Angel",
+        "Dark Angel"
+      ],
+      "realName": "Warren Worthington III",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "x-force",
+        "champions",
+        "defenders"
+      ],
+      "otherTeams": [
+        "Horsemen of Apocalypse"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a founding X-Man who flies on feathered wings, once replaced with razor-edged metal wings by Apocalypse. Heir to the Worthington fortune and a longtime financier of mutant teams. Agents are advised to watch for falling feathers.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Angel_(Warren_Worthington_III)"
+      ],
+      "notes": "He debuted as and is widely known as Angel, so 'Angel' is kept as an alias even though the list also has The Angel (Thomas Halloway). 'Death' (his Horseman name) is omitted because it belongs to the cosmic entity Death."
+    },
+    {
+      "id": "nightcrawler",
+      "name": "Nightcrawler",
+      "aliases": [
+        "Kurt Wagner",
+        "Kurt",
+        "Elf"
+      ],
+      "realName": "Kurt Wagner",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Giant-Size X-Men #1",
+      "debutDate": "1975-05",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject teleports short distances, leaving behind a puff of brimstone-scented smoke. A devout Catholic, former circus acrobat and veteran of the X-Men and Excalibur. Agents are advised to ventilate the room.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nightcrawler_(character)"
+      ],
+      "notes": "Alan Cumming's MCU appearance is in Avengers: Doomsday (Dec 2026), after the cutoff, so mcu is false."
+    },
+    {
+      "id": "colossus",
+      "name": "Colossus",
+      "aliases": [
+        "Piotr Rasputin",
+        "Peter Rasputin",
+        "Piotr Nikolayevich Rasputin",
+        "The Proletarian",
+        "Peter Nicholas"
+      ],
+      "realName": "Piotr Rasputin",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur",
+        "acolytes"
+      ],
+      "otherTeams": [
+        "Phoenix Five",
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Giant-Size X-Men #1",
+      "debutDate": "1975-05",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject converts his body into organic steel, rendering him nearly invulnerable. A Russian farm boy turned X-Men heavy hitter and the usual thrower in the Fastball Special. Agents are advised to stand clear of the throw.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Colossus_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+        "https://www.slashfilm.com/1638537/deadpool-and-wolverine-original-like-a-prayer-sequence-killed-marvel-colossus"
+      ],
+      "notes": "In Deadpool & Wolverine he appears briefly as a CGI character at the start of the film (credited to Stefan Kapičić as voice); counted as on screen, not voice-only. 'Juggernaut' is omitted as an alias because it belongs to Cain Marko."
+    },
+    {
+      "id": "kitty-pryde",
+      "name": "Kitty Pryde",
+      "aliases": [
+        "Shadowcat",
+        "Kate Pryde",
+        "Katherine Pryde",
+        "Kitty",
+        "Sprite",
+        "Ariel",
+        "Red Queen",
+        "Captain Kate Pryde"
+      ],
+      "realName": "Katherine Pryde",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur",
+        "marauders",
+        "guardians-of-the-galaxy",
+        "hellfire-club"
+      ],
+      "otherTeams": [
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Uncanny X-Men #129",
+      "debutDate": "1980-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject can phase through solid matter, disrupting any electronics she passes through. Joined the X-Men at thirteen and was later accompanied by a small purple dragon named Lockheed. Agents are advised that locked doors are a formality.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kitty_Pryde"
+      ],
+      "notes": "hellfire-club reflects her Krakoa-era role as Red Queen of the Hellfire Trading Company. 'Star-Lord' is omitted as an alias because it belongs to Peter Quill."
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "aliases": [
+        "Anna Marie",
+        "Anna Raven",
+        "Anna Marie LeBeau",
+        "Marie"
+      ],
+      "realName": "Anna Marie",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "avengers",
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [],
+      "debutYear": 1981,
+      "debutIssue": "The Avengers Annual #10",
+      "debutDate": "1981-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject absorbs the memories and abilities of anyone she touches. Formerly of the Brotherhood of Evil Mutants, later a mainstay of the X-Men and the Avengers Unity Squad. Handshakes are not recommended.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rogue_(Marvel_Comics)"
+      ],
+      "notes": "She began as a Brotherhood villain before joining the X-Men, but is classified hero overall. Her surname is unrevealed in canon, and Inde Navarrette's casting is for the 2028 X-Men film."
+    },
+    {
+      "id": "gambit",
+      "name": "Gambit",
+      "aliases": [
+        "Remy LeBeau",
+        "Remy",
+        "Ragin' Cajun",
+        "Le Diable Blanc",
+        "Robert Lord"
+      ],
+      "realName": "Remy LeBeau",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Thieves Guild",
+        "Horsemen of Apocalypse",
+        "X-Treme Sanctions Executive"
+      ],
+      "debutYear": 1990,
+      "debutIssue": "The Uncanny X-Men Annual #14",
+      "debutDate": "1990-07",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject charges objects with kinetic energy, favoring playing cards as the delivery method. A New Orleans thief turned X-Man, later married to Rogue. Agents are advised not to accept a game of cards.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gambit_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+      ],
+      "notes": "Infobox gives Uncanny X-Men Annual #14 (July 1990) as his published debut and Uncanny X-Men #266 (Aug 1990) as his in-story debut, both 1990. 'Death' (Horseman name) is omitted to avoid the cosmic entity Death."
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "aliases": [
+        "Jubilation Lee",
+        "Jubes",
+        "Wondra"
+      ],
+      "realName": "Jubilation Lee",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "generation-x",
+        "new-warriors",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "X-Terminators"
+      ],
+      "debutYear": 1989,
+      "debutIssue": "The Uncanny X-Men #244",
+      "debutDate": "1989-05",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject generates explosive energy plasmoids often likened to fireworks. A former mall rat who joined the X-Men in 1989, later enrolled in Generation X and has spent time as a vampire. Agents are advised to keep a safe distance on holidays.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jubilee_(character)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "psylocke-betsy-braddock",
+      "name": "Psylocke (Betsy Braddock)",
+      "aliases": [
+        "Psylocke",
+        "Betsy Braddock",
+        "Elizabeth Braddock",
+        "Betsy",
+        "Lady Mandarin"
+      ],
+      "realName": "Elizabeth Braddock",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Captain Britain Corps",
+        "Exiles",
+        "S.T.R.I.K.E."
+      ],
+      "debutYear": 1976,
+      "debutIssue": "Captain Britain #8",
+      "debutDate": "1976-12",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a British telepath able to focus her power into a psychic knife. Twin sister of Captain Britain, a title she later took on herself, and a longtime member of the X-Men and X-Force. Agents are advised not to think too loudly.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Betsy_Braddock",
+        "https://en.wikipedia.org/wiki/Betsy_Braddock_in_other_media",
+        "https://en.wikipedia.org/wiki/Psylocke",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+      ],
+      "notes": "Her MCU credit is an uncredited alternate-timeline Psylocke (Ayesha Hussain) in Deadpool & Wolverine, listed in Wikipedia's Betsy Braddock in other media article. 'Captain Britain' is omitted as an alias because it belongs primarily to Brian Braddock."
+    },
+    {
+      "id": "bishop",
+      "name": "Bishop",
+      "aliases": [
+        "Lucas Bishop",
+        "Red Bishop"
+      ],
+      "realName": "Lucas Bishop",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "marauders"
+      ],
+      "otherTeams": [
+        "Xavier's Security Enforcers",
+        "X-Treme Sanctions Executive"
+      ],
+      "debutYear": 1991,
+      "debutIssue": "The Uncanny X-Men #282",
+      "debutDate": "1991-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject absorbs energy directed at him and redirects it as blasts. A mutant police officer from a dystopian future, branded with an M over his right eye. Agents are advised not to open fire.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bishop_(Marvel_Comics)"
+      ],
+      "notes": "He was an antagonist hunting Hope Summers in the Messiah Complex era but is classified hero overall. Omar Sy's role is in Fox's Days of Future Past, not the MCU."
+    },
+    {
+      "id": "cable",
+      "name": "Cable",
+      "aliases": [
+        "Nathan Summers",
+        "Nathan Christopher Charles Summers",
+        "Nathan Dayspring",
+        "Nate Summers",
+        "Askani'son",
+        "Soldier X",
+        "Kid Cable",
+        "Nathan Winters"
+      ],
+      "realName": "Nathan Summers",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "new-mutants",
+        "x-men",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Six Pack",
+        "Clan Askani"
+      ],
+      "debutYear": 1986,
+      "debutIssue": "The Uncanny X-Men #201",
+      "debutDate": "1986-01",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the time-displaced son of Cyclops, raised in a distant future and partly overtaken by a techno-organic virus. Turned the New Mutants into X-Force. Agents are advised to count his pouches before engaging.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cable_(character)"
+      ],
+      "notes": "The infobox lists Uncanny X-Men #201 (Jan 1986) for infant Nathan and New Mutants #87 (Mar 1990) for Cable, who was only later revealed to be the grown Nathan, so the debut is contested. Antihero is a judgment call for the militant soldier, and Josh Brolin's Deadpool 2 role is Fox, not MCU."
+    },
+    {
+      "id": "emma-frost",
+      "name": "Emma Frost",
+      "aliases": [
+        "White Queen",
+        "Emma Grace Frost",
+        "Hazel Kendal",
+        "Ice Queen"
+      ],
+      "realName": "Emma Frost",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "hellfire-club",
+        "generation-x",
+        "cabal"
+      ],
+      "otherTeams": [
+        "Hellions",
+        "Phoenix Five",
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Uncanny X-Men #129",
+      "debutDate": "1980-01",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a powerful telepath who can turn her body into organic diamond. Formerly the White Queen of the Hellfire Club, later a headmistress and co-leader of the X-Men. Agents are reminded that she can hear that.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Frost"
+      ],
+      "notes": "Antihero follows the rubric's side-switching clause: Wikipedia describes her evolving from supervillain to superhero and quotes a critic calling her Marvel's 'best anti-hero', though hero is arguable. 'Black Queen' and 'Black King' are omitted because they belong primarily to Selene and Sebastian Shaw."
+    },
+    {
+      "id": "havok",
+      "name": "Havok",
+      "aliases": [
+        "Alex Summers",
+        "Alexander Summers",
+        "Mutant X",
+        "Goblin Prince"
+      ],
+      "realName": "Alex Summers",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "avengers",
+        "starjammers"
+      ],
+      "otherTeams": [
+        "Hellions"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "The X-Men #54",
+      "debutDate": "1969-03",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject absorbs ambient cosmic energy and releases it as plasma blasts. Younger brother of Cyclops; has led both X-Factor and the Avengers Unity Squad. Agents are advised not to bring up his brother.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Havok_(character)"
+      ],
+      "notes": "He first appeared as Alex Summers in X-Men #54, and the Havok codename came later in 1969. Lucas Till's portrayals are Fox, not MCU."
+    },
+    {
+      "id": "polaris",
+      "name": "Polaris",
+      "aliases": [
+        "Lorna Dane",
+        "Lorna Sally Dane",
+        "Malice",
+        "Pestilence"
+      ],
+      "realName": "Lorna Dane",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor",
+        "x-men",
+        "starjammers"
+      ],
+      "otherTeams": [
+        "Horsemen of Apocalypse"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "The X-Men #49",
+      "debutDate": "1968-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject controls magnetism and is known for her green hair. Daughter of Magneto and a longtime member of X-Factor. Agents are advised to remove all metal before the interview.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Polaris_(Marvel_Comics)"
+      ],
+      "notes": "Primary team is X-Factor (government X-Factor, leader of All-New X-Factor, Krakoa-era X-Factor), though she has also served on X-Men rosters. Emma Dumont's role in The Gifted is Fox TV, not MCU."
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "aliases": [
+        "Sean Cassidy"
+      ],
+      "realName": "Sean Cassidy",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "generation-x"
+      ],
+      "otherTeams": [
+        "Interpol",
+        "X-Corps",
+        "Factor Three"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "The X-Men #28",
+      "debutDate": "1967-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject emits sonic screams powerful enough to carry him in flight. A former Interpol officer who joined the X-Men in 1975 and later co-ran the Generation X academy. Agents are advised to bring earplugs.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banshee_(Sean_Cassidy)"
+      ],
+      "notes": "He debuted as a coerced Factor Three operative before turning hero. Caleb Landry Jones's X-Men: First Class role is Fox, not MCU."
+    },
+    {
+      "id": "sunfire",
+      "name": "Sunfire",
+      "aliases": [
+        "Shiro Yoshida",
+        "Shiro",
+        "Famine"
+      ],
+      "realName": "Shiro Yoshida",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Big Hero 6",
+        "Horsemen of Apocalypse"
+      ],
+      "debutYear": 1970,
+      "debutIssue": "X-Men #64",
+      "debutDate": "1970-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject ionizes matter into superheated plasma, which also lets him fly. A Japanese mutant who quit the X-Men after a single mission in 1975 and later served with the Avengers Unity Squad. Agents are advised not to ask him for a light.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sunfire_(comics)"
+      ],
+      "notes": "He began as a nationalist antagonist and quit the X-Men after one mission, but was later elected to the Krakoa-era X-Men and served in Uncanny Avengers. Hero and x-men as primary team are judgment calls."
+    },
+    {
+      "id": "forge",
+      "name": "Forge",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor",
+        "x-force"
+      ],
+      "otherTeams": [
+        "United States Army"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "The Uncanny X-Men #184",
+      "debutDate": "1984-08",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Cheyenne mutant with an intuitive genius for invention, fitted with a bionic hand and leg. Designed the neutralizer that once cost Storm her powers, then joined the X-Men. Agents are advised not to hand him the office printer.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Forge_(character)"
+      ],
+      "notes": "He has no canonical civilian name (Claremont's outline name Daniel Lone Eagle was never used), and the infobox alias 'Maker' is omitted to avoid confusion with the Maker (Ultimate Reed Richards). He relies on gadgets but is classified mutant because his inventive genius is his X-gene power."
+    },
+    {
+      "id": "dazzler",
+      "name": "Dazzler",
+      "aliases": [
+        "Alison Blaire",
+        "Ali Blaire",
+        "Alison",
+        "Disco Dazzler"
+      ],
+      "realName": "Alison Blaire",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur",
+        "shield"
+      ],
+      "otherTeams": [
+        "A-Force"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Uncanny X-Men #130",
+      "debutDate": "1980-02",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject converts sound into light, from stage effects to laser blasts. A singer who launched her career in the disco era and has served with the X-Men and Excalibur. Venue security is advised to bring sunglasses.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dazzler_(Marvel_Comics)"
+      ],
+      "notes": "excalibur refers to New Excalibur and shield to her later stint as a S.H.I.E.L.D. agent; the infobox's Heralds of Galactus entry is omitted as not a clear main-continuity tenure. Halston Sage's Dark Phoenix cameo is Fox, not MCU."
+    },
+    {
+      "id": "longshot",
+      "name": "Longshot",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Exiles",
+        "Wildways Rebellion"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "Longshot #1",
+      "debutDate": "1985-09",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an artificial lifeform from the Mojoverse whose powers bend probability in his favor, provided his intentions are good. Escaped the television tyrant Mojo and joined the X-Men. Agents are advised not to bet against him.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Longshot_(comics)"
+      ],
+      "notes": "Wikipedia gives his species as 'Artificial Mojoverse lifeform' and his alter ego as 'No dual identity'. Origin is set to alien (an engineered extradimensional being), though synthetic is arguable and he is not a mutant."
+    },
+    {
+      "id": "magik",
+      "name": "Magik",
+      "aliases": [
+        "Illyana Rasputina",
+        "Illyana Rasputin",
+        "Illyana",
+        "Darkchilde",
+        "Lightchilde",
+        "Archimage"
+      ],
+      "realName": "Illyana Rasputina",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Phoenix Five"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Giant-Size X-Men #1",
+      "debutDate": "1975-05",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject teleports via stepping discs through the demon dimension Limbo, which she rules as its sorceress. Younger sister of Colossus; aged seven years in Limbo while no time passed on Earth. Agents are advised not to follow her through glowing circles.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magik_(Illyana_Rasputina)"
+      ],
+      "notes": "The 1975 debut is Illyana as a child; the infobox also lists her debut as Magik in Magik #1 (Dec 1983). She is a mutant whose sorcery was acquired in Limbo, and Wikipedia calls her a superhero, though her Darkchilde side could support antihero."
+    },
+    {
+      "id": "x-23",
+      "name": "X-23",
+      "aliases": [
+        "Laura Kinney",
+        "Laura",
+        "X23",
+        "Talon",
+        "Laura X"
+      ],
+      "realName": "Laura Kinney",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force"
+      ],
+      "otherTeams": [
+        "New X-Men",
+        "Avengers Academy"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "X-Men: Evolution, \"X23\"",
+      "debutDate": "2003-08",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject shares Wolverine's healing factor and has adamantium-coated claws, two in each hand and one in each foot. Raised as an assassin by the Facility before joining the X-Men and X-Force. Agents are advised to check her shoes.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/X-23",
+        "https://en.wikipedia.org/wiki/List_of_X-Men:_Evolution_episodes",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+      ],
+      "notes": "She debuted in the X-Men: Evolution episode 'X23' (aired 2003-08-02) before NYX #3 (Feb 2004). Wikipedia calls her a superheroine, though her assassin and X-Force past could support antihero; 'Wolverine' and 'Weapon X' are omitted as aliases because they belong to Logan."
+    },
+    {
+      "id": "northstar",
+      "name": "Northstar",
+      "aliases": [
+        "Jean-Paul Beaubier",
+        "Jean-Paul Martin",
+        "Jean-Paul"
+      ],
+      "realName": "Jean-Paul Beaubier",
+      "primaryTeam": "alpha-flight",
+      "teams": [
+        "alpha-flight",
+        "x-men"
+      ],
+      "otherTeams": [],
+      "debutYear": 1979,
+      "debutIssue": "The Uncanny X-Men #120",
+      "debutDate": "1979-04",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject flies at superhuman speed and generates light when holding hands with his twin sister, Aurora. Founding member of Alpha Flight and one of the first openly gay superheroes in American comics. Agents should note he is also a world-class skier.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Northstar_(character)"
+      ],
+      "notes": "The infobox's Hydra affiliation is omitted because he served only while brainwashed."
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "aliases": [
+        "Jeanne-Marie Beaubier",
+        "Jeanne-Marie",
+        "Sister Beaubier"
+      ],
+      "realName": "Jeanne-Marie Beaubier",
+      "primaryTeam": "alpha-flight",
+      "teams": [
+        "alpha-flight",
+        "x-factor",
+        "marauders"
+      ],
+      "otherTeams": [],
+      "debutYear": 1979,
+      "debutIssue": "The Uncanny X-Men #120",
+      "debutDate": "1979-04",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject flies at superhuman speed and generates brilliant light, classically by joining hands with her twin brother, Northstar. Raised apart from him at a strict religious school in Quebec; founding member of Alpha Flight. Agents are advised not to separate the twins.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aurora_(comics)"
+      ],
+      "notes": "Her brief X-Men stint and her mind-controlled Weapon X service are left out of teams as not notable tenures."
+    },
+    {
+      "id": "rachel-summers",
+      "name": "Rachel Summers",
+      "aliases": [
+        "Prestige",
+        "Rachel Grey",
+        "Rachel Anne Summers",
+        "Mother Askani",
+        "Askani"
+      ],
+      "realName": "Rachel Summers",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur",
+        "starjammers",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Hounds",
+        "Clan Askani"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "The Uncanny X-Men #141",
+      "debutDate": "1981-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a telepath and telekinetic from a dystopian future, the daughter of Cyclops and Jean Grey. Has hosted the Phoenix Force and served with the X-Men and Excalibur. Agents are advised not to ask how the future turns out.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rachel_Summers"
+      ],
+      "notes": "'Phoenix' and 'Marvel Girl', which she has also used, are omitted as aliases because they belong primarily to Jean Grey."
+    },
+    {
+      "id": "moira-mactaggert",
+      "name": "Moira MacTaggert",
+      "aliases": [
+        "Moira X",
+        "Moira Kinross MacTaggert",
+        "Dr. Moira MacTaggert",
+        "Moira"
+      ],
+      "realName": "Moira Kinross MacTaggert",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Orchis"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "The Uncanny X-Men #96",
+      "debutDate": "1975-12",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Scottish geneticist who ran the Muir Island research facility and spent decades treating mutants. Her file was later amended to classify her as a mutant herself. Agents should not assume this file is final.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moira_MacTaggert"
+      ],
+      "notes": "She was a non-powered human scientist for most of her history until House of X (2019) revealed her as a reincarnating mutant, and she later turned against mutants with Orchis before being depowered. Origin (mutant vs trained) and alignment (hero vs villain) are both contested."
+    }
+  ],
+  "dropped": []
+}

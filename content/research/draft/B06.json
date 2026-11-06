@@ -1,0 +1,973 @@
+{
+  "characters": [
+    {
+      "id": "kingpin",
+      "name": "Kingpin",
+      "aliases": [
+        "Wilson Fisk",
+        "Fisk",
+        "Wilson Grant Fisk",
+        "Kingpin of Crime",
+        "Mayor Fisk"
+      ],
+      "realName": "Wilson Fisk",
+      "primaryTeam": "the-hand",
+      "teams": [
+        "the-hand"
+      ],
+      "otherTeams": [],
+      "debutYear": 1967,
+      "debutIssue": "The Amazing Spider-Man #50",
+      "debutDate": "1967-07",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Hawkeye",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a New York crime lord of considerable size, most of it muscle. Has hired the Hand and served as Mayor of New York City. Agents are advised not to comment on his weight.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingpin_(character)",
+        "https://en.wikipedia.org/wiki/Wilson_Fisk_(Marvel_Cinematic_Universe)"
+      ],
+      "notes": "Team set to the Hand: it is in his infobox, and he controlled the Hand after Shadowland until Superior Spider-Man #14 (2013). The infobox also lists Hydra, Thunderbolts, Sinister Six and Emissaries of Evil with no supporting text, and he briefly held the Hellfire Club's White King seat (Immortal X-Men #14)."
+    },
+    {
+      "id": "tombstone",
+      "name": "Tombstone",
+      "aliases": [
+        "Lonnie Lincoln",
+        "Lonnie Thompson Lincoln",
+        "Alonzo Thompson Lincoln",
+        "Lonnie Tombstone"
+      ],
+      "realName": "Lonnie Thompson Lincoln",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1988,
+      "debutIssue": "Web of Spider-Man #36",
+      "debutDate": "1988-03",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Brand New Day",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an albino hitman turned crime boss who grew up in Harlem. Exposure to an experimental gas left him with superhuman strength and durability. Agents are advised his name is less a threat than a forecast.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tombstone_(comics)",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day",
+        "https://www.looper.com/2232401/spider-man-brand-new-day-opening-montage-marvel-villains-explained/"
+      ],
+      "notes": "Wikipedia's lead and infobox name him Alonzo Thompson 'Lonnie' Lincoln, while its biography says he was born Lonnie Thompson Lincoln. The infobox lists the Maggia and the Hand, but the text never describes him as a member, so no team is set. His MCU role is a brief cameo (Marvin Jones III) in Brand New Day's opening montage."
+    },
+    {
+      "id": "hammerhead",
+      "name": "Hammerhead",
+      "aliases": [
+        "Joseph",
+        "Mr. H"
+      ],
+      "realName": "Joseph",
+      "primaryTeam": "maggia",
+      "teams": [
+        "maggia"
+      ],
+      "otherTeams": [],
+      "debutYear": 1972,
+      "debutIssue": "The Amazing Spider-Man #113",
+      "debutDate": "1972-10",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Maggia boss whose shattered skull was rebuilt with metal, leaving the top of his head flat. Dresses in the manner of a 1920s gangster. Agents are advised not to engage him head-on.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hammerhead_(comics)"
+      ],
+      "notes": "Only his first name, Joseph, is known (per The Amazing Spider-Man #618). Origin set to tech for his metal skull and later adamantium implants; before those implants he had no superhuman powers, so 'trained' is arguable."
+    },
+    {
+      "id": "jackal",
+      "name": "Jackal",
+      "aliases": [
+        "Miles Warren",
+        "Professor Warren",
+        "The Professor",
+        "Professor Guarinus"
+      ],
+      "realName": "Miles Warren",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "The Amazing Spider-Man #31",
+      "debutDate": "1965-12",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Miles Warren, a former Empire State University professor who has cloned Spider-Man more than once. Spliced his own genes with a jackal's to enhance his abilities. Agents are advised to confirm all identities twice.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jackal_(Marvel_Comics)"
+      ],
+      "notes": "Debut is Miles Warren's first appearance per the infobox; he first appeared as the Jackal in The Amazing Spider-Man #129 (February 1974). Origin is mutate because his enhanced abilities come from splicing his genes with a jackal's."
+    },
+    {
+      "id": "mister-negative",
+      "name": "Mister Negative",
+      "aliases": [
+        "Martin Li",
+        "Mr. Negative"
+      ],
+      "realName": "Martin Li",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Inner Demons"
+      ],
+      "debutYear": 2007,
+      "debutIssue": "Free Comic Book Day: The Amazing Spider-Man #1",
+      "debutDate": "2007-05",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject runs a Chinatown soup kitchen as philanthropist Martin Li while leading the Inner Demons gang as Mister Negative. An experimental drug gave him control of the Darkforce and Lightforce. Agents are advised to check both sides of his ledger.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mister_Negative",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Martin Li is the civilian identity he lives under; Wikipedia says his birth name was never revealed. Spider-Man: Brand New Day only references his gang's logo, so he does not count as appearing."
+    },
+    {
+      "id": "morlun",
+      "name": "Morlun",
+      "aliases": [
+        "Devourer of Totems"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Inheritors"
+      ],
+      "debutYear": 2001,
+      "debutIssue": "The Amazing Spider-Man vol. 2 #30",
+      "debutDate": "2001-06",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a psychic vampire of extreme age who feeds on the life force of spider-totems. Has hunted Spider-Man and his counterparts across the multiverse with his family, the Inheritors. Agents with spider-powers should request desk duty.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morlun"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "silvermane",
+      "name": "Silvermane",
+      "aliases": [
+        "Silvio Manfredi"
+      ],
+      "realName": "Silvio Manfredi",
+      "primaryTeam": "maggia",
+      "teams": [
+        "maggia",
+        "hydra"
+      ],
+      "otherTeams": [],
+      "debutYear": 1969,
+      "debutIssue": "The Amazing Spider-Man #73",
+      "debutDate": "1969-06",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Maggia don nicknamed for his near-white hair. Has pursued immortality through a youth formula and, later, a cyborg body. Agents are advised that retirement is not in his plans.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silvermane",
+        "https://en.wikipedia.org/wiki/Hydra_(comics)"
+      ],
+      "notes": "Origin set to tech for his cyborg bodies; he began as an unpowered elderly mob boss relying on a youth formula. Hydra comes from his infobox (alias 'Supreme Hydra') and Hydra's former-member list, though the text only says he sought to lead Hydra. 'Supreme Hydra' is left out of aliases because it belongs mainly to Baron Strucker."
+    },
+    {
+      "id": "beetle-abner-jenkins",
+      "name": "Beetle (Abner Jenkins)",
+      "aliases": [
+        "Abner Jenkins",
+        "MACH-1",
+        "MACH-I",
+        "MACH-2",
+        "MACH-3",
+        "MACH-IV",
+        "MACH-V",
+        "MACH-X"
+      ],
+      "realName": "Abner Jenkins",
+      "primaryTeam": "thunderbolts",
+      "teams": [
+        "thunderbolts",
+        "masters-of-evil"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Strange Tales #123",
+      "debutDate": "1964-08",
+      "alignment": "antihero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a former aircraft mechanic who built a winged suit of beetle-themed armor and turned to crime. Later reformed as MACH-1 of the Thunderbolts and ran security at the Raft. Agents are advised his armor upgrades are numbered.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abner_Jenkins",
+        "https://en.wikipedia.org/wiki/Masters_of_Evil",
+        "https://en.wikipedia.org/wiki/Sinister_Syndicate"
+      ],
+      "notes": "Alignment is contested: he was a villain as the Beetle from 1964 until the Thunderbolts debuted in 1997, then a reformed hero as MACH-1 and later MACH identities, so he is set to antihero as a character defined by switching sides. His Wikipedia page has no infobox, so the debut comes from its text."
+    },
+    {
+      "id": "boomerang",
+      "name": "Boomerang",
+      "aliases": [
+        "Fred Myers",
+        "Frederick Myers",
+        "Outback",
+        "Comeback"
+      ],
+      "realName": "Fred Myers",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six",
+        "thunderbolts",
+        "masters-of-evil"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate",
+        "Secret Empire"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Tales to Astonish #81",
+      "debutDate": "1966-07",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Brand New Day",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an Australian-born former major-league pitcher, banned for taking bribes. Throws trick boomerangs and once led a five-member Sinister Six. Agents are advised that he always comes back.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B",
+        "https://en.wikipedia.org/w/index.php?title=Boomerang_(character)&oldid=1219850664",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day",
+        "https://en.wikipedia.org/wiki/Masters_of_Evil",
+        "https://comics.lib.msu.edu/rri/hrri/hulkron.htm",
+        "https://aiptcomics.com/2026/06/08/amazing-venom/"
+      ],
+      "notes": "Wikipedia merged his article into 'List of Marvel Comics characters: B' in 2024, so the debut comes from the infobox of its last full revision. He uses the name Comeback in 2026 comics; Sinister Six is set as his primary team because he led it in The Superior Foes of Spider-Man."
+    },
+    {
+      "id": "tinkerer",
+      "name": "Tinkerer",
+      "aliases": [
+        "Phineas Mason",
+        "Terrible Tinkerer",
+        "The Tinkerer",
+        "Hophni Mason"
+      ],
+      "realName": "Phineas Mason",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #2",
+      "debutDate": "1963-05",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Phineas Mason, an elderly inventor who builds and repairs weapons for Spider-Man's enemies. Prefers to work behind the scenes. Agents are advised to inspect any repaired equipment for additions.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tinkerer_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Masters_of_Evil"
+      ],
+      "notes": "His infobox lists the Masters of Evil, but neither his biography nor the Masters of Evil article supports it, so no team is set. The article body dates ASM #2 to April 1963, but the infobox and cover date say May 1963."
+    },
+    {
+      "id": "puma",
+      "name": "Puma",
+      "aliases": [
+        "Thomas Fireheart",
+        "Fireheart"
+      ],
+      "realName": "Thomas Fireheart",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Outlaws",
+        "MODOK's 11",
+        "Wild Pack"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "The Amazing Spider-Man #256",
+      "debutDate": "1984-09",
+      "alignment": "antihero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is Thomas Fireheart, a mercenary and CEO bred by his tribe to be a perfect warrior. Transforms into an anthropomorphic mountain lion. Once bought the Daily Bugle to repay a debt of honor.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puma_(comics)"
+      ],
+      "notes": "Alignment is contested: he began as an assassin hired to kill Spider-Man, later became an ally and Outlaws member, and has slipped back into mercenary villainy. His powers come from genetic engineering combined with tribal mysticism; origin set to magic."
+    },
+    {
+      "id": "spot",
+      "name": "Spot",
+      "aliases": [
+        "The Spot",
+        "Jonathan Ohnn",
+        "Johnathon Ohnn",
+        "Jonathon Ohnn"
+      ],
+      "realName": "Jonathan Ohnn",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "MODOK's 11"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "Peter Parker, the Spectacular Spider-Man #97",
+      "debutDate": "1984-12",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a scientist who, while working for the Kingpin, tried to replicate Cloak's teleportation and ended up covered in portals. Can reach through his spots to strike from anywhere. Agents are advised not to treat him as a villain of the week.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spot_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Sinister_Six"
+      ],
+      "notes": "Debut uses the infobox's listing of his appearance as an unnamed man in #97; he first appeared as the Spot in #98 (January 1985). Wikipedia spells his first name inconsistently (Jonathon/Johnathon), so the common spelling Jonathan is used and the variants are aliases."
+    },
+    {
+      "id": "molten-man",
+      "name": "Molten Man",
+      "aliases": [
+        "Mark Raxton",
+        "Burning Man"
+      ],
+      "realName": "Mark Raxton",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "The Amazing Spider-Man #28",
+      "debutDate": "1965-09",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Far From Home",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was coated in an experimental liquid metal alloy during a lab accident, leaving him with metallic skin and heat powers. Is the stepbrother of Liz Allan. Agents are advised not to shake hands.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Molten_Man"
+      ],
+      "notes": "His only live-action appearance is the Fire Elemental illusion in Spider-Man: Far From Home, which Wikipedia describes as a creature based on Molten Man rather than Mark Raxton himself, so the MCU flag is debatable."
+    },
+    {
+      "id": "hydro-man",
+      "name": "Hydro-Man",
+      "aliases": [
+        "Morris Bench",
+        "Morrie Bench",
+        "Hydroman"
+      ],
+      "realName": "Morris Bench",
+      "primaryTeam": "frightful-four",
+      "teams": [
+        "frightful-four",
+        "masters-of-evil"
+      ],
+      "otherTeams": [
+        "Sinister Syndicate"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "The Amazing Spider-Man #212",
+      "debutDate": "1981-01",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Far From Home",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a former cargo ship crewman knocked overboard near an experimental undersea generator, after which he could turn his body into water. Has served with the Frightful Four. Agents are advised to keep him away from reservoirs.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hydro-Man",
+        "https://en.wikipedia.org/wiki/Masters_of_Evil"
+      ],
+      "notes": "His only live-action appearance is the Water Elemental illusion in Spider-Man: Far From Home, which Wikipedia calls a creature inspired by Hydro-Man (the film also name-drops Morris Bench), so the MCU flag is debatable. Infobox Sinister Six and Maggia links lack supporting text and are left out."
+    },
+    {
+      "id": "man-wolf",
+      "name": "Man-Wolf",
+      "aliases": [
+        "John Jameson",
+        "John Jonah Jameson III",
+        "Stargod",
+        "Colonel Jupiter",
+        "Manwolf"
+      ],
+      "realName": "John Jameson",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Agents of Wakanda"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The Amazing Spider-Man #1",
+      "debutDate": "1963-03",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is astronaut John Jameson, son of J. Jonah Jameson. A gem he found on the Moon turns him into a wolf-like creature. Agents are advised not to schedule meetings during a full moon.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Man-Wolf"
+      ],
+      "notes": "The infobox debut is John Jameson's first appearance; he first became Man-Wolf in ASM #124 (September 1973). Alignment and origin are judgment calls: Jameson is a supporting hero (astronaut, Stargod, Agents of Wakanda), while his Man-Wolf form is a monster powered by the mystical Godstone."
+    },
+    {
+      "id": "big-wheel",
+      "name": "Big Wheel",
+      "aliases": [
+        "Jackson Weele"
+      ],
+      "realName": "Jackson Weele",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1978,
+      "debutIssue": "The Amazing Spider-Man #183",
+      "debutDate": "1978-08",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a businessman who embezzled from his own company and had the Tinkerer build him a giant armed wheel. Has since spoken at Vil-Anon meetings. Agents are advised to approach from the side.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Big_Wheel_(comics)"
+      ],
+      "notes": "The infobox gives only 'The Amazing Spider-Man #183 (1978)'; that issue's cover date is August 1978."
+    },
+    {
+      "id": "shriek",
+      "name": "Shriek",
+      "aliases": [
+        "Frances Barrison",
+        "Frances Louise Barrison",
+        "Sandra Deel"
+      ],
+      "realName": "Frances Louise Barrison",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Carnage Family"
+      ],
+      "debutYear": 1993,
+      "debutIssue": "Spider-Man Unlimited #1",
+      "debutDate": "1993-05",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a mutant whose powers were awakened by exposure to Cloak's Darkforce. Projects sonic blasts and draws out the darkness in others. Agents are advised she has no indoor voice.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shriek_(character)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "swarm",
+      "name": "Swarm",
+      "aliases": [
+        "Fritz von Meyer"
+      ],
+      "realName": "Fritz von Meyer",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1977,
+      "debutIssue": "The Champions #14",
+      "debutDate": "1977-07",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a former Nazi scientist whose body was devoured by mutated bees, leaving his mind in command of the hive. Operates as a humanoid mass of bees. Agents with allergies should request reassignment.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swarm_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Sinister_Six"
+      ],
+      "notes": "His infobox lists the Sinister Six, but that was a team he led in a single issue (Spider-Man and the X-Men #4), so no team is set."
+    },
+    {
+      "id": "scream",
+      "name": "Scream",
+      "aliases": [
+        "Donna Diego"
+      ],
+      "realName": "Donna Diego",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Sinister Syndicate"
+      ],
+      "debutYear": 1993,
+      "debutIssue": "Venom: Lethal Protector #4",
+      "debutDate": "1993-05",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Donna Diego, a Life Foundation volunteer bonded to one of five symbiotes forcibly spawned from Venom. Uses her prehensile hair as a weapon. Agents are advised that the codename is descriptive.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scream_(character)",
+        "https://en.wikipedia.org/wiki/Sinister_Syndicate"
+      ],
+      "notes": "The Scream symbiote has had several hosts; this record follows the original, Donna Diego."
+    },
+    {
+      "id": "calypso",
+      "name": "Calypso",
+      "aliases": [
+        "Calypso Ezili",
+        "Hunter of Souls",
+        "The Witch"
+      ],
+      "realName": "Calypso Ezili",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1980,
+      "debutIssue": "The Amazing Spider-Man #209",
+      "debutDate": "1980-10",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a voodoo priestess and the occasional lover and partner of Kraven the Hunter. Has used drums, potions and charms to hold the Lizard under her control. Agents are advised to decline any beverages.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Calypso_(comics)"
+      ],
+      "notes": "The infobox gives the name Calypso Ezili, though the article text calls her a nameless priestess. Her only live-action role is in Sony's Kraven the Hunter, which does not count."
+    },
+    {
+      "id": "spider-slayer-alistair-smythe",
+      "name": "Spider-Slayer (Alistair Smythe)",
+      "aliases": [
+        "Alistair Smythe",
+        "Alistair Alphonso Smythe",
+        "Ultimate Spider-Slayer",
+        "Smythe"
+      ],
+      "realName": "Alistair Smythe",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1985,
+      "debutIssue": "The Amazing Spider-Man Annual #19",
+      "debutDate": "1985-11",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the son of Spencer Smythe and continues the family business of building robots to destroy Spider-Man. Wears a bio-organic carapace that restored his ability to walk. Agents are advised the business has one target.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alistair_Smythe"
+      ],
+      "notes": "His only live-action role is in Sony's The Amazing Spider-Man 2, which does not count for the MCU."
+    },
+    {
+      "id": "white-rabbit",
+      "name": "White Rabbit",
+      "aliases": [
+        "Lorina Dodson",
+        "Dr. Lorina Dodson",
+        "Rabbit"
+      ],
+      "realName": "Lorina Dodson",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Sinister Syndicate",
+        "Menagerie"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "Marvel Team-Up #131",
+      "debutDate": "1983-07",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is Dr. Lorina Dodson, an heiress who spent her inheritance on Alice in Wonderland-themed gadgets for a life of crime. Fights with an umbrella that fires explosive carrots. Agents are advised not to follow her down any holes.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Rabbit_(comics)",
+        "https://en.wikipedia.org/wiki/Sinister_Syndicate"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tarantula",
+      "name": "Tarantula",
+      "aliases": [
+        "Anton Miguel Rodriquez",
+        "Antonio Miguel Rodriquez",
+        "Anton Rodriquez",
+        "Anton Rodriguez"
+      ],
+      "realName": "Anton Miguel Rodriquez",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Brand Corporation"
+      ],
+      "debutYear": 1974,
+      "debutIssue": "The Amazing Spider-Man #134",
+      "debutDate": "1974-07",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Brand New Day",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a former revolutionary terrorist from a small South American republic, schooled in military tactics and martial arts. Fights with envenomed spikes on the toes of his boots. Agents are advised to watch his feet.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+      ],
+      "notes": "Several characters have used the name. This record follows the original, Anton Miguel Rodriquez, whom Wikipedia credits with a cameo in Spider-Man: Brand New Day (performer unidentified). Origin set to trained because the Brand Corporation mutated him into a spider-creature only in his final story."
+    },
+    {
+      "id": "stegron",
+      "name": "Stegron",
+      "aliases": [
+        "Vincent Stegron",
+        "Stegron the Dinosaur Man"
+      ],
+      "realName": "Vincent Stegron",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1974,
+      "debutIssue": "Marvel Team-Up #19",
+      "debutDate": "1974-03",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a former S.H.I.E.L.D. agent who studied Savage Land dinosaur DNA with Curt Connors, then injected himself with it. Now transforms into a bipedal stegosaurus that can command dinosaurs. Agents are advised to secure all museum fossils.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stegron"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mister-hyde",
+      "name": "Mister Hyde",
+      "aliases": [
+        "Calvin Zabo",
+        "Mr. Hyde",
+        "Hyde",
+        "Edward Hyde"
+      ],
+      "realName": "Calvin Zabo",
+      "primaryTeam": "masters-of-evil",
+      "teams": [
+        "masters-of-evil",
+        "thunderbolts"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Journey into Mystery #99",
+      "debutDate": "1963-12",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Calvin Zabo, a medical researcher who drew on Jekyll and Hyde to create a formula that turns him into a hulking brute. Has served on several Masters of Evil rosters and the Thunderbolts. Agents are advised his bedside manner has not improved.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mister_Hyde_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Masters_of_Evil"
+      ],
+      "notes": "Calvin Johnson in Agents of S.H.I.E.L.D. does not count for the MCU field because it is an ABC/Marvel Television series."
+    },
+    {
+      "id": "living-brain",
+      "name": "Living Brain",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #8",
+      "debutDate": "1964-01",
+      "alignment": "villain",
+      "origin": "synthetic",
+      "gender": "other",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a robot billed as the most intelligent computer in existence. Has since been reprogrammed as a lab assistant at Parker Industries. Agents are advised to locate the off switch before engaging.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Living_Brain",
+        "https://en.wikipedia.org/wiki/Sinister_Six"
+      ],
+      "notes": "It was briefly part of Boomerang's Marvel NOW! Sinister Six before The Superior Foes of Spider-Man dropped it, so that is treated as a one-off. Wikipedia refers to the robot as 'it'."
+    },
+    {
+      "id": "rocket-racer",
+      "name": "Rocket Racer",
+      "aliases": [
+        "Robert Farrell"
+      ],
+      "realName": "Robert Farrell",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Fifty State Initiative",
+        "Avengers Academy"
+      ],
+      "debutYear": 1977,
+      "debutIssue": "The Amazing Spider-Man #172",
+      "debutDate": "1977-09",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is Robert Farrell, a Brooklyn native and eldest of seven children who rides a self-built rocket skateboard. Began as a thief but reformed after run-ins with Spider-Man. Agents are advised he does not stay off the sidewalk.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_R"
+      ],
+      "notes": "He debuted as a thief but reformed after early clashes with Spider-Man and later trained with the Initiative and Avengers Academy, so he is set to hero. He has no standalone Wikipedia article."
+    },
+    {
+      "id": "jack-olantern",
+      "name": "Jack O'Lantern",
+      "aliases": [
+        "Jason Macendale",
+        "Jack O Lantern",
+        "Jack-O'-Lantern"
+      ],
+      "realName": "Jason Macendale",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1981,
+      "debutIssue": "Machine Man #19",
+      "debutDate": "1981-02",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a CIA-trained mercenary who adopted a pumpkin-headed costume, a glider and pumpkin bombs. Later traded the identity for a goblin-themed one. Agents are advised he takes Halloween seriously.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_O%27Lantern_(Marvel_Comics)"
+      ],
+      "notes": "Several characters have used the identity. This record follows the first, Jason Macendale (later the second Hobgoblin; that name is left out of aliases because it belongs to Roderick Kingsley), while later wearers such as Steven Levins have other names and teams."
+    },
+    {
+      "id": "montana",
+      "name": "Montana",
+      "aliases": [
+        "Jackson Brice",
+        "Jackson W. Brice"
+      ],
+      "realName": "Jackson Brice",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Enforcers"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Amazing Spider-Man #10",
+      "debutDate": "1964-03",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Spider-Man: Homecoming",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is Jackson Brice, a marksman and lariat specialist with the Enforcers. Has spent decades as hired muscle for New York crime bosses. Agents are advised that the cowboy hat is not a disguise.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Montana_(character)"
+      ],
+      "notes": "His MCU appearance is Jackson Brice (Logan Marshall-Green) as the first Shocker in Spider-Man: Homecoming. 'Shocker' is left out of aliases because it belongs to Herman Schultz."
+    },
+    {
+      "id": "cardiac",
+      "name": "Cardiac",
+      "aliases": [
+        "Elias Wirtham",
+        "Dr. Elias Wirtham"
+      ],
+      "realName": "Elias Wirtham",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1990,
+      "debutIssue": "The Amazing Spider-Man #342",
+      "debutDate": "1990-12",
+      "alignment": "antihero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is Dr. Elias Wirtham, a surgeon whose heart was replaced with a beta-particle reactor. Operates as a vigilante, a practice that has put him at odds with Spider-Man. Agents are advised his pulse is unusual.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cardiac_(comics)"
+      ],
+      "notes": "Alignment is a judgment call: he is a vigilante first depicted as an enemy of Spider-Man, so he is set to antihero. The debut is his first appearance as Elias Wirtham; he first appeared as Cardiac in ASM #344 (February 1991)."
+    },
+    {
+      "id": "overdrive",
+      "name": "Overdrive",
+      "aliases": [
+        "James Beverley"
+      ],
+      "realName": "James Beverley",
+      "primaryTeam": "sinister-six",
+      "teams": [
+        "sinister-six"
+      ],
+      "otherTeams": [],
+      "debutYear": 2007,
+      "debutIssue": "Free Comic Book Day: The Amazing Spider-Man #1",
+      "debutDate": "2007-05",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a getaway driver who can turn any vehicle into a high-powered one. Has worked for Mister Negative and served in Boomerang's Sinister Six. Agents are advised to note his license plate.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Overdrive_(character)",
+        "https://en.wikipedia.org/wiki/Sinister_Six"
+      ],
+      "notes": "His infobox says 'Free Comic Book Day: Spider-Man (July 2007)', but the article's publication history and Mister Negative's article date this same 'Swing Shift' issue to May 2007. Origin set to tech because his vehicle-modifying power works through nanites."
+    }
+  ],
+  "dropped": []
+}

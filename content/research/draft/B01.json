@@ -1,0 +1,1153 @@
+{
+  "characters": [
+    {
+      "id": "iron-man",
+      "name": "Iron Man",
+      "aliases": [
+        "Tony Stark",
+        "Anthony Stark",
+        "Anthony Edward Stark",
+        "Shellhead",
+        "Golden Avenger"
+      ],
+      "realName": "Tony Stark",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "illuminati",
+        "shield",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Stark Industries",
+        "Force Works"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Tales of Suspense #39",
+      "debutDate": "1963-03",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is a billionaire inventor who built his first armored suit while held captive. Founding member of the Avengers and a former director of S.H.I.E.L.D. Agents are advised that the suit is not available on loan.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iron_Man"
+      ],
+      "notes": "Infobox lists the December 1962 on-sale date; the March 1963 cover date given in the article lead is used per rubric."
+    },
+    {
+      "id": "captain-america",
+      "name": "Captain America",
+      "aliases": [
+        "Steve Rogers",
+        "Steven Rogers",
+        "Cap",
+        "Nomad",
+        "The Captain",
+        "Sentinel of Liberty",
+        "Star-Spangled Avenger",
+        "First Avenger"
+      ],
+      "realName": "Steve Rogers",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "invaders",
+        "shield"
+      ],
+      "otherTeams": [
+        "All-Winners Squad",
+        "U.S. Army"
+      ],
+      "debutYear": 1941,
+      "debutIssue": "Captain America Comics #1",
+      "debutDate": "1941-03",
+      "alignment": "hero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject, a frail Army volunteer, was made peak human by the Super-Soldier Serum during World War II. Spent decades frozen in ice before leading the Avengers. Agents are reminded that the shield is not a frisbee.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Captain_America"
+      ],
+      "notes": "Infobox lists the December 20, 1940 on-sale date; the March 1941 cover date is used per rubric."
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "aliases": [
+        "Thor Odinson",
+        "Odinson",
+        "God of Thunder",
+        "Donald Blake",
+        "Sigurd Jarlson",
+        "Jake Olson"
+      ],
+      "realName": "Thor Odinson",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #83",
+      "debutDate": "1962-08",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is the Asgardian God of Thunder and wielder of the enchanted hammer Mjolnir. Founding member of the Avengers who once lived as mortal physician Donald Blake. Weather forecasts in his vicinity are unreliable.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+      ],
+      "notes": "Eric Masterson left out of aliases because that identity belongs primarily to Thunderstrike."
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "aliases": [
+        "Bruce Banner",
+        "Robert Bruce Banner",
+        "The Incredible Hulk",
+        "Joe Fixit",
+        "World-Breaker",
+        "Jade Giant",
+        "Green Goliath",
+        "Doc Green"
+      ],
+      "realName": "Bruce Banner",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "defenders"
+      ],
+      "otherTeams": [
+        "Warbound",
+        "Pantheon"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "The Incredible Hulk #1",
+      "debutDate": "1962-05",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Incredible Hulk",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is a physicist caught in the blast of a gamma bomb he helped design. Transforms into a green-skinned powerhouse under emotional stress. Agents are strongly advised not to make him angry.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hulk"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "black-widow",
+      "name": "Black Widow",
+      "aliases": [
+        "Natasha Romanoff",
+        "Natasha Romanova",
+        "Natalia Romanova",
+        "Natalia Alianovna Romanova",
+        "Nat"
+      ],
+      "realName": "Natasha Romanova",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "shield",
+        "red-room",
+        "champions"
+      ],
+      "otherTeams": [
+        "KGB"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Tales of Suspense #52",
+      "debutDate": "1964-04",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Iron Man 2",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is a former Soviet spy trained in the Red Room who defected to the West. Longtime Avenger and S.H.I.E.L.D. operative with no superhuman powers. Her file should be presumed incomplete.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+      ],
+      "notes": "Wikipedia notes Red Room biochemical augmentation slowed her aging but states she has no superhuman powers, so she is classed as trained."
+    },
+    {
+      "id": "hawkeye-clint-barton",
+      "name": "Hawkeye (Clint Barton)",
+      "aliases": [
+        "Clint Barton",
+        "Clinton Francis Barton",
+        "Ronin",
+        "Golden Archer",
+        "Hawkguy"
+      ],
+      "realName": "Clint Barton",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "shield",
+        "thunderbolts"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "Tales of Suspense #57",
+      "debutDate": "1964-09",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a former carnival performer and master archer with no superhuman powers. Began as a reluctant criminal before joining the Avengers in 1965. Agents should not challenge him to darts.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Clint_Barton"
+      ],
+      "notes": "Goliath left out of aliases because it belongs primarily to Hank Pym."
+    },
+    {
+      "id": "ant-man-hank-pym",
+      "name": "Ant-Man (Hank Pym)",
+      "aliases": [
+        "Hank Pym",
+        "Henry Pym",
+        "Henry Jonathan Pym",
+        "Giant-Man",
+        "Goliath",
+        "Yellowjacket",
+        "Scientist Supreme",
+        "Dr. Pym"
+      ],
+      "realName": "Hank Pym",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Tales to Astonish #27",
+      "debutDate": "1962-01",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Ant-Man",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a biochemist who discovered the size-altering Pym particles. Founding Avenger who has operated as Ant-Man, Giant-Man, Goliath and Yellowjacket. Also built Ultron, a matter still under review.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hank_Pym"
+      ],
+      "notes": "Origin contested: Wikipedia lists him as a human mutate whose size powers came from his own ingested Pym-particle formulas, while the MCU version relies on a suit (tech)."
+    },
+    {
+      "id": "wasp-janet-van-dyne",
+      "name": "Wasp (Janet van Dyne)",
+      "aliases": [
+        "Janet van Dyne",
+        "Jan",
+        "Jan van Dyne",
+        "The Wasp",
+        "Winsome Wasp",
+        "Giant Woman"
+      ],
+      "realName": "Janet van Dyne",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "Lady Liberators",
+        "Agents of Wakanda"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Tales to Astonish #44",
+      "debutDate": "1963-06",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Ant-Man",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a founding Avenger credited with naming the team. Shrinks to insect size, flies on wings and fires bio-electric stings. Agents should not mistake her for a pest.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Janet_van_Dyne",
+        "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+      ],
+      "notes": "Origin contested: Wikipedia lists her as a human mutate (implanted Pym particles, wings from Pym's genetic modifications), while the MCU version uses a suit. MCU debut is Hayley Lovitt's nonspeaking flashback cameo in Ant-Man (2015)."
+    },
+    {
+      "id": "vision",
+      "name": "Vision",
+      "aliases": [
+        "The Vision",
+        "Victor Shade",
+        "White Vision"
+      ],
+      "realName": "",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1968,
+      "debutIssue": "The Avengers #57",
+      "debutDate": "1968-10",
+      "alignment": "hero",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Avengers: Age of Ultron",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a synthezoid built by Ultron to destroy the Avengers, who joined them instead and later married the Scarlet Witch. Can alter his density at will, so locked doors should not be considered secure.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+      ],
+      "notes": "Infobox lists the August 1968 publication date; the article gives the October 1968 cover date, used per rubric. Distinct from the 1940s Timely Vision (Aarkus)."
+    },
+    {
+      "id": "scarlet-witch",
+      "name": "Scarlet Witch",
+      "aliases": [
+        "Wanda Maximoff",
+        "Wanda Marya Maximoff",
+        "Wanda",
+        "Wanda Frank",
+        "Queen of Chaos",
+        "Empress of Magic"
+      ],
+      "realName": "Wanda Maximoff",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [
+        "Force Works",
+        "Lady Liberators"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The X-Men #4",
+      "debutDate": "1964-03",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject wields chaos magic capable of altering reality. Former Brotherhood of Mutants member who joined the Avengers in 1965 and later married the Vision. Probability is not to be relied upon in her presence.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlet_Witch",
+        "https://en.wikipedia.org/wiki/Wanda_Maximoff_(Marvel_Cinematic_Universe)"
+      ],
+      "notes": "Origin contested: introduced as a mutant, retconned in 2015 as a High Evolutionary experiment subject, and now written (as in the MCU) as a chaos-magic witch; classed magic. MCU debut is the Winter Soldier mid-credits scene."
+    },
+    {
+      "id": "quicksilver",
+      "name": "Quicksilver",
+      "aliases": [
+        "Pietro Maximoff",
+        "Pietro Django Maximoff",
+        "Pietro",
+        "Pietro Frank",
+        "Mateo Maximoff"
+      ],
+      "realName": "Pietro Maximoff",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "brotherhood-of-mutants",
+        "x-factor",
+        "inhumans"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "The X-Men #4",
+      "debutDate": "1964-03",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject moves at superhuman speed and is the twin brother of the Scarlet Witch. Former Brotherhood of Mutants member who later served with the Avengers and X-Factor. Patience is not among his documented abilities.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics)"
+      ],
+      "notes": "Origin contested: portrayed as Magneto's mutant son for decades, but a 2015 retcon (and the MCU) attribute his powers to experiments; classed mutate."
+    },
+    {
+      "id": "captain-marvel-carol-danvers",
+      "name": "Captain Marvel (Carol Danvers)",
+      "aliases": [
+        "Carol Danvers",
+        "Binary",
+        "Warbird",
+        "Car-Ell",
+        "Lady Marvel",
+        "Captain Danvers",
+        "Carol"
+      ],
+      "realName": "Carol Danvers",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "alpha-flight",
+        "starjammers",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "A-Force",
+        "Ultimates",
+        "U.S. Air Force"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "Marvel Super-Heroes #13",
+      "debutDate": "1968-03",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a former U.S. Air Force officer who gained Kree-derived powers when an alien device exploded. Previously operated as Ms. Marvel, Binary and Warbird. Absorbs energy; tasers are not recommended.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_Danvers"
+      ],
+      "notes": "Powers came from the Psyche-Magnitron explosion (mutate); a 2018 story added a Kree mother, so Wikipedia lists her as a human mutate/Kree hybrid. 'Ms. Marvel' left out of aliases because the game assigns it to Kamala Khan."
+    },
+    {
+      "id": "falcon-sam-wilson",
+      "name": "Falcon (Sam Wilson)",
+      "aliases": [
+        "Sam Wilson",
+        "Samuel Thomas Wilson",
+        "Snap Wilson",
+        "The Falcon",
+        "Blackbird"
+      ],
+      "realName": "Sam Wilson",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1969,
+      "debutIssue": "Captain America #117",
+      "debutDate": "1969-09",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The Winter Soldier",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject flies on a mechanical wing harness and shares a telepathic link with birds, notably his falcon Redwing. Longtime partner of Captain America who later carried the shield himself. Pigeons may be compromised.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Falcon_(comics)"
+      ],
+      "notes": "'Captain America' left out of aliases because it belongs primarily to Steve Rogers."
+    },
+    {
+      "id": "winter-soldier",
+      "name": "Winter Soldier",
+      "aliases": [
+        "Bucky Barnes",
+        "Bucky",
+        "James Buchanan Barnes",
+        "James Barnes",
+        "Revolution",
+        "White Wolf"
+      ],
+      "realName": "James Buchanan Barnes",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "invaders",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "All-Winners Squad",
+        "Young Allies",
+        "U.S. Army"
+      ],
+      "debutYear": 1941,
+      "debutIssue": "Captain America Comics #1",
+      "debutDate": "1941-03",
+      "alignment": "antihero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: The First Avenger",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject was Captain America's wartime partner, presumed killed in 1945. Recovered by the Soviets, fitted with a cybernetic arm and used as a brainwashed assassin for decades. Has since served as Captain America himself.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bucky_Barnes"
+      ],
+      "notes": "Infobox debut is as Bucky (1941); the Winter Soldier identity debuted in Captain America #6 (2005). Classed antihero (Wikipedia: 'a dark hero in search of redemption') and super-soldier via the Infinity Formula."
+    },
+    {
+      "id": "war-machine",
+      "name": "War Machine",
+      "aliases": [
+        "James Rhodes",
+        "Rhodey",
+        "Jim Rhodes",
+        "James Rupert Rhodes",
+        "Iron Patriot",
+        "Colonel Rhodes"
+      ],
+      "realName": "James Rhodes",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "Force Works",
+        "U.S. Marine Corps"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "Iron Man #118",
+      "debutDate": "1979-01",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a former U.S. Marine pilot and Tony Stark's closest friend. Has worn the Iron Man armor in Stark's absence and later his own heavily armed War Machine suit. Subtlety was not a design requirement.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/War_Machine"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "black-panther",
+      "name": "Black Panther",
+      "aliases": [
+        "T'Challa",
+        "King T'Challa",
+        "Black Leopard",
+        "Panther King",
+        "Mr. Okonkwo"
+      ],
+      "realName": "T'Challa",
+      "primaryTeam": "wakanda",
+      "teams": [
+        "wakanda",
+        "avengers",
+        "fantastic-four",
+        "illuminati"
+      ],
+      "otherTeams": [
+        "Ultimates"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Fantastic Four #52",
+      "debutDate": "1966-07",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain America: Civil War",
+      "difficulty": 1,
+      "answerOk": false,
+      "caseNote": "Subject has ruled the technologically advanced African nation of Wakanda. Draws enhanced abilities from the sacred heart-shaped herb and wears a vibranium suit. Diplomatic immunity is presumed.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+      ],
+      "notes": "Origin contested: his enhanced abilities come from the heart-shaped herb ritual tied to the Panther God Bast (classed magic), but he also relies on vibranium technology and training."
+    },
+    {
+      "id": "ant-man-scott-lang",
+      "name": "Ant-Man (Scott Lang)",
+      "aliases": [
+        "Scott Lang",
+        "Scott Edward Harris Lang"
+      ],
+      "realName": "Scott Lang",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "fantastic-four",
+        "heroes-for-hire"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "The Avengers #181",
+      "debutDate": "1979-03",
+      "alignment": "hero",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Ant-Man",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a reformed thief and electronics expert who stole the Ant-Man suit to save his daughter's life. Shrinks to insect size and commands ants via a cybernetic helmet. Agents should check their pockets after meetings.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scott_Lang"
+      ],
+      "notes": "'Giant-Man' left out of aliases because it belongs primarily to Hank Pym in the comics."
+    },
+    {
+      "id": "spider-woman-jessica-drew",
+      "name": "Spider-Woman (Jessica Drew)",
+      "aliases": [
+        "Jessica Drew",
+        "Jessica Miriam Drew",
+        "Jess Drew",
+        "Ariadne Hyde"
+      ],
+      "realName": "Jessica Drew",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "hydra",
+        "shield",
+        "sword"
+      ],
+      "otherTeams": [
+        "Lady Liberators",
+        "Strikeforce"
+      ],
+      "debutYear": 1977,
+      "debutIssue": "Marvel Spotlight #32",
+      "debutDate": "1977-02",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject gained spider-like powers through her scientist father's experiments. Recruited by Hydra before defecting, she later served S.H.I.E.L.D. and S.W.O.R.D. Her pheromones may impair agents' judgment.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jessica_Drew"
+      ],
+      "notes": "A 2006 retcon changed her spider-blood serum origin to a spider-DNA laser experiment; both are mutate. No live-action MCU appearance (her only film role is the animated, Sony-made Across the Spider-Verse)."
+    },
+    {
+      "id": "she-hulk",
+      "name": "She-Hulk",
+      "aliases": [
+        "Jennifer Walters",
+        "Jen Walters",
+        "Jen",
+        "Sensational She-Hulk",
+        "Savage She-Hulk",
+        "Shulkie"
+      ],
+      "realName": "Jennifer Walters",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "fantastic-four"
+      ],
+      "otherTeams": [
+        "A-Force",
+        "Lady Liberators"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Savage She-Hulk #1",
+      "debutDate": "1980-02",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "She-Hulk: Attorney at Law",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is an attorney who gained gamma-powered strength from an emergency blood transfusion from her cousin, Bruce Banner. Has served with the Avengers and the Fantastic Four. Known to address the reader directly; agents should not be alarmed.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/She-Hulk",
+        "https://bookriot.com/first-appearance-flashback-she-hulk/"
+      ],
+      "notes": "Infobox lists November 1979 (on-sale date); the February 1980 cover date is used per rubric."
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "aliases": [
+        "Hercules Panhellenios",
+        "Heracles",
+        "Herc",
+        "Prince of Power",
+        "Lion of Olympus",
+        "Alcaeus"
+      ],
+      "realName": "Hercules Panhellenios",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "olympus",
+        "champions",
+        "heroes-for-hire",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "God Squad",
+        "Argonauts"
+      ],
+      "debutYear": 1943,
+      "debutIssue": "U.S.A. Comics #7",
+      "debutDate": "1943-03",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Love and Thunder",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the Olympian son of Zeus, known as the Prince of Power. Longtime Avenger and a founding member of the Champions of Los Angeles. Reports of his carousing have not been exaggerated.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)"
+      ],
+      "notes": "Debut contested: the infobox lists an in-shadow appearance in U.S.A. Comics #7 (March 1943) first, while the modern character debuted in Journey into Mystery Annual #1 (1965)."
+    },
+    {
+      "id": "wonder-man",
+      "name": "Wonder Man",
+      "aliases": [
+        "Simon Williams",
+        "Mr. Muscles",
+        "Hal Canutt"
+      ],
+      "realName": "Simon Williams",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "masters-of-evil"
+      ],
+      "otherTeams": [
+        "Force Works",
+        "Revengers",
+        "Lethal Legion"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The Avengers #9",
+      "debutDate": "1964-10",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Wonder Man",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Hollywood actor powered by ionic energy from Baron Zemo's treatments. Created to infiltrate the Avengers, he turned on Zemo and later joined the team. Autograph requests should go through proper channels.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wonder_Man",
+        "https://en.wikipedia.org/wiki/Wonder_Man_(miniseries)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tigra",
+      "name": "Tigra",
+      "aliases": [
+        "Greer Grant Nelson",
+        "Greer Nelson",
+        "Greer Grant",
+        "The Cat",
+        "Werecat",
+        "Were-Woman"
+      ],
+      "realName": "Greer Grant Nelson",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "Avengers Academy",
+        "The Initiative",
+        "Lady Liberators"
+      ],
+      "debutYear": 1972,
+      "debutIssue": "The Claws of the Cat #1",
+      "debutDate": "1972-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was transformed into a tiger-like humanoid by the Cat People after being mortally wounded as the Cat. Has served with the Avengers and the West Coast Avengers. Laser pointers are prohibited in her presence.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tigra",
+        "https://en.wikipedia.org/wiki/Never_Meet_Your_Heroes",
+        "https://nerdist.com/article/hawkeye-teases-west-coast-avengers-marvel-comics/"
+      ],
+      "notes": "Origin contested: Wikipedia lists her as a human mutate, but the Cat People's transformation combined science and sorcery. A friend named Greer (Nichele Lambert) in Hawkeye (2021) is fan-linked to her but never identified as Greer Grant Nelson, so not counted as an MCU appearance."
+    },
+    {
+      "id": "mockingbird",
+      "name": "Mockingbird",
+      "aliases": [
+        "Barbara Morse",
+        "Bobbi Morse",
+        "Agent 19",
+        "Huntress",
+        "Barbara Morse-Barton"
+      ],
+      "realName": "Barbara Morse",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield",
+        "avengers"
+      ],
+      "otherTeams": [
+        "World Counter-terrorism Agency"
+      ],
+      "debutYear": 1971,
+      "debutIssue": "Astonishing Tales #6",
+      "debutDate": "1971-06",
+      "alignment": "hero",
+      "origin": "super-soldier",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a biologist and former S.H.I.E.L.D. Agent 19 who fights with battle staves. Founding member of the West Coast Avengers and ex-wife of Hawkeye. Was once declared dead; records were later amended.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)"
+      ],
+      "notes": "Origin contested: a non-powered agent for most of her history, she later gained superhuman abilities from a Super-Soldier Serum/Infinity Formula mix (classed super-soldier). The MCU's 'Agent 19' is Laura Barton, and ABC's Agents of S.H.I.E.L.D. does not count."
+    },
+    {
+      "id": "sentry",
+      "name": "Sentry",
+      "aliases": [
+        "Robert Reynolds",
+        "Bob Reynolds",
+        "The Void",
+        "Golden Guardian of Good",
+        "Golden Man"
+      ],
+      "realName": "Robert Reynolds",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "dark-avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 2000,
+      "debutIssue": "The Sentry #1",
+      "debutDate": "2000-09",
+      "alignment": "hero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thunderbolts*",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject derives the power of a million exploding suns from an experimental serum. Has served with the New Avengers and the Dark Avengers. A dark counterpart called the Void is attached to his file and should not be engaged.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)"
+      ],
+      "notes": "Infobox gives only the year; the article's citations date the original miniseries September 2000 to January 2001. 'World Breaker' left out of aliases because it belongs primarily to Hulk."
+    },
+    {
+      "id": "ms-marvel-kamala-khan",
+      "name": "Ms. Marvel (Kamala Khan)",
+      "aliases": [
+        "Kamala Khan",
+        "Kamala",
+        "Mystic Marvel"
+      ],
+      "realName": "Kamala Khan",
+      "primaryTeam": "champions",
+      "teams": [
+        "champions",
+        "avengers",
+        "x-men",
+        "secret-warriors"
+      ],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "Captain Marvel #14",
+      "debutDate": "2013-08",
+      "alignment": "hero",
+      "origin": "inhuman",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Ms. Marvel",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a Jersey City teenager and devoted Avengers fan whose powers emerged when the Terrigen Mists spread. Can stretch, shrink and embiggen at will. Co-founded the Champions; her fan fiction remains under review.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kamala_Khan"
+      ],
+      "notes": "Origin contested: Inhuman via Terrigenesis in comics (classed inhuman), but a 2023 retcon added a dormant X-gene and the MCU portrays her as a mutant. Debut uses the background cameo the infobox lists (full debut: All-New Marvel Now! Point One #1, 2014)."
+    },
+    {
+      "id": "hawkeye-kate-bishop",
+      "name": "Hawkeye (Kate Bishop)",
+      "aliases": [
+        "Kate Bishop",
+        "Katherine Bishop",
+        "Katherine Elizabeth Bishop",
+        "Hawkette",
+        "Lady Hawkeye",
+        "Lady Hawkguy"
+      ],
+      "realName": "Kate Bishop",
+      "primaryTeam": "young-avengers",
+      "teams": [
+        "young-avengers",
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 2005,
+      "debutIssue": "Young Avengers #1",
+      "debutDate": "2005-04",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Hawkeye",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a wealthy New Yorker and expert archer with no superhuman powers who shares the Hawkeye title with Clint Barton. Longtime member of the Young Avengers. Agents are advised to specify which Hawkeye they mean.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Bishop"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "monica-rambeau",
+      "name": "Monica Rambeau",
+      "aliases": [
+        "Monica Rambeau",
+        "Photon",
+        "Pulsar",
+        "Spectrum",
+        "Daystar",
+        "Lady of Light",
+        "Monica Marvel"
+      ],
+      "realName": "Monica Rambeau",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "Nextwave",
+        "Ultimates"
+      ],
+      "debutYear": 1982,
+      "debutIssue": "The Amazing Spider-Man Annual #16",
+      "debutDate": "1982",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a former New Orleans harbor patrol lieutenant who can transform into any form of energy. Led the Avengers in the 1980s as Captain Marvel. Agents should confirm her current codename before filing.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monica_Rambeau"
+      ],
+      "notes": "Sources disagree on the annual's month (Wikipedia infobox: October 1982; dealer listings: December 1982), so a year-only date is used. 'Captain Marvel' left out of aliases because the game assigns it to Carol Danvers."
+    },
+    {
+      "id": "jane-foster",
+      "name": "Jane Foster",
+      "aliases": [
+        "Jane Foster",
+        "Lady Thor",
+        "Goddess of Thunder",
+        "Dr. Jane Foster"
+      ],
+      "realName": "Jane Foster",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers"
+      ],
+      "otherTeams": [
+        "Valkyrior"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #84",
+      "debutDate": "1962-09",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject began as Donald Blake's nurse and later became a doctor. Was deemed worthy of Mjolnir and served as Thor before taking up the mantle of Valkyrie. Thunder may follow any house call.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jane_Foster"
+      ],
+      "notes": "Origin contested: an ordinary human whose powers came from Mjolnir and later the Valkyrie's All-Weapon (classed magic). 'Thor' and 'Valkyrie' left out of aliases because they belong to other characters in the game."
+    },
+    {
+      "id": "nick-fury",
+      "name": "Nick Fury",
+      "aliases": [
+        "Nick Fury",
+        "Nicholas Joseph Fury",
+        "Nick Fury Sr.",
+        "Colonel Fury",
+        "Sgt. Fury",
+        "The Unseen"
+      ],
+      "realName": "Nick Fury",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield",
+        "howling-commandos",
+        "secret-warriors"
+      ],
+      "otherTeams": [
+        "U.S. Army Rangers",
+        "CIA"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Sgt. Fury and His Howling Commandos #1",
+      "debutDate": "1963-05",
+      "alignment": "hero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Iron Man",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is a World War II veteran who led the Howling Commandos before directing S.H.I.E.L.D. for decades. The Infinity Formula has slowed his aging considerably. Agents are advised not to ask about the eyepatch.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nick_Fury"
+      ],
+      "notes": "Classed super-soldier under the rubric's Infinity Formula rule, but the MCU version has no enhancements, so origin is contested. Record follows the original Nicholas Joseph Fury, not Nick Fury Jr."
+    },
+    {
+      "id": "maria-hill",
+      "name": "Maria Hill",
+      "aliases": [
+        "Maria Hill",
+        "Maria Christina Hill",
+        "Commander Hill",
+        "Director Hill",
+        "Agent Hill"
+      ],
+      "realName": "Maria Hill",
+      "primaryTeam": "shield",
+      "teams": [
+        "shield",
+        "avengers"
+      ],
+      "otherTeams": [],
+      "debutYear": 2005,
+      "debutIssue": "New Avengers #4",
+      "debutDate": "2005-04",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "The Avengers",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a career intelligence officer who succeeded Nick Fury as director of S.H.I.E.L.D. Has no superhuman abilities and has repeatedly clashed with the Avengers over oversight. Agents should expect an audit.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maria_Hill",
+        "https://spiderfan.org/review/comics/new_avengers/004.html"
+      ],
+      "notes": "Infobox lists March 2005 (on-sale date); the April 2005 cover date is used per rubric."
+    },
+    {
+      "id": "black-knight-dane-whitman",
+      "name": "Black Knight (Dane Whitman)",
+      "aliases": [
+        "Dane Whitman",
+        "The Pendragon",
+        "Phoenix Knight"
+      ],
+      "realName": "Dane Whitman",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "defenders",
+        "heroes-for-hire"
+      ],
+      "otherTeams": [
+        "MI-13",
+        "Ultraforce"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "The Avengers #47",
+      "debutDate": "1967-12",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Eternals",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a physicist who took up the Black Knight mantle to redeem the name after his villainous uncle. Wields the cursed Ebony Blade and has served with the Avengers and the Defenders. Unauthorized personnel should not handle the sword.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dane_Whitman"
+      ],
+      "notes": "Origin contested: he has no innate powers and relies on the mystical Ebony Blade plus training (classed magic)."
+    }
+  ],
+  "dropped": []
+}

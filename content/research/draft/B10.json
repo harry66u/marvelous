@@ -1,0 +1,1031 @@
+{
+  "characters": [
+    {
+      "id": "loki",
+      "name": "Loki",
+      "aliases": [
+        "God of Mischief",
+        "Loki Laufeyson",
+        "Loki Odinson",
+        "Lady Loki",
+        "Kid Loki",
+        "Ikol",
+        "God of Stories",
+        "God of Lies"
+      ],
+      "realName": "Loki Laufeyson",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard",
+        "young-avengers",
+        "cabal"
+      ],
+      "otherTeams": [],
+      "debutYear": 1949,
+      "debutIssue": "Venus #6",
+      "debutDate": "1949-08",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is a Frost Giant by birth, adopted by Odin and raised as Thor's brother. His schemes inadvertently led to the formation of the Avengers. Statements by Subject are not to be entered into the record without corroboration.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "Infobox lists a Golden Age Loki in Venus #6 (Aug 1949) ahead of the modern Loki's Journey into Mystery #85 (Oct 1962); the rubric takes the earliest, though most players will expect 1962. Usually a villain with antihero runs, and written as genderfluid at times (Lady Loki, Agent of Asgard, the MCU) though primarily male."
+    },
+    {
+      "id": "odin",
+      "name": "Odin",
+      "aliases": [
+        "All-Father",
+        "Allfather",
+        "Odin Borson",
+        "Odin Allfather",
+        "The Wanderer",
+        "Grimnir"
+      ],
+      "realName": "Odin Borson",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [
+        "Council of Godheads",
+        "Avengers of 1,000,000 BC"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #86",
+      "debutDate": "1962-11",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is the All-Father, ruler of Asgard and father of Thor. Sacrificed his right eye to Mimir in exchange for wisdom. Subject is unavailable for 24 hours each year during the Odinsleep.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odin_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "First mentioned in Journey into Mystery #85 (Oct 1962); the infobox gives #86 as his first appearance. His place in the prehistoric Avengers of 1,000,000 BC is kept out of the avengers id."
+    },
+    {
+      "id": "frigga",
+      "name": "Frigga",
+      "aliases": [
+        "Freyja",
+        "Frigg",
+        "Fricka",
+        "All-Mother"
+      ],
+      "realName": "Freyja Freyrdottir",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Journey into Mystery #92",
+      "debutDate": "1963-05",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the wife of Odin and Queen of Asgard; she raised Thor and adopted Loki. Has since ruled Asgard as the All-Mother. Her protective spells on her son Balder remain the benchmark for parental supervision.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Frigga_(character)",
+        "https://en.wikipedia.org/wiki/Heimdall_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "Later comics rename her Freyja, and the infobox gives her full name as Freyja Freyrdottir. Wikipedia's comics biography calls her Thor's stepmother, though she raised him."
+    },
+    {
+      "id": "hela",
+      "name": "Hela",
+      "aliases": [
+        "Hel",
+        "Goddess of Death",
+        "Death Queen",
+        "Mistress of the Darkness",
+        "Miss Halja"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [
+        "Hell-Lords"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Journey into Mystery #102",
+      "debutDate": "1964-03",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Thor: Ragnarok",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the Asgardian goddess of death and rules the realms of Hel and Niflheim. Can kill a mortal or an Asgardian with a single touch. Handshakes are not required by protocol.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hela_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "Infobox affiliations are the Hell-Lords, Death Gods and Black Order (one storyline); asgard is used for her place in the Asgardian pantheon as ruler of Hel and Niflheim."
+    },
+    {
+      "id": "heimdall",
+      "name": "Heimdall",
+      "aliases": [
+        "Heimdal",
+        "Guardian of the Bifrost",
+        "Donald Velez",
+        "Ezra"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #85",
+      "debutDate": "1962-10",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the sole guardian of the Bifrost bridge into Asgard and is described as all-seeing and all-hearing. Brother of Sif. Agents should assume every conversation is being monitored.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heimdall_(character)",
+        "https://en.wikipedia.org/wiki/Sif_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sif",
+      "name": "Sif",
+      "aliases": [
+        "Lady Sif",
+        "Fair One",
+        "Rose Chambers",
+        "Sif the All-Seeing"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "Journey into Mystery #102",
+      "debutDate": "1964-03",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a leading Asgardian warrior and Thor's companion since childhood. Born with golden hair, which turned black after Loki cut it and replaced it with dwarf-made hair. Loki is barred from the salon.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sif_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "valkyrie-brunnhilde",
+      "name": "Valkyrie (Brunnhilde)",
+      "aliases": [
+        "Brunnhilde",
+        "Brunhilde",
+        "Val",
+        "King Valkyrie",
+        "Barbara Norris",
+        "Sian Bowen",
+        "Annabelle Riggs"
+      ],
+      "realName": "Brunnhilde",
+      "primaryTeam": "defenders",
+      "teams": [
+        "defenders",
+        "avengers",
+        "asgard"
+      ],
+      "otherTeams": [
+        "Valkyrior"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Thor #133",
+      "debutDate": "1966-10",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Thor: Ragnarok",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject leads the Valkyrior, Odin's shield-maidens, and was a mainstay of the Defenders. Founding member of the Secret Avengers, often seen riding the winged horse Aragorn. A parking permit for the horse remains pending.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "Infobox lists Thor #133 (Oct 1966, an unnamed Valkyrie cameo) ahead of the Enchantress's Valkyrie guise in Avengers #83 (Dec 1970) and the Barbara Norriss version in Defenders #4, which the lead calls her first appearance. Tessa Thompson's MCU Valkyrie is described by Wikipedia as a different version of the character and is not named Brunnhilde on screen."
+    },
+    {
+      "id": "balder",
+      "name": "Balder",
+      "aliases": [
+        "Balder the Brave",
+        "Baldur",
+        "Baldr",
+        "Balder Odinson"
+      ],
+      "realName": "Balder Odinson",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [
+        "Council of Godheads"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #85",
+      "debutDate": "1962-10",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an Asgardian prince, half-brother of Thor and a former King of Asgard. Once killed by a mistletoe arrow before Odin averted Ragnarok and later restored him. Mistletoe is prohibited at all Subject's functions.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Balder_the_Brave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "volstagg",
+      "name": "Volstagg",
+      "aliases": [
+        "Volstagg the Valiant",
+        "Volstagg the Voluminous",
+        "Lion of Asgard",
+        "War Thor"
+      ],
+      "realName": "",
+      "primaryTeam": "warriors-three",
+      "teams": [
+        "warriors-three",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "Journey into Mystery #119",
+      "debutDate": "1965-08",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the largest member of the Warriors Three and styles himself the Lion of Asgard. Heads a household full of children and once took up a hammer as the War Thor. Catering for joint operations should be tripled.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Warriors_Three",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "Volstagg has no standalone Wikipedia article (it redirects to Warriors Three); debut and details come from that article."
+    },
+    {
+      "id": "fandral",
+      "name": "Fandral",
+      "aliases": [
+        "Fandral the Dashing"
+      ],
+      "realName": "",
+      "primaryTeam": "warriors-three",
+      "teams": [
+        "warriors-three",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "Journey into Mystery #119",
+      "debutDate": "1965-08",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the swashbuckling swordsman of the Warriors Three, based by Stan Lee on the public persona of Errol Flynn. Charter member of the trio alongside Hogun and Volstagg. A cape is considered standard issue.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fandral",
+        "https://en.wikipedia.org/wiki/Warriors_Three",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "hogun",
+      "name": "Hogun",
+      "aliases": [
+        "Hogun the Grim"
+      ],
+      "realName": "",
+      "primaryTeam": "warriors-three",
+      "teams": [
+        "warriors-three",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "Journey into Mystery #119",
+      "debutDate": "1965-08",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the grim, taciturn member of the Warriors Three and a skilled horseman. His look was based on actor Charles Bronson. Subject declined to comment on this report.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hogun",
+        "https://en.wikipedia.org/wiki/Warriors_Three",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "enchantress",
+      "name": "Enchantress",
+      "aliases": [
+        "Amora",
+        "Amora the Enchantress",
+        "Amora Incantare",
+        "Helen Eve",
+        "Leena Moran",
+        "Christine Collins"
+      ],
+      "realName": "Amora",
+      "primaryTeam": "masters-of-evil",
+      "teams": [
+        "masters-of-evil",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "Journey into Mystery #103",
+      "debutDate": "1964-04",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject, Amora, is an Asgardian sorceress specializing in charm and mind control. Joined Baron Zemo's original Masters of Evil alongside the Executioner. Agents should decline any beverage Subject offers.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)"
+      ],
+      "notes": "Enchantress is the alias of both Amora (used here) and Sylvie Lushton. Wikipedia calls the MCU's Sylvie in Loki a different version partially based on the character; Amora has never appeared, so mcu is false but arguable."
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "aliases": [
+        "Skurge",
+        "Skurge the Executioner",
+        "Hans Grubervelt",
+        "The Evil One"
+      ],
+      "realName": "Skurge",
+      "primaryTeam": "masters-of-evil",
+      "teams": [
+        "masters-of-evil",
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1964,
+      "debutIssue": "Journey into Mystery #103",
+      "debutDate": "1964-04",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Ragnarok",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject, Skurge, is an Asgardian half-giant who wields an enchanted double-bladed axe. After years as the Enchantress's enforcer, he died holding the bridge Gjallarbru so his allies could escape Hel. File upgraded posthumously.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Executioner_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "A villain for most of his history, but his redemptive death holding Gjallarbru is his most famous story, so antihero is arguable. The Executioner name has also been used by an android and by Daniel DuBois."
+    },
+    {
+      "id": "surtur",
+      "name": "Surtur",
+      "aliases": [
+        "Surtr"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Fire Demons of Muspelheim"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Journey into Mystery #97",
+      "debutDate": "1963-10",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Ragnarok",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a fire giant of Muspelheim, over 1,000 feet tall, who wields the Twilight Sword. A recurring threat to Asgard and a central figure in the prophecy of Ragnarok. Fire extinguishers are not considered an adequate response.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Surtur_(character)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "Infobox lists a cameo in Journey into Mystery #97 (Oct 1963) and a full appearance in #99 (Dec 1963). Species is Fire Giant (deity), though he is also described as a fire demon; his MCU role is CGI with Taika Waititi's motion capture and Clancy Brown's voice."
+    },
+    {
+      "id": "malekith",
+      "name": "Malekith",
+      "aliases": [
+        "Malekith the Accursed",
+        "Malcolm Keith",
+        "Master of the Hounds"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Dark Elves",
+        "Dark Council"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "Thor #344",
+      "debutDate": "1984-06",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: The Dark World",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject rules the Dark Elves of Svartalfheim and has often wielded the Casket of Ancient Winters. Served as the main antagonist of the War of the Realms. Agents should not accept faerie food from Subject.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malekith_the_Accursed",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "Dark Elves are treated as a Norse mythological race (deity)."
+    },
+    {
+      "id": "gorr-the-god-butcher",
+      "name": "Gorr the God Butcher",
+      "aliases": [
+        "Gorr",
+        "God Butcher",
+        "Gorr the Redeemer",
+        "Killer of Gods",
+        "Butcher of Gods",
+        "The Black Butcher"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 2013,
+      "debutIssue": "Thor: God of Thunder #2",
+      "debutDate": "2013-01",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Love and Thunder",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is an alien who lost his family and faith, then took up All-Black the Necrosword and swore revenge on all gods. Hunted deities across past, present and future. Gods are advised to keep a low profile.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gorr_the_God_Butcher",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "Gorr is a mortal alien whose powers come from All-Black the Necrosword, a symbiote, so alien fits on both counts."
+    },
+    {
+      "id": "kurse",
+      "name": "Kurse",
+      "aliases": [
+        "Algrim",
+        "Algrim the Strong",
+        "Valgoth"
+      ],
+      "realName": "Algrim",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Dark Elves"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "Thor #347",
+      "debutDate": "1984-09",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: The Dark World",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject was the Dark Elf Algrim the Strong until the Beyonder rebuilt him as the armored Kurse. Pursued Thor obsessively over a betrayal that was Malekith's doing. Agents should confirm the target before filing a grudge.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kurse_(comics)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "Debuted as Algrim in Thor #347 (Sep 1984) and first appeared as Kurse in Secret Wars II #4 (Oct 1985); the Beyonder's empowerment makes cosmic arguable. He later repented and was granted Asgardian citizenship, and a second Kurse (Waziria) exists."
+    },
+    {
+      "id": "ares",
+      "name": "Ares",
+      "aliases": [
+        "God of War",
+        "Mars",
+        "Mister Talon",
+        "John Aaron",
+        "The Warhawk"
+      ],
+      "realName": "",
+      "primaryTeam": "olympus",
+      "teams": [
+        "olympus",
+        "avengers",
+        "dark-avengers"
+      ],
+      "otherTeams": [
+        "Warhawks"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Thor #129",
+      "debutDate": "1966-06",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the Olympian god of war and son of Zeus. Long a foe of Hercules and Thor, he later served with the Mighty Avengers and the Dark Avengers. Subject has also worked as a carpenter.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)"
+      ],
+      "notes": "A villain for most of his history but recast as an antihero from 2006 to 2010 (Mighty Avengers, Dark Avengers); Wikipedia flags him as both hero and villain."
+    },
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "aliases": [
+        "Jupiter",
+        "Jove",
+        "Zeus Panhellenios",
+        "Mister Z"
+      ],
+      "realName": "Zeus Panhellenios",
+      "primaryTeam": "olympus",
+      "teams": [
+        "olympus"
+      ],
+      "otherTeams": [
+        "Council of Godheads"
+      ],
+      "debutYear": 1949,
+      "debutIssue": "Venus #5",
+      "debutDate": "1949-06",
+      "alignment": "antihero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: Love and Thunder",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is the ruler of the Olympian gods and wields thunderbolts. Father of Ares and Hercules; relations with both vary. Briefings involving Subject's family should allow extra time.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zeus_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z"
+      ],
+      "notes": "Infobox debut is as Jupiter in Venus #5 (Jun 1949); he first appears as Zeus in Journey into Mystery Annual #1 (1965). Alignment is a judgment call: a morally gray ruler who alternates between ally and antagonist, including a comic antagonist in Thor: Love and Thunder."
+    },
+    {
+      "id": "throg",
+      "name": "Throg",
+      "aliases": [
+        "Frog of Thunder",
+        "Frog Thor",
+        "Puddlegulp",
+        "Simon Walterson"
+      ],
+      "realName": "Simon Walterson",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Pet Avengers"
+      ],
+      "debutYear": 1986,
+      "debutIssue": "Thor #364",
+      "debutDate": "1986-02",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Loki season 1",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject was a man transformed into a frog who became the Frog of Thunder using a sliver of Mjolnir. Associated with the Pet Avengers. Threat assessments are not to be based on height.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Thor_(Marvel_Comics)_supporting_characters",
+        "https://en.wikipedia.org/wiki/Journey_into_Mystery_(Loki)"
+      ],
+      "notes": "No standalone article or infobox; Wikipedia's Thor supporting-cast list cites Thor #364-365 for Puddlegulp, and collector sources put his first appearance in #364. Wikipedia identifies the frog in Loki season 1 (voiced by Chris Hemsworth) as Throg, though it reads as a Thor variant."
+    },
+    {
+      "id": "laufey",
+      "name": "Laufey",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Frost Giants"
+      ],
+      "debutYear": 1965,
+      "debutIssue": "Journey into Mystery #112",
+      "debutDate": "1965-01",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is king of the Frost Giants and the biological father of Loki. Usually depicted as an enemy of Odin. Family reunions are not recommended.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_L",
+        "https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_A%E2%80%93L"
+      ],
+      "notes": "No standalone article or infobox; debut taken from Wikipedia's List of Marvel Comics characters: L."
+    },
+    {
+      "id": "ulik",
+      "name": "Ulik",
+      "aliases": [
+        "Tanarus"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Rock Trolls",
+        "Roxxon Energy Corporation"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Thor #137",
+      "debutDate": "1967-02",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the strongest of the Rock Trolls and a recurring foe of Thor, fighting with uru knuckle-dusters called pounders. Once rewrote history to replace Thor as the thunder god Tanarus. The substitution was not well reviewed.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ulik"
+      ],
+      "notes": "Rock Trolls are treated as a Norse mythological race (deity)."
+    },
+    {
+      "id": "absorbing-man",
+      "name": "Absorbing Man",
+      "aliases": [
+        "Crusher Creel",
+        "Carl Creel",
+        "Greithoth",
+        "Lightningbolt"
+      ],
+      "realName": "Carl Creel",
+      "primaryTeam": "masters-of-evil",
+      "teams": [
+        "masters-of-evil"
+      ],
+      "otherTeams": [
+        "Gamma Flight",
+        "The Worthy"
+      ],
+      "debutYear": 1965,
+      "debutIssue": "Journey into Mystery #114",
+      "debutDate": "1965-03",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject, a former boxer, can take on the properties of anything he touches after drinking a potion prepared by Loki. Longtime partner of Titania. Handshakes are discouraged.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Absorbing_Man"
+      ],
+      "notes": "Wikipedia lists his species as human mutate, but his powers come from Loki's magic potion (magic). Reformed into an antihero in recent years after decades as a villain; his live-action role in Agents of S.H.I.E.L.D. does not count."
+    },
+    {
+      "id": "wrecker",
+      "name": "Wrecker",
+      "aliases": [
+        "The Wrecker",
+        "Dirk Garthwaite"
+      ],
+      "realName": "Dirk Garthwaite",
+      "primaryTeam": "wrecking-crew",
+      "teams": [
+        "wrecking-crew",
+        "masters-of-evil"
+      ],
+      "otherTeams": [],
+      "debutYear": 1968,
+      "debutIssue": "The Mighty Thor #148",
+      "debutDate": "1968-01",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "She-Hulk: Attorney at Law",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a fired demolition worker whose crowbar was enchanted by the Norn Queen Karnilla, who mistook him for Loki. Leads the Wrecking Crew. Subject is not to be issued tools.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wrecker_(comics)"
+      ],
+      "notes": "Powers come from Karnilla's enchantment of his crowbar (magic); one-off Frightful Four and Lethal Legion stints are left out."
+    },
+    {
+      "id": "thunderball",
+      "name": "Thunderball",
+      "aliases": [
+        "Eliot Franklin"
+      ],
+      "realName": "Eliot Franklin",
+      "primaryTeam": "wrecking-crew",
+      "teams": [
+        "wrecking-crew",
+        "masters-of-evil"
+      ],
+      "otherTeams": [],
+      "debutYear": 1974,
+      "debutIssue": "The Defenders #17",
+      "debutDate": "1974-11",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "She-Hulk: Attorney at Law",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a physicist who invented a miniature gamma bomb, then gained Asgardian strength through the Wrecker's crowbar. Swings an enchanted wrecking ball for the Wrecking Crew. Holds a PhD; prefers the ball.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thunderball_(character)"
+      ],
+      "notes": "Wikipedia categorizes him as a mutate, but his strength comes from the Wrecker's Asgardian-enchanted crowbar (magic)."
+    },
+    {
+      "id": "tyr",
+      "name": "Tyr",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Journey into Mystery #85",
+      "debutDate": "1962-10",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Thor: The Dark World",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the Asgardian god of war and eldest son of Odin. Lost his left hand to the wolf Fenris during its binding. Gloves are requisitioned for Subject one at a time.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tyr_(Marvel_Comics)"
+      ],
+      "notes": "Alignment is mixed: mostly loyal to Asgard, but he has allied with Loki against Odin and commanded Hela's forces. 'God of War' is left out of aliases because it belongs primarily to Ares."
+    },
+    {
+      "id": "karnilla",
+      "name": "Karnilla",
+      "aliases": [
+        "Norn Queen",
+        "Queen of the Norns"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [
+        "Norns"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Journey into Mystery #107",
+      "debutDate": "1964-08",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the Norn Queen, a sorceress ruling Nornheim and an ally of Loki. Has long pursued Balder the Brave. Her magic has been rated second only to Odin's among Asgardians.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_K"
+      ],
+      "notes": "No standalone article or infobox; debut taken from Wikipedia's List of Marvel Comics characters: K (Journey into Mystery #107). Mostly an enemy of Asgard, but she has occasionally sided with it."
+    },
+    {
+      "id": "lorelei",
+      "name": "Lorelei",
+      "aliases": [
+        "Melodi",
+        "Ice Queen"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [],
+      "debutYear": 1983,
+      "debutIssue": "The Mighty Thor #337",
+      "debutDate": "1983-11",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is an Asgardian and the younger sister of Amora the Enchantress. Has used enchanted golden mead as a love potion. Personnel are advised to bring their own drinks.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lorelei_(Asgardian)"
+      ],
+      "notes": "Her live-action role in Agents of S.H.I.E.L.D. does not count toward mcu."
+    },
+    {
+      "id": "mangog",
+      "name": "Mangog",
+      "aliases": [
+        "Judgment of the Gods",
+        "God of Hammers"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1968,
+      "debutIssue": "Thor #154",
+      "debutDate": "1968-07",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject embodies the hatred of a billion billion beings whose race was defeated by Odin. Has repeatedly sought the Odinsword to end the universe. Subject claims he will exist as long as there is hatred; the bureau has no rebuttal.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mangog"
+      ],
+      "notes": "Origin is a judgment call: a spell-made living prison embodying an alien race's hatred; magic chosen, alien arguable."
+    },
+    {
+      "id": "the-serpent",
+      "name": "The Serpent",
+      "aliases": [
+        "Serpent",
+        "Cul Borson",
+        "Cul",
+        "God of Fear"
+      ],
+      "realName": "Cul Borson",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard"
+      ],
+      "otherTeams": [
+        "The Worthy"
+      ],
+      "debutYear": 2011,
+      "debutIssue": "Fear Itself #1",
+      "debutDate": "2011-06",
+      "alignment": "villain",
+      "origin": "deity",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Cul Borson, brother of Odin and the Asgardian God of Fear, freed from an underwater prison. Broke Captain America's shield with his bare hands. His claim to be the true All-Father remains under review.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serpent_(character)"
+      ],
+      "notes": "Infobox dates Fear Itself #1 to April 2011 (release month); the cover date used here is June 2011, as in the article's publication history."
+    },
+    {
+      "id": "thunderstrike",
+      "name": "Thunderstrike",
+      "aliases": [
+        "Eric Masterson"
+      ],
+      "realName": "Eric Masterson",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "asgard"
+      ],
+      "otherTeams": [
+        "Thor Corps"
+      ],
+      "debutYear": 1988,
+      "debutIssue": "Thor #391",
+      "debutDate": "1988-05",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an architect whom Odin merged with Thor to save his life; he later served as Thor himself. Afterward operated as Thunderstrike, wielding an enchanted mace. Resume lists two unrelated careers.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thunderstrike_(character)"
+      ],
+      "notes": "Two characters share the name; this is the original, Eric Masterson, not his son Kevin. Powers come first from Odin's merger with Thor and then from an enchanted mace, so magic vs tech is arguable; his Avengers tenure (Avengers #343-374) was as Thor."
+    }
+  ],
+  "dropped": []
+}
