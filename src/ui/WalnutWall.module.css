@@ -1,0 +1,7 @@
+.wall {
+  padding-block: 34px 0; min-width: 0;
+  background:
+    var(--woodgrain),
+    repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.5) 0 2px, rgba(255, 214, 170, 0.07) 2px 3px, rgba(0, 0, 0, 0) 3px 132px),
+    linear-gradient(180deg, #5f3c23, #46291a 60%, #2d1a10);
+}

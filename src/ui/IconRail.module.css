@@ -1,0 +1,11 @@
+.rail { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 16px 0; border-right: 1px solid var(--line-soft); margin: 6px 0 6px 6px; }
+.ri {
+  width: 40px; height: 40px; display: grid; place-items: center; color: var(--orange); background: none;
+  border: 1px solid transparent; border-radius: 3px; text-decoration: none;
+}
+.ri svg { width: 22px; height: 22px; filter: drop-shadow(0 0 3px rgba(242, 103, 15, 0.5)); }
+.ri:hover { border-color: var(--line); }
+.on { background: rgba(242, 103, 15, 0.14); border-color: var(--line); }
+@media (max-width: 560px) {
+  .rail { flex-direction: row; flex-wrap: wrap; justify-content: space-around; border-right: 0; border-bottom: 1px solid var(--line-soft); margin: 6px 6px 0; padding: 6px 0; }
+}

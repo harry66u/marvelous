@@ -1,0 +1,10 @@
+.dialog {
+  width: min(560px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; margin: auto;
+  color: var(--cream); background: linear-gradient(180deg, #17110d, #0f0b08);
+  border: 1px solid var(--line); box-shadow: 0 0 0 5px var(--void), 0 0 0 6px var(--line-soft), 0 24px 60px rgba(0, 0, 0, 0.7);
+  overflow: auto; z-index: var(--z-dialog);
+}
+.dialog::backdrop { background: rgba(8, 5, 3, 0.78); }
+.head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 16px; border-bottom: 1px solid var(--line-soft); }
+.title { margin: 0; font: 400 15px/1.2 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; color: var(--orange); text-shadow: var(--glow); }
+.body { padding: 16px; }

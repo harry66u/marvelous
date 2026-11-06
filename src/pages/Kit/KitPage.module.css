@@ -1,0 +1,17 @@
+.page { padding-block: 24px 8px; display: grid; gap: 32px; }
+.h1 { margin: 0; font: 400 var(--fs-xl) / 1.2 var(--f-hud); letter-spacing: var(--tracking-hud); text-transform: uppercase; color: var(--orange); text-shadow: var(--glow); }
+.section { display: grid; gap: 14px; min-width: 0; }
+.h2 { margin: 0; font: 400 13px var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.label { display: grid; gap: 6px; font: 12px var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); min-width: min(260px, 100%); }
+.stampBox { position: relative; height: 150px; }
+.tickets { display: grid; gap: 8px; }
+.surfaces { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.fig { margin: 0; border: 1px solid var(--line-soft); background: var(--panel); min-width: 0; overflow: hidden; }
+.fig figcaption { padding: 10px 12px; font-size: 13px; color: var(--muted); }
+.pad { padding: 28px 16px; color: var(--cream); font: 13px var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; min-height: 150px; }
+@media (max-width: 860px) { .surfaces { grid-template-columns: minmax(0, 1fr); } }
+
+.icons { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 16px; }
+.icon { display: grid; justify-items: center; gap: 4px; color: var(--orange); font: 11px var(--f-hud); letter-spacing: 0.1em; text-transform: uppercase; }
+.icon svg { width: 28px; height: 28px; }

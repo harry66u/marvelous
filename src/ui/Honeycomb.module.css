@@ -1,0 +1,10 @@
+.ceiling { position: relative; height: clamp(90px, 14vw, 150px); overflow: hidden; background: #2a180e; }
+.plane {
+  position: absolute; left: -100%; right: -100%; top: 0; height: 640px;
+  transform: perspective(252px) rotateX(-40deg); transform-origin: 50% 0;
+  background:
+    radial-gradient(closest-side, #ffd27a 0, #f3a64c 38%, #b8641f 66%, rgba(0, 0, 0, 0) 70%) 0 0 / 64px 56px,
+    radial-gradient(closest-side, #ffd27a 0, #f3a64c 38%, #b8641f 66%, rgba(0, 0, 0, 0) 70%) 32px 28px / 64px 56px,
+    #3b2215;
+}
+.ceiling::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 35%, rgba(20, 10, 5, 0.82)); pointer-events: none; }

@@ -1,0 +1,13 @@
+.portrait { display: block; width: 100%; height: auto; }
+.sep0 { stop-color: var(--paper); }
+.sep1 { stop-color: color-mix(in srgb, var(--paper) 55%, var(--walnut)); }
+.sep2 { stop-color: color-mix(in srgb, var(--walnut) 80%, var(--void)); }
+.dot { fill: var(--ink); opacity: 0.25; }
+.vig0 { stop-color: var(--void); stop-opacity: 0; }
+.vig1 { stop-color: var(--ink); stop-opacity: 0.55; }
+.body { fill: color-mix(in srgb, var(--chocolate) 85%, var(--void)); }
+.head { fill: color-mix(in srgb, var(--chocolate) 65%, var(--walnut)); }
+.tag { fill: var(--cream); opacity: 0.85; }
+.tagText { fill: var(--ink); font: 9px var(--f-hud); letter-spacing: 0.08em; }
+.badge { fill: var(--orange); stroke: var(--ink); stroke-width: 2; }
+.emblem { fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }

@@ -1,0 +1,1087 @@
+{
+  "characters": [
+    {
+      "id": "cannonball",
+      "name": "Cannonball",
+      "aliases": [
+        "Sam Guthrie",
+        "Samuel Guthrie",
+        "Samuel Zachary Guthrie",
+        "Starshine"
+      ],
+      "realName": "Samuel Guthrie",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-force",
+        "x-men",
+        "avengers"
+      ],
+      "otherTeams": [
+        "X-Corporation"
+      ],
+      "debutYear": 1982,
+      "debutIssue": "Marvel Graphic Novel #4: The New Mutants",
+      "debutDate": "1982-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Kentucky coal miner's son who propels himself at high speed inside an invulnerable field. Has served with the New Mutants, X-Force, the X-Men and the Avengers. Agents are advised to stay out of his flight path.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cannonball_(Marvel_Comics)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sunspot",
+      "name": "Sunspot",
+      "aliases": [
+        "Roberto da Costa",
+        "Roberto DaCosta",
+        "Lord Imperial",
+        "Black Rook",
+        "Citizen V"
+      ],
+      "realName": "Roberto da Costa",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-men",
+        "avengers",
+        "x-force",
+        "aim"
+      ],
+      "otherTeams": [
+        "Costa International"
+      ],
+      "debutYear": 1982,
+      "debutIssue": "Marvel Graphic Novel #4: The New Mutants",
+      "debutDate": "1982-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Brazilian heir who absorbs solar energy for strength and heat. Has led the Avengers and taken control of A.I.M. Agents are advised that he can pay for lunch.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sunspot_(character)"
+      ],
+      "notes": "Infobox lists several teams; the five with real tenure are kept."
+    },
+    {
+      "id": "wolfsbane",
+      "name": "Wolfsbane",
+      "aliases": [
+        "Rahne Sinclair",
+        "Rahne"
+      ],
+      "realName": "Rahne Sinclair",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-force",
+        "x-factor",
+        "excalibur",
+        "x-men"
+      ],
+      "otherTeams": [],
+      "debutYear": 1982,
+      "debutIssue": "Marvel Graphic Novel #4: The New Mutants",
+      "debutDate": "1982-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Scottish-born mutant who shifts between human, wolf and hybrid forms. Raised by a strict minister, she has served on five rosters. Agents are advised not to call her a dog.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wolfsbane_(character)"
+      ],
+      "notes": "Infobox cites 'The New Mutants (September 1982)', i.e. the graphic novel. Teams chosen from a longer list."
+    },
+    {
+      "id": "mirage",
+      "name": "Mirage",
+      "aliases": [
+        "Danielle Moonstar",
+        "Dani Moonstar",
+        "Psyche",
+        "Moonstar",
+        "Dani"
+      ],
+      "realName": "Danielle Moonstar",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-force",
+        "x-men",
+        "shield"
+      ],
+      "otherTeams": [
+        "Valkyrior",
+        "Hellions"
+      ],
+      "debutYear": 1982,
+      "debutIssue": "Marvel Graphic Novel #4: The New Mutants",
+      "debutDate": "1982-09",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Cheyenne mutant who projects a target's deepest fears or desires as illusions. Has led the New Mutants and served as a Valkyrie. Agents are advised to keep their thoughts tidy.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Danielle_Moonstar"
+      ],
+      "notes": "Page title is Danielle Moonstar; listed as Mirage (also Psyche, Moonstar) in comics."
+    },
+    {
+      "id": "karma",
+      "name": "Karma",
+      "aliases": [
+        "Xi'an Coy Manh",
+        "Shan",
+        "Xi'an Manh"
+      ],
+      "realName": "Xi'an Coy Manh",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Tiger Division"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "Marvel Team-Up #100",
+      "debutDate": "1980-12",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Vietnamese refugee who can take control of other minds. Was among the first students of the New Mutants. Agents are advised to decline her offers to drive.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karma_(character)"
+      ],
+      "notes": "MCU snippet for Thor is an unrelated quote. Gender: identifies as female (a noted lesbian character); some versions of 'Shan' are her twin."
+    },
+    {
+      "id": "magma",
+      "name": "Magma",
+      "aliases": [
+        "Amara Aquilla",
+        "Allison Crestmere",
+        "Amara Juliana Olivians Aquilla"
+      ],
+      "realName": "Amara Aquilla",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-men",
+        "hellfire-club"
+      ],
+      "otherTeams": [
+        "Hellions"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "The New Mutants #8",
+      "debutDate": "1983-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Roman-descended mutant from the lost Nova Roma who controls lava and heat. Has served the New Mutants and the X-Men. Agents are advised against asking about the volcano.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magma_(character)"
+      ],
+      "notes": "Alignment has swung between hero and villain (Hellfire Club, Hellions) but is most commonly hero."
+    },
+    {
+      "id": "warlock-technarch",
+      "name": "Warlock (Technarch)",
+      "aliases": [
+        "Douglock",
+        "Moonlock",
+        "Warlox"
+      ],
+      "realName": "",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-force",
+        "excalibur"
+      ],
+      "otherTeams": [
+        "Phalanx",
+        "Fallen Angels"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "The New Mutants #18",
+      "debutDate": "1984-08",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "other",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a shapeshifting Technarch alien that can turn into machines and weapons. Escaped his father and joined the New Mutants. Agents are advised to speak slowly and literally.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
+      ],
+      "notes": "Infobox flagged unreliable but title page is Warlock, correct character. Technarch is a techno-organic alien species; origin alien vs synthetic is contestable. Gender other: Warlock is a male-presenting being with no gender in the human sense."
+    },
+    {
+      "id": "cypher",
+      "name": "Cypher",
+      "aliases": [
+        "Doug Ramsey",
+        "Douglas Ramsey",
+        "Douglas Aaron Ramsey",
+        "Revelation"
+      ],
+      "realName": "Douglas Ramsey",
+      "primaryTeam": "new-mutants",
+      "teams": [
+        "new-mutants",
+        "x-men",
+        "x-force"
+      ],
+      "otherTeams": [
+        "Hellions"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "The New Mutants #13",
+      "debutDate": "1984-03",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a mutant who instantly translates any language or code. Was a founding New Mutant and long-time partner of Warlock. Agents are advised to leave a translator's bill unpaid at their own risk.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
+      ],
+      "notes": "Infobox debut field was empty; New Mutants #13 (March 1984) from the article. Character was killed and later resurrected."
+    },
+    {
+      "id": "domino",
+      "name": "Domino",
+      "aliases": [
+        "Neena Thurman",
+        "Neena Beatrice Thurman",
+        "Beatrice Thurman",
+        "Tamara Winter"
+      ],
+      "realName": "Neena Thurman",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Six Pack"
+      ],
+      "debutYear": 1992,
+      "debutIssue": "X-Force #8",
+      "debutDate": "1992-03",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a mercenary whose mutation bends probability in her favor. Has served as an operative with X-Force and Six Pack. Agents are advised not to play her at cards.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Domino_(character)"
+      ],
+      "notes": "Infobox lists an impersonation by Copycat in The New Mutants #98 (Feb 1991) and herself in cameo X-Force #8 (Mar 1992), full appearance #11 (June 1992). Cameo-as-herself used. Alternative: New Mutants #98 / 1991-02. X-Men team could be argued. Domino in Deadpool 2 (Fox) does not count."
+    },
+    {
+      "id": "deadpool",
+      "name": "Deadpool",
+      "aliases": [
+        "Wade Wilson",
+        "Wade Winston Wilson",
+        "Merc with a Mouth",
+        "Regenerating Degenerate",
+        "Wade"
+      ],
+      "realName": "Wade Wilson",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "x-men",
+        "avengers",
+        "heroes-for-hire",
+        "frightful-four"
+      ],
+      "otherTeams": [
+        "Mercs for Money",
+        "Deadpool Corps"
+      ],
+      "debutYear": 1991,
+      "debutIssue": "The New Mutants #98",
+      "debutDate": "1991-02",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 1,
+      "answerOk": true,
+      "caseNote": "Subject is a mercenary with a regeneration factor and a documented disregard for the fourth wall. Has served with X-Force, the Avengers and Heroes for Hire. Agents are advised not to engage in conversation.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool"
+      ],
+      "notes": "Origin mutate (Weapon X experiment activating healing factor; infobox 'Human mutate'). Some sources classify as mutant. Alignment antihero vs hero. Reynolds in Deadpool & Wolverine; Fox films do not count."
+    },
+    {
+      "id": "shatterstar",
+      "name": "Shatterstar",
+      "aliases": [
+        "Gaveedra Seven",
+        "Benjamin Russell",
+        "Ben Russell"
+      ],
+      "realName": "Gaveedra Seven",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Mojoworld gladiators"
+      ],
+      "debutYear": 1991,
+      "debutIssue": "The New Mutants #99",
+      "debutDate": "1991-03",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a gladiator from Mojoworld, bred to fight with twin swords. Is a veteran of X-Force and a part of the Krakoan era X-Men. Agents are advised not to call him by his gladiator name at the dinner table.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shatterstar"
+      ],
+      "notes": "Origin: Mojoworld-born genetically engineered; infobox lists species as Mojoworlder or similar; alien used though he is described as a mutant's offspring in some versions. MCU: Lewis Tan as Rusty / Shatterstar in a cameo in Deadpool & Wolverine. Real name: Gaveedra-Seven, 'Ben Russell' is his Earth alias."
+    },
+    {
+      "id": "warpath",
+      "name": "Warpath",
+      "aliases": [
+        "James Proudstar",
+        "Thunderbird",
+        "Running Sun",
+        "Jimmy Proudstar"
+      ],
+      "realName": "James Proudstar",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "new-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Weapon X"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "New Mutants #16",
+      "debutDate": "1984-06",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an Apache mutant with superhuman strength, speed and senses, and the brother of the late John Proudstar. Has been a steady member of X-Force. Agents are advised to take a seat rather than argue.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Warpath_(character)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "boom-boom",
+      "name": "Boom-Boom",
+      "aliases": [
+        "Tabitha Smith",
+        "Time Bomb",
+        "Meltdown",
+        "Boomer",
+        "Firecracker"
+      ],
+      "realName": "Tabitha Smith",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "new-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Fallen Angels",
+        "Nextwave"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "Secret Wars II #5",
+      "debutDate": "1985-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a mutant who generates explosive spheres of energy. Has operated under several codenames across X-Force, the New Mutants and Nextwave. Agents are advised not to hand her anything round.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tabitha_Smith"
+      ],
+      "notes": "Page title is Tabitha Smith."
+    },
+    {
+      "id": "rictor",
+      "name": "Rictor",
+      "aliases": [
+        "Julio Esteban Richter",
+        "Julio Richter"
+      ],
+      "realName": "Julio Richter",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor",
+        "x-force",
+        "new-mutants"
+      ],
+      "otherTeams": [
+        "Mutant Liberation Front"
+      ],
+      "debutYear": 1987,
+      "debutIssue": "X-Factor #17",
+      "debutDate": "1987-06",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Mexican mutant who generates seismic vibrations. Has served with X-Factor and X-Force. Agents are advised to hold the tremors until after the meeting.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rictor"
+      ],
+      "notes": "Infobox alliances empty; teams taken from article body."
+    },
+    {
+      "id": "strong-guy",
+      "name": "Strong Guy",
+      "aliases": [
+        "Guido Carosella",
+        "Guido",
+        "Strong Guido"
+      ],
+      "realName": "Guido Carosella",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor",
+        "new-mutants"
+      ],
+      "otherTeams": [
+        "Singularity Investigations"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "The New Mutants #29",
+      "debutDate": "1985-07",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject absorbs kinetic energy and rechannels it as physical strength. Has been a long-standing member of X-Factor. Agents are advised not to hit him.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Strong_Guy"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "multiple-man",
+      "name": "Multiple Man",
+      "aliases": [
+        "Jamie Madrox",
+        "James Arthur Madrox",
+        "Madrox",
+        "Madrox the Multiple Man"
+      ],
+      "realName": "Jamie Madrox",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Muir Island X-Men",
+        "Defenders"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Giant-Size Fantastic Four #4",
+      "debutDate": "1975-02",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject creates duplicates of himself by taking a physical impact. Serves as a private investigator with X-Factor Investigations. Agents are advised to count heads before dismissal.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jamie_Madrox"
+      ],
+      "notes": "Origin: mutant (X-gene) vs mutate (powers triggered by a childhood accident). The character is classified as a mutant in Wikipedia. Changed to mutant; see notes. Defenders membership is minor."
+    },
+    {
+      "id": "siryn",
+      "name": "Siryn",
+      "aliases": [
+        "Theresa Rourke Cassidy",
+        "Terry Cassidy",
+        "Tracy Cassidy",
+        "Morrigan"
+      ],
+      "realName": "Theresa Cassidy",
+      "primaryTeam": "x-factor",
+      "teams": [
+        "x-factor",
+        "x-force"
+      ],
+      "otherTeams": [
+        "Muir Island X-Men",
+        "Fallen Angels"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "Spider-Woman #37",
+      "debutDate": "1981-04",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a sonic-scream mutant, the daughter of Banshee, with a famous temper. Has served on X-Factor Investigations and X-Force. Agents are advised against asking her to keep it down.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siryn"
+      ],
+      "notes": "Real name given as Theresa Rourke Cassidy; Wikipedia article says Theresa. Page uses 'Tracy Cassidy' as an alias spelling."
+    },
+    {
+      "id": "hope-summers",
+      "name": "Hope Summers",
+      "aliases": [
+        "Mutant Messiah",
+        "White Phoenix",
+        "MeMe"
+      ],
+      "realName": "Hope Summers",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force"
+      ],
+      "otherTeams": [
+        "The Five",
+        "The Lights"
+      ],
+      "debutYear": 2007,
+      "debutIssue": "X-Men #205",
+      "debutDate": "2007-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the first mutant born after M-Day, widely hailed as a messiah. Raised in the future by Cable, she later led her own squad. Agents are advised to avoid the topic of destinies.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hope_Summers_(character)"
+      ],
+      "notes": "Cover dates differ in some sources; Wikipedia gives November 2007."
+    },
+    {
+      "id": "quentin-quire",
+      "name": "Quentin Quire",
+      "aliases": [
+        "Kid Omega",
+        "Phoenix",
+        "Q"
+      ],
+      "realName": "Quentin Quire",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force",
+        "generation-x"
+      ],
+      "otherTeams": [
+        "Omega Gang"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "New X-Men #134",
+      "debutDate": "2003-01",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an Omega-level telepath and telekinetic from the Xavier Institute. Led a student uprising before turning into a Phoenix host. Agents are advised not to dismiss him.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quentin_Quire"
+      ],
+      "notes": "Alignment is contested between antihero and villain early on, hero later."
+    },
+    {
+      "id": "pixie",
+      "name": "Pixie",
+      "aliases": [
+        "Megan Gwynn",
+        "Megan"
+      ],
+      "realName": "Megan Gwynn",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men"
+      ],
+      "otherTeams": [
+        "Xavier Institute"
+      ],
+      "debutYear": 2004,
+      "debutIssue": "New X-Men: Academy X #5",
+      "debutDate": "2004-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a British mutant who teleports through pixie dust and wields magical soulsword. Rose from the student body to the X-Men. Agents are advised to wear a jacket against the sparkles.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pixie_(X-Men)"
+      ],
+      "notes": "Origin is mutant (X-gene) with later magic ties (Cstep). Teleport via pixie dust, soulsword gained from the Cat of Cimmeria; magic aspects secondary."
+    },
+    {
+      "id": "armor",
+      "name": "Armor",
+      "aliases": [
+        "Hisako Ichiki",
+        "Hisako"
+      ],
+      "realName": "Hisako Ichiki",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "young-avengers"
+      ],
+      "otherTeams": [
+        "Xavier Institute"
+      ],
+      "debutYear": 2004,
+      "debutIssue": "Astonishing X-Men #4",
+      "debutDate": "2004-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Japanese mutant who creates a psionic suit of armor around herself. Joined the X-Men as a student at the Xavier Institute. Agents are advised not to push her.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Armor_(Marvel_Comics_character)"
+      ],
+      "notes": "Infobox resolved to Iron Man in infobox file; read from the correct article via search (Astonishing X-Men #4, Oct 2004). Young Avengers membership has been questioned; verify. Names matched in MCU snippets are for the word 'armor', not this character."
+    },
+    {
+      "id": "blink",
+      "name": "Blink",
+      "aliases": [
+        "Clarice Ferguson",
+        "Clarice"
+      ],
+      "realName": "Clarice Ferguson",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men"
+      ],
+      "otherTeams": [
+        "Exiles",
+        "Marauders"
+      ],
+      "debutYear": 1994,
+      "debutIssue": "The Uncanny X-Men #317",
+      "debutDate": "1994-10",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant who opens teleportation portals and fires them as weapons. First appeared in the Age of Apocalypse. Agents are advised to count the exits.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blink_(character)"
+      ],
+      "notes": "Original Age of Apocalypse version; later mainstream Marvel version is a different history."
+    },
+    {
+      "id": "chamber",
+      "name": "Chamber",
+      "aliases": [
+        "Jonothon Starsmore",
+        "Jono Starsmore",
+        "Decibel"
+      ],
+      "realName": "Jonothon Starsmore",
+      "primaryTeam": "generation-x",
+      "teams": [
+        "generation-x",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Weapon X"
+      ],
+      "debutYear": 1994,
+      "debutIssue": "Generation X #1",
+      "debutDate": "1994-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a British mutant who unleashed psionic flame through his chest and jaw. Was a founding Generation X student. Agents are advised to watch how he speaks.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chamber_(character)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "husk",
+      "name": "Husk",
+      "aliases": [
+        "Paige Guthrie",
+        "Paige Elisabeth Guthrie"
+      ],
+      "realName": "Paige Guthrie",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force"
+      ],
+      "otherTeams": [
+        "Generation X",
+        "Hellions"
+      ],
+      "debutYear": 1984,
+      "debutIssue": "Rom Annual #3",
+      "debutDate": "1984-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is Cannonball's sister who sheds her skin to reveal a new material underneath. Has served with the X-Men and X-Force. Agents are advised to double-check which Paige they are talking to.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Husk_(comics)"
+      ],
+      "notes": "Teams from article; Generation X membership short; X-Men teams chosen as primary."
+    },
+    {
+      "id": "marrow",
+      "name": "Marrow",
+      "aliases": [
+        "Sarah Rushman",
+        "Sarah"
+      ],
+      "realName": "Sarah Rushman",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men",
+        "x-force",
+        "morlocks"
+      ],
+      "otherTeams": [
+        "Gene Nation"
+      ],
+      "debutYear": 1994,
+      "debutIssue": "Cable #15",
+      "debutDate": "1994-09",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a mutant with a bone-growing ability and a radical past with the Gene Nation. Later joined the X-Men and Weapon X. Agents are advised to avoid hugging.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marrow_(character)"
+      ],
+      "notes": "Debut as Sarah in Cable #15; as Marrow in X-Men Prime (July 1995). Used first appearance as Sarah."
+    },
+    {
+      "id": "maggott",
+      "name": "Maggott",
+      "aliases": [
+        "Japheth",
+        "Japheth Beguin"
+      ],
+      "realName": "Japheth",
+      "primaryTeam": "generation-x",
+      "teams": [
+        "generation-x",
+        "x-men"
+      ],
+      "otherTeams": [],
+      "debutYear": 1997,
+      "debutIssue": "The Uncanny X-Men #345",
+      "debutDate": "1997-04",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a South African mutant with slugs in his abdomen that digest matter. Was a member of Generation X and the X-Men. Agents are advised not to ask about lunch.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maggott"
+      ],
+      "notes": "Infobox gives the year 1997 only; April 1997 is the cover date per issue records. Verify month."
+    },
+    {
+      "id": "cecilia-reyes",
+      "name": "Cecilia Reyes",
+      "aliases": [
+        "Forcefield",
+        "Dr. Cecilia Reyes"
+      ],
+      "realName": "Cecilia Reyes",
+      "primaryTeam": "x-men",
+      "teams": [
+        "x-men"
+      ],
+      "otherTeams": [
+        "Weapon X"
+      ],
+      "debutYear": 1997,
+      "debutIssue": "X-Men (vol. 2) #65",
+      "debutDate": "1997-06",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a New York doctor who produces a protective force field. Joined the X-Men reluctantly. Agents are advised to take her medical advice.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cecilia_Reyes"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "doop",
+      "name": "Doop",
+      "aliases": [
+        "Doop",
+        "Agent Doop",
+        "Dave"
+      ],
+      "realName": "",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force"
+      ],
+      "otherTeams": [
+        "X-Statix"
+      ],
+      "debutYear": 2001,
+      "debutIssue": "X-Force #116",
+      "debutDate": "2001-07",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "other",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a green floating creature who speaks a language no one has translated. Worked with X-Statix and X-Force. Agents are advised to disregard the thumbs-up.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doop_(character)"
+      ],
+      "notes": "Origin and gender are contested; 'other' used since gender is unstated and the character is treated as a genderless entity. Gender: male in some sources."
+    },
+    {
+      "id": "fantomex",
+      "name": "Fantomex",
+      "aliases": [
+        "Jean-Phillipe Charles",
+        "Weapon XIII",
+        "Mutant Man of Mystery"
+      ],
+      "realName": "Jean-Phillipe Charles",
+      "primaryTeam": "x-force",
+      "teams": [
+        "x-force",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Weapon Plus Program"
+      ],
+      "debutYear": 2002,
+      "debutIssue": "New X-Men #128",
+      "debutDate": "2002-08",
+      "alignment": "antihero",
+      "origin": "super-soldier",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a French thief and Weapon Plus product with a living ship, E.V.A. Has served as an operative of X-Force. Agents are advised that he will steal the silverware.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantomex"
+      ],
+      "notes": "Origin: super-soldier (Weapon Plus) vs mutant (lighter claim). Per rubric, Weapon Plus counts."
+    },
+    {
+      "id": "captain-britain-brian-braddock",
+      "name": "Captain Britain (Brian Braddock)",
+      "aliases": [
+        "Brian Braddock",
+        "Britanic",
+        "Captain Avalon"
+      ],
+      "realName": "Brian Braddock",
+      "primaryTeam": "excalibur",
+      "teams": [
+        "excalibur",
+        "avengers",
+        "illuminati"
+      ],
+      "otherTeams": [
+        "MI-13",
+        "Captain Britain Corps"
+      ],
+      "debutYear": 1976,
+      "debutIssue": "Captain Britain #1",
+      "debutDate": "1976-10",
+      "alignment": "hero",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a British physicist who received a mystic amulet from Merlin and Roma. Has served with Excalibur, MI-13 and the Illuminati. Agents are advised to say please.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brian_Braddock"
+      ],
+      "notes": "Origin: magic (amulet of Merlin) vs tech vs cosmic. Betsy Braddock's own Captain Britain role is a different subject."
+    },
+    {
+      "id": "meggan",
+      "name": "Meggan",
+      "aliases": [
+        "Gloriana",
+        "Goblin Princess",
+        "Meggan Puceanu"
+      ],
+      "realName": "Meggan Puceanu",
+      "primaryTeam": "excalibur",
+      "teams": [
+        "excalibur"
+      ],
+      "otherTeams": [
+        "MI-13"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "Mighty World of Marvel #7",
+      "debutDate": "1983-12",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a shapeshifter who mirrors the emotions of those around her. Member of Excalibur and spouse of Brian Braddock. Agents are advised to keep their moods in check.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meggan_(character)"
+      ],
+      "notes": "Origin contested: mutant (empath shapeshifter) vs other; 'mutant' is the common Wikipedia label. Real name Meggan Puceanu is given in one source only; none in infobox."
+    }
+  ],
+  "dropped": []
+}

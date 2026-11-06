@@ -1,0 +1,7 @@
+.floor { position: relative; padding: 22px; overflow: hidden; background: #cfc3a6; border: 1px solid var(--line-soft); isolation: isolate; }
+.tiles {
+  position: absolute; inset: -50%; z-index: -1; opacity: 0.95;
+  transform: perspective(500px) rotateX(55deg) rotateZ(45deg);
+  background: repeating-conic-gradient(var(--tile-green) 0 25%, var(--tile-cream) 0 50%) 0 0 / 56px 56px;
+}
+.content { position: relative; min-width: 0; }

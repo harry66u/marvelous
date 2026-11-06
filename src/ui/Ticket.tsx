@@ -12,9 +12,7 @@ interface Props {
   href?: string
 }
 
-const CLASS: Record<TicketStatus, string> = {
-  pending: s.pending, in_progress: s.progress, filed: s.filed, unavailable: s.unavailable,
-}
+const cssClass = (status: TicketStatus) => s[status === 'in_progress' ? 'progress' : status] ?? ''
 
 export default function Ticket({ no, title, subtitle, status, statusText, href }: Props) {
   const body: ReactNode = (
@@ -25,9 +23,9 @@ export default function Ticket({ no, title, subtitle, status, statusText, href }
       <span className={s.status}>{statusText}</span>
     </>
   )
-  const cls = `${s.ticket} ${CLASS[status]}`
+  const cls = `${s.ticket} ${cssClass(status)}`
   return href ? (
-    <a className={`${cls} ${s.link}`} href={href} data-status={status}>{body}</a>
+    <a className={`${cls} ${s.link ?? ''}`} href={href} data-status={status}>{body}</a>
   ) : (
     <div className={cls} data-status={status}>{body}</div>
   )

@@ -1,0 +1,9 @@
+.title { margin: 0 0 10px; font: 13px var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; color: var(--orange); text-shadow: var(--glow); }
+.list { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; }
+.row {
+  display: block; width: 100%; min-height: 36px; padding: 7px 8px; text-align: left; background: none;
+  font: 13px var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; color: var(--cream);
+  text-decoration: none; border: 1px solid transparent; border-radius: 0;
+}
+.row:hover, .row:focus-visible { border-color: var(--line); color: var(--orange); }
+.num { color: var(--orange); margin-right: 6px; }
