@@ -1,0 +1,362 @@
+[
+ {
+  "id": "alicia-masters",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a blind sculptor and longtime companion of Ben Grimm. Stepdaughter of the Puppet Master, she is a frequent ally of the Fantastic Four. Agents are advised that she notices more than most sighted personnel.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "balder",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a prince of Asgard and a son of Odin, making him a half-brother of Thor. Nearly invulnerable, with a documented weakness to mistletoe. Mistletoe is prohibited at all Subject's functions.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "baron-mordo",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a sorcerer who studied under the Ancient One before Doctor Strange and became his longtime enemy. Has repeatedly sought to usurp Strange's title. Agents are advised that he holds grudges.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "bastion",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Sentinel-derived being who orchestrated Operation: Zero Tolerance against mutants. Considers his purpose settled. Agents are advised not to reboot.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "bishop",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject absorbs energy directed at him and redirects it as blasts. A mutant police officer from a dystopian future, he pursued fugitives into the present. Agents are advised not to open fire.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "bolivar-trask",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a roboticist who built the Sentinels to hunt mutants. Realized too late that his creations read their mandate far more broadly than intended, and sacrificed himself to stop them. Design review is recommended.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "captain-britain-brian-braddock",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a British physicist who received a mystic amulet from Merlin and Roma. Has served with Excalibur and MI-13. Agents are advised to say please.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "chase-stein",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject has no superpowers and relies on the Fistigons, flame-projecting gauntlets taken from his parents' laboratory. A founding member of the Runaways. The equipment was never returned.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "corvus-glaive",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a member of the Black Order and a lieutenant to Thanos. Wields a glaive said to grant him immortality. Agents are advised to confiscate the weapon first.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "crystal",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Inhuman princess who controls the four elements. Sister of Medusa and sister-in-law of Black Bolt. Has served with the Fantastic Four and the Avengers.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "cypher",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a mutant who instantly interprets any language or code. Joined the New Mutants in 1984 and formed a lasting bond with the alien Warlock. Agents are advised to leave nothing untranslated.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "ebony-maw",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a member of the Black Order who relies on persuasion and mental powers rather than brawn. Serves Thanos as an envoy and manipulator. Agents are advised not to engage Subject in conversation.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "ego-the-living-planet",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a sentient planet with a face on its surface and a brain at its core. First clashed with Thor in 1966. Agents are advised not to land without an invitation.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "gilgamesh",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Eternal known as the Forgotten One, whose exploits inspired the Sumerian epic. Has served with the Avengers. Generally described as one of the strongest of his kind.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "green-goblin",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is industrialist Norman Osborn, whose experimental strength formula gave him superhuman abilities and an unstable mind. Attacks from a glider with pumpkin bombs. Was later given command of H.A.M.M.E.R., which replaced S.H.I.E.L.D.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "invisible-woman",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject turns invisible and projects force fields, abilities acquired through cosmic ray exposure. A founding member of the Fantastic Four. Agents should assume she is present at all meetings.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "klaw",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a sound-based villain whose body is partly solid sound, and who wields a sonic converter in place of a lost hand. Has served with the Frightful Four. Subject is insured against noise.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "molly-hayes",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the youngest founding member of the Runaways, a mutant with superhuman strength and invulnerability. Her powers were revealed as she reached adolescence. Agents should not mistake her age for weakness.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "mystique",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a shapeshifting mutant, spy and long-time Brotherhood leader. Can duplicate any person's appearance and voice. Agents should request a password from everyone, including Subject's supervisor.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "nico-minoru",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a sorceress who summons the Staff of One by drawing her own blood, and is generally accepted as leader of the Runaways. Her parents were dark wizards in the Pride. The family business was declined.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "sersi",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Eternal able to transmute matter at will. Has served with the Avengers. Her hobbies include turning inconvenient objects into other inconvenient objects.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "star-lord",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the half-human, half-Spartoi son of an alien emperor and an Earth woman. Has led the Guardians of the Galaxy. Agents are advised against letting him choose the music.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "the-collector",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Elder of the Universe who has spent billions of years gathering rare artifacts and living specimens. Personnel are advised not to stand still near display cases.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "the-serpent",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is Cul Borson, brother of Odin and the Asgardian God of Fear, freed from an ancient prison. Set off the event known as Fear Itself. His claim to be the true All-Father remains under review.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "titanium-man",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Soviet operative who donned massive green armor to defeat Iron Man in the name of his nation. Results to date have not favored Subject.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "ulik",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the strongest of the Rock Trolls and a recurring foe of Thor, fighting with uru knuckle-dusters called pounders. Agents are advised that negotiations with trolls tend to be brief.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "vision",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a synthezoid built by Ultron to destroy the Avengers, but he joined them instead and later married the Scarlet Witch. Can alter his density at will, so locked doors should not be considered secure.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "wolfsbane",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Scottish-born mutant who shifts between human, wolf and hybrid forms. Raised by a strict minister, she is a long-time member of the New Mutants. Agents are advised not to call her a dog.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "mister-negative",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject runs a Chinatown soup kitchen as philanthropist Martin Li while leading the Inner Demons gang as Mister Negative. Agents are advised to check both sides of his ledger.",
+  "contested": false,
+  "note": "Removed or corrected unverified/incorrect claims",
+  "source": ""
+ },
+ {
+  "id": "kro",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "MCU appearance is voice/CGI only; mcu flag is two-sided",
+  "source": ""
+ },
+ {
+  "id": "moon-knight",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Origin two-sided: trained vs Khonshu-granted magic powers",
+  "source": ""
+ },
+ {
+  "id": "spider-girl-mayday-parker",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Primary team and origin two-sided (Web Warriors vs A-Next; inherited powers)",
+  "source": ""
+ },
+ {
+  "id": "galactus",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Rubric settles alignment as villain (most common classification); famous",
+  "source": ""
+ },
+ {
+  "id": "venom",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Debut 1984 vs 1988 same decade; mcu true via No Way Home; alien symbiote host per rubric",
+  "source": ""
+ },
+ {
+  "id": "mandarin",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "mcuFirst difference not shown; mcu true either way; origin tech (rings)",
+  "source": ""
+ },
+ {
+  "id": "domino",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Debut 1991 vs 1992 same decade; shown attributes otherwise clear",
+  "source": ""
+ },
+ {
+  "id": "the-serpent",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Event villain; deep cut for a daily answer",
+  "source": ""
+ },
+ {
+  "id": "the-serpent",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Difficulty 5",
+  "source": ""
+ },
+ {
+  "id": "ulik",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Obscure Rock Troll; deep cut",
+  "source": ""
+ },
+ {
+  "id": "ulik",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Difficulty 5",
+  "source": ""
+ }
+]

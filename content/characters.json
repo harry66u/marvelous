@@ -23,7 +23,7 @@
     "mcuFirst": "The Incredible Hulk",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a former KGB agent who deliberately exposed himself to gamma radiation and became a scaly creature stronger than the Hulk. Retains his full intellect in that form. Agents should not comment on his appearance.",
+    "caseNote": "Subject is a former KGB agent who exposed himself to gamma radiation on purpose and became a scaly brute that rivals the Hulk in strength. Retains his intellect in that form. Agents should not comment on his appearance.",
     "archetype": "brute",
     "sources": [
       "https://en.wikipedia.org/wiki/Abomination_(character)"
@@ -324,7 +324,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a blind sculptor and longtime partner of Ben Grimm. Stepdaughter of the Puppet Master. Considered by the Fantastic Four to be the sanest person in their orbit.",
+    "caseNote": "Subject is a blind sculptor and longtime companion of Ben Grimm. Stepdaughter of the Puppet Master, she is a frequent ally of the Fantastic Four. Agents are advised that she notices more than most sighted personnel.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Alicia_Masters"
@@ -598,7 +598,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 3,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is among the oldest known mutants and believes in survival of the fittest. Recruits Horsemen to carry out his convictions. Agents are advised to skip the entrance exam.",
     "archetype": "brute",
     "sources": [
@@ -905,7 +905,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject flies at superhuman speed and generates brilliant light, classically by joining hands with her twin brother, Northstar. Raised apart from him at a strict religious school in Quebec; founding member of Alpha Flight. Agents are advised not to separate the twins.",
+    "caseNote": "Subject moves at superhuman speed and generates brilliant light, classically by joining hands with her twin brother, Northstar. A founding member of Alpha Flight, she has been written with two distinct personalities. Agents are advised to confirm which one they are addressing.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Aurora_(comics)"
@@ -1032,7 +1032,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is an Asgardian prince, half-brother of Thor and a former King of Asgard. Once killed by a mistletoe arrow before Odin averted Ragnarok and later restored him. Mistletoe is prohibited at all Subject's functions.",
+    "caseNote": "Subject is a prince of Asgard and a son of Odin, making him a half-brother of Thor. Nearly invulnerable, with a documented weakness to mistletoe. Mistletoe is prohibited at all Subject's functions.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Balder_the_Brave"
@@ -1095,7 +1095,7 @@
     "mcuFirst": "Doctor Strange",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a sorcerer and the oldest enemy of Doctor Strange. Once a fellow student of the Ancient One. Agents are advised that he holds grudges for a very long time.",
+    "caseNote": "Subject is a sorcerer who studied under the Ancient One before Doctor Strange and became his longtime enemy. Has repeatedly sought to usurp Strange's title. Agents are advised that he holds grudges.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Baron_Mordo",
@@ -1203,7 +1203,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a hybrid of Sentinel technology that targets mutants. Led Operation: Zero Tolerance. Agents are advised not to reboot.",
+    "caseNote": "Subject is a Sentinel-derived being who orchestrated Operation: Zero Tolerance against mutants. Considers his purpose settled. Agents are advised not to reboot.",
     "archetype": "armored",
     "sources": [
       "https://en.wikipedia.org/wiki/Bastion_%28comics%29"
@@ -1471,7 +1471,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject absorbs energy directed at him and redirects it as blasts. A mutant police officer from a dystopian future, branded with an M over his right eye. Agents are advised not to open fire.",
+    "caseNote": "Subject absorbs energy directed at him and redirects it as blasts. A mutant police officer from a dystopian future, he pursued fugitives into the present. Agents are advised not to open fire.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Bishop_(Marvel_Comics)"
@@ -1562,9 +1562,9 @@
     "gender": "male",
     "mcu": true,
     "mcuFirst": "Avengers: Infinity War",
-    "difficulty": 4,
-    "answerOk": true,
-    "caseNote": "Subject is the Black Order's resident powerhouse. Was expelled from the Order after failing to take Wakanda, and was later killed by Ronan the Accuser. Known on some screens as Cull Obsidian.",
+    "difficulty": 5,
+    "answerOk": false,
+    "caseNote": "Subject is the hulking bruiser of the Black Order, Thanos's elite lieutenants. Appeared in live action as Cull Obsidian. Subject is not known for negotiation.",
     "archetype": "brute",
     "sources": [
       "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B",
@@ -1934,7 +1934,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a roboticist who built the Sentinels to hunt mutants. Learned that his creation would take his instructions literally. Agents are advised to check robots' interpretation of orders.",
+    "caseNote": "Subject is a roboticist who built the Sentinels to hunt mutants. Realized too late that his creations read their mandate far more broadly than intended, and sacrificed himself to stop them. Design review is recommended.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Bolivar_Trask"
@@ -2297,7 +2297,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a British physicist who received a mystic amulet from Merlin and Roma. Has served with Excalibur, MI-13 and the Illuminati. Agents are advised to say please.",
+    "caseNote": "Subject is a British physicist who received a mystic amulet from Merlin and Roma. Has served with Excalibur and MI-13. Agents are advised to say please.",
     "archetype": "caped",
     "sources": [
       "https://en.wikipedia.org/wiki/Brian_Braddock"
@@ -2667,7 +2667,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject has no superpowers and fights with the Fistigons, flame-projecting gauntlets taken from his parents' lab. He serves as the Runaways' pilot and mechanic. The equipment was never returned.",
+    "caseNote": "Subject has no superpowers and relies on the Fistigons, flame-projecting gauntlets taken from his parents' laboratory. A founding member of the Runaways. The equipment was never returned.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Chase_Stein"
@@ -2925,7 +2925,7 @@
     "mcuFirst": "Avengers: Infinity War",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is the Black Order's field leader and Thanos's most loyal lieutenant. His namesake glaive grants him immortality. Agents are advised to confiscate the weapon first.",
+    "caseNote": "Subject is a member of the Black Order and a lieutenant to Thanos. Wields a glaive said to grant him immortality. Agents are advised to confiscate the weapon first.",
     "archetype": "hooded",
     "sources": [
       "https://en.wikipedia.org/wiki/Corvus_Glaive",
@@ -3102,7 +3102,7 @@
     "mcuFirst": "Captain America: The Winter Soldier",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a mercenary enforcer frequently employed by the Red Skull and Hydra. An expert combatant and marksman who wears a black-and-white skull mask. His stint with the Thunderbolts ended in discharge, which surprised no one.",
+    "caseNote": "Subject is a mercenary combatant who has served as the Red Skull's enforcer and as a Hydra operative. Wears a black-and-white skull mask. The mask is not a Halloween costume.",
     "archetype": "cowl",
     "sources": [
       "https://en.wikipedia.org/wiki/Crossbones_(character)"
@@ -3134,7 +3134,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is an Inhuman princess who controls the four elements. Has served with the Fantastic Four and Avengers. Cousin of Medusa and sister-in-law to the king.",
+    "caseNote": "Subject is an Inhuman princess who controls the four elements. Sister of Medusa and sister-in-law of Black Bolt. Has served with the Fantastic Four and the Avengers.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Crystal_(character)"
@@ -3207,7 +3207,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a mutant who instantly translates any language or code. Was a founding New Mutant and long-time partner of Warlock. Agents are advised to leave a translator's bill unpaid at their own risk.",
+    "caseNote": "Subject is a mutant who instantly interprets any language or code. Joined the New Mutants in 1984 and formed a lasting bond with the alien Warlock. Agents are advised to leave nothing untranslated.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
@@ -3784,7 +3784,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 3,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is a mercenary whose mutation bends probability in her favor. Has served as an operative with X-Force and Six Pack. Agents are advised not to play her at cards.",
     "archetype": "shorthair",
     "sources": [
@@ -4074,7 +4074,7 @@
     "mcuFirst": "Avengers: Infinity War",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is the Black Order's chief manipulator, relying on persuasion and mind control rather than brawn. Once compelled Doctor Strange to summon Shuma-Gorath. Agents are advised not to engage Subject in conversation.",
+    "caseNote": "Subject is a member of the Black Order who relies on persuasion and mental powers rather than brawn. Serves Thanos as an envoy and manipulator. Agents are advised not to engage Subject in conversation.",
     "archetype": "bald",
     "sources": [
       "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M",
@@ -4176,7 +4176,7 @@
     "mcuFirst": "Guardians of the Galaxy Vol. 2",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a sentient planet with a face on its surface and a brain at its core. Has clashed with Thor, Galactus and the Silver Surfer, and once had a starship engine bolted to its south pole. Agents are advised not to land without an invitation.",
+    "caseNote": "Subject is a sentient planet with a face on its surface and a brain at its core. First clashed with Thor in 1966. Agents are advised not to land without an invitation.",
     "archetype": "creature",
     "sources": [
       "https://en.wikipedia.org/wiki/Ego_the_Living_Planet",
@@ -4485,7 +4485,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a medieval Crusader with telepathic and telekinetic powers. Magneto's chosen successor in the Acolytes. Agents are advised to leave their faith at the door.",
+    "caseNote": "Subject is a medieval Crusader who became a powerful telepath and telekinetic. Later led the Acolytes, the followers of Magneto. Agents are advised to leave their faith at the door.",
     "archetype": "caped",
     "sources": [
       "https://en.wikipedia.org/wiki/Exodus_%28character%29"
@@ -4753,7 +4753,7 @@
     "mcuFirst": "Thor",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is the wife of Odin and Queen of Asgard; she raised Thor and adopted Loki. Has since ruled Asgard as the All-Mother. Her protective spells on her son Balder remain the benchmark for parental supervision.",
+    "caseNote": "Subject is the wife of Odin and Queen of Asgard, who helped raise Thor and Loki. Later stories also call her Freyja. Her authority over the royal household is considered final.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Frigga_(character)",
@@ -4785,7 +4785,7 @@
     "mcu": true,
     "mcuFirst": "The Fantastic Four: First Steps",
     "difficulty": 2,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is a cosmic entity who consumes planets to sustain himself. Originally a mortal of the planet Taa before merging with the Sentience of the Universe. Agents are advised to hide the planet.",
     "archetype": "helmeted",
     "sources": [
@@ -5098,7 +5098,7 @@
     "mcuFirst": "Eternals",
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is the Eternal known as the Forgotten One, a figure of immense strength inspiring the Sumerian epic. Has served with the Avengers. Considered the strongest of his kind.",
+    "caseNote": "Subject is an Eternal known as the Forgotten One, whose exploits inspired the Sumerian epic. Has served with the Avengers. Generally described as one of the strongest of his kind.",
     "archetype": "brute",
     "sources": [
       "https://en.wikipedia.org/wiki/Forgotten_One_(character)"
@@ -5300,7 +5300,7 @@
     "mcuFirst": "Spider-Man: No Way Home",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is industrialist Norman Osborn, whose botched recreation of a strength-enhancing formula gave him superhuman abilities and drove him insane. Attacks from a glider with pumpkin bombs. Was later given command of H.A.M.M.E.R., which replaced S.H.I.E.L.D., with predictable results.",
+    "caseNote": "Subject is industrialist Norman Osborn, whose experimental strength formula gave him superhuman abilities and an unstable mind. Attacks from a glider with pumpkin bombs. Was later given command of H.A.M.M.E.R., which replaced S.H.I.E.L.D.",
     "archetype": "hooded",
     "sources": [
       "https://en.wikipedia.org/wiki/Green_Goblin",
@@ -5732,7 +5732,7 @@
     "mcuFirst": "Thor: Ragnarok",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is the Asgardian goddess of death and rules the realms of Hel and Niflheim. Can kill a mortal or an Asgardian with a single touch. Handshakes are not required by protocol.",
+    "caseNote": "Subject is the Asgardian goddess of death and ruler of the realms of Hel and Niflheim. Her touch is lethal to most beings. Handshakes are not required by protocol.",
     "archetype": "horned",
     "sources": [
       "https://en.wikipedia.org/wiki/Hela_(character)",
@@ -5872,7 +5872,7 @@
     "mcuFirst": "Guardians of the Galaxy Vol. 3",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a geneticist who accelerated his own evolution and now operates inside sentient armor. Created the New Men and an entire Counter-Earth. Agents are advised to decline any offer of improvement.",
+    "caseNote": "Subject is a geneticist who experimented on himself and became a scheming intellect of vast power. Created the New Men and a Counter-Earth. Agents are advised to decline any offer of improvement.",
     "archetype": "armored",
     "sources": [
       "https://en.wikipedia.org/wiki/High_Evolutionary"
@@ -6408,7 +6408,7 @@
     "mcuFirst": "The Fantastic Four: First Steps",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject turns invisible and projects force fields, a gift of cosmic ray exposure. Founding member of the Fantastic Four and its steadiest tactician. Agents should assume she is present at all meetings.",
+    "caseNote": "Subject turns invisible and projects force fields, abilities acquired through cosmic ray exposure. A founding member of the Fantastic Four. Agents should assume she is present at all meetings.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Invisible_Woman",
@@ -6636,7 +6636,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 4,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject is Miles Warren, a former Empire State University professor who has cloned Spider-Man more than once. Spliced his own genes with a jackal's to enhance his abilities. Agents are advised to confirm all identities twice.",
     "archetype": "cowl",
     "sources": [
@@ -6977,7 +6977,7 @@
     "mcuFirst": "Iron Man 2",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a British financier who bankrolls costumed criminals in exchange for half of their profits and pays their bail. A persistent business rival of Tony Stark. Subject has no superpowers, merely excellent lawyers.",
+    "caseNote": "Subject is an industrialist who equips and finances costumed criminals. A persistent business rival of Tony Stark. Subject has no superpowers, merely excellent lawyers.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Justin_Hammer"
@@ -7286,7 +7286,7 @@
     "mcuFirst": "Eternals",
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is an Eternal who projects cosmic energy and has lived among humans as a celebrity. Appeared as a Japanese samurai in earlier eras. Subject is a model of low-profile behavior only in the memo.",
+    "caseNote": "Subject is an Eternal who projects cosmic energy from his hands. Has lived among humans as a samurai and later as a film star. A low profile is not among his documented strengths.",
     "archetype": "armored",
     "sources": [
       "https://en.wikipedia.org/wiki/Kingo_Sunen"
@@ -7397,7 +7397,7 @@
     "mcuFirst": "Avengers: Age of Ultron",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a sound-based villain whose vibranium converter replaced the hand he lost to the Black Panther. Has served with the Frightful Four. Subject is insured against noise.",
+    "caseNote": "Subject is a sound-based villain whose body is partly solid sound, and who wields a sonic converter in place of a lost hand. Has served with the Frightful Four. Subject is insured against noise.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Klaw_(character)"
@@ -7526,7 +7526,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 3,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is Sergei Kravinoff, a big-game hunter who regards Spider-Man as the most dangerous game. Maintains superhuman strength and slowed aging with a potion of jungle herbs. Agents should not wear animal print in his presence.",
     "archetype": "longhair",
     "sources": [
@@ -7556,7 +7556,7 @@
     "mcu": true,
     "mcuFirst": "Eternals",
     "difficulty": 4,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject is a Deviant warlord and long-time enemy of the Eternals. Appeared in the film Eternals only as a voice-acted CGI character. Subject has no known hobbies other than war.",
     "archetype": "creature",
     "sources": [
@@ -7654,7 +7654,7 @@
     "mcuFirst": "Deadpool & Wolverine",
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a cyborg with adamantium-laced claws and a grudge against Wolverine. Her father was the original adamantium bonding engineer. Agents are advised not to be underweight.",
+    "caseNote": "Subject is a cyborg with adamantium-laced claws and a vendetta against Wolverine. Her father invented the adamantium bonding process. Agents are advised not to mention patents.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Lady_Deathstrike"
@@ -7715,7 +7715,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a Shi'ar empress who deposed her mad sibling and allied with the X-Men. Rules a galactic empire. Agents are advised that she is also bigger than the entire agency.",
+    "caseNote": "Subject is a Shi'ar empress who deposed her mad brother, D'Ken, and became a steadfast ally of the X-Men. Rules a galactic empire. Agents are advised to address her as Majestrix.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Lilandra_Neramani"
@@ -7894,7 +7894,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a giant bulldog who teleports himself and others across any distance. Serves as transport for the Inhuman Royal Family. Good boy.",
+    "caseNote": "Subject is a giant dog who teleports himself and others across any distance. Serves as transport for the Inhuman Royal Family. Good boy.",
     "archetype": "creature",
     "sources": [
       "https://en.wikipedia.org/wiki/Lockjaw_(character)"
@@ -8462,8 +8462,8 @@
     "gender": "male",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
+    "difficulty": 5,
+    "answerOk": false,
     "caseNote": "Subject is a 20th-century astronaut who aged in a centuries-long journey. Founding member of the 31st-century Guardians. Agents are reminded that he is not Marvel Boy.",
     "archetype": "helmeted",
     "sources": [
@@ -8632,7 +8632,7 @@
     "mcu": true,
     "mcuFirst": "Iron Man 3",
     "difficulty": 3,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is a master martial artist whose ten rings, salvaged from a crashed alien starship, each grant a different power. A longtime nemesis of Iron Man. Agents are advised to count the rings before engaging.",
     "archetype": "caped",
     "sources": [
@@ -8831,7 +8831,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 4,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject is a Kree soldier from an alternate universe, enhanced with insect DNA, who once declared war on Earth. He has since served with the Avengers and the Young Avengers. The declaration remains on file.",
     "archetype": "shorthair",
     "sources": [
@@ -9170,7 +9170,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject runs a Chinatown soup kitchen as philanthropist Martin Li while leading the Inner Demons gang as Mister Negative. An experimental drug gave him control of the Darkforce and Lightforce. Agents are advised to check both sides of his ledger.",
+    "caseNote": "Subject runs a Chinatown soup kitchen as philanthropist Martin Li while leading the Inner Demons gang as Mister Negative. Agents are advised to check both sides of his ledger.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Mister_Negative",
@@ -9274,7 +9274,7 @@
     "mcuFirst": "Loki season 1",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a Time Variance Authority analyst who keeps the timeline tidy. Prefers jet skis and has a loyalty to his office. Agents are advised that he has paperwork for them.",
+    "caseNote": "Subject is a Time Variance Authority agent who prunes timelines that stray from the approved one. In his screen incarnation, he is fond of jet skis. The paperwork is extensive.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Mobius_M._Mobius",
@@ -9465,7 +9465,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is the youngest founding member of the Runaways, a mutant with superhuman strength and invulnerability. She is known for her hats. Agents should not mistake her age for weakness.",
+    "caseNote": "Subject is the youngest founding member of the Runaways, a mutant with superhuman strength and invulnerability. Her powers were revealed as she reached adolescence. Agents should not mistake her age for weakness.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Molly_Hayes"
@@ -9626,7 +9626,7 @@
     "mcu": true,
     "mcuFirst": "Moon Knight",
     "difficulty": 2,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject is a former mercenary who serves as the avatar of the Egyptian moon god Khonshu. Operates with several distinct identities. Agents are advised that he does not enjoy being introduced as a bat.",
     "archetype": "cowl",
     "sources": [
@@ -9984,7 +9984,7 @@
     "mcuFirst": null,
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a shapeshifting mutant, spy and long-time Brotherhood leader. Has adopted the face of agents, senators and, once, a lover. Agents should request a password from everyone, including Subject's supervisor.",
+    "caseNote": "Subject is a shapeshifting mutant, spy and long-time Brotherhood leader. Can duplicate any person's appearance and voice. Agents should request a password from everyone, including Subject's supervisor.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Mystique_%28character%29"
@@ -10052,7 +10052,7 @@
     "mcuFirst": "Black Panther: Wakanda Forever",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is the Atlantean king and mutant who flies and possesses superhuman strength. Marvel's first antihero who has fought both the surface world and its enemies. Agents are advised to be polite.",
+    "caseNote": "Subject is the king of Atlantis, a flying, super-strong hybrid of Atlantean and human ancestry. One of Marvel's earliest characters, he has been both enemy and ally of the surface world. Agents are advised to be polite.",
     "archetype": "winged",
     "sources": [
       "https://en.wikipedia.org/wiki/Namor"
@@ -10154,7 +10154,7 @@
     "mcu": true,
     "mcuFirst": "Iron Man",
     "difficulty": 2,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is a World War II veteran who led the Howling Commandos before directing S.H.I.E.L.D. for decades. The Infinity Formula has slowed his aging considerably. Agents are advised not to ask about the eyepatch.",
     "archetype": "shorthair",
     "sources": [
@@ -10186,7 +10186,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a sorceress who draws the Staff of One from her body when she bleeds, and is generally accepted as leader of the Runaways. Her parents were dark wizards in the Pride. The family business was declined.",
+    "caseNote": "Subject is a sorceress who summons the Staff of One by drawing her own blood, and is generally accepted as leader of the Runaways. Her parents were dark wizards in the Pride. The family business was declined.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Nico_Minoru"
@@ -10544,7 +10544,7 @@
     "mcuFirst": "Thor",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is the All-Father, ruler of Asgard and father of Thor. Sacrificed his right eye to Mimir in exchange for wisdom. Subject is unavailable for 24 hours each year during the Odinsleep.",
+    "caseNote": "Subject is the All-Father, ruler of Asgard and father of Thor. Sacrificed his right eye to Mimir in exchange for wisdom. Subject periodically retires to the Odinsleep, and nobody is eager to wake him.",
     "archetype": "helmeted",
     "sources": [
       "https://en.wikipedia.org/wiki/Odin_(Marvel_Comics)",
@@ -11177,9 +11177,9 @@
     "gender": "female",
     "mcu": true,
     "mcuFirst": "Avengers: Infinity War",
-    "difficulty": 3,
+    "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a Black Order enforcer armed with a spear forged from a star that homes in on its target. Married to fellow Order member Corvus Glaive. Agents should not assume they can outrun the spear.",
+    "caseNote": "Subject is a Black Order enforcer and the wife of fellow member Corvus Glaive. Fights with a deadly spear and superhuman strength and speed. Agents are advised to decline any invitation to spar.",
     "archetype": "horned",
     "sources": [
       "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M",
@@ -12334,9 +12334,9 @@
     "gender": "female",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
-    "caseNote": "Subject is Donna Diego, a Life Foundation volunteer bonded to one of five symbiotes forcibly spawned from Venom. Uses her prehensile hair as a weapon. Agents are advised that the codename is descriptive.",
+    "difficulty": 5,
+    "answerOk": false,
+    "caseNote": "Subject is Donna Diego, a Life Foundation volunteer bonded to one of the symbiotes spawned from Venom. Gains strength and shapeshifting from the bond. Agents are advised that the codename is descriptive.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Scream_(character)",
@@ -12480,7 +12480,7 @@
     "mcuFirst": "Eternals",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is an Eternal able to transmute matter at will. Has served with the Avengers and Heroes for Hire. Her hobbies include turning inconvenient objects into other inconvenient objects.",
+    "caseNote": "Subject is an Eternal able to transmute matter at will. Has served with the Avengers. Her hobbies include turning inconvenient objects into other inconvenient objects.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Sersi"
@@ -12718,8 +12718,8 @@
     "gender": "female",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
+    "difficulty": 5,
+    "answerOk": false,
     "caseNote": "Subject is a mutant whose powers were awakened by exposure to Cloak's Darkforce. Projects sonic blasts and draws out the darkness in others. Agents are advised she has no indoor voice.",
     "archetype": "longhair",
     "sources": [
@@ -12815,7 +12815,7 @@
     "mcuFirst": "Thor",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a leading Asgardian warrior and Thor's companion since childhood. Born with golden hair, which turned black after Loki cut it and replaced it with dwarf-made hair. Loki is barred from the salon.",
+    "caseNote": "Subject is an Asgardian warrior and a longtime companion of Thor. Her feud with Loki dates to the day he cut her hair. Hairdressers are advised to take care.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Sif_(character)",
@@ -13251,7 +13251,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 4,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject is the teenage daughter of Peter Parker and Mary Jane Watson in the alternate MC2 reality. Inherited her father's spider-powers and became Spider-Girl, at first hindered and then helped by her worried parents. Curfew violations are presumed.",
     "archetype": "cowl",
     "sources": [
@@ -13285,7 +13285,7 @@
     "gender": "female",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 2,
+    "difficulty": 3,
     "answerOk": true,
     "caseNote": "Subject is the Gwen Stacy of Earth-65, where she, not Peter Parker, was bitten by the radioactive spider. Has operated as Spider-Woman and Ghost-Spider and drums for a band called the Mary Janes. Agents should confirm which Gwen Stacy they are addressing.",
     "archetype": "hooded",
@@ -13432,7 +13432,7 @@
     "mcuFirst": null,
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is Miguel O'Hara, a geneticist of the year 2099 whose DNA was half-rewritten with spider genes in an accident at Alchemax. Has talons, venomous fangs and the ability to see in darkness. Reports he files are dated 2099; this is not a clerical error.",
+    "caseNote": "Subject is Miguel O'Hara, a geneticist of the year 2099 whose DNA was half-rewritten with spider genes in an accident at Alchemax. Has talons, venomous fangs and the ability to see in darkness. Files on Subject are dated 2099; this is not a clerical error.",
     "archetype": "cowl",
     "sources": [
       "https://en.wikipedia.org/wiki/Spider-Man_2099"
@@ -13662,7 +13662,7 @@
     "mcuFirst": "Guardians of the Galaxy",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is a half-human, half-alien outlaw abducted from Earth as a child. Leads the Guardians of the Galaxy and has briefly served in the Nova Corps. Agents are advised to confiscate the cassette player.",
+    "caseNote": "Subject is the half-human, half-Spartoi son of an alien emperor and an Earth woman. Has led the Guardians of the Galaxy. Agents are advised against letting him choose the music.",
     "archetype": "helmeted",
     "sources": [
       "https://en.wikipedia.org/wiki/Star-Lord"
@@ -14000,7 +14000,7 @@
     "mcuFirst": null,
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a Brazilian heir who absorbs solar energy for strength and heat. Has led the Avengers and taken control of A.I.M. Agents are advised that he can pay for lunch.",
+    "caseNote": "Subject is a Brazilian heir who absorbs solar energy for strength and heat. Has served with the Avengers and taken control of A.I.M. Agents are advised that he can pay for lunch.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Sunspot_(character)"
@@ -14537,7 +14537,7 @@
     "mcuFirst": "Thor: The Dark World",
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is an Elder of the Universe who has spent billions of years gathering rare artifacts and living specimens. Once held an Infinity Gem without understanding what it was. Personnel are advised not to stand still near display cases.",
+    "caseNote": "Subject is an Elder of the Universe who has spent billions of years gathering rare artifacts and living specimens. Personnel are advised not to stand still near display cases.",
     "archetype": "shorthair",
     "sources": [
       "https://en.wikipedia.org/wiki/Collector_(character)"
@@ -14700,9 +14700,9 @@
     "gender": "male",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
-    "caseNote": "Subject is Cul Borson, brother of Odin and the Asgardian God of Fear, freed from an underwater prison. Broke Captain America's shield with his bare hands. His claim to be the true All-Father remains under review.",
+    "difficulty": 5,
+    "answerOk": false,
+    "caseNote": "Subject is Cul Borson, brother of Odin and the Asgardian God of Fear, freed from an ancient prison. Set off the event known as Fear Itself. His claim to be the true All-Father remains under review.",
     "archetype": "armored",
     "sources": [
       "https://en.wikipedia.org/wiki/Serpent_(character)"
@@ -14763,7 +14763,7 @@
     "mcuFirst": "Eternals",
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is an Eternal warrior of exceptional combat skill, associated with the Greek goddess Athena. Has served with Heroes for Hire. Agents are advised to avoid sparring.",
+    "caseNote": "Subject is an Eternal warrior of exceptional combat skill, linked in myth to the goddess Athena. Agents are advised to avoid sparring.",
     "archetype": "longhair",
     "sources": [
       "https://en.wikipedia.org/wiki/Thena"
@@ -15138,7 +15138,7 @@
     "mcuFirst": null,
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a Soviet operative who donned massive green armor to defeat Iron Man in the name of his nation. Has also served with the Titanic Three. Results to date have not favored Subject.",
+    "caseNote": "Subject is a Soviet operative who donned massive green armor to defeat Iron Man in the name of his nation. Results to date have not favored Subject.",
     "archetype": "armored",
     "sources": [
       "https://en.wikipedia.org/wiki/Titanium_Man"
@@ -15171,7 +15171,7 @@
     "mcuFirst": "Deadpool & Wolverine",
     "difficulty": 4,
     "answerOk": true,
-    "caseNote": "Subject is a leaping mutant who has served as Magneto's lackey. Later fought alongside the Defenders. Agents are advised not to ask about the warts.",
+    "caseNote": "Subject is a leaping, amphibious mutant who served as Magneto's lackey in the Brotherhood. Agents are advised not to ask about the warts.",
     "archetype": "creature",
     "sources": [
       "https://en.wikipedia.org/wiki/Toad_%28Marvel_Comics%29"
@@ -15457,9 +15457,9 @@
     "gender": "male",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
-    "caseNote": "Subject is the strongest of the Rock Trolls and a recurring foe of Thor, fighting with uru knuckle-dusters called pounders. Once rewrote history to replace Thor as the thunder god Tanarus. The substitution was not well reviewed.",
+    "difficulty": 5,
+    "answerOk": false,
+    "caseNote": "Subject is the strongest of the Rock Trolls and a recurring foe of Thor, fighting with uru knuckle-dusters called pounders. Agents are advised that negotiations with trolls tend to be brief.",
     "archetype": "brute",
     "sources": [
       "https://en.wikipedia.org/wiki/Ulik"
@@ -15489,7 +15489,7 @@
     "mcuFirst": "Avengers: Age of Ultron",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is a robot built by Hank Pym that soon turned on its creator and the Avengers. Has rebuilt itself in hundreds of numbered versions, many with adamantium bodies. Unplugging has been attempted.",
+    "caseNote": "Subject is a robot built by Hank Pym that soon turned on its creator and the Avengers. Has rebuilt itself in a succession of numbered versions, several with adamantium bodies. Unplugging has been attempted.",
     "archetype": "synthetic",
     "sources": [
       "https://en.wikipedia.org/wiki/Ultron"
@@ -15594,7 +15594,7 @@
     "mcu": true,
     "mcuFirst": "Spider-Man: No Way Home",
     "difficulty": 2,
-    "answerOk": false,
+    "answerOk": true,
     "caseNote": "Subject is an alien symbiote first worn by Spider-Man as a black costume, later bonded to journalist Eddie Brock, who blamed Spider-Man for ruining his career. Has since operated as a violent 'Lethal Protector'. Subject refers to itself as 'we'; agents may do likewise.",
     "archetype": "brute",
     "sources": [
@@ -15694,7 +15694,7 @@
     "mcu": false,
     "mcuFirst": null,
     "difficulty": 4,
-    "answerOk": true,
+    "answerOk": false,
     "caseNote": "Subject has served as a commander of Hydra and led the Serpent Squad. Immune to most toxins and venoms, and once forced Wolverine into marriage. Agents should not accept any drink Subject has poured.",
     "archetype": "longhair",
     "sources": [
@@ -15727,7 +15727,7 @@
     "mcuFirst": "Avengers: Age of Ultron",
     "difficulty": 2,
     "answerOk": true,
-    "caseNote": "Subject is a synthezoid built by Ultron to destroy the Avengers, who joined them instead and later married the Scarlet Witch. Can alter his density at will, so locked doors should not be considered secure.",
+    "caseNote": "Subject is a synthezoid built by Ultron to destroy the Avengers, but he joined them instead and later married the Scarlet Witch. Can alter his density at will, so locked doors should not be considered secure.",
     "archetype": "synthetic",
     "sources": [
       "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
@@ -15756,8 +15756,8 @@
     "gender": "female",
     "mcu": false,
     "mcuFirst": null,
-    "difficulty": 4,
-    "answerOk": true,
+    "difficulty": 5,
+    "answerOk": false,
     "caseNote": "Subject is a synthezoid built by the Vision from his and his wife's brainwaves as part of his attempt at a suburban family. She later joined the Champions. The experiment is not recommended for replication.",
     "archetype": "synthetic",
     "sources": [
@@ -16311,7 +16311,7 @@
     "mcuFirst": null,
     "difficulty": 3,
     "answerOk": true,
-    "caseNote": "Subject is a Scottish-born mutant who shifts between human, wolf and hybrid forms. Raised by a strict minister, she has served on five rosters. Agents are advised not to call her a dog.",
+    "caseNote": "Subject is a Scottish-born mutant who shifts between human, wolf and hybrid forms. Raised by a strict minister, she is a long-time member of the New Mutants. Agents are advised not to call her a dog.",
     "archetype": "creature",
     "sources": [
       "https://en.wikipedia.org/wiki/Wolfsbane_(character)"

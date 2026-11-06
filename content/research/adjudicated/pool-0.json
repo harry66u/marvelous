@@ -1,0 +1,380 @@
+[
+ {
+  "id": "apocalypse",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Only debut month/issue differs, same decade; all shown attributes clear",
+  "source": ""
+ },
+ {
+  "id": "kraven-the-hunter",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Serum/herbs potion is chemical enhancement, so mutate per rubric",
+  "source": ""
+ },
+ {
+  "id": "nick-fury",
+  "field": "answerOk",
+  "action": "set",
+  "value": true,
+  "contested": false,
+  "note": "Rubric names Infinity Formula under super-soldier; record follows the original comics Fury",
+  "source": ""
+ },
+ {
+  "id": "jackal",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Debut decade two-sided: Warren 1965, first as Jackal 1974",
+  "source": ""
+ },
+ {
+  "id": "black-dwarf",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Obscure under comics name; deep cut",
+  "source": ""
+ },
+ {
+  "id": "scream",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "shriek",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "viv-vision",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "major-victory",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Deep cut, easily confused with Marvel Boy/Justice",
+  "source": ""
+ },
+ {
+  "id": "marvel-boy-noh-varr",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Primary team (Young/Dark Avengers) and alignment two-sided; deep cut",
+  "source": ""
+ },
+ {
+  "id": "viper-ophelia-sarkissian",
+  "field": "answerOk",
+  "action": "set",
+  "value": false,
+  "contested": false,
+  "note": "Origin two-sided (trained vs mutate) and obscure",
+  "source": ""
+ },
+ {
+  "id": "black-dwarf",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Obscure",
+  "source": ""
+ },
+ {
+  "id": "scream",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "shriek",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "viv-vision",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "major-victory",
+  "field": "difficulty",
+  "action": "set",
+  "value": 5,
+  "contested": false,
+  "note": "Deep cut",
+  "source": ""
+ },
+ {
+  "id": "proxima-midnight",
+  "field": "difficulty",
+  "action": "set",
+  "value": 4,
+  "contested": false,
+  "note": "Minor Black Order member",
+  "source": ""
+ },
+ {
+  "id": "spider-gwen",
+  "field": "difficulty",
+  "action": "set",
+  "value": 3,
+  "contested": false,
+  "note": "Animation-only fame; fits level 3",
+  "source": ""
+ },
+ {
+  "id": "abomination",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a former KGB agent who exposed himself to gamma radiation on purpose and became a scaly brute that rivals the Hulk in strength. Retains his intellect in that form. Agents should not comment on his appearance.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "aurora",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject moves at superhuman speed and generates brilliant light, classically by joining hands with her twin brother, Northstar. A founding member of Alpha Flight, she has been written with two distinct personalities. Agents are advised to confirm which one they are addressing.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "black-dwarf",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the hulking bruiser of the Black Order, Thanos's elite lieutenants. Appeared in live action as Cull Obsidian. Subject is not known for negotiation.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "crossbones",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a mercenary combatant who has served as the Red Skull's enforcer and as a Hydra operative. Wears a black-and-white skull mask. The mask is not a Halloween costume.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "exodus",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a medieval Crusader who became a powerful telepath and telekinetic. Later led the Acolytes, the followers of Magneto. Agents are advised to leave their faith at the door.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "frigga",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the wife of Odin and Queen of Asgard, who helped raise Thor and Loki. Later stories also call her Freyja. Her authority over the royal household is considered final.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "hela",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the Asgardian goddess of death and ruler of the realms of Hel and Niflheim. Her touch is lethal to most beings. Handshakes are not required by protocol.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "high-evolutionary",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a geneticist who experimented on himself and became a scheming intellect of vast power. Created the New Men and a Counter-Earth. Agents are advised to decline any offer of improvement.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "justin-hammer",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an industrialist who equips and finances costumed criminals. A persistent business rival of Tony Stark. Subject has no superpowers, merely excellent lawyers.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "kingo",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Eternal who projects cosmic energy from his hands. Has lived among humans as a samurai and later as a film star. A low profile is not among his documented strengths.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "lady-deathstrike",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a cyborg with adamantium-laced claws and a vendetta against Wolverine. Her father invented the adamantium bonding process. Agents are advised not to mention patents.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "lilandra",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Shi'ar empress who deposed her mad brother, D'Ken, and became a steadfast ally of the X-Men. Rules a galactic empire. Agents are advised to address her as Majestrix.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "lockjaw",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a giant dog who teleports himself and others across any distance. Serves as transport for the Inhuman Royal Family. Good boy.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "mobius-m-mobius",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Time Variance Authority agent who prunes timelines that stray from the approved one. In his screen incarnation, he is fond of jet skis. The paperwork is extensive.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "namor",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the king of Atlantis, a flying, super-strong hybrid of Atlantean and human ancestry. One of Marvel's earliest characters, he has been both enemy and ally of the surface world. Agents are advised to be polite.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "odin",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is the All-Father, ruler of Asgard and father of Thor. Sacrificed his right eye to Mimir in exchange for wisdom. Subject periodically retires to the Odinsleep, and nobody is eager to wake him.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "proxima-midnight",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Black Order enforcer and the wife of fellow member Corvus Glaive. Fights with a deadly spear and superhuman strength and speed. Agents are advised to decline any invitation to spar.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "scream",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is Donna Diego, a Life Foundation volunteer bonded to one of the symbiotes spawned from Venom. Gains strength and shapeshifting from the bond. Agents are advised that the codename is descriptive.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "sif",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Asgardian warrior and a longtime companion of Thor. Her feud with Loki dates to the day he cut her hair. Hairdressers are advised to take care.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "spider-man-2099",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is Miguel O'Hara, a geneticist of the year 2099 whose DNA was half-rewritten with spider genes in an accident at Alchemax. Has talons, venomous fangs and the ability to see in darkness. Files on Subject are dated 2099; this is not a clerical error.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "sunspot",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a Brazilian heir who absorbs solar energy for strength and heat. Has served with the Avengers and taken control of A.I.M. Agents are advised that he can pay for lunch.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "thena",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is an Eternal warrior of exceptional combat skill, linked in myth to the goddess Athena. Agents are advised to avoid sparring.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "toad",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a leaping, amphibious mutant who served as Magneto's lackey in the Brotherhood. Agents are advised not to ask about the warts.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ },
+ {
+  "id": "ultron",
+  "field": "caseNote",
+  "action": "set",
+  "value": "Subject is a robot built by Hank Pym that soon turned on its creator and the Avengers. Has rebuilt itself in a succession of numbered versions, several with adamantium bodies. Unplugging has been attempted.",
+  "contested": false,
+  "note": "Removed or softened doubtful claims",
+  "source": ""
+ }
+]
