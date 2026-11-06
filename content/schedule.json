@@ -1,4 +1,47 @@
 {
   "launchDate": "2026-11-06",
-  "days": {}
+  "days": {
+    "2026-11-06": {
+      "unmasked": "storm"
+    },
+    "2026-11-07": {
+      "unmasked": "spider-man-peter-parker"
+    },
+    "2026-11-08": {
+      "unmasked": "iron-man"
+    },
+    "2026-11-09": {
+      "unmasked": "wolverine"
+    },
+    "2026-11-10": {
+      "unmasked": "thor"
+    },
+    "2026-11-11": {
+      "unmasked": "hulk"
+    },
+    "2026-11-12": {
+      "unmasked": "captain-america"
+    },
+    "2026-11-13": {
+      "unmasked": "thanos"
+    },
+    "2026-11-14": {
+      "unmasked": "black-widow"
+    },
+    "2026-11-15": {
+      "unmasked": "ant-man-scott-lang"
+    },
+    "2026-11-16": {
+      "unmasked": "captain-marvel-carol-danvers"
+    },
+    "2026-11-17": {
+      "unmasked": "cyclops"
+    },
+    "2026-11-18": {
+      "unmasked": "doctor-octopus"
+    },
+    "2026-11-19": {
+      "unmasked": "falcon-sam-wilson"
+    }
+  }
 }
