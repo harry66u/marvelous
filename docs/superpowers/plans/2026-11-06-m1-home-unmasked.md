@@ -127,7 +127,7 @@ Unit tests sit next to their source as `*.test.ts(x)`.
 - [ ] **Step 5: Deploy the skeleton to Vercel** (project `marvelous`, framework Vite, output `dist`, SPA rewrite in `vercel.json`) and confirm `GET /api/day` answers 501 from the function. This proves the function and TypeScript import path work before anything depends on them.
 - [ ] **Step 6: Commit.** `git commit -m "chore: scaffold Marvelous app"`
 
-### Task 2: Eastern time utilities
+### Task 2: Eastern time utilities (DONE in scaffold)
 
 **Files:** `src/lib/time.ts`, `src/lib/time.test.ts`, `src/lib/random.ts`, `src/lib/random.test.ts`
 
@@ -190,8 +190,7 @@ Unit tests sit next to their source as `*.test.ts(x)`.
   - `consecutiveShifts(store, today): number`: counts complete days ending today if today is complete, otherwise ending yesterday.
   - `bestShifts(store): number`
 - Produces `src/lib/share.ts`:
-  - `Mark = 'exact'|'close'|'no'`
-  - `UnmaskedShare {attempts: number; solved: boolean; rows: Mark[][]}`
+  - `Mark`, `UnmaskedShare`, `UnmaskedResult` are imported from `src/lib/marks.ts` (already in the repo).
   - `ReportInput {number: number; date: string; unmasked?: UnmaskedShare|'pending'; shifts: number; url: string}`
   - `buildReport(input): string`
 
@@ -398,7 +397,7 @@ Unit tests sit next to their source as `*.test.ts(x)`.
 **Files:** `src/games/unmasked/logic/{compare,game,search,stats}.ts` (+ tests)
 
 **Interfaces:**
-- Consumes: `PublicCharacter` (Task 1), `normalizeName` (Task 1), `Mark`/`UnmaskedShare` (Task 3), `Store` (Task 3).
+- Consumes: `PublicCharacter` (Task 1), `normalizeName` (Task 1), `Mark`/`UnmaskedShare`/`UnmaskedResult` (`src/lib/marks.ts`).
 - Produces `compare.ts`:
   - `Feedback {name: Mark; affiliation: Mark; debut: Mark; debutDir: 'later'|'earlier'|null; alignment: Mark; origin: Mark; gender: Mark; mcu: Mark}`
   - `ATTRIBUTE_ORDER = ['affiliation','debut','alignment','origin','gender','mcu'] as const`
@@ -415,7 +414,7 @@ Unit tests sit next to their source as `*.test.ts(x)`.
   - `SearchEntry {id; name; realName: string|null; keys: string[]}`
   - `buildSearchIndex(chars): SearchEntry[]`
   - `searchCharacters(index, query, limit = 8): SearchEntry[]`
-- Produces `stats.ts`: `UnmaskedStats {played; solved; distribution: number[] /*len 6*/}` and `unmaskedStats(store): UnmaskedStats`.
+- Produces `stats.ts`: `UnmaskedStats {played; solved; distribution: number[] /*len 6*/}` and `unmaskedStats(results: UnmaskedResult[]): UnmaskedStats` (`UnmaskedResult` from `src/lib/marks.ts`).
 - Comparison rules (from spec section 7):
   - **Affiliation:** exact if the `primaryTeam` values are equal (including both `'none'`); close if the team sets intersect, where each set is `teams` ∪ `{primaryTeam}` minus `'none'`.
   - **Debut:** exact on the same decade, close on an adjacent decade. `debutDir` compares the answer's decade with the guess's decade.

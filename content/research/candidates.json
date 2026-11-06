@@ -1,0 +1,2502 @@
+[
+ {
+  "id": "iron-man",
+  "name": "Iron Man",
+  "batch": "B01"
+ },
+ {
+  "id": "captain-america",
+  "name": "Captain America",
+  "batch": "B01"
+ },
+ {
+  "id": "thor",
+  "name": "Thor",
+  "batch": "B01"
+ },
+ {
+  "id": "hulk",
+  "name": "Hulk",
+  "batch": "B01"
+ },
+ {
+  "id": "black-widow",
+  "name": "Black Widow",
+  "batch": "B01"
+ },
+ {
+  "id": "hawkeye-clint-barton",
+  "name": "Hawkeye (Clint Barton)",
+  "batch": "B01"
+ },
+ {
+  "id": "ant-man-hank-pym",
+  "name": "Ant-Man (Hank Pym)",
+  "batch": "B01"
+ },
+ {
+  "id": "wasp-janet-van-dyne",
+  "name": "Wasp (Janet van Dyne)",
+  "batch": "B01"
+ },
+ {
+  "id": "vision",
+  "name": "Vision",
+  "batch": "B01"
+ },
+ {
+  "id": "scarlet-witch",
+  "name": "Scarlet Witch",
+  "batch": "B01"
+ },
+ {
+  "id": "quicksilver",
+  "name": "Quicksilver",
+  "batch": "B01"
+ },
+ {
+  "id": "captain-marvel-carol-danvers",
+  "name": "Captain Marvel (Carol Danvers)",
+  "batch": "B01"
+ },
+ {
+  "id": "falcon-sam-wilson",
+  "name": "Falcon (Sam Wilson)",
+  "batch": "B01"
+ },
+ {
+  "id": "winter-soldier",
+  "name": "Winter Soldier",
+  "batch": "B01"
+ },
+ {
+  "id": "war-machine",
+  "name": "War Machine",
+  "batch": "B01"
+ },
+ {
+  "id": "black-panther",
+  "name": "Black Panther",
+  "batch": "B01"
+ },
+ {
+  "id": "ant-man-scott-lang",
+  "name": "Ant-Man (Scott Lang)",
+  "batch": "B01"
+ },
+ {
+  "id": "spider-woman-jessica-drew",
+  "name": "Spider-Woman (Jessica Drew)",
+  "batch": "B01"
+ },
+ {
+  "id": "she-hulk",
+  "name": "She-Hulk",
+  "batch": "B01"
+ },
+ {
+  "id": "hercules",
+  "name": "Hercules",
+  "batch": "B01"
+ },
+ {
+  "id": "wonder-man",
+  "name": "Wonder Man",
+  "batch": "B01"
+ },
+ {
+  "id": "tigra",
+  "name": "Tigra",
+  "batch": "B01"
+ },
+ {
+  "id": "mockingbird",
+  "name": "Mockingbird",
+  "batch": "B01"
+ },
+ {
+  "id": "sentry",
+  "name": "Sentry",
+  "batch": "B01"
+ },
+ {
+  "id": "ms-marvel-kamala-khan",
+  "name": "Ms. Marvel (Kamala Khan)",
+  "batch": "B01"
+ },
+ {
+  "id": "hawkeye-kate-bishop",
+  "name": "Hawkeye (Kate Bishop)",
+  "batch": "B01"
+ },
+ {
+  "id": "monica-rambeau",
+  "name": "Monica Rambeau",
+  "batch": "B01"
+ },
+ {
+  "id": "jane-foster",
+  "name": "Jane Foster",
+  "batch": "B01"
+ },
+ {
+  "id": "nick-fury",
+  "name": "Nick Fury",
+  "batch": "B01"
+ },
+ {
+  "id": "maria-hill",
+  "name": "Maria Hill",
+  "batch": "B01"
+ },
+ {
+  "id": "black-knight-dane-whitman",
+  "name": "Black Knight (Dane Whitman)",
+  "batch": "B01"
+ },
+ {
+  "id": "wolverine",
+  "name": "Wolverine",
+  "batch": "B02"
+ },
+ {
+  "id": "cyclops",
+  "name": "Cyclops",
+  "batch": "B02"
+ },
+ {
+  "id": "jean-grey",
+  "name": "Jean Grey",
+  "batch": "B02"
+ },
+ {
+  "id": "storm",
+  "name": "Storm",
+  "batch": "B02"
+ },
+ {
+  "id": "professor-x",
+  "name": "Professor X",
+  "batch": "B02"
+ },
+ {
+  "id": "beast",
+  "name": "Beast",
+  "batch": "B02"
+ },
+ {
+  "id": "iceman",
+  "name": "Iceman",
+  "batch": "B02"
+ },
+ {
+  "id": "archangel",
+  "name": "Archangel",
+  "batch": "B02"
+ },
+ {
+  "id": "nightcrawler",
+  "name": "Nightcrawler",
+  "batch": "B02"
+ },
+ {
+  "id": "colossus",
+  "name": "Colossus",
+  "batch": "B02"
+ },
+ {
+  "id": "kitty-pryde",
+  "name": "Kitty Pryde",
+  "batch": "B02"
+ },
+ {
+  "id": "rogue",
+  "name": "Rogue",
+  "batch": "B02"
+ },
+ {
+  "id": "gambit",
+  "name": "Gambit",
+  "batch": "B02"
+ },
+ {
+  "id": "jubilee",
+  "name": "Jubilee",
+  "batch": "B02"
+ },
+ {
+  "id": "psylocke-betsy-braddock",
+  "name": "Psylocke (Betsy Braddock)",
+  "batch": "B02"
+ },
+ {
+  "id": "bishop",
+  "name": "Bishop",
+  "batch": "B02"
+ },
+ {
+  "id": "cable",
+  "name": "Cable",
+  "batch": "B02"
+ },
+ {
+  "id": "emma-frost",
+  "name": "Emma Frost",
+  "batch": "B02"
+ },
+ {
+  "id": "havok",
+  "name": "Havok",
+  "batch": "B02"
+ },
+ {
+  "id": "polaris",
+  "name": "Polaris",
+  "batch": "B02"
+ },
+ {
+  "id": "banshee",
+  "name": "Banshee",
+  "batch": "B02"
+ },
+ {
+  "id": "sunfire",
+  "name": "Sunfire",
+  "batch": "B02"
+ },
+ {
+  "id": "forge",
+  "name": "Forge",
+  "batch": "B02"
+ },
+ {
+  "id": "dazzler",
+  "name": "Dazzler",
+  "batch": "B02"
+ },
+ {
+  "id": "longshot",
+  "name": "Longshot",
+  "batch": "B02"
+ },
+ {
+  "id": "magik",
+  "name": "Magik",
+  "batch": "B02"
+ },
+ {
+  "id": "x-23",
+  "name": "X-23",
+  "batch": "B02"
+ },
+ {
+  "id": "northstar",
+  "name": "Northstar",
+  "batch": "B02"
+ },
+ {
+  "id": "aurora",
+  "name": "Aurora",
+  "batch": "B02"
+ },
+ {
+  "id": "rachel-summers",
+  "name": "Rachel Summers",
+  "batch": "B02"
+ },
+ {
+  "id": "moira-mactaggert",
+  "name": "Moira MacTaggert",
+  "batch": "B02"
+ },
+ {
+  "id": "magneto",
+  "name": "Magneto",
+  "batch": "B03"
+ },
+ {
+  "id": "mystique",
+  "name": "Mystique",
+  "batch": "B03"
+ },
+ {
+  "id": "sabretooth",
+  "name": "Sabretooth",
+  "batch": "B03"
+ },
+ {
+  "id": "juggernaut",
+  "name": "Juggernaut",
+  "batch": "B03"
+ },
+ {
+  "id": "apocalypse",
+  "name": "Apocalypse",
+  "batch": "B03"
+ },
+ {
+  "id": "mister-sinister",
+  "name": "Mister Sinister",
+  "batch": "B03"
+ },
+ {
+  "id": "sebastian-shaw",
+  "name": "Sebastian Shaw",
+  "batch": "B03"
+ },
+ {
+  "id": "toad",
+  "name": "Toad",
+  "batch": "B03"
+ },
+ {
+  "id": "blob",
+  "name": "Blob",
+  "batch": "B03"
+ },
+ {
+  "id": "pyro",
+  "name": "Pyro",
+  "batch": "B03"
+ },
+ {
+  "id": "avalanche",
+  "name": "Avalanche",
+  "batch": "B03"
+ },
+ {
+  "id": "destiny",
+  "name": "Destiny",
+  "batch": "B03"
+ },
+ {
+  "id": "omega-red",
+  "name": "Omega Red",
+  "batch": "B03"
+ },
+ {
+  "id": "bolivar-trask",
+  "name": "Bolivar Trask",
+  "batch": "B03"
+ },
+ {
+  "id": "cassandra-nova",
+  "name": "Cassandra Nova",
+  "batch": "B03"
+ },
+ {
+  "id": "exodus",
+  "name": "Exodus",
+  "batch": "B03"
+ },
+ {
+  "id": "stryfe",
+  "name": "Stryfe",
+  "batch": "B03"
+ },
+ {
+  "id": "lady-deathstrike",
+  "name": "Lady Deathstrike",
+  "batch": "B03"
+ },
+ {
+  "id": "selene",
+  "name": "Selene",
+  "batch": "B03"
+ },
+ {
+  "id": "mojo",
+  "name": "Mojo",
+  "batch": "B03"
+ },
+ {
+  "id": "arcade",
+  "name": "Arcade",
+  "batch": "B03"
+ },
+ {
+  "id": "onslaught",
+  "name": "Onslaught",
+  "batch": "B03"
+ },
+ {
+  "id": "silver-samurai",
+  "name": "Silver Samurai",
+  "batch": "B03"
+ },
+ {
+  "id": "black-tom-cassidy",
+  "name": "Black Tom Cassidy",
+  "batch": "B03"
+ },
+ {
+  "id": "mastermind-jason-wyngarde",
+  "name": "Mastermind (Jason Wyngarde)",
+  "batch": "B03"
+ },
+ {
+  "id": "callisto",
+  "name": "Callisto",
+  "batch": "B03"
+ },
+ {
+  "id": "sauron",
+  "name": "Sauron",
+  "batch": "B03"
+ },
+ {
+  "id": "bastion",
+  "name": "Bastion",
+  "batch": "B03"
+ },
+ {
+  "id": "donald-pierce",
+  "name": "Donald Pierce",
+  "batch": "B03"
+ },
+ {
+  "id": "azazel",
+  "name": "Azazel",
+  "batch": "B03"
+ },
+ {
+  "id": "proteus",
+  "name": "Proteus",
+  "batch": "B03"
+ },
+ {
+  "id": "cannonball",
+  "name": "Cannonball",
+  "batch": "B04"
+ },
+ {
+  "id": "sunspot",
+  "name": "Sunspot",
+  "batch": "B04"
+ },
+ {
+  "id": "wolfsbane",
+  "name": "Wolfsbane",
+  "batch": "B04"
+ },
+ {
+  "id": "mirage",
+  "name": "Mirage",
+  "batch": "B04"
+ },
+ {
+  "id": "karma",
+  "name": "Karma",
+  "batch": "B04"
+ },
+ {
+  "id": "magma",
+  "name": "Magma",
+  "batch": "B04"
+ },
+ {
+  "id": "warlock-technarch",
+  "name": "Warlock (Technarch)",
+  "batch": "B04"
+ },
+ {
+  "id": "cypher",
+  "name": "Cypher",
+  "batch": "B04"
+ },
+ {
+  "id": "domino",
+  "name": "Domino",
+  "batch": "B04"
+ },
+ {
+  "id": "deadpool",
+  "name": "Deadpool",
+  "batch": "B04"
+ },
+ {
+  "id": "shatterstar",
+  "name": "Shatterstar",
+  "batch": "B04"
+ },
+ {
+  "id": "warpath",
+  "name": "Warpath",
+  "batch": "B04"
+ },
+ {
+  "id": "boom-boom",
+  "name": "Boom-Boom",
+  "batch": "B04"
+ },
+ {
+  "id": "rictor",
+  "name": "Rictor",
+  "batch": "B04"
+ },
+ {
+  "id": "strong-guy",
+  "name": "Strong Guy",
+  "batch": "B04"
+ },
+ {
+  "id": "multiple-man",
+  "name": "Multiple Man",
+  "batch": "B04"
+ },
+ {
+  "id": "siryn",
+  "name": "Siryn",
+  "batch": "B04"
+ },
+ {
+  "id": "hope-summers",
+  "name": "Hope Summers",
+  "batch": "B04"
+ },
+ {
+  "id": "quentin-quire",
+  "name": "Quentin Quire",
+  "batch": "B04"
+ },
+ {
+  "id": "pixie",
+  "name": "Pixie",
+  "batch": "B04"
+ },
+ {
+  "id": "armor",
+  "name": "Armor",
+  "batch": "B04"
+ },
+ {
+  "id": "blink",
+  "name": "Blink",
+  "batch": "B04"
+ },
+ {
+  "id": "chamber",
+  "name": "Chamber",
+  "batch": "B04"
+ },
+ {
+  "id": "husk",
+  "name": "Husk",
+  "batch": "B04"
+ },
+ {
+  "id": "marrow",
+  "name": "Marrow",
+  "batch": "B04"
+ },
+ {
+  "id": "maggott",
+  "name": "Maggott",
+  "batch": "B04"
+ },
+ {
+  "id": "cecilia-reyes",
+  "name": "Cecilia Reyes",
+  "batch": "B04"
+ },
+ {
+  "id": "doop",
+  "name": "Doop",
+  "batch": "B04"
+ },
+ {
+  "id": "fantomex",
+  "name": "Fantomex",
+  "batch": "B04"
+ },
+ {
+  "id": "captain-britain-brian-braddock",
+  "name": "Captain Britain (Brian Braddock)",
+  "batch": "B04"
+ },
+ {
+  "id": "meggan",
+  "name": "Meggan",
+  "batch": "B04"
+ },
+ {
+  "id": "spider-man-peter-parker",
+  "name": "Spider-Man (Peter Parker)",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-man-miles-morales",
+  "name": "Spider-Man (Miles Morales)",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-gwen",
+  "name": "Spider-Gwen",
+  "batch": "B05"
+ },
+ {
+  "id": "black-cat",
+  "name": "Black Cat",
+  "batch": "B05"
+ },
+ {
+  "id": "silk",
+  "name": "Silk",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-girl-mayday-parker",
+  "name": "Spider-Girl (Mayday Parker)",
+  "batch": "B05"
+ },
+ {
+  "id": "scarlet-spider-ben-reilly",
+  "name": "Scarlet Spider (Ben Reilly)",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-man-2099",
+  "name": "Spider-Man 2099",
+  "batch": "B05"
+ },
+ {
+  "id": "madame-web",
+  "name": "Madame Web",
+  "batch": "B05"
+ },
+ {
+  "id": "prowler-hobie-brown",
+  "name": "Prowler (Hobie Brown)",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-ham",
+  "name": "Spider-Ham",
+  "batch": "B05"
+ },
+ {
+  "id": "silver-sable",
+  "name": "Silver Sable",
+  "batch": "B05"
+ },
+ {
+  "id": "agent-venom",
+  "name": "Agent Venom",
+  "batch": "B05"
+ },
+ {
+  "id": "venom",
+  "name": "Venom",
+  "batch": "B05"
+ },
+ {
+  "id": "carnage",
+  "name": "Carnage",
+  "batch": "B05"
+ },
+ {
+  "id": "spider-girl-anya-corazon",
+  "name": "Spider-Girl (Anya Corazon)",
+  "batch": "B05"
+ },
+ {
+  "id": "green-goblin",
+  "name": "Green Goblin",
+  "batch": "B05"
+ },
+ {
+  "id": "hobgoblin-roderick-kingsley",
+  "name": "Hobgoblin (Roderick Kingsley)",
+  "batch": "B05"
+ },
+ {
+  "id": "doctor-octopus",
+  "name": "Doctor Octopus",
+  "batch": "B05"
+ },
+ {
+  "id": "vulture",
+  "name": "Vulture",
+  "batch": "B05"
+ },
+ {
+  "id": "electro",
+  "name": "Electro",
+  "batch": "B05"
+ },
+ {
+  "id": "sandman",
+  "name": "Sandman",
+  "batch": "B05"
+ },
+ {
+  "id": "mysterio",
+  "name": "Mysterio",
+  "batch": "B05"
+ },
+ {
+  "id": "kraven-the-hunter",
+  "name": "Kraven the Hunter",
+  "batch": "B05"
+ },
+ {
+  "id": "lizard",
+  "name": "Lizard",
+  "batch": "B05"
+ },
+ {
+  "id": "scorpion",
+  "name": "Scorpion",
+  "batch": "B05"
+ },
+ {
+  "id": "rhino",
+  "name": "Rhino",
+  "batch": "B05"
+ },
+ {
+  "id": "shocker",
+  "name": "Shocker",
+  "batch": "B05"
+ },
+ {
+  "id": "chameleon",
+  "name": "Chameleon",
+  "batch": "B05"
+ },
+ {
+  "id": "morbius",
+  "name": "Morbius",
+  "batch": "B05"
+ },
+ {
+  "id": "harry-osborn",
+  "name": "Harry Osborn",
+  "batch": "B05"
+ },
+ {
+  "id": "kingpin",
+  "name": "Kingpin",
+  "batch": "B06"
+ },
+ {
+  "id": "tombstone",
+  "name": "Tombstone",
+  "batch": "B06"
+ },
+ {
+  "id": "hammerhead",
+  "name": "Hammerhead",
+  "batch": "B06"
+ },
+ {
+  "id": "jackal",
+  "name": "Jackal",
+  "batch": "B06"
+ },
+ {
+  "id": "mister-negative",
+  "name": "Mister Negative",
+  "batch": "B06"
+ },
+ {
+  "id": "morlun",
+  "name": "Morlun",
+  "batch": "B06"
+ },
+ {
+  "id": "silvermane",
+  "name": "Silvermane",
+  "batch": "B06"
+ },
+ {
+  "id": "beetle-abner-jenkins",
+  "name": "Beetle (Abner Jenkins)",
+  "batch": "B06"
+ },
+ {
+  "id": "boomerang",
+  "name": "Boomerang",
+  "batch": "B06"
+ },
+ {
+  "id": "tinkerer",
+  "name": "Tinkerer",
+  "batch": "B06"
+ },
+ {
+  "id": "puma",
+  "name": "Puma",
+  "batch": "B06"
+ },
+ {
+  "id": "spot",
+  "name": "Spot",
+  "batch": "B06"
+ },
+ {
+  "id": "molten-man",
+  "name": "Molten Man",
+  "batch": "B06"
+ },
+ {
+  "id": "hydro-man",
+  "name": "Hydro-Man",
+  "batch": "B06"
+ },
+ {
+  "id": "man-wolf",
+  "name": "Man-Wolf",
+  "batch": "B06"
+ },
+ {
+  "id": "big-wheel",
+  "name": "Big Wheel",
+  "batch": "B06"
+ },
+ {
+  "id": "shriek",
+  "name": "Shriek",
+  "batch": "B06"
+ },
+ {
+  "id": "swarm",
+  "name": "Swarm",
+  "batch": "B06"
+ },
+ {
+  "id": "scream",
+  "name": "Scream",
+  "batch": "B06"
+ },
+ {
+  "id": "calypso",
+  "name": "Calypso",
+  "batch": "B06"
+ },
+ {
+  "id": "spider-slayer-alistair-smythe",
+  "name": "Spider-Slayer (Alistair Smythe)",
+  "batch": "B06"
+ },
+ {
+  "id": "white-rabbit",
+  "name": "White Rabbit",
+  "batch": "B06"
+ },
+ {
+  "id": "tarantula",
+  "name": "Tarantula",
+  "batch": "B06"
+ },
+ {
+  "id": "stegron",
+  "name": "Stegron",
+  "batch": "B06"
+ },
+ {
+  "id": "mister-hyde",
+  "name": "Mister Hyde",
+  "batch": "B06"
+ },
+ {
+  "id": "living-brain",
+  "name": "Living Brain",
+  "batch": "B06"
+ },
+ {
+  "id": "rocket-racer",
+  "name": "Rocket Racer",
+  "batch": "B06"
+ },
+ {
+  "id": "jack-olantern",
+  "name": "Jack O'Lantern",
+  "batch": "B06"
+ },
+ {
+  "id": "montana",
+  "name": "Montana",
+  "batch": "B06"
+ },
+ {
+  "id": "cardiac",
+  "name": "Cardiac",
+  "batch": "B06"
+ },
+ {
+  "id": "overdrive",
+  "name": "Overdrive",
+  "batch": "B06"
+ },
+ {
+  "id": "mister-fantastic",
+  "name": "Mister Fantastic",
+  "batch": "B07"
+ },
+ {
+  "id": "invisible-woman",
+  "name": "Invisible Woman",
+  "batch": "B07"
+ },
+ {
+  "id": "human-torch-johnny-storm",
+  "name": "Human Torch (Johnny Storm)",
+  "batch": "B07"
+ },
+ {
+  "id": "thing",
+  "name": "Thing",
+  "batch": "B07"
+ },
+ {
+  "id": "doctor-doom",
+  "name": "Doctor Doom",
+  "batch": "B07"
+ },
+ {
+  "id": "galactus",
+  "name": "Galactus",
+  "batch": "B07"
+ },
+ {
+  "id": "silver-surfer",
+  "name": "Silver Surfer",
+  "batch": "B07"
+ },
+ {
+  "id": "mole-man",
+  "name": "Mole Man",
+  "batch": "B07"
+ },
+ {
+  "id": "annihilus",
+  "name": "Annihilus",
+  "batch": "B07"
+ },
+ {
+  "id": "super-skrull",
+  "name": "Super-Skrull",
+  "batch": "B07"
+ },
+ {
+  "id": "franklin-richards",
+  "name": "Franklin Richards",
+  "batch": "B07"
+ },
+ {
+  "id": "valeria-richards",
+  "name": "Valeria Richards",
+  "batch": "B07"
+ },
+ {
+  "id": "herbie",
+  "name": "H.E.R.B.I.E.",
+  "batch": "B07"
+ },
+ {
+  "id": "wizard",
+  "name": "Wizard",
+  "batch": "B07"
+ },
+ {
+  "id": "puppet-master",
+  "name": "Puppet Master",
+  "batch": "B07"
+ },
+ {
+  "id": "alicia-masters",
+  "name": "Alicia Masters",
+  "batch": "B07"
+ },
+ {
+  "id": "impossible-man",
+  "name": "Impossible Man",
+  "batch": "B07"
+ },
+ {
+  "id": "psycho-man",
+  "name": "Psycho-Man",
+  "batch": "B07"
+ },
+ {
+  "id": "terrax",
+  "name": "Terrax",
+  "batch": "B07"
+ },
+ {
+  "id": "firelord",
+  "name": "Firelord",
+  "batch": "B07"
+ },
+ {
+  "id": "nova-frankie-raye",
+  "name": "Nova (Frankie Raye)",
+  "batch": "B07"
+ },
+ {
+  "id": "blastaar",
+  "name": "Blastaar",
+  "batch": "B07"
+ },
+ {
+  "id": "diablo",
+  "name": "Diablo",
+  "batch": "B07"
+ },
+ {
+  "id": "dragon-man",
+  "name": "Dragon Man",
+  "batch": "B07"
+ },
+ {
+  "id": "trapster",
+  "name": "Trapster",
+  "batch": "B07"
+ },
+ {
+  "id": "molecule-man",
+  "name": "Molecule Man",
+  "batch": "B07"
+ },
+ {
+  "id": "uatu-the-watcher",
+  "name": "Uatu the Watcher",
+  "batch": "B07"
+ },
+ {
+  "id": "thundra",
+  "name": "Thundra",
+  "batch": "B07"
+ },
+ {
+  "id": "mad-thinker",
+  "name": "Mad Thinker",
+  "batch": "B07"
+ },
+ {
+  "id": "lyja",
+  "name": "Lyja",
+  "batch": "B07"
+ },
+ {
+  "id": "wyatt-wingfoot",
+  "name": "Wyatt Wingfoot",
+  "batch": "B07"
+ },
+ {
+  "id": "star-lord",
+  "name": "Star-Lord",
+  "batch": "B08"
+ },
+ {
+  "id": "gamora",
+  "name": "Gamora",
+  "batch": "B08"
+ },
+ {
+  "id": "drax-the-destroyer",
+  "name": "Drax the Destroyer",
+  "batch": "B08"
+ },
+ {
+  "id": "rocket-raccoon",
+  "name": "Rocket Raccoon",
+  "batch": "B08"
+ },
+ {
+  "id": "groot",
+  "name": "Groot",
+  "batch": "B08"
+ },
+ {
+  "id": "mantis",
+  "name": "Mantis",
+  "batch": "B08"
+ },
+ {
+  "id": "nebula",
+  "name": "Nebula",
+  "batch": "B08"
+ },
+ {
+  "id": "yondu",
+  "name": "Yondu",
+  "batch": "B08"
+ },
+ {
+  "id": "cosmo-the-spacedog",
+  "name": "Cosmo the Spacedog",
+  "batch": "B08"
+ },
+ {
+  "id": "adam-warlock",
+  "name": "Adam Warlock",
+  "batch": "B08"
+ },
+ {
+  "id": "ronan-the-accuser",
+  "name": "Ronan the Accuser",
+  "batch": "B08"
+ },
+ {
+  "id": "korath-the-pursuer",
+  "name": "Korath the Pursuer",
+  "batch": "B08"
+ },
+ {
+  "id": "yon-rogg",
+  "name": "Yon-Rogg",
+  "batch": "B08"
+ },
+ {
+  "id": "captain-mar-vell",
+  "name": "Captain Mar-Vell",
+  "batch": "B08"
+ },
+ {
+  "id": "supreme-intelligence",
+  "name": "Supreme Intelligence",
+  "batch": "B08"
+ },
+ {
+  "id": "talos",
+  "name": "Talos",
+  "batch": "B08"
+ },
+ {
+  "id": "veranke",
+  "name": "Veranke",
+  "batch": "B08"
+ },
+ {
+  "id": "moondragon",
+  "name": "Moondragon",
+  "batch": "B08"
+ },
+ {
+  "id": "phyla-vell",
+  "name": "Phyla-Vell",
+  "batch": "B08"
+ },
+ {
+  "id": "quasar",
+  "name": "Quasar",
+  "batch": "B08"
+ },
+ {
+  "id": "nova-richard-rider",
+  "name": "Nova (Richard Rider)",
+  "batch": "B08"
+ },
+ {
+  "id": "nova-sam-alexander",
+  "name": "Nova (Sam Alexander)",
+  "batch": "B08"
+ },
+ {
+  "id": "gladiator-kallark",
+  "name": "Gladiator (Kallark)",
+  "batch": "B08"
+ },
+ {
+  "id": "lilandra",
+  "name": "Lilandra",
+  "batch": "B08"
+ },
+ {
+  "id": "deathbird",
+  "name": "Deathbird",
+  "batch": "B08"
+ },
+ {
+  "id": "corsair",
+  "name": "Corsair",
+  "batch": "B08"
+ },
+ {
+  "id": "angela",
+  "name": "Angela",
+  "batch": "B08"
+ },
+ {
+  "id": "beta-ray-bill",
+  "name": "Beta Ray Bill",
+  "batch": "B08"
+ },
+ {
+  "id": "major-victory",
+  "name": "Major Victory",
+  "batch": "B08"
+ },
+ {
+  "id": "kraglin",
+  "name": "Kraglin",
+  "batch": "B08"
+ },
+ {
+  "id": "thanos",
+  "name": "Thanos",
+  "batch": "B09"
+ },
+ {
+  "id": "ego-the-living-planet",
+  "name": "Ego the Living Planet",
+  "batch": "B09"
+ },
+ {
+  "id": "the-collector",
+  "name": "The Collector",
+  "batch": "B09"
+ },
+ {
+  "id": "the-grandmaster",
+  "name": "The Grandmaster",
+  "batch": "B09"
+ },
+ {
+  "id": "high-evolutionary",
+  "name": "High Evolutionary",
+  "batch": "B09"
+ },
+ {
+  "id": "death",
+  "name": "Death",
+  "batch": "B09"
+ },
+ {
+  "id": "eternity",
+  "name": "Eternity",
+  "batch": "B09"
+ },
+ {
+  "id": "living-tribunal",
+  "name": "Living Tribunal",
+  "batch": "B09"
+ },
+ {
+  "id": "arishem",
+  "name": "Arishem",
+  "batch": "B09"
+ },
+ {
+  "id": "knull",
+  "name": "Knull",
+  "batch": "B09"
+ },
+ {
+  "id": "proxima-midnight",
+  "name": "Proxima Midnight",
+  "batch": "B09"
+ },
+ {
+  "id": "corvus-glaive",
+  "name": "Corvus Glaive",
+  "batch": "B09"
+ },
+ {
+  "id": "ebony-maw",
+  "name": "Ebony Maw",
+  "batch": "B09"
+ },
+ {
+  "id": "black-dwarf",
+  "name": "Black Dwarf",
+  "batch": "B09"
+ },
+ {
+  "id": "supergiant",
+  "name": "Supergiant",
+  "batch": "B09"
+ },
+ {
+  "id": "thane",
+  "name": "Thane",
+  "batch": "B09"
+ },
+ {
+  "id": "magus",
+  "name": "Magus",
+  "batch": "B09"
+ },
+ {
+  "id": "pip-the-troll",
+  "name": "Pip the Troll",
+  "batch": "B09"
+ },
+ {
+  "id": "champion-of-the-universe",
+  "name": "Champion of the Universe",
+  "batch": "B09"
+ },
+ {
+  "id": "beyonder",
+  "name": "Beyonder",
+  "batch": "B09"
+ },
+ {
+  "id": "ayesha",
+  "name": "Ayesha",
+  "batch": "B09"
+ },
+ {
+  "id": "morg",
+  "name": "Morg",
+  "batch": "B09"
+ },
+ {
+  "id": "genis-vell",
+  "name": "Genis-Vell",
+  "batch": "B09"
+ },
+ {
+  "id": "hyperion-marcus-milton",
+  "name": "Hyperion (Marcus Milton)",
+  "batch": "B09"
+ },
+ {
+  "id": "starhawk",
+  "name": "Starhawk",
+  "batch": "B09"
+ },
+ {
+  "id": "charlie-27",
+  "name": "Charlie-27",
+  "batch": "B09"
+ },
+ {
+  "id": "martinex",
+  "name": "Martinex",
+  "batch": "B09"
+ },
+ {
+  "id": "aleta-ogord",
+  "name": "Aleta Ogord",
+  "batch": "B09"
+ },
+ {
+  "id": "nikki-gold",
+  "name": "Nikki Gold",
+  "batch": "B09"
+ },
+ {
+  "id": "jack-flag",
+  "name": "Jack Flag",
+  "batch": "B09"
+ },
+ {
+  "id": "the-stranger",
+  "name": "The Stranger",
+  "batch": "B09"
+ },
+ {
+  "id": "loki",
+  "name": "Loki",
+  "batch": "B10"
+ },
+ {
+  "id": "odin",
+  "name": "Odin",
+  "batch": "B10"
+ },
+ {
+  "id": "frigga",
+  "name": "Frigga",
+  "batch": "B10"
+ },
+ {
+  "id": "hela",
+  "name": "Hela",
+  "batch": "B10"
+ },
+ {
+  "id": "heimdall",
+  "name": "Heimdall",
+  "batch": "B10"
+ },
+ {
+  "id": "sif",
+  "name": "Sif",
+  "batch": "B10"
+ },
+ {
+  "id": "valkyrie-brunnhilde",
+  "name": "Valkyrie (Brunnhilde)",
+  "batch": "B10"
+ },
+ {
+  "id": "balder",
+  "name": "Balder",
+  "batch": "B10"
+ },
+ {
+  "id": "volstagg",
+  "name": "Volstagg",
+  "batch": "B10"
+ },
+ {
+  "id": "fandral",
+  "name": "Fandral",
+  "batch": "B10"
+ },
+ {
+  "id": "hogun",
+  "name": "Hogun",
+  "batch": "B10"
+ },
+ {
+  "id": "enchantress",
+  "name": "Enchantress",
+  "batch": "B10"
+ },
+ {
+  "id": "executioner",
+  "name": "Executioner",
+  "batch": "B10"
+ },
+ {
+  "id": "surtur",
+  "name": "Surtur",
+  "batch": "B10"
+ },
+ {
+  "id": "malekith",
+  "name": "Malekith",
+  "batch": "B10"
+ },
+ {
+  "id": "gorr-the-god-butcher",
+  "name": "Gorr the God Butcher",
+  "batch": "B10"
+ },
+ {
+  "id": "kurse",
+  "name": "Kurse",
+  "batch": "B10"
+ },
+ {
+  "id": "ares",
+  "name": "Ares",
+  "batch": "B10"
+ },
+ {
+  "id": "zeus",
+  "name": "Zeus",
+  "batch": "B10"
+ },
+ {
+  "id": "throg",
+  "name": "Throg",
+  "batch": "B10"
+ },
+ {
+  "id": "laufey",
+  "name": "Laufey",
+  "batch": "B10"
+ },
+ {
+  "id": "ulik",
+  "name": "Ulik",
+  "batch": "B10"
+ },
+ {
+  "id": "absorbing-man",
+  "name": "Absorbing Man",
+  "batch": "B10"
+ },
+ {
+  "id": "wrecker",
+  "name": "Wrecker",
+  "batch": "B10"
+ },
+ {
+  "id": "thunderball",
+  "name": "Thunderball",
+  "batch": "B10"
+ },
+ {
+  "id": "tyr",
+  "name": "Tyr",
+  "batch": "B10"
+ },
+ {
+  "id": "karnilla",
+  "name": "Karnilla",
+  "batch": "B10"
+ },
+ {
+  "id": "lorelei",
+  "name": "Lorelei",
+  "batch": "B10"
+ },
+ {
+  "id": "mangog",
+  "name": "Mangog",
+  "batch": "B10"
+ },
+ {
+  "id": "the-serpent",
+  "name": "The Serpent",
+  "batch": "B10"
+ },
+ {
+  "id": "thunderstrike",
+  "name": "Thunderstrike",
+  "batch": "B10"
+ },
+ {
+  "id": "doctor-strange",
+  "name": "Doctor Strange",
+  "batch": "B11"
+ },
+ {
+  "id": "wong",
+  "name": "Wong",
+  "batch": "B11"
+ },
+ {
+  "id": "clea",
+  "name": "Clea",
+  "batch": "B11"
+ },
+ {
+  "id": "baron-mordo",
+  "name": "Baron Mordo",
+  "batch": "B11"
+ },
+ {
+  "id": "dormammu",
+  "name": "Dormammu",
+  "batch": "B11"
+ },
+ {
+  "id": "mephisto",
+  "name": "Mephisto",
+  "batch": "B11"
+ },
+ {
+  "id": "agatha-harkness",
+  "name": "Agatha Harkness",
+  "batch": "B11"
+ },
+ {
+  "id": "doctor-voodoo",
+  "name": "Doctor Voodoo",
+  "batch": "B11"
+ },
+ {
+  "id": "nightmare",
+  "name": "Nightmare",
+  "batch": "B11"
+ },
+ {
+  "id": "shuma-gorath",
+  "name": "Shuma-Gorath",
+  "batch": "B11"
+ },
+ {
+  "id": "dracula",
+  "name": "Dracula",
+  "batch": "B11"
+ },
+ {
+  "id": "blade",
+  "name": "Blade",
+  "batch": "B11"
+ },
+ {
+  "id": "ghost-rider-johnny-blaze",
+  "name": "Ghost Rider (Johnny Blaze)",
+  "batch": "B11"
+ },
+ {
+  "id": "ghost-rider-robbie-reyes",
+  "name": "Ghost Rider (Robbie Reyes)",
+  "batch": "B11"
+ },
+ {
+  "id": "ghost-rider-danny-ketch",
+  "name": "Ghost Rider (Danny Ketch)",
+  "batch": "B11"
+ },
+ {
+  "id": "man-thing",
+  "name": "Man-Thing",
+  "batch": "B11"
+ },
+ {
+  "id": "werewolf-by-night",
+  "name": "Werewolf by Night",
+  "batch": "B11"
+ },
+ {
+  "id": "elsa-bloodstone",
+  "name": "Elsa Bloodstone",
+  "batch": "B11"
+ },
+ {
+  "id": "satana",
+  "name": "Satana",
+  "batch": "B11"
+ },
+ {
+  "id": "daimon-hellstrom",
+  "name": "Daimon Hellstrom",
+  "batch": "B11"
+ },
+ {
+  "id": "moon-knight",
+  "name": "Moon Knight",
+  "batch": "B11"
+ },
+ {
+  "id": "chthon",
+  "name": "Chthon",
+  "batch": "B11"
+ },
+ {
+  "id": "morgan-le-fay",
+  "name": "Morgan le Fay",
+  "batch": "B11"
+ },
+ {
+  "id": "blackheart",
+  "name": "Blackheart",
+  "batch": "B11"
+ },
+ {
+  "id": "zarathos",
+  "name": "Zarathos",
+  "batch": "B11"
+ },
+ {
+  "id": "lilith",
+  "name": "Lilith",
+  "batch": "B11"
+ },
+ {
+  "id": "hannibal-king",
+  "name": "Hannibal King",
+  "batch": "B11"
+ },
+ {
+  "id": "deacon-frost",
+  "name": "Deacon Frost",
+  "batch": "B11"
+ },
+ {
+  "id": "jennifer-kale",
+  "name": "Jennifer Kale",
+  "batch": "B11"
+ },
+ {
+  "id": "the-ancient-one",
+  "name": "The Ancient One",
+  "batch": "B11"
+ },
+ {
+  "id": "khonshu",
+  "name": "Khonshu",
+  "batch": "B11"
+ },
+ {
+  "id": "daredevil",
+  "name": "Daredevil",
+  "batch": "B12"
+ },
+ {
+  "id": "elektra",
+  "name": "Elektra",
+  "batch": "B12"
+ },
+ {
+  "id": "bullseye",
+  "name": "Bullseye",
+  "batch": "B12"
+ },
+ {
+  "id": "punisher",
+  "name": "Punisher",
+  "batch": "B12"
+ },
+ {
+  "id": "jessica-jones",
+  "name": "Jessica Jones",
+  "batch": "B12"
+ },
+ {
+  "id": "luke-cage",
+  "name": "Luke Cage",
+  "batch": "B12"
+ },
+ {
+  "id": "iron-fist",
+  "name": "Iron Fist",
+  "batch": "B12"
+ },
+ {
+  "id": "misty-knight",
+  "name": "Misty Knight",
+  "batch": "B12"
+ },
+ {
+  "id": "colleen-wing",
+  "name": "Colleen Wing",
+  "batch": "B12"
+ },
+ {
+  "id": "typhoid-mary",
+  "name": "Typhoid Mary",
+  "batch": "B12"
+ },
+ {
+  "id": "purple-man",
+  "name": "Purple Man",
+  "batch": "B12"
+ },
+ {
+  "id": "cottonmouth",
+  "name": "Cottonmouth",
+  "batch": "B12"
+ },
+ {
+  "id": "diamondback-willis-stryker",
+  "name": "Diamondback (Willis Stryker)",
+  "batch": "B12"
+ },
+ {
+  "id": "black-mariah",
+  "name": "Black Mariah",
+  "batch": "B12"
+ },
+ {
+  "id": "madame-gao",
+  "name": "Madame Gao",
+  "batch": "B12"
+ },
+ {
+  "id": "stick",
+  "name": "Stick",
+  "batch": "B12"
+ },
+ {
+  "id": "echo",
+  "name": "Echo",
+  "batch": "B12"
+ },
+ {
+  "id": "white-tiger-hector-ayala",
+  "name": "White Tiger (Hector Ayala)",
+  "batch": "B12"
+ },
+ {
+  "id": "cloak",
+  "name": "Cloak",
+  "batch": "B12"
+ },
+ {
+  "id": "dagger",
+  "name": "Dagger",
+  "batch": "B12"
+ },
+ {
+  "id": "shang-chi",
+  "name": "Shang-Chi",
+  "batch": "B12"
+ },
+ {
+  "id": "jigsaw",
+  "name": "Jigsaw",
+  "batch": "B12"
+ },
+ {
+  "id": "night-nurse",
+  "name": "Night Nurse",
+  "batch": "B12"
+ },
+ {
+  "id": "hellcat",
+  "name": "Hellcat",
+  "batch": "B12"
+ },
+ {
+  "id": "nighthawk-kyle-richmond",
+  "name": "Nighthawk (Kyle Richmond)",
+  "batch": "B12"
+ },
+ {
+  "id": "muse",
+  "name": "Muse",
+  "batch": "B12"
+ },
+ {
+  "id": "gladiator-melvin-potter",
+  "name": "Gladiator (Melvin Potter)",
+  "batch": "B12"
+ },
+ {
+  "id": "lady-bullseye",
+  "name": "Lady Bullseye",
+  "batch": "B12"
+ },
+ {
+  "id": "bushmaster",
+  "name": "Bushmaster",
+  "batch": "B12"
+ },
+ {
+  "id": "the-owl",
+  "name": "The Owl",
+  "batch": "B12"
+ },
+ {
+  "id": "paladin",
+  "name": "Paladin",
+  "batch": "B12"
+ },
+ {
+  "id": "red-skull",
+  "name": "Red Skull",
+  "batch": "B13"
+ },
+ {
+  "id": "baron-zemo",
+  "name": "Baron Zemo",
+  "batch": "B13"
+ },
+ {
+  "id": "baron-strucker",
+  "name": "Baron Strucker",
+  "batch": "B13"
+ },
+ {
+  "id": "arnim-zola",
+  "name": "Arnim Zola",
+  "batch": "B13"
+ },
+ {
+  "id": "crossbones",
+  "name": "Crossbones",
+  "batch": "B13"
+ },
+ {
+  "id": "sharon-carter",
+  "name": "Sharon Carter",
+  "batch": "B13"
+ },
+ {
+  "id": "peggy-carter",
+  "name": "Peggy Carter",
+  "batch": "B13"
+ },
+ {
+  "id": "phil-coulson",
+  "name": "Phil Coulson",
+  "batch": "B13"
+ },
+ {
+  "id": "dum-dum-dugan",
+  "name": "Dum Dum Dugan",
+  "batch": "B13"
+ },
+ {
+  "id": "viper-ophelia-sarkissian",
+  "name": "Viper (Ophelia Sarkissian)",
+  "batch": "B13"
+ },
+ {
+  "id": "modok",
+  "name": "M.O.D.O.K.",
+  "batch": "B13"
+ },
+ {
+  "id": "taskmaster",
+  "name": "Taskmaster",
+  "batch": "B13"
+ },
+ {
+  "id": "us-agent",
+  "name": "U.S. Agent",
+  "batch": "B13"
+ },
+ {
+  "id": "batroc-the-leaper",
+  "name": "Batroc the Leaper",
+  "batch": "B13"
+ },
+ {
+  "id": "red-guardian",
+  "name": "Red Guardian",
+  "batch": "B13"
+ },
+ {
+  "id": "yelena-belova",
+  "name": "Yelena Belova",
+  "batch": "B13"
+ },
+ {
+  "id": "mandarin",
+  "name": "Mandarin",
+  "batch": "B13"
+ },
+ {
+  "id": "justin-hammer",
+  "name": "Justin Hammer",
+  "batch": "B13"
+ },
+ {
+  "id": "iron-monger",
+  "name": "Iron Monger",
+  "batch": "B13"
+ },
+ {
+  "id": "titanium-man",
+  "name": "Titanium Man",
+  "batch": "B13"
+ },
+ {
+  "id": "crimson-dynamo",
+  "name": "Crimson Dynamo",
+  "batch": "B13"
+ },
+ {
+  "id": "whiplash",
+  "name": "Whiplash",
+  "batch": "B13"
+ },
+ {
+  "id": "ultron",
+  "name": "Ultron",
+  "batch": "B13"
+ },
+ {
+  "id": "pepper-potts",
+  "name": "Pepper Potts",
+  "batch": "B13"
+ },
+ {
+  "id": "ironheart",
+  "name": "Ironheart",
+  "batch": "B13"
+ },
+ {
+  "id": "the-hood",
+  "name": "The Hood",
+  "batch": "B13"
+ },
+ {
+  "id": "abomination",
+  "name": "Abomination",
+  "batch": "B13"
+ },
+ {
+  "id": "the-leader",
+  "name": "The Leader",
+  "batch": "B13"
+ },
+ {
+  "id": "red-hulk",
+  "name": "Red Hulk",
+  "batch": "B13"
+ },
+ {
+  "id": "red-she-hulk",
+  "name": "Red She-Hulk",
+  "batch": "B13"
+ },
+ {
+  "id": "amadeus-cho",
+  "name": "Amadeus Cho",
+  "batch": "B13"
+ },
+ {
+  "id": "wiccan",
+  "name": "Wiccan",
+  "batch": "B14"
+ },
+ {
+  "id": "hulkling",
+  "name": "Hulkling",
+  "batch": "B14"
+ },
+ {
+  "id": "speed",
+  "name": "Speed",
+  "batch": "B14"
+ },
+ {
+  "id": "patriot-eli-bradley",
+  "name": "Patriot (Eli Bradley)",
+  "batch": "B14"
+ },
+ {
+  "id": "stature",
+  "name": "Stature",
+  "batch": "B14"
+ },
+ {
+  "id": "america-chavez",
+  "name": "America Chavez",
+  "batch": "B14"
+ },
+ {
+  "id": "squirrel-girl",
+  "name": "Squirrel Girl",
+  "batch": "B14"
+ },
+ {
+  "id": "moon-girl",
+  "name": "Moon Girl",
+  "batch": "B14"
+ },
+ {
+  "id": "devil-dinosaur",
+  "name": "Devil Dinosaur",
+  "batch": "B14"
+ },
+ {
+  "id": "nico-minoru",
+  "name": "Nico Minoru",
+  "batch": "B14"
+ },
+ {
+  "id": "chase-stein",
+  "name": "Chase Stein",
+  "batch": "B14"
+ },
+ {
+  "id": "karolina-dean",
+  "name": "Karolina Dean",
+  "batch": "B14"
+ },
+ {
+  "id": "gertrude-yorkes",
+  "name": "Gertrude Yorkes",
+  "batch": "B14"
+ },
+ {
+  "id": "molly-hayes",
+  "name": "Molly Hayes",
+  "batch": "B14"
+ },
+ {
+  "id": "alex-wilder",
+  "name": "Alex Wilder",
+  "batch": "B14"
+ },
+ {
+  "id": "viv-vision",
+  "name": "Viv Vision",
+  "batch": "B14"
+ },
+ {
+  "id": "night-thrasher",
+  "name": "Night Thrasher",
+  "batch": "B14"
+ },
+ {
+  "id": "speedball",
+  "name": "Speedball",
+  "batch": "B14"
+ },
+ {
+  "id": "firestar",
+  "name": "Firestar",
+  "batch": "B14"
+ },
+ {
+  "id": "marvel-boy-noh-varr",
+  "name": "Marvel Boy (Noh-Varr)",
+  "batch": "B14"
+ },
+ {
+  "id": "prodigy-david-alleyne",
+  "name": "Prodigy (David Alleyne)",
+  "batch": "B14"
+ },
+ {
+  "id": "gwenpool",
+  "name": "Gwenpool",
+  "batch": "B14"
+ },
+ {
+  "id": "alex-power",
+  "name": "Alex Power",
+  "batch": "B14"
+ },
+ {
+  "id": "katie-power",
+  "name": "Katie Power",
+  "batch": "B14"
+ },
+ {
+  "id": "hellion",
+  "name": "Hellion",
+  "batch": "B14"
+ },
+ {
+  "id": "mercury",
+  "name": "Mercury",
+  "batch": "B14"
+ },
+ {
+  "id": "honey-badger",
+  "name": "Honey Badger",
+  "batch": "B14"
+ },
+ {
+  "id": "elixir",
+  "name": "Elixir",
+  "batch": "B14"
+ },
+ {
+  "id": "surge",
+  "name": "Surge",
+  "batch": "B14"
+ },
+ {
+  "id": "anole",
+  "name": "Anole",
+  "batch": "B14"
+ },
+ {
+  "id": "rockslide",
+  "name": "Rockslide",
+  "batch": "B14"
+ },
+ {
+  "id": "ikaris",
+  "name": "Ikaris",
+  "batch": "B15"
+ },
+ {
+  "id": "sersi",
+  "name": "Sersi",
+  "batch": "B15"
+ },
+ {
+  "id": "thena",
+  "name": "Thena",
+  "batch": "B15"
+ },
+ {
+  "id": "sprite",
+  "name": "Sprite",
+  "batch": "B15"
+ },
+ {
+  "id": "makkari",
+  "name": "Makkari",
+  "batch": "B15"
+ },
+ {
+  "id": "kingo",
+  "name": "Kingo",
+  "batch": "B15"
+ },
+ {
+  "id": "gilgamesh",
+  "name": "Gilgamesh",
+  "batch": "B15"
+ },
+ {
+  "id": "druig",
+  "name": "Druig",
+  "batch": "B15"
+ },
+ {
+  "id": "phastos",
+  "name": "Phastos",
+  "batch": "B15"
+ },
+ {
+  "id": "ajak",
+  "name": "Ajak",
+  "batch": "B15"
+ },
+ {
+  "id": "kro",
+  "name": "Kro",
+  "batch": "B15"
+ },
+ {
+  "id": "starfox",
+  "name": "Starfox",
+  "batch": "B15"
+ },
+ {
+  "id": "black-bolt",
+  "name": "Black Bolt",
+  "batch": "B15"
+ },
+ {
+  "id": "medusa",
+  "name": "Medusa",
+  "batch": "B15"
+ },
+ {
+  "id": "crystal",
+  "name": "Crystal",
+  "batch": "B15"
+ },
+ {
+  "id": "karnak",
+  "name": "Karnak",
+  "batch": "B15"
+ },
+ {
+  "id": "gorgon",
+  "name": "Gorgon",
+  "batch": "B15"
+ },
+ {
+  "id": "triton",
+  "name": "Triton",
+  "batch": "B15"
+ },
+ {
+  "id": "lockjaw",
+  "name": "Lockjaw",
+  "batch": "B15"
+ },
+ {
+  "id": "maximus",
+  "name": "Maximus",
+  "batch": "B15"
+ },
+ {
+  "id": "quake",
+  "name": "Quake",
+  "batch": "B15"
+ },
+ {
+  "id": "namor",
+  "name": "Namor",
+  "batch": "B15"
+ },
+ {
+  "id": "namora",
+  "name": "Namora",
+  "batch": "B15"
+ },
+ {
+  "id": "attuma",
+  "name": "Attuma",
+  "batch": "B15"
+ },
+ {
+  "id": "tiger-shark",
+  "name": "Tiger Shark",
+  "batch": "B15"
+ },
+ {
+  "id": "shuri",
+  "name": "Shuri",
+  "batch": "B15"
+ },
+ {
+  "id": "okoye",
+  "name": "Okoye",
+  "batch": "B15"
+ },
+ {
+  "id": "nakia",
+  "name": "Nakia",
+  "batch": "B15"
+ },
+ {
+  "id": "mbaku",
+  "name": "M'Baku",
+  "batch": "B15"
+ },
+ {
+  "id": "killmonger",
+  "name": "Killmonger",
+  "batch": "B15"
+ },
+ {
+  "id": "klaw",
+  "name": "Klaw",
+  "batch": "B15"
+ },
+ {
+  "id": "kang-the-conqueror",
+  "name": "Kang the Conqueror",
+  "batch": "B16"
+ },
+ {
+  "id": "he-who-remains",
+  "name": "He Who Remains",
+  "batch": "B16"
+ },
+ {
+  "id": "ravonna-renslayer",
+  "name": "Ravonna Renslayer",
+  "batch": "B16"
+ },
+ {
+  "id": "mobius-m-mobius",
+  "name": "Mobius M. Mobius",
+  "batch": "B16"
+ },
+ {
+  "id": "count-nefaria",
+  "name": "Count Nefaria",
+  "batch": "B16"
+ },
+ {
+  "id": "graviton",
+  "name": "Graviton",
+  "batch": "B16"
+ },
+ {
+  "id": "whirlwind",
+  "name": "Whirlwind",
+  "batch": "B16"
+ },
+ {
+  "id": "grim-reaper",
+  "name": "Grim Reaper",
+  "batch": "B16"
+ },
+ {
+  "id": "egghead",
+  "name": "Egghead",
+  "batch": "B16"
+ },
+ {
+  "id": "moonstone",
+  "name": "Moonstone",
+  "batch": "B16"
+ },
+ {
+  "id": "songbird",
+  "name": "Songbird",
+  "batch": "B16"
+ },
+ {
+  "id": "atlas-erik-josten",
+  "name": "Atlas (Erik Josten)",
+  "batch": "B16"
+ },
+ {
+  "id": "jolt",
+  "name": "Jolt",
+  "batch": "B16"
+ },
+ {
+  "id": "sin",
+  "name": "Sin",
+  "batch": "B16"
+ },
+ {
+  "id": "living-laser",
+  "name": "Living Laser",
+  "batch": "B16"
+ },
+ {
+  "id": "ghost-iron-man-villain",
+  "name": "Ghost (Iron Man villain)",
+  "batch": "B16"
+ },
+ {
+  "id": "radioactive-man",
+  "name": "Radioactive Man",
+  "batch": "B16"
+ },
+ {
+  "id": "swordsman",
+  "name": "Swordsman",
+  "batch": "B16"
+ },
+ {
+  "id": "super-adaptoid",
+  "name": "Super-Adaptoid",
+  "batch": "B16"
+ },
+ {
+  "id": "titania",
+  "name": "Titania",
+  "batch": "B16"
+ },
+ {
+  "id": "skaar",
+  "name": "Skaar",
+  "batch": "B16"
+ },
+ {
+  "id": "rick-jones",
+  "name": "Rick Jones",
+  "batch": "B16"
+ },
+ {
+  "id": "howard-the-duck",
+  "name": "Howard the Duck",
+  "batch": "B16"
+ },
+ {
+  "id": "machine-man",
+  "name": "Machine Man",
+  "batch": "B16"
+ },
+ {
+  "id": "jocasta",
+  "name": "Jocasta",
+  "batch": "B16"
+ },
+ {
+  "id": "spiral",
+  "name": "Spiral",
+  "batch": "B16"
+ },
+ {
+  "id": "constrictor",
+  "name": "Constrictor",
+  "batch": "B16"
+ },
+ {
+  "id": "madame-masque",
+  "name": "Madame Masque",
+  "batch": "B16"
+ },
+ {
+  "id": "wendigo",
+  "name": "Wendigo",
+  "batch": "B16"
+ },
+ {
+  "id": "human-torch-jim-hammond",
+  "name": "Human Torch (Jim Hammond)",
+  "batch": "B16"
+ },
+ {
+  "id": "toro",
+  "name": "Toro",
+  "batch": "B16"
+ },
+ {
+  "id": "venus",
+  "name": "Venus",
+  "batch": "B16"
+ },
+ {
+  "id": "the-angel-thomas-halloway",
+  "name": "The Angel (Thomas Halloway)",
+  "batch": "B16"
+ },
+ {
+  "id": "ka-zar",
+  "name": "Ka-Zar",
+  "batch": "B16"
+ },
+ {
+  "id": "shanna-the-she-devil",
+  "name": "Shanna the She-Devil",
+  "batch": "B16"
+ },
+ {
+  "id": "battlestar",
+  "name": "Battlestar",
+  "batch": "B16"
+ }
+]

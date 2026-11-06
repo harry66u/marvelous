@@ -1,0 +1,1764 @@
+{
+ "iron-man": {
+  "title": "Iron Man",
+  "status": "ok",
+  "fields": {
+   "debut": "Tales of Suspense #39; (December 1962)",
+   "alliances": "",
+   "species": "Human",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Iron_Man"
+ },
+ "captain-america": {
+  "title": "Captain America",
+  "status": "ok",
+  "fields": {
+   "debut": "Captain America Comics #1 (December 20, 1940)",
+   "alliances": "",
+   "aliases": "Nomad, The Captain",
+   "species": "Human mutate",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Captain_America"
+ },
+ "thor": {
+  "title": "Thor (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Journey into Mystery #83; (August 1962)",
+   "full_name": "Thor Odinson",
+   "alliances": "Avengers",
+   "aliases": "Donald Blake; Jake Olson; Eric Masterson",
+   "species": "Asgardian",
+   "partners": "Sif; Warriors Three; Balder the Brave; Jane Foster; Captain America; Iron Man; Beta Ray Bill; Hercules }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Thor_%28Marvel_Comics%29"
+ },
+ "hulk": {
+  "title": "Hulk",
+  "status": "ok",
+  "fields": {
+   "debut": "The Incredible Hulk #1 (May 1962)",
+   "alliances": "Avengers; Defenders; Horsemen of Apocalypse; Fantastic Four; Pantheon; Warbound; Secret Avengers",
+   "aliases": "The Incredible Hulk, Joe Fixit, World-Breaker, Devil Hulk, Jade Giant, Jade Jaws, Doc Green, Guilt Hulk/Guilt, War",
+   "species": "Human mutate",
+   "partners": "She-Hulk"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hulk"
+ },
+ "black-widow": {
+  "title": "Black Widow (Natasha Romanova)",
+  "status": "ok",
+  "fields": {
+   "debut": "Tales of Suspense #52; (April 1964)",
+   "full_name": "Natalia Alianovna Romanova",
+   "alliances": "Avengers; Champions; Heroes for Hire; KGB; Marvel Knights; Secret Avengers; S.H.I.E.L.D. }}",
+   "aliases": "Natasha Romanoff",
+   "partners": "Daredevil; Hawkeye; Winter Soldier"
+  },
+  "url": "https://en.wikipedia.org/wiki/Black_Widow_%28Natasha_Romanova%29"
+ },
+ "hawkeye-clint-barton": {
+  "title": "Hawkeye (Clint Barton)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Hawkeye:; Tales of Suspense #57 (September 1964); As Goliath:; Avengers #63 (April 1969); As Golden Archer:; Captain America #179 (November 1974); As Ronin:; New Avengers #27 (April 2007) }}",
+   "full_name": "Clinton Francis \"Clint\" Barton",
+   "alliances": "Avengers; Avengers Academy; Defenders; Great Lakes Avengers; Secret Avengers; S.H.I.E.L.D.; West Coast Avengers; Wild Pack; World Counter-terrorism Agency }}",
+   "aliases": "Hawkeye. Golden Archer, Goliath, Ronin",
+   "species": "Human",
+   "partners": "Mockingbird (ex-wife); Kate Bishop; Black Widow }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hawkeye_%28Clint_Barton%29"
+ },
+ "ant-man-hank-pym": {
+  "title": "Hank Pym",
+  "status": "ok",
+  "fields": {
+   "debut": "As Hank Pym:; Tales to Astonish #27; (January 1962); As Ant-Man:; Tales to Astonish #35; (September 1962); As Giant-Man:; Tales to Astonish #49; (November 1963); As Goliath:; The Avengers #28; (May 1966); As Yellowjacket:; The Avengers #59; (December 1968); As Wasp:; Secret Invasion: Requiem #1; (February 2009); As Ultron:; Avengers: Rage of Ultron #1; (April 2015)",
+   "full_name": "Dr. Henry Jonathan Pym",
+   "alliances": "",
+   "aliases": "Ant-Man; Giant-Man; Goliath; Yellowjacket; Wasp; Scientist Supreme; Ultron",
+   "species": "Human mutate",
+   "partners": "Wasp"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hank_Pym"
+ },
+ "wasp-janet-van-dyne": {
+  "title": "Wasp (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Tales to Astonish #44; (June 1963)",
+   "full_name": "Janet van Dyne",
+   "alliances": "Avengers; Uncanny Avengers; Agents of Wakanda; Lady Liberators; West Coast Avengers; Mighty Avengers; Defenders",
+   "aliases": "Wasp; Winsome Wasp; Wondrous Wasp; Giant Woman",
+   "species": "Human mutate",
+   "partners": "Hank Pym"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wasp_%28character%29"
+ },
+ "vision": {
+  "title": "Vision (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Avengers #57; (August 1968)",
+   "alliances": "Avengers; West Coast Avengers; Avengers A.I.; Defenders; Mighty Avengers; New Avengers",
+   "aliases": "Victor Shade",
+   "species": "Android",
+   "partners": "Scarlet Witch (ex-wife); Viv Vision (daughter)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Vision_%28Marvel_Comics%29"
+ },
+ "scarlet-witch": {
+  "title": "Scarlet Witch",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #4 (March 1964)",
+   "alliances": "Avengers; Brotherhood of Mutants; Defenders; Force Works; Lady Liberators }}",
+   "aliases": "Scarlet Witch; Wanda Frank; Queen of Chaos; Empress of Magic",
+   "species": "Human mutant (originally) ; Human mutate (retconned)",
+   "partners": "Quicksilver; Vision }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+ },
+ "quicksilver": {
+  "title": "Quicksilver (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #4 (March 1964)",
+   "full_name": "Pietro Django Maximoff",
+   "alliances": "",
+   "aliases": "Quicksilver; Pietro Frank; Mateo Maximoff",
+   "species": "Human mutant (originally) ; Human mutate (retconned)",
+   "partners": "Scarlet Witch"
+  },
+  "url": "https://en.wikipedia.org/wiki/Quicksilver_%28Marvel_Comics%29"
+ },
+ "captain-marvel-carol-danvers": {
+  "title": "Carol Danvers",
+  "status": "ok",
+  "fields": {
+   "debut": "As Carol Danvers:; Marvel Super-Heroes #13; (March 1968); As Ms. Marvel:; Ms. Marvel #1; (January 1977); As Binary:; The Uncanny X-Men #164; (December 1982); As Warbird:; The Avengers (vol. 3) #4; (May 1998); As Captain Marvel:; Avenging Spider-Man #9; (July 2012) }}",
+   "full_name": "Carol Susan Jane Danvers (Human name); Car-Ell (Kree name)",
+   "alliances": "Avengers; Alpha Flight Space Program; Guardians of the Galaxy; United States Air Force; Mighty Avengers; New Avengers; Infinity Watch; Starjammers; S.H.I.E.L.D.; Ultimates; A-Force; X-Men; NASA }}",
+   "aliases": "Captain Danvers; Colonel Danvers; Captain Marvel; Major Danvers; Lady Marvel; Ms. Marvel; Warbird; Binary }}",
+   "species": "Human mutate / Kree hybrid",
+   "partners": "Spider-Woman; Jessica Jones; Araña }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+ },
+ "falcon-sam-wilson": {
+  "title": "Falcon (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Falcon:; Captain America #117; (September 1969) ; As Captain America:; Captain America (vol. 7) #25; (December 2014)",
+   "alliances": "Avengers; S.H.I.E.L.D.; \"Defenders for a Day\"; Heroes for Hire; Mighty Avengers; Avengers Unity Squad",
+   "aliases": "\"Snap\" Wilson; Falcon; Blackwing; Blackbird; Captain America",
+   "species": "Human",
+   "partners": "Captain America; Bucky Barnes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Falcon_%28comics%29"
+ },
+ "winter-soldier": {
+  "title": "Bucky Barnes",
+  "status": "ok",
+  "fields": {
+   "debut": "As Bucky:; Captain America Comics #1; (March 1941); As Winter Soldier:; Captain America #6; (May 2005); As Captain America:; Captain America #34; (January 2008); As Revolution:; Captain America: Sentinel of Liberty vol. 2 #6; (November 2022)",
+   "alliances": "Avengers; New Avengers; All-Winners Squad; Invaders; Legion of the Unliving; Liberty Legion; Thunderbolts; U.S. Army; Young Allies",
+   "aliases": "The Winter Soldier; Captain America; Revolution",
+   "species": "Human mutate-cyborg",
+   "partners": "Captain America; Falcon; Black Widow"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bucky_Barnes"
+ },
+ "war-machine": {
+  "title": "War Machine",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alter_ego": "Col. James Rupert \"Rhodey\" Rhodes",
+   "alliances": "",
+   "aliases": "Iron Man; Iron Patriot; Commander Rhodes; Hulk Machine; Iron Man 2.0; Rhodey; Shellshock; The Pilot; Kellen Focht",
+   "species": "Human",
+   "partners": "Iron Man"
+  },
+  "url": "https://en.wikipedia.org/wiki/War_Machine"
+ },
+ "black-panther": {
+  "title": "Black Panther (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #52; (July 1966)",
+   "full_name": "T'Challa",
+   "alliances": "Avengers; Fantastic Four; Mighty Avengers; Fantastic Force; New Avengers; Ultimates; The Crew",
+   "aliases": "Black Leopard; Black Panther; Mr. Okonkwo; Panther King",
+   "species": "",
+   "partners": "Storm; Shuri"
+  },
+  "url": "https://en.wikipedia.org/wiki/Black_Panther_%28character%29"
+ },
+ "ant-man-scott-lang": {
+  "title": "Ant-Man (Scott Lang)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Scott Lang:; The Avengers #181 (March 1979); As Ant-Man:; Marvel Premiere #47 (April 1979)",
+   "alliances": "Avengers; Defenders; Fantastic Four; Future Foundation; Guardians of the Galaxy; Heroes for Hire; Stark Industries; Mighty Avengers; New Avengers",
+   "aliases": "Ant-Man",
+   "species": "Human",
+   "partners": "Hank Pym; Wasp; Stinger; Nadia van Dyne"
+  },
+  "url": "https://en.wikipedia.org/wiki/Ant-Man_%28Scott_Lang%29"
+ },
+ "spider-woman-jessica-drew": {
+  "title": "Spider-Woman (Jessica Drew)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Spotlight #32 (February 1977)",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutate",
+   "partners": "Captain Marvel; Porcupine (Roger Gocking)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Spider-Woman_%28Jessica_Drew%29"
+ },
+ "she-hulk": {
+  "title": "She-Hulk",
+  "status": "ok",
+  "fields": {
+   "debut": "The Savage She-Hulk #1 (November 1979)",
+   "full_name": "Jennifer Susan Walters",
+   "alliances": "Avengers; Ancient Order of the Shield; A-Force; Defenders; Fantastic Force; Fantastic Four; Fearsome Four; Future Foundation; Heroes for Hire; Hulkbusters; The Initiative; Lady Liberators; Mighty Avengers; S.H.I.E.L.D.; Seven Brides Of Set }}",
+   "aliases": "She-Hulk; Sensational She-Hulk; Savage She-Hulk; Agent Walters; Jen",
+   "species": "Human mutate",
+   "partners": "Hulk"
+  },
+  "url": "https://en.wikipedia.org/wiki/She-Hulk"
+ },
+ "hercules": {
+  "title": "Hercules (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "(in shadow) U.S.A. Comics #7 (March 1943); (Golden Age) Young Allies #16 (May 1945); (Silver Age) Journey into Mystery Annual #1 (October 1965)",
+   "full_name": "Hercules Panhellenios (born Alcaeus, later changed to Heracles)",
+   "alliances": "Olympians; Argonauts; Avengers; Champions; Damage Control; Defenders; Heroes for Hire; S.H.I.E.L.D.; God Squad; Renegades; Guardians of the Galaxy",
+   "aliases": "The Prince of Power; The Lion of Olympus; Victor Tegler; Harry Cleese; Agent 125",
+   "species": "Olympian",
+   "partners": "Amadeus Cho"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hercules_%28Marvel_Comics%29"
+ },
+ "wonder-man": {
+  "title": "Wonder Man",
+  "status": "ok",
+  "fields": {
+   "debut": "The Avengers #9 (October 1964)",
+   "alter_ego": "Simon Williams",
+   "alliances": "Avengers; Williams Innovations; West Coast Avengers; Defenders; Force Works; S.H.I.E.L.D.; Lethal Legion; Masters of Evil; Legion of the Unliving; Revengers }}",
+   "aliases": "Mr. Muscles; Hal Canutt }}",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wonder_Man"
+ },
+ "tigra": {
+  "title": "Tigra",
+  "status": "ok",
+  "fields": {
+   "debut": "As the Cat:; The Claws of the Cat #1 (November 1972); ; As Tigra:; Giant-Size Creatures #1 (July 1974)",
+   "alter_ego": "Greer Grant Nelson",
+   "alliances": "",
+   "aliases": "The Cat; Greer Sorenson; Werecat; Were-Woman; Weretiger",
+   "species": "Human mutate (Cat Person)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tigra"
+ },
+ "mockingbird": {
+  "title": "Mockingbird (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alter_ego": "| full_name = Barbara \"Bobbi\" Morse",
+   "full_name": "Barbara \"Bobbi\" Morse",
+   "alliances": "S.H.I.E.L.D.; Avengers; West Coast Avengers; Great Lakes Avengers; Night Shift; Legion of the Unliving; New Avengers; World Counter-terrorism Agency; Secret Avengers; Parker Industries; Force Works; G.I.R.L; Advanced Idea Mechanics (A.I.M); Underground; Daughters of Liberty; Agents of Wakanda }}",
+   "aliases": "Barbara Morse-Barton; Roberta Morse; Agent 19; The Huntress; Mockingbird }}",
+   "species": "Human mutate",
+   "partners": "Kevin Plunder/Ka-Zar; Clint Barton/Hawkeye (ex-husband); Peter Parker/Spider-Man }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mockingbird_%28Marvel_Comics%29"
+ },
+ "sentry": {
+  "title": "Sentry (Robert Reynolds)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Sentry #1 (2000)",
+   "alliances": "Avengers; New Avengers; Mighty Avengers; Dark Avengers; Horsemen of Death",
+   "aliases": "",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sentry_%28Robert_Reynolds%29"
+ },
+ "ms-marvel-kamala-khan": {
+  "title": "Kamala Khan",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "full_name": "Kamala Khan",
+   "alliances": "Avengers; Young Avengers; Champions; Secret Warriors; Protectors; New Avengers; Agents of Atlas; X-Men; X-Force}}",
+   "aliases": "Ms. Marvel; Mystic Marvel",
+   "species": "Inhuman/Mutant hybrid",
+   "partners": "Captain Marvel (Carol Danvers); Spider-Man (Miles Morales); Cyclops}}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Kamala_Khan"
+ },
+ "hawkeye-kate-bishop": {
+  "title": "Hawkeye (Kate Bishop)",
+  "status": "ok",
+  "fields": {
+   "debut": "Young Avengers #1 (April 2005)",
+   "alliances": "Avengers; Young Avengers; Champions; West Coast Avengers; Secret Avengers",
+   "aliases": "Hawkeye; Hawkette; Lady Hawkeye; Lady Hawkguy",
+   "species": "Human",
+   "partners": "Hawkeye (Clint Barton); America Chavez; Gwen Poole; Jeff Poole"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hawkeye_%28Kate_Bishop%29"
+ },
+ "monica-rambeau": {
+  "title": "Monica Rambeau",
+  "status": "ok",
+  "fields": {
+   "debut": "As Captain Marvel:; The Amazing Spider-Man Annual #16; (October 1982); As Photon:; Avengers Unplugged #5; (June 1996); As Pulsar:; New Thunderbolts #9; (August 2005); As Spectrum:; Mighty Avengers #1; (November 2013)",
+   "full_name": "Monica Rambeau",
+   "alliances": "Mighty Avengers; S.W.O.R.D.; Nextwave; Avengers; Ultimates; Defenders",
+   "aliases": "Captain Marvel; Monica Marvel; Sun Goddess; Lady of Light; Spectrum; Daystar; Photon; Pulsar",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Monica_Rambeau"
+ },
+ "jane-foster": {
+  "title": "Jane Foster",
+  "status": "ok",
+  "fields": {
+   "debut": "As Jane Foster:; Journey into Mystery #84; (September 1962); As Thordis:; What If? #10; (August 1978); As Thor:; Thor #1; (October 2014); As Valkyrie:; War of the Realms Omega #1; (July 2019)",
+   "full_name": "Jane Foster",
+   "alliances": "Secret Avengers (Civil War); Thor Corps; Avengers; Valkyrior",
+   "aliases": "Mighty Thor; Lady Thor; Valkyrie; Thor",
+   "species": "Human (access to Asgardian/Valkyrie attributes)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jane_Foster"
+ },
+ "nick-fury": {
+  "title": "Nick Fury",
+  "status": "ok",
+  "fields": {
+   "debut": "Sgt. Fury and his Howling Commandos #1 (May 1963)",
+   "full_name": "Nicholas Joseph Fury",
+   "alliances": "",
+   "aliases": "",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Nick_Fury"
+ },
+ "maria-hill": {
+  "title": "Maria Hill",
+  "status": "ok",
+  "fields": {
+   "debut": "New Avengers #4; (March 2005)",
+   "alliances": "U.S. military; S.H.I.E.L.D.; Avengers; Secret Avengers; Force Works",
+   "aliases": "Director Hill; Commander Hill; Deputy Commander Hill",
+   "species": "Human",
+   "partners": "Nick Fury; Iron Man; Captain America"
+  },
+  "url": "https://en.wikipedia.org/wiki/Maria_Hill"
+ },
+ "black-knight-dane-whitman": {
+  "title": "Black Knight (Dane Whitman)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Avengers #47; (December 1967)",
+   "alter_ego": "Dane Whitman",
+   "alliances": "Heroes for Hire; The Defenders; Masters of Evil; The Avengers; New Avalon; Euroforce; Excalibur; MI-13",
+   "aliases": "The Pendragon; Phoenix Knight; Black Knight; Bloodwraith"
+  },
+  "url": "https://en.wikipedia.org/wiki/Black_Knight_%28Dane_Whitman%29"
+ },
+ "wolverine": {
+  "title": "Wolverine (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Incredible Hulk #180 (October 1974)",
+   "alter_ego": "James \"Logan\" Howlett",
+   "alliances": "X-Men; Avengers; X-Force; Team X; Savage Avengers; Alpha Flight; Canadian Army; New Fantastic Four }}",
+   "aliases": "Logan, Patch, Weapon X",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wolverine_%28character%29"
+ },
+ "cyclops": {
+  "title": "Cyclops (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "alter_ego": "Scott Summers",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cyclops_%28Marvel_Comics%29"
+ },
+ "jean-grey": {
+  "title": "Jean Grey",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "full_name": "Jean Elaine Grey-Summers",
+   "alliances": "X-Men; Quiet Council of Krakoa; Brides of Set; Muir Island X-Men; Clan Rebellion; X-Terminators; Hellfire Club; The Twelve; X-Factor; X-Force",
+   "aliases": "Marvel Girl; Phoenix; Dark Phoenix; White Phoenix of the Crown; Redd Dayspring; Jean Grey-Summers",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jean_Grey"
+ },
+ "storm": {
+  "title": "Storm (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Giant-Size X-Men #1; (May 1975)",
+   "alter_ego": "Ororo Munroe",
+   "alliances": "X-Men; Avengers; Fantastic Four; Swordbearers of Krakoa; Great Ring of Arakko; Brotherhood of Arakko",
+   "aliases": "Weather Witch; White King; Windrider",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+ },
+ "professor-x": {
+  "title": "Professor X",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "alter_ego": "Prof. Charles Francis Xavier",
+   "alliances": "X-Men; Illuminati; X-Corporation; The Twelve; New Mutants; Genoshan Excalibur; Starjammers; Cadre K; Brotherhood of Mutants; United States Army; Quiet Council of Krakoa",
+   "aliases": "Consort-Royal; Founder; Doctor X; Warlord; Entity; Prisoner M-13; X",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Professor_X"
+ },
+ "beast": {
+  "title": "Beast (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men #1 (September 1963)",
+   "alter_ego": "Dr. Henry Philip \"Hank\" McCoy",
+   "alliances": "X-Men; Avengers; Defenders; X-Factor; Illuminati; Secret Avengers; 3K",
+   "aliases": "Kreature; Wildlife; Chairman",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Beast_%28Marvel_Comics%29"
+ },
+ "iceman": {
+  "title": "Iceman (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "alter_ego": "Robert Louis \"Bobby\" Drake",
+   "alliances": "",
+   "aliases": "Mister Friese; Frosty",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Iceman_%28Marvel_Comics%29"
+ },
+ "archangel": {
+  "title": "Warren Worthington III",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "full_name": "Warren Kenneth Worthington III",
+   "alliances": "X-Men; X-Force; X-Club; Mutantes Sans Frontières; X-Factor; Renegades; The Champions of Los Angeles; The Defenders/The Secret Defenders; Hellfire Club; Horsemen of Apocalypse; X-Terminators; Worthington Industries; Cheyarafim; Jean Grey School Students",
+   "aliases": "Angel; Avenging Angel; Archangel; Dark Angel; Death; Master of the Seven Seeds",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
+ },
+ "nightcrawler": {
+  "title": "Nightcrawler (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alliances": "",
+   "aliases": "| powers =; Teleportation; Enhanced agility, flexibility, and night vision; Prehensile tail; Ability to cling to surfaces; Camouflage in shadows; Superb acrobat, fencer, and hand-to-hand combatant",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Nightcrawler_%28character%29"
+ },
+ "colossus": {
+  "title": "Colossus (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Giant-Size X-Men #1 (May 1975)",
+   "alter_ego": "Piotr Nikolayevich \"Peter\" Rasputin",
+   "alliances": "X-Men; Defenders; Excalibur; Acolytes; Phoenix Five; X-Force; Quiet Council of Krakoa",
+   "aliases": "Rasputin; The Proletarian; Peter Nicholas; Juggernaut",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Colossus_%28character%29"
+ },
+ "kitty-pryde": {
+  "title": "Kitty Pryde",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #129; (January 1980)",
+   "full_name": "Katherine Anne \"Kitty\" Pryde",
+   "alliances": "X-Men; All-New X-Men; Excalibur; Marauders ; S.H.I.E.L.D.; Guardians of the Galaxy; Hellfire Trading Company; Quiet Council of Krakoa",
+   "aliases": "Shadowcat; Ariel; Sprite; Star-Lord (Star-Lady); Captain Kate Pryde; Red Queen ; Shadowkat",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Kitty_Pryde"
+ },
+ "rogue": {
+  "title": "Rogue (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Avengers Annual #10 (October 1981)",
+   "alliances": "X-Men; Brotherhood of Evil Mutants; X-Treme X-Men; Avengers Unity Squad}}",
+   "aliases": "Anna Raven; Anna Marie LeBeau|powers=* Attribute, memory, and energy absorption through tactile contact; Superhuman strength, speed, durability, and flight|sortkey=Rogue|cat=super|hero=y|villain=y|altcat=Marvel Comics|full_name=Anna Marie (maiden name unknown)",
+   "species": "Human mutant",
+   "partners": "Gambit"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rogue_%28Marvel_Comics%29"
+ },
+ "gambit": {
+  "title": "Gambit (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Published:; The Uncanny X-Men Annual #14 (July 1990); In-story:; The Uncanny X-Men #266 (August 1990)",
+   "alliances": "X-Men; X-Factor; Excalibur; Marauders; Horsemen of Apocalypse; XSE; Thieves Guild",
+   "aliases": "Le Diable Blanc; Ragin' Cajun; Robert Lord; Death",
+   "species": "Human mutant",
+   "partners": "Rogue"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gambit_%28Marvel_Comics%29"
+ },
+ "jubilee": {
+  "title": "Jubilee (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #244 (May 1989)",
+   "alliances": "X-Men; Forgiven; Generation X; X-Force; X-Corps; New Warriors; Patsy Walker Temp Agency; Excalibur; X-Terminators }}",
+   "aliases": "Wondra",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jubilee_%28character%29"
+ },
+ "psylocke-betsy-braddock": {
+  "title": "Betsy Braddock",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "full_name": "Elizabeth \"Betsy\" Braddock",
+   "alliances": "S.T.R.I.K.E.; X-Men; The Hand; Exiles; X-Force; Horsemen of Apocalypse; Excalibur; Captain Britain Corps",
+   "aliases": "Captain Britain; Psylocke; Lady Mandarin",
+   "species": "Human mutant-Otherworlder hybrid",
+   "partners": "Brian Braddock; Jamie Braddock; Kwannon; Warren Worthington; Rachel Summers"
+  },
+  "url": "https://en.wikipedia.org/wiki/Betsy_Braddock"
+ },
+ "bishop": {
+  "title": "Bishop (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #282; (November 1991)",
+   "full_name": "Lucas Bishop",
+   "alliances": "X-Men; X-Treme Sanctions Executive; Xavier's Security Enforcers; X-Treme X-Men; The Twelve; Marauders; Interpol; Office of National Emergency; NYPD",
+   "aliases": "Red Bishop",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bishop_%28Marvel_Comics%29"
+ },
+ "cable": {
+  "title": "Cable (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Nathan Summers:; The Uncanny X-Men #201 (Jan. 1986); As Cable:; The New Mutants #87 (March 1990)",
+   "alter_ego": "Nathan Christopher Charles Summers",
+   "alliances": "",
+   "aliases": "Nathan Winters, Nathan Dayspring, Askani'son, Soldier X, Chosen One, Traveler, Kid Cable (Nate Summers)",
+   "species": "Human mutant",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Cable_%28character%29"
+ },
+ "emma-frost": {
+  "title": "Emma Frost",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #129 (January 1980)",
+   "full_name": "Emma Grace Frost",
+   "alliances": "X-Men; Hellfire Club; Quiet Council of Krakoa; Generation X; Phoenix Five; Dark X-Men; Marauders; The Cabal; Hellions; Frost International; Legion Accursed }}",
+   "aliases": "Hazel Kendal; White Queen; Black Queen; Black King; Ice Queen }}| powers =; Telepathic abilities:; * Mental sedation, paralysis, and suggestions; * Psionic blast, shielding, and lightning; * Mind reading and control; * Telepathic illusions; * Pain inducement; * Astral projection; * Power inhibition; * Memory wiping; Shapeshifting into an organic diamond form, granting:; * Superhuman strength, durability, and stamina; * Nigh-invulnerability; * Psychic immunity; (but greatly diminishing her psychic powers); Skilled hand-to-hand combatant",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Emma_Frost"
+ },
+ "havok": {
+  "title": "Havok (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #54 (March 1969)",
+   "alliances": "X-Men; Avengers; Avengers Unity Squad; X-Factor Investigations; Starjammers; X-Factor; Six; Genoshan Magistrates; Defenders for a Day; Brotherhood of Mutants; Dark Descendants; Hellions",
+   "aliases": "Mutant X, Magistrate Summers, Goblin Prince",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Havok_%28character%29"
+ },
+ "polaris": {
+  "title": "Polaris (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #49; (October 1968)",
+   "alter_ego": "Dr. Lorna Sally Dane",
+   "alliances": "Horsemen of Apocalypse; Starjammers; X-Factor; Acolytes; X-Men",
+   "aliases": "Malice; Pestilence",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Polaris_%28Marvel_Comics%29"
+ },
+ "banshee": {
+  "title": "Banshee (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #28 (Jan. 1967)",
+   "alter_ego": "Sean Cassidy|homeworld=County Mayo, Ireland",
+   "alliances": "Interpol; NYPD; Factor Three; X-Men; Generation X; X-Corps; Horsemen of Death }}",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Banshee_%28character%29"
+ },
+ "sunfire": {
+  "title": "Sunfire (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men #64 (January 1970)",
+   "alliances": "Avengers Unity Squad; X-Men; Horsemen of Apocalypse; Death's Champions; Pacific Overlords; X-Corporation Mumbai; The Twelve; Big Hero 6; Marauders; Tiger Division; Defenders",
+   "aliases": "Famine",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sunfire_%28character%29"
+ },
+ "forge": {
+  "title": "Forge (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #184 (Aug. 1984)",
+   "alliances": "United States Army; X-Men; X-Factor; X-Corporation; X-Force",
+   "aliases": "Maker, Genesis",
+   "species": "Human Mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Forge_%28character%29"
+ },
+ "dazzler": {
+  "title": "Dazzler (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #130; (February 1980)",
+   "alliances": "Gladiators; New Excalibur; The 198; S.H.I.E.L.D.; X-Men; Wildways Rebellion; A-Force; Heralds of Galactus }}",
+   "aliases": "The Disco Dazzler",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Dazzler_%28Marvel_Comics%29"
+ },
+ "longshot": {
+  "title": "Longshot (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Longshot #1 (September 1985)",
+   "alliances": "",
+   "aliases": "",
+   "species": "Artificial Mojoverse lifeform"
+  },
+  "url": "https://en.wikipedia.org/wiki/Longshot_%28Marvel_Comics%29"
+ },
+ "magik": {
+  "title": "Magik",
+  "status": "ok",
+  "fields": {
+   "debut": "As Illyana Rasputina:; Giant-Size X-Men #1; (May 1975); As Magik:; Magik (Storm and Illyana) #1; (December 1983)",
+   "alter_ego": "Illyana Nikolaievna Rasputina",
+   "alliances": "Phoenix Five; New Mutants; Hellions; X-Men; Swordbearers of Krakoa",
+   "aliases": "The Darkchilde; Archimage; Lightchilde",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Magik"
+ },
+ "x-23": {
+  "title": "X-23",
+  "status": "ok",
+  "fields": {
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/X-23"
+ },
+ "northstar": {
+  "title": "Northstar (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #120 (April 1979)",
+   "alter_ego": "Jean-Paul Beaubier",
+   "alliances": "X-Men; Children of the Vault; Hydra; Alpha Flight; Secret Defenders; FLQ; Alpha Squadron; Dawn of White Light",
+   "aliases": "Jean-Paul Martin",
+   "species": "Human mutant",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Northstar_%28character%29"
+ },
+ "aurora": {
+  "title": "Aurora (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #120 (April 1979)",
+   "alter_ego": "Jeanne-Marie Beaubier|imagesize=200",
+   "alliances": "Alpha Flight; Beta Flight; Brotherhood of Mutants; Gamma Flight; NASA; Royal Canadian Mounted Police; The 198; The Children; Weapon X; X-Factor; X-Men; Marauders }}",
+   "aliases": "Sister Beaubier",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Aurora_%28comics%29"
+ },
+ "rachel-summers": {
+  "title": "Rachel Summers",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #141 (Jan. 1981)",
+   "full_name": "Rachel Anne Summers",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutant",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Rachel_Summers"
+ },
+ "moira-mactaggert": {
+  "title": "Moira MacTaggert",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #96 (December 1975)",
+   "full_name": "Dr. Moira Kinross \"Moira X\" MacTaggert",
+   "alliances": "Muir Island X-Men; Excalibur; X-Men",
+   "species": "Human; Human/Sentinel cyborg (formerly); Depowered human mutant (formerly)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Moira_MacTaggert"
+ },
+ "magneto": {
+  "title": "Magneto (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #1; (September 1963)",
+   "alter_ego": "Max Eisenhardt",
+   "alliances": "Brotherhood of Mutants; X-Men; New Mutants; Hellfire Club; Acolytes; Astonishing Avengers; Quiet Council of Krakoa; Great Ring of Arakko",
+   "aliases": "Magnus; Erik Lehnsherr; White King (later Grey King) of the Hellfire Club; Michael Xavier; Erik the Red; Henryk Gurzsky; White Pilgrim",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Magneto_%28Marvel_Comics%29"
+ },
+ "mystique": {
+  "title": "Mystique (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alliances": "Brotherhood of Mutants; X-Men; Astonishing Avengers; Chevaliers training squad; Dark X-Men; DARPA; Freedom Force; Marauders; Mossad; The Hand; X-Corps; X-Factor; Lethal Legion; Hellfire Club; Weapon X-Force; Wolverines; S.H.I.E.L.D.; Mutant Task Force; Magneto's X-Men; Quiet Council of Krakoa}}",
+   "aliases": "",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mystique_%28character%29"
+ },
+ "sabretooth": {
+  "title": "Sabretooth (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Iron Fist #14 (August 1977)",
+   "alter_ego": "Victor Creed",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sabretooth_%28character%29"
+ },
+ "juggernaut": {
+  "title": "Juggernaut (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #12 (July 1965)",
+   "alter_ego": "Cain Marko",
+   "alliances": "United States Army; Brotherhood of Mutants; All-New Exiles; New Excalibur; Lethal Legion; X-Men; Thunderbolts",
+   "aliases": "Captain Universe; Kuurth: Breaker of Stone",
+   "species": "Human (empowered)",
+   "partners": "Black Tom Cassidy; ForgetMeNot"
+  },
+  "url": "https://en.wikipedia.org/wiki/Juggernaut_%28character%29"
+ },
+ "apocalypse": {
+  "title": "Apocalypse (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Unnamed Appearance: Marvel Graphic Novel #17 (July 1985); Cameo appearance: X-Factor #5 (June 1986); Full appearance: X-Factor #6 (July 1986)",
+   "alliances": "Four Horsemen; Dark Riders; Clan Akkaba; Coven Akkaba; Alliance of Evil; Quiet Council of Krakoa; Swordbearers of Krakoa }}",
+   "aliases": "The First One; Genesis; En Sabah Nur; Set; Sarau; Kali-ma; Huitzilopochtli; Eternal One; Revelation",
+   "species": "Human mutant",
+   "partners": "Mister Sinister; Ozymandias; Genesis (wife) }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Apocalypse_%28character%29"
+ },
+ "mister-sinister": {
+  "title": "Mister Sinister",
+  "status": "ok",
+  "fields": {
+   "debut": "* First mentioned: The Uncanny X-Men #212 (1986); First seen in silhouette: The Uncanny X-Men #213 (1987); First full appearance: The Uncanny X-Men #221 (1987)",
+   "alter_ego": "Dr. Nathaniel Essex",
+   "alliances": "Marauders; Nasty Boys; Intelligencia; Quiet Council of Krakoa; Hellions",
+   "aliases": "Nathan Milbury, Robert Windsor, Mike Milbury, Nosferatu, Sinister",
+   "species": "Human mutate",
+   "partners": "Apocalypse"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mister_Sinister"
+ },
+ "sebastian-shaw": {
+  "title": "Sebastian Shaw (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #129 (January 1980)",
+   "full_name": "Sebastian Hiram Shaw",
+   "alliances": "Marauders; Hellfire Club; Shaw Industries; Quiet Council of Krakoa",
+   "aliases": "Black King; Lord Imperial; Black Bishop; The Creator",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sebastian_Shaw_%28character%29"
+ },
+ "toad": {
+  "title": "Toad (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #4 (March 1964)",
+   "full_name": "Mortimer Toynbee",
+   "alliances": "Brotherhood of Mutants; The 198; Defenders; The Misfits; Jean Grey School; Lethal Legion",
+   "aliases": "Toad, The Terrible Toad-King, Stranger",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Toad_%28Marvel_Comics%29"
+ },
+ "blob": {
+  "title": "Blob (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #3 (January 1964)",
+   "full_name": "Frederick J. \"Fred\" Dukes",
+   "alliances": "Secret Empire; X-Cell; Brotherhood of Evil Mutants; X-Corps; Factor Three; Freedom Force; Defenders",
+   "aliases": "Blob; Freddie Dukes",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Blob_%28Marvel_Comics%29"
+ },
+ "pyro": {
+  "title": "Pyro (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #141 (January 1981)",
+   "alliances": "Brotherhood of Mutants; Freedom Force; Lethal Legion; Marauders; X-Factor",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Pyro_%28Marvel_Comics%29"
+ },
+ "avalanche": {
+  "title": "Avalanche (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #141 (Jan. 1981)",
+   "alliances": "X-Corps; Freedom Force; Project Wideawake; Brotherhood of Mutants ; S.W.O.R.D.",
+   "aliases": "Dominic Janos Petros, Jon Bloom, Dominic Szilard, Nick",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Avalanche_%28character%29"
+ },
+ "destiny": {
+  "title": "Destiny (Irene Adler)",
+  "status": "search",
+  "fields": {
+   "debut": "Uncanny X-Men #141; (October 21, 1980)",
+   "alliances": "",
+   "aliases": "| powers = Precognition",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Destiny_%28Irene_Adler%29"
+ },
+ "omega-red": {
+  "title": "Omega Red",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men (vol. 2) #4 (January 1992)",
+   "alliances": "The Hand; Red Mafia; Weapon X-Force; The Marauders",
+   "aliases": "Arkady Gregorivich; Vasyliev Arkady",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Omega_Red"
+ },
+ "bolivar-trask": {
+  "title": "Bolivar Trask",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #14 (November 1965)",
+   "full_name": "Bolivar Trask",
+   "alliances": "Sentinels; Purifiers; Control",
+   "aliases": "|powers = Genius-level intellect",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bolivar_Trask"
+ },
+ "cassandra-nova": {
+  "title": "Cassandra Nova",
+  "status": "ok",
+  "fields": {
+   "debut": "New X-Men #114 (July 2001)",
+   "alliances": "Marauders; 3K",
+   "aliases": "Charles Xavier / Professor X",
+   "species": "Mummudrai"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cassandra_Nova"
+ },
+ "exodus": {
+  "title": "Exodus (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Factor #92 (July 1993)",
+   "alliances": "Marauders; Acolytes; The 198; Crusaders; Brotherhood of Mutants; Quiet Council of Krakoa",
+   "aliases": "Paris Bennet",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Exodus_%28character%29"
+ },
+ "stryfe": {
+  "title": "Stryfe",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #86 (February 1990)",
+   "alliances": "Mutant Liberation Front; Dark Riders",
+   "aliases": "Chaos Bringer, Scion of the Dark Lord, Nathan Summers / Cable",
+   "species": "Human mutant clone"
+  },
+  "url": "https://en.wikipedia.org/wiki/Stryfe"
+ },
+ "lady-deathstrike": {
+  "title": "Lady Deathstrike",
+  "status": "ok",
+  "fields": {
+   "debut": "As Yuriko Oyama:; Daredevil #197 (August 1983); As Lady Deathstrike:; Alpha Flight #33 (April 1986); As upgraded Lady Deathstrike:; Uncanny X-Men #205 (May 1986)",
+   "alliances": "Sisterhood of Mutants; Reavers; Thunderbolts; Weapon X-Force; Wolverines; Oyama Heavy Industries",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lady_Deathstrike"
+ },
+ "selene": {
+  "title": "Selene (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #9; (November 1983)",
+   "alliances": "Hellfire Club; Externals; Sisterhood of Mutants; Power Elite",
+   "aliases": "Black Queen; Black Priestess; Dark Huntress; Moon Goddess",
+   "species": "Human mutant",
+   "partners": "Eli Bard; Wither; Mortis; Senyaka; Blink"
+  },
+  "url": "https://en.wikipedia.org/wiki/Selene_%28comics%29"
+ },
+ "mojo": {
+  "title": "Mojo (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Longshot #3 (Nov. 1985)",
+   "alliances": "",
+   "aliases": "| powers = Superhuman physical attributes; Mystical powers",
+   "species": "Spineless One",
+   "partners": "Spiral; Major Domo"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mojo_%28comics%29"
+ },
+ "arcade": {
+  "title": "Arcade (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Team-Up #65; (January 1978)",
+   "alliances": "Masters of Evil; Crazy Gang",
+   "aliases": "Mister A, \"Mad Monk,\" Pinball Wizard, A.R. Cadenski"
+  },
+  "url": "https://en.wikipedia.org/wiki/Arcade_%28Marvel_Comics%29"
+ },
+ "onslaught": {
+  "title": "Onslaught (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men vol. 2 #53 (May 1996)",
+   "full_name": "None",
+   "alliances": "Dark Descendants",
+   "aliases": "Charles Xavier; Patchwork Man; Dark Xavier; Death; The Entity; Magneto; \"That Which Shall Survive\"",
+   "species": "Psionic entity mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Onslaught_%28Marvel_Comics%29"
+ },
+ "silver-samurai": {
+  "title": "Silver Samurai",
+  "status": "ok",
+  "fields": {
+   "debut": "Kenuichio Harada: ; Daredevil #111 (July 1974) ; Shingen Yashida: ; Wolverine #1 (Sept. 1982)",
+   "alliances": "| partners =",
+   "aliases": "| powers = * Master samurai and martial artist; Teleportation ring; Wears a lightweight steel alloy body armor; Extensive knowledge of criminal organizations; Wields katana, shuriken and other weapons; Ability to generate a tachyon field",
+   "species": "| publisher = Marvel Comics",
+   "partners": "| aliases ="
+  },
+  "url": "https://en.wikipedia.org/wiki/Silver_Samurai"
+ },
+ "black-tom-cassidy": {
+  "title": "Black Tom Cassidy",
+  "status": "ok",
+  "fields": {
+   "debut": "Cameo appearance: X-Men #99 (June 1976); Full appearance: X-Men #101 (Oct. 1976)",
+   "alliances": "Brotherhood of Mutants",
+   "aliases": "|powers = (Currently):; Bio-organic thermokinesis; Wood manipulation; Environmental symbiosis; Possible genetic immunity (Formerly):; Plant manipulation; Life-force absorption",
+   "species": "Human mutant",
+   "partners": "Juggernaut; Siryn"
+  },
+  "url": "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
+ },
+ "mastermind-jason-wyngarde": {
+  "title": "Mastermind (Jason Wyngarde)",
+  "status": "ok",
+  "fields": {
+   "debut": "The X-Men #4; (March 1964)",
+   "full_name": "Jason Wyngarde|aliases=Mastermind",
+   "alliances": "Secret Empire; Brotherhood of Evil Mutants; Factor Three; Hellfire Club",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mastermind_%28Jason_Wyngarde%29"
+ },
+ "callisto": {
+  "title": "Callisto (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #169; (May 1983)",
+   "alliances": "",
+   "aliases": "White Knight",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Callisto_%28comics%29"
+ },
+ "sauron": {
+  "title": "Sauron (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Karl Lykos:; The X-Men #59 (August 1969); As Sauron:; The X-Men #60 (September 1969)",
+   "alliances": "Brotherhood of Mutants; Savage Land Mutates; Weapon X; X-Men Green",
+   "aliases": "| powers =; Superhuman strength, speed, stamina, durability and intelligence; Flight; Hypnotic eyes; Razor-sharp claws; Fire-breath; Ability to absorb life forces and mutant powers, and sense mutants",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sauron_%28Marvel_Comics%29"
+ },
+ "bastion": {
+  "title": "Bastion (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men (vol. 2) #52 (May 1996)",
+   "alliances": "Purifiers; Friends of Humanity; Operation: Zero Tolerance; Humanity's Last Stand",
+   "aliases": "Master Mold, Nimrod, Arnold Rodriguez, Template, The Oracle",
+   "species": "Android"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bastion_%28comics%29"
+ },
+ "donald-pierce": {
+  "title": "Donald Pierce",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #132 (April 1980)",
+   "alliances": "Purifiers; Reavers; Hellfire Club",
+   "aliases": "White Bishop, White King, Cyclops",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Donald_Pierce"
+ },
+ "azazel": {
+  "title": "Azazel (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Uncanny X-Men #428; (July 2003)",
+   "alliances": "Hellfire Club; Dark X-Men",
+   "aliases": "Satan; Beelzebub; Beliar",
+   "species": "Mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Azazel_%28Marvel_Comics%29"
+ },
+ "proteus": {
+  "title": "Proteus (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #125 (September 1979)",
+   "alliances": "|aliases=Proteus; Mutant X",
+   "aliases": "Proteus; Mutant X",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Proteus_%28Marvel_Comics%29"
+ },
+ "cannonball": {
+  "title": "Cannonball (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Graphic Novel #4: The New Mutants; (September 1982)",
+   "alliances": "New Mutants; X-Force; Avengers; X-Corporation; U.S.Avengers; X-Men; Jean Grey School; X-Treme X-Men; Hellfire Club; Hellions; XSE",
+   "aliases": "Starshine",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cannonball_%28Marvel_Comics%29"
+ },
+ "sunspot": {
+  "title": "Sunspot (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Graphic Novel #4: The New Mutants (September 1982)",
+   "alliances": "New Mutants; Avengers; A.I.M.; Costa International; Fallen Angels; Hellfire Club; New Avengers; X-Corporation; X-Force; X-Men; Young X-Men; U.S.Avengers; S.H.I.E.L.D.; Great Ring of Arakko; Brotherhood of Arakko",
+   "aliases": "Lord Imperial, Black Rook, Black King, Citizen V",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sunspot_%28character%29"
+ },
+ "wolfsbane": {
+  "title": "Wolfsbane (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants (September 1982)",
+   "alliances": "X-Force; X-Factor Investigations; Paragons; Excalibur; X-Factor; New Mutants; Hellions; Xavier Institute; X-Men",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wolfsbane_%28character%29"
+ },
+ "mirage": {
+  "title": "Danielle Moonstar",
+  "status": "search",
+  "fields": {
+   "debut": "The New Mutants; (September 1982)",
+   "full_name": "Danielle \"Dani\" Moonstar",
+   "alliances": "New Mutants; Valkyrior; S.H.I.E.L.D.; Hellions; Mutant Liberation Front; X-Force; Xavier Institute; The Initiative; Young X-Men; Fearless Defenders; X-Men; X-Corps; Society of the Eternal Dawn",
+   "aliases": "Psyche; Mirage; Moonstar",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Danielle_Moonstar"
+ },
+ "karma": {
+  "title": "Karma (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Team-Up #100 (December 1980)",
+   "alliances": "New Mutants; Xavier Institute; X-Men; Utopians; Tiger Division",
+   "aliases": "Xi'an Coy Manh; Shan",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Karma_%28character%29"
+ },
+ "magma": {
+  "title": "Magma (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #8; (October 1983)",
+   "alliances": "",
+   "aliases": "Alison Crestmere",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Magma_%28character%29"
+ },
+ "warlock-technarch": {
+  "title": "Warlock (New Mutants)",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #18; (August 1984)",
+   "alter_ego": "|full_name = Warlock",
+   "full_name": "Warlock",
+   "alliances": "New Mutants; Fallen Angels; Phalanx; Excalibur; X-Factor; X-Men; Swordbearers of Krakoa",
+   "aliases": "Douglock; Moonlock; Warlox",
+   "species": "Technarch Mutant",
+   "partners": "Cypher"
+  },
+  "url": "https://en.wikipedia.org/wiki/Warlock_%28New_Mutants%29"
+ },
+ "cypher": {
+  "title": "Cypher (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alliances": "New Mutants; Hellions; X-Force; X-Men; X-Factor; Quiet Council of Krakoa; Swordbearers of Krakoa",
+   "aliases": "Revelation",
+   "species": "Human mutant",
+   "partners": "Warlock; Bei the Blood Moon (wife)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cypher_%28Marvel_Comics%29"
+ },
+ "domino": {
+  "title": "Domino (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Impersonated by Copycat:; The New Mutants #98; (February 1991); Herself: ; Cameo: X-Force #8; (March 1992); Full appearance: X-Force #11; (June 1992)",
+   "alliances": "",
+   "aliases": "Neena Beatrice Thurman; Beatrice Thurman; Samantha Wu; Tamara Winter; Elena Vladescu; Jessica Marie Costello; Luisa Mendoza; Christina Elizabeth Alioso; Priscilla Sutherland; Hope Eldridge",
+   "species": "Human mutant",
+   "partners": "Cable; Deadpool"
+  },
+  "url": "https://en.wikipedia.org/wiki/Domino_%28character%29"
+ },
+ "deadpool": {
+  "title": "Deadpool",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #98 (February 1991)",
+   "alter_ego": "| species = Human mutate",
+   "full_name": "Wade Winston Wilson",
+   "alliances": "X-Men; Avengers; Astonishing Avengers; Deadpool Corps; Frightful Four ; Great Lakes Initiative; Heroes for Hire; Mercs for Money; Secret Defenders; Six Pack; Thunderbolts; Weapon X; X-Force",
+   "aliases": "Merc with a Mouth",
+   "species": "Human mutate",
+   "partners": "Cable; Domino; Bob, Agent of Hydra; Wolverine; Spider-Man"
+  },
+  "url": "https://en.wikipedia.org/wiki/Deadpool"
+ },
+ "shatterstar": {
+  "title": "Shatterstar",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #99 (March 1991)",
+   "alliances": "",
+   "aliases": "Benjamin Russell",
+   "species": "Genetically-engineered humanoid mutant",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Shatterstar"
+ },
+ "warpath": {
+  "title": "Warpath (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "New Mutants #16 (June 1984)",
+   "alliances": "X-Men; X-Force; Hellions; New Mutants; X-Corporation; Weapon X; Weapon X-Force",
+   "aliases": "Thunderbird, Running Sun",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Warpath_%28character%29"
+ },
+ "boom-boom": {
+  "title": "Tabitha Smith",
+  "status": "search",
+  "fields": {
+   "debut": "Secret Wars II #5 (Nov. 1985)",
+   "full_name": "Tabitha Smith",
+   "alliances": "Fallen Angels; X-Terminators; New Mutants; Underground; X-Force; Nextwave; X-Men",
+   "aliases": "Time Bomb; Boom-Boom; Boomer; Meltdown; Firecracker; Mutate #35",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tabitha_Smith"
+ },
+ "rictor": {
+  "title": "Rictor",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Factor #17 (June 1987)",
+   "alliances": "",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rictor"
+ },
+ "strong-guy": {
+  "title": "Strong Guy",
+  "status": "ok",
+  "fields": {
+   "debut": "The New Mutants #29 (July 1985)",
+   "alliances": "New Mutants; X-Factor Investigations; Singularity Investigations; X-Factor; The Arena",
+   "aliases": "|powers=Ability to rechannel kinetic energy into physical strength",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Strong_Guy"
+ },
+ "multiple-man": {
+  "title": "Jamie Madrox",
+  "status": "ok",
+  "fields": {
+   "debut": "Giant Size Fantastic Four #4 (February 1975)",
+   "alliances": "X-Factor Investigations; Muir Island X-Men; X-Factor; X-Corps; X-Corporation; Fallen Angels; Nasty Boys; S.H.I.E.L.D.; Hydra",
+   "aliases": "Multiple Man; Madrox the Multiple Man; Reverend; John Maddox",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jamie_Madrox"
+ },
+ "siryn": {
+  "title": "Siryn",
+  "status": "ok",
+  "fields": {
+   "debut": "Spider-Woman #37; (April 1981)",
+   "alliances": "X-Factor Investigations; Muir Island X-Men; X-Corporation; Fallen Angels; X-Force",
+   "aliases": "Tracy Cassidy; Morrigan; Banshee",
+   "species": "Human mutant",
+   "partners": "Black Tom Cassidy; Juggernaut"
+  },
+  "url": "https://en.wikipedia.org/wiki/Siryn"
+ },
+ "hope-summers": {
+  "title": "Hope Summers (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men #205; (November 2007)",
+   "alliances": "X-Men; X-Men in training; The Five; The Lights; Jean Grey School Students; X-Force; Quiet Council of Krakoa",
+   "aliases": "Mutant Messiah; White Phoenix; MeMe",
+   "species": "Human mutant",
+   "partners": "Cable"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hope_Summers_%28character%29"
+ },
+ "quentin-quire": {
+  "title": "Quentin Quire",
+  "status": "ok",
+  "fields": {
+   "debut": "New X-Men #134 (Jan. 2003)",
+   "full_name": "Quintavius Quirinius \"Quentin\" Quire",
+   "alliances": "Omega Gang; Xavier Institute; Generation X; West Coast Avengers; X-Force; X-Men",
+   "aliases": "Kid Omega; Phoenix",
+   "species": "Human mutant",
+   "partners": "Wolverine"
+  },
+  "url": "https://en.wikipedia.org/wiki/Quentin_Quire"
+ },
+ "pixie": {
+  "title": "Pixie (X-Men)",
+  "status": "search",
+  "fields": {
+   "debut": "New X-Men: Academy X #5; (November 2004)",
+   "alliances": "Jean Grey School Students; Paragons training squad; X-Men-In-Training; Xavier Institute; New X-Men; The Lights; X-Men",
+   "aliases": "Winged Witch",
+   "species": "Human mutant / fairy hybrid"
+  },
+  "url": "https://en.wikipedia.org/wiki/Pixie_%28X-Men%29"
+ },
+ "armor": {
+  "title": "Iron Man",
+  "status": "search",
+  "fields": {
+   "debut": "Tales of Suspense #39; (December 1962)",
+   "alliances": "",
+   "species": "Human",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Iron_Man"
+ },
+ "blink": {
+  "title": "Blink (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Uncanny X-Men #317 (Oct. 1994)",
+   "alliances": "X-Men (AoA); Exiles",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Blink_%28character%29"
+ },
+ "chamber": {
+  "title": "Chamber (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Generation X #1 (November 1994)",
+   "alliances": "Generation X; X-Men; Weapon X; Clan Akkaba; New Warriors; Jean Grey School; Morlocks; New Mutants",
+   "aliases": "Decibel",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Chamber_%28character%29"
+ },
+ "husk": {
+  "title": "Husk (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Rom Annual #3 (Nov. 1984)",
+   "alliances": "",
+   "aliases": "| powers = Shedding: the ability to shed skin into a different composition, shape, or size beneath; Experienced in martial arts",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Husk_%28comics%29"
+ },
+ "marrow": {
+  "title": "Marrow (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Sarah:; Cable #15; (September 1994); As Marrow:; X-Men Prime; (July 1995)",
+   "alliances": "Gene Nation; S.H.I.E.L.D.; Weapon X; Morlocks; X-Force; X-Men",
+   "aliases": "Sarah Rushman",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Marrow_%28character%29"
+ },
+ "maggott": {
+  "title": "Maggott",
+  "status": "ok",
+  "fields": {
+   "debut": "Uncanny X-Men #345 (1997)",
+   "alliances": "X-Men; Generation X; Dark X-Men",
+   "aliases": "| powers = *Slug-based digestive system; Psychometry",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Maggott"
+ },
+ "cecilia-reyes": {
+  "title": "Cecilia Reyes",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Men (vol. 2) #65 (June 1997)",
+   "alliances": "X-Men; Weapon X; New Mutants",
+   "aliases": "Forcefield",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cecilia_Reyes"
+ },
+ "doop": {
+  "title": "Doop (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "X-Force #116 (July 2001)",
+   "alliances": "X-Force; X-Statix; Jean Grey School",
+   "aliases": "|species =",
+   "species": "|powers = Flight; Accelerated healing factor; Superhuman strength and durability; Physical malleability; Ability to replicate physical objects; Extra-dimensional void within body that can store objects and people"
+  },
+  "url": "https://en.wikipedia.org/wiki/Doop_%28character%29"
+ },
+ "fantomex": {
+  "title": "Fantomex",
+  "status": "ok",
+  "fields": {
+   "debut": "New X-Men #128; (August 2002)",
+   "alliances": "Weapon Plus Program; X-Force; X-Men",
+   "aliases": "Mutant Man of Mystery, Jean-Phillipe Charles, Weapon XIII",
+   "species": "Human mutate/cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fantomex"
+ },
+ "captain-britain-brian-braddock": {
+  "title": "Brian Braddock",
+  "status": "ok",
+  "fields": {
+   "debut": "As Captain Britain:; Captain Britain #1 (Oct. 1976); As Britanic:; Excalibur #75 (Mar. 1994); As Captain Avalon:; Excalibur (vol. 4) #13 (Oct. 2020)",
+   "alliances": "Secret Avengers; MI-13; Excalibur; Captain Britain Corps; Knights of Pendragon; Hellfire Club; New Excalibur; Illuminati; Champions of Europe ; Empire State University; Swordbearers of Krakoa",
+   "aliases": "Captain Britain; Britanic; Captain Avalon",
+   "species": "Human mutate/Otherworlder hybrid"
+  },
+  "url": "https://en.wikipedia.org/wiki/Brian_Braddock"
+ },
+ "meggan": {
+  "title": "Meggan (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Mighty World of Marvel #7 (December 1983)",
+   "alliances": "MI-13; Excalibur; Knights of X",
+   "aliases": "Gloriana, Goblin Princess",
+   "species": "Human mutant (and possible Neuri)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Meggan_%28character%29"
+ },
+ "spider-man-peter-parker": {
+  "title": "Spider-Man",
+  "status": "ok",
+  "fields": {
+   "debut": "Amazing Fantasy #15; (August 1962)",
+   "alter_ego": "Peter Benjamin Parker",
+   "alliances": "Avengers; Daily Bugle; Fantastic Four; Future Foundation; Heroes for Hire; Mighty Avengers; New Avengers; Secret Defenders; Spider-Army / Web-Warriors }}",
+   "species": "",
+   "partners": "Black Cat; Miles Morales; Silk }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Spider-Man"
+ },
+ "spider-man-miles-morales": {
+  "title": "Miles Morales",
+  "status": "ok",
+  "fields": {
+   "debut": "Ultimate Fallout #4 (August 2011)",
+   "full_name": "Miles Gonzalo Morales",
+   "alliances": "Avengers; Young Avengers; Champions; The Ultimates; Spider-Army/Web-Warriors",
+   "aliases": "Spider-Man; Spin; Shadow Spider; Captain Universe; Jersey Spider-Man",
+   "species": "Human mutate",
+   "partners": "Peter Parker (Spider-Man); Spider-Woman (Gwen Stacy); Ms. Marvel (Kamala Khan) ; Tiana Toomes (Starling)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Miles_Morales"
+ },
+ "spider-gwen": {
+  "title": "Spider-Woman (Gwen Stacy)",
+  "status": "ok",
+  "fields": {
+   "debut": "Edge of Spider-Verse #2 (September 2014)",
+   "full_name": "Gwendolyn Maxine Stacy",
+   "alliances": "Spider-Army/Web-Warriors; Spider-Society; Time Variance Authority}}",
+   "aliases": "Spider-Woman, Spider-Gwen, Gwenom, Ghost-Spider",
+   "species": "Human mutate",
+   "partners": "Mary Jane Watson / Carnage; Matt Murdock / Kingpin"
+  },
+  "url": "https://en.wikipedia.org/wiki/Spider-Woman_%28Gwen_Stacy%29"
+ },
+ "black-cat": {
+  "title": "Black Cat (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #194 (July 1979){{multiref2",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutate",
+   "partners": "Spider-Man"
+  },
+  "url": "https://en.wikipedia.org/wiki/Black_Cat_%28Marvel_Comics%29"
+ },
+ "silk": {
+  "title": "Silk (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Cameo appearance:; The Amazing Spider-Man #1 (April 2014); Full appearance:; The Amazing Spider-Man #4 (July 2014)",
+   "full_name": "Cindy Moon",
+   "alliances": "Protectors; Spider-Army / Web-Warriors; Agents of Atlas; Champions",
+   "aliases": "",
+   "species": "Human mutate",
+   "partners": "Peter Parker / Spider-Man"
+  },
+  "url": "https://en.wikipedia.org/wiki/Silk_%28character%29"
+ },
+ "spider-girl-mayday-parker": {
+  "title": "Mayday Parker",
+  "status": "ok",
+  "fields": {
+   "debut": "What If #105 (February 1998)",
+   "alliances": "",
+   "aliases": "Spidey, Spider-Girl Red, Spider-Woman",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mayday_Parker"
+ },
+ "scarlet-spider-ben-reilly": {
+  "title": "Ben Reilly",
+  "status": "ok",
+  "fields": {
+   "debut": "As Peter Parker's clone:; The Amazing Spider-Man #149 (October 1975); Return:; Web of Spider-Man #114; (May 1994); Identified as Ben Reilly:; Spider-Man #51 (October 1994); As Scarlet Spider:; Web of Spider-Man #118; (November 1994); As Spider-Man:; Sensational Spider-Man #0; (January 1996); As Jackal:; The Clone Conspiracy #3; (December 2016); As Chasm:; The Amazing Spider-Man #93; (March 2022)",
+   "full_name": "Benjamin \"Ben\" Reilly (born Peter Parker)",
+   "alliances": "The New Warriors; New U Technologies; The Midnight Sons; The Spider-Army/Web-Warriors",
+   "aliases": "Chasm, Scarlet Spider, Spider-Man, Spider-Carnage, Peter Parker, Henry Jones, Jackal, Man in Red, Canadian Spider-Man",
+   "species": "Human mutate clone"
+  },
+  "url": "https://en.wikipedia.org/wiki/Ben_Reilly"
+ },
+ "spider-man-2099": {
+  "title": "Spider-Man 2099",
+  "status": "ok",
+  "fields": {
+   "debut": "Preview: The Amazing Spider-Man #365 (August 1992); Full: Spider-Man 2099 #1 (November 1992)",
+   "alter_ego": "| full_name =",
+   "full_name": "| full name =",
+   "alliances": "Exiles; Alchemax",
+   "aliases": "| powers =; Superhuman strength, stamina, durability, speed, agility, and reflexes; Accelerated healing and vision; Genius-level intellect; Wall-crawling via talons on fingers; Organic webbing from forearms; Paralytic venom via fangs; Gliding via air-foil on indestructible costume; Mastery of acrobatics and combat",
+   "species": "Human mutate",
+   "partners": "| IOM_alter_ego ="
+  },
+  "url": "https://en.wikipedia.org/wiki/Spider-Man_2099"
+ },
+ "madame-web": {
+  "title": "Madame Web",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #210 (November 1980)",
+   "alliances": "| aliases =",
+   "aliases": "| powers = * Clairvoyance; Precognition; Telepathy; Gifted intellect",
+   "species": "Human mutant"
+  },
+  "url": "https://en.wikipedia.org/wiki/Madame_Web"
+ },
+ "prowler-hobie-brown": {
+  "title": "Prowler (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Prowler_%28Marvel_Comics%29"
+ },
+ "spider-ham": {
+  "title": "Spider-Ham",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham (November 1983)",
+   "full_name": "Peter Porker",
+   "alliances": "Web Warriors, The Scavengers",
+   "aliases": "",
+   "species": "Pig mutate",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Spider-Ham"
+ },
+ "silver-sable": {
+  "title": "Silver Sable",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #265 (June 1985)",
+   "alliances": "Wild Pack; Intruders; Outlaws; Heroes for Hire; Sable International",
+   "aliases": "Agony",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Silver_Sable"
+ },
+ "agent-venom": {
+  "title": "Flash Thompson",
+  "status": "ok",
+  "fields": {
+   "debut": "As Flash Thompson:; Amazing Fantasy #15; (August 1962); As Agent Venom:; The Amazing Spider-Man #654; (April 2011) ; As Agent Anti-Venom:; Amazing Spider-Man/Venom: Venom Inc. Alpha #1; (December 2017)",
+   "full_name": "Eugene \"Flash\" Thompson",
+   "alliances": "United States Army; Project Rebirth; Secret Avengers; Thunderbolts; Guardians of the Galaxy; New Warriors; S.H.I.E.L.D.; Agent of Cosmos }}",
+   "aliases": "Agent Venom; Agent Anti-Venom; Venom Space Knight; White Knight",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Flash_Thompson"
+ },
+ "venom": {
+  "title": "Venom (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "As \"The Alien Costume\":; The Amazing Spider-Man #252 (May 1984); As Venom:; Cameo appearance: The Amazing Spider-Man #299 (April 1988); Full appearance: The Amazing Spider-Man #300 (May 1988) }}",
+   "alter_ego": "Various hosts",
+   "alliances": "Sinister Six; Dark Avengers; Project Rebirth; Thunderbolts; Secret Avengers; Guardians of the Galaxy; New Warriors; S.H.I.E.L.D.; Agents of Cosmos; Venom-Army; X-Men Blue; Symbiote Imperium; Kree Empire; Savage Avengers }}",
+   "aliases": "Spider-Man, The Black Suit, Alien Costume, The Other, She-Venom, The Sinister Spider-Man, Agent Venom, Superior Venom, Venom Spaceknight, The Spider's Black Spirit, Svartalfvenom",
+   "species": "Klyntar (Symbiote)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Venom_%28character%29"
+ },
+ "carnage": {
+  "title": "Carnage (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Unnamed:The Amazing Spider-Man #345 (March 1991); Cameo appearance: The Amazing Spider-Man #360 (March 1992); Full appearance: The Amazing Spider-Man #361 (April 1992)",
+   "alliances": "Carnage's Family; Astonishing Avengers; Frightful Four; Goblin Nation; New Avengers",
+   "aliases": "Spider-Carnage, Carnage Cosmic, Superior Carnage, Red Goblin, The Red Slayer, Goblin Childe, The Crimson Leviathan",
+   "species": "Symbiote",
+   "partners": "Shriek; Chthon; Knull; Maker; Magneto"
+  },
+  "url": "https://en.wikipedia.org/wiki/Carnage_%28character%29"
+ },
+ "spider-girl-anya-corazon": {
+  "title": "Anya Corazon",
+  "status": "ok",
+  "fields": {
+   "debut": "As Anya Corazon:; Amazing Fantasy #1 (August 2004); As Araña:; Amazing Fantasy #2 (September 2004); As Spider-Girl:; Young Allies #5 (October 2010)",
+   "alliances": "",
+   "aliases": "Spider-Girl, Araña, Arañita, the Hunter",
+   "species": "Human mutate",
+   "partners": "Ms. Marvel; Spider-Man; Spider-Woman"
+  },
+  "url": "https://en.wikipedia.org/wiki/Anya_Corazon"
+ },
+ "green-goblin": {
+  "title": "Green Goblin",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #14 (July 1964)",
+   "full_name": "",
+   "alliances": "Doctor Bat and man",
+   "aliases": "",
+   "species": "Mutated human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Green_Goblin"
+ },
+ "hobgoblin-roderick-kingsley": {
+  "title": "Hobgoblin (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #238 (March 1983)",
+   "alliances": "| powers = * Criminal mastermind; Superhuman strength, intelligence, speed, durability, and healing; Uses Halloween-themed paraphernalia, high-tech gadgetry, and a Goblin Glider equipped with various weapons",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hobgoblin_%28Marvel_Comics%29"
+ },
+ "doctor-octopus": {
+  "title": "Doctor Octopus",
+  "status": "ok",
+  "fields": {
+   "debut": "As Doctor Octopus:; The Amazing Spider-Man #3 (July 1963); As Superior Spider-Man:; The Amazing Spider-Man #698 (November 2012); As Superior Octopus:; The Amazing Spider-Man #25 (May 2017); As Dr. Elliot Tolliver:; The Superior Spider-Man vol. 2 #1 (December 2018); As Golden Arms:; Black Panther: Intergalactic #4 (March 2026)",
+   "full_name": "Otto Gunther Octavius",
+   "alliances": "As Doctor Octopus:; Sinister Six; Masters of Evil; Thunderbolts; Legion Accursed; As Superior Spider-Man:; Avengers; Mighty Avengers; Parker Industries; Horizon Labs; Spiderlings; Superior Six; Spider-Army/Web-Warriors; As Superior Octopus:; Hydra; Hydra's Avengers",
+   "aliases": "Doctor Octopus; The Master Planner; the Master Programmer; The Superior Spider-Man (Peter Parker); the Superior Venom; the Superior Octopus; Dr. Elliot Tolliver; Otto Blacktavius; Golden Arms",
+   "species": "Human mutate/cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+ },
+ "vulture": {
+  "title": "Vulture (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "",
+   "alliances": "Sinister Six; Orchis; Savage Six",
+   "aliases": "Director Vulture; Falcon"
+  },
+  "url": "https://en.wikipedia.org/wiki/Vulture_%28Marvel_Comics%29"
+ },
+ "electro": {
+  "title": "Electro (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "{{ubl|Max Dillon:|The Amazing Spider-Man #9 (February 1964)|Francine Frye:|The Amazing Spider-Man vol. 3 #2 (July 2014)|As Electro:| (October 2016)}}",
+   "alter_ego": "Maxwell \"Max\" Dillon; Francine Frye",
+   "alliances": "",
+   "aliases": "",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Electro_%28Marvel_Comics%29"
+ },
+ "sandman": {
+  "title": "Sandman (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #4 (September 1963)",
+   "alliances": "Sinister Six; Frightful Four; Avengers; Wild Pack; Enforcers; Outlaws; Intruders",
+   "aliases": "Flint Marko, Sylvester Mann, Quarryman",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sandman_%28Marvel_Comics%29"
+ },
+ "mysterio": {
+  "title": "Mysterio",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #13; (June 1964)",
+   "alliances": "Sinister Six; Maggia",
+   "aliases": "Dr. Ludwig Rinehart; Cage McKnight; Gerdes; Mysty",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mysterio"
+ },
+ "kraven-the-hunter": {
+  "title": "Kraven the Hunter",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #15; (August 1964)",
+   "full_name": "Sergei Nikolaevich Kravinoff",
+   "alliances": "Sinister Six; Kravinoff Family; Avengers 1959; Army of Evil; Justice Pals",
+   "aliases": "Kraven the Hunter; Unhuntable Sergei; Scarlet Spider; Spider-Man; The Hunter; Giorgi Tchubabria",
+   "species": "Human mutate",
+   "partners": "Calypso Ezili; Squirrel Girl"
+  },
+  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
+ },
+ "lizard": {
+  "title": "Lizard (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #6 (November 1963)",
+   "alliances": "Sinister Six; Sinister Twelve; Empire State University (ESU)",
+   "aliases": "|powers= As Curt Connors:; Genius-level intellect As the Lizard:; Superhuman strength, speed, agility, stamina, reflexes, and durability; Telepathic control over reptiles; Regeneration; Hardened fangs, claws, and scales; 6-foot-long prehensile tail with superhuman strength",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lizard_%28character%29"
+ },
+ "scorpion": {
+  "title": "Mac Gargan",
+  "status": "ok",
+  "fields": {
+   "debut": "As Mac Gargan:; The Amazing Spider-Man #19; (December 1964); As the Scorpion:; Amazing Spider-Man #20 (January 1965); As Venom:; Marvel Knights: Spider-Man #10 (March 2005); As Spider-Man:; Dark Avengers #1; (March 2009) ; As Virus:; Venom (vol. 4) #25; (July 2020)",
+   "full_name": "MacDonald \"Mac\" Gargan",
+   "alliances": "Sinister Six; Masters of Evil; Sinister Twelve; Dark Avengers; Thunderbolts; Savage Six; Cape-Killers",
+   "aliases": "Scorpion; Venom; Spider-Man; Virus",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mac_Gargan"
+ }
+}
