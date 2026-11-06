@@ -1,0 +1,10 @@
+.paper {
+  position: relative; padding: clamp(16px, 4vw, 32px); border-radius: var(--radius-paper);
+  color: var(--ink);
+  background:
+    radial-gradient(120% 90% at 20% 10%, rgba(255, 246, 220, 0.55), transparent 55%),
+    radial-gradient(90% 70% at 85% 90%, rgba(140, 96, 48, 0.28), transparent 60%),
+    var(--paper-tex), var(--paper);
+  box-shadow: inset 0 0 60px rgba(120, 80, 40, 0.35), 0 18px 40px rgba(0, 0, 0, 0.45);
+  font: 400 15px/1.7 var(--f-memo);
+}

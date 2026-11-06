@@ -1760,5 +1760,575 @@
    "species": "Human mutate"
   },
   "url": "https://en.wikipedia.org/wiki/Mac_Gargan"
+ },
+ "rhino": {
+  "title": "Rhino (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #41 (October 1966)",
+   "alliances": "Sinister Six; Sinister Syndicate; Secret Defenders; Klaw's Army; Legion Accursed; Emissaries of Evil; S.H.I.E.L.D.; Savage Six; Thunderbolts",
+   "aliases": "Alex O'Hirn",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rhino_%28character%29"
+ },
+ "shocker": {
+  "title": "Shocker (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #46 (March 1967)",
+   "alliances": "Sinister Six; Masters of Evil; Sinister Syndicate; Thunderbolts; Villains for Hire",
+   "aliases": "Quilty",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Shocker_%28character%29"
+ },
+ "chameleon": {
+  "title": "Chameleon (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #1 (March 1963)",
+   "alliances": "Sinister Six; Kravinoff Family; Sinister Twelve; Exterminators; Hydra; KGB",
+   "aliases": "|powers =; Master of disguise; Appearance alteration; Decelerated aging; Skilled actor and impressionist",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Chameleon_%28character%29"
+ },
+ "morbius": {
+  "title": "Morbius",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #101 (October 1971)",
+   "alliances": "",
+   "aliases": "",
+   "species": "Pseudo-vampire (human mutate)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Morbius"
+ },
+ "harry-osborn": {
+  "title": "Harry Osborn",
+  "status": "ok",
+  "fields": {
+   "debut": "As Harry Osborn:; The Amazing Spider-Man #31 (December 1965); As Green Goblin:; The Amazing Spider-Man #136 (September 1974); As A.I. Harry Osborn:; Spider-Man: Legacy of Evil #1 (April 1996); As American Son:; The Amazing Spider-Man #597 (August 2009); As Harry Lyman:; The Amazing Spider-Man #759 (January 2016); As Kindred:; The Amazing Spider-Man #802 (September 2018)",
+   "full_name": "Harold Theopolis \"Harry\" Osborn",
+   "alliances": "Oscorp; Parker Industries; Alchemax",
+   "aliases": "Green Goblin; Hobgoblin; American Son; Harry Lyman; Kindred; New Goblin; Venom (Ultimate Spider-Man, Marvel's Spider-Man 2)",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Harry_Osborn"
+ },
+ "kingpin": {
+  "title": "Kingpin (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #50 (July 1967)",
+   "full_name": "Wilson Grant Fisk",
+   "alliances": "Hydra; The Hand; Emissaries of Evil; Thunderbolts; Sinister Six",
+   "aliases": "Kingpin",
+   "partners": "Vanessa Fisk (first wife); Typhoid Mary Fisk (second wife); Butch Pharris (son; successor)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Kingpin_%28character%29"
+ },
+ "tombstone": {
+  "title": "Tombstone (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Web of Spider-Man #36 (March 1988)",
+   "alliances": "Maggia; Sinister Twelve; The Hand; Hardcore's Untouchables; Tombstone's Gang",
+   "aliases": "Lonnie Tombstone; Lonnie Lincoln; Kingpin",
+   "species": "Human Mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tombstone_%28character%29"
+ },
+ "hammerhead": {
+  "title": "Hammerhead (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #113 (October 1972)",
+   "alliances": "Maggia; Sinister Twelve",
+   "aliases": "Mr. H"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hammerhead_%28character%29"
+ },
+ "jackal": {
+  "title": "Jackal (Marvel Comics character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Miles Warren: The Amazing Spider-Man #31 (December 1965); Jackal: The Amazing Spider-Man #129 (February 1974)",
+   "alliances": "Empire State University",
+   "aliases": "Professor Warren; The Professor; The Man in Red; Professor Guarinus; Raymond Warren",
+   "species": "Human mutate",
+   "partners": "Spidercide; Grizzly; Tarantula"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jackal_%28Marvel_Comics_character%29"
+ },
+ "mister-negative": {
+  "title": "Mister Negative",
+  "status": "ok",
+  "fields": {
+   "debut": "Free Comic Book Day: The Amazing Spider-Man #1 (May 2007)",
+   "alter_ego": "| alliances = Inner Demons",
+   "alliances": "Inner Demons",
+   "aliases": "Martin Li; Mister Negative",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mister_Negative"
+ },
+ "morlun": {
+  "title": "Morlun",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man vol. 2 #30 (June 2001)",
+   "alliances": "Inheritors",
+   "aliases": "Devourer of Totems",
+   "species": "Psychic vampire"
+  },
+  "url": "https://en.wikipedia.org/wiki/Morlun"
+ },
+ "silvermane": {
+  "title": "Silvermane",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #73 (June 1969)",
+   "alliances": "The Maggia; Hydra",
+   "aliases": "Supreme Hydra",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Silvermane"
+ },
+ "beetle-abner-jenkins": {
+  "title": "Janice Lincoln",
+  "status": "search",
+  "fields": {
+   "debut": "Captain America #607; (August 2010)",
+   "alliances": "Sinister Syndicate; Sinister Six",
+   "aliases": "Lady Beetle; Beetle",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Janice_Lincoln"
+ },
+ "boomerang": {
+  "title": "Blade (character)",
+  "status": "search",
+  "fields": {
+   "debut": "The Tomb of Dracula #10 (July 1973)",
+   "alliances": "",
+   "aliases": "",
+   "species": "Dhampir (retconned from his original origin as a vampire-immune human)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Blade_%28character%29"
+ },
+ "tinkerer": {
+  "title": "Tinkerer (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #2 (May 1963)",
+   "alliances": "Masters of Evil",
+   "aliases": "The Terrible Tinkerer; Hophni Mason",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tinkerer_%28Marvel_Comics%29"
+ },
+ "puma": {
+  "title": "Puma (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #256 (Sept. 1984)",
+   "alliances": "Assassins Guild; Daily Bugle; Fireheart Enterprises; MODOK's 11; Outlaws; Wild Pack",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Puma_%28character%29"
+ },
+ "spot": {
+  "title": "Spot (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "As unnamed man:; Peter Parker, the Spectacular Spider-Man #97 (December 1984); As Jonathon Ohnn / The Spot:; Peter Parker, the Spectacular Spider-Man #98 (January 1985)",
+   "alliances": "The Hand; Legion of Losers; MODOK's 11; Sinister Sixteen }}",
+   "aliases": "| powers =; Genius level intellect; Portal creation; Immortality",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Spot_%28Marvel_Comics%29"
+ },
+ "molten-man": {
+  "title": "Molten Man",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #28 (September 1965)",
+   "aliases": "Burning Man",
+   "species": "Human (currently); Human mutate (formerly)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Molten_Man"
+ },
+ "hydro-man": {
+  "title": "Hydro-Man",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #212 (January 1981)",
+   "alliances": "Sinister Six; The Assembly of Evil; Frightful Four; Maggia; Masters of Evil; Sinister Syndicate; Sinister Twelve",
+   "aliases": "|powers = * Superhuman strength and durability; Hydrokinesis; Expert street fighter",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hydro-Man"
+ },
+ "man-wolf": {
+  "title": "John Jameson (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #1 (March 1963)",
+   "full_name": "John Jonah Jameson III",
+   "alliances": "Agents of Wakanda; Symbiote; Task Force",
+   "aliases": "Colonel Jupiter; Man-Wolf; Stargod; Carnage",
+   "species": "Human (normal form); Werewolf (Man-Wolf and Stargod form)"
+  },
+  "url": "https://en.wikipedia.org/wiki/John_Jameson_%28character%29"
+ },
+ "big-wheel": {
+  "title": "Carol Danvers",
+  "status": "search",
+  "fields": {
+   "debut": "As Carol Danvers:; Marvel Super-Heroes #13; (March 1968); As Ms. Marvel:; Ms. Marvel #1; (January 1977); As Binary:; The Uncanny X-Men #164; (December 1982); As Warbird:; The Avengers (vol. 3) #4; (May 1998); As Captain Marvel:; Avenging Spider-Man #9; (July 2012) }}",
+   "full_name": "Carol Susan Jane Danvers (Human name); Car-Ell (Kree name)",
+   "alliances": "Avengers; Alpha Flight Space Program; Guardians of the Galaxy; United States Air Force; Mighty Avengers; New Avengers; Infinity Watch; Starjammers; S.H.I.E.L.D.; Ultimates; A-Force; X-Men; NASA }}",
+   "aliases": "Captain Danvers; Colonel Danvers; Captain Marvel; Major Danvers; Lady Marvel; Ms. Marvel; Warbird; Binary }}",
+   "species": "Human mutate / Kree hybrid",
+   "partners": "Spider-Woman; Jessica Jones; Araña }}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+ },
+ "shriek": {
+  "title": "Shriek (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Spider-Man Unlimited #1 (May 1993)",
+   "alter_ego": "Frances Louise Barrison",
+   "full_name": "| species = Human mutant",
+   "alliances": "Doom Maidens; Carnage Family; Sinister Sixteen",
+   "aliases": "Sandra Deel",
+   "species": "Human mutant",
+   "partners": "Carrion; Cletus Kasady/Carnage; Demogoblin; Doppelganger; Caroline le Fay"
+  },
+  "url": "https://en.wikipedia.org/wiki/Shriek_%28character%29"
+ },
+ "swarm": {
+  "title": "Swarm (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Champions #14 (July 1977)",
+   "alliances": "Nazi Germany; Exterminators; Sinister Six; Hateful Hexad",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Swarm_%28Marvel_Comics%29"
+ },
+ "scream": {
+  "title": "Scream (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Venom: Lethal Protector #4 (May 1993)",
+   "alliances": "Sinister Syndicate",
+   "aliases": "|powers=Alien symbiote grants:; All powers of Spider-Man; Limited shapeshifting and camouflage; Symbiote's autonomous defense capabilities; Undetectable by \"Spider-sense\""
+  },
+  "url": "https://en.wikipedia.org/wiki/Scream_%28character%29"
+ },
+ "calypso": {
+  "title": "Calypso (comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #209 (October 1980)",
+   "alliances": "| partners = Kraven the Hunter",
+   "aliases": "",
+   "species": "Human",
+   "partners": "Kraven the Hunter"
+  },
+  "url": "https://en.wikipedia.org/wiki/Calypso_%28comics%29"
+ },
+ "spider-slayer-alistair-smythe": {
+  "title": "Alistair Smythe",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man Annual #19 (November 1985)",
+   "alliances": "|species = Human cyborg",
+   "aliases": "The Ultimate Spider-Slayer",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Alistair_Smythe"
+ },
+ "white-rabbit": {
+  "title": "White Rabbit (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Team-Up #131; (July 1983)",
+   "alliances": "Sinister Syndicate; Hateful Hexad; Menagerie",
+   "aliases": "White Rabbit; Rabbit",
+   "species": "Human",
+   "partners": "Walrus"
+  },
+  "url": "https://en.wikipedia.org/wiki/White_Rabbit_%28Marvel_Comics%29"
+ },
+ "tarantula": {
+  "title": "Jackal (Marvel Comics character)",
+  "status": "search",
+  "fields": {
+   "debut": "Miles Warren: The Amazing Spider-Man #31 (December 1965); Jackal: The Amazing Spider-Man #129 (February 1974)",
+   "alliances": "Empire State University",
+   "aliases": "Professor Warren; The Professor; The Man in Red; Professor Guarinus; Raymond Warren",
+   "species": "Human mutate",
+   "partners": "Spidercide; Grizzly; Tarantula"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jackal_%28Marvel_Comics_character%29"
+ },
+ "stegron": {
+  "title": "Stegron",
+  "status": "ok",
+  "fields": {
+   "debut": "Marvel Team-Up #19 (March 1974)",
+   "full_name": "Vincent Stegron",
+   "alliances": "Anti-Arach9; Savage Six",
+   "aliases": "Stegron the Dinosaur Man",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Stegron"
+ },
+ "mister-hyde": {
+  "title": "Mister Hyde (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Journey into Mystery #99 (December 1963)",
+   "alliances": "Masters of Evil; Lethal Legion; Thunderbolts",
+   "aliases": "Edward Hyde; Mister Hyde",
+   "species": "Human mutate",
+   "partners": "Scorpion; Batroc; Cobra; Jester"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mister_Hyde_%28Marvel_Comics%29"
+ },
+ "living-brain": {
+  "title": "Living Brain",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #8 (Jan. 1964)",
+   "full_name": "|alliances =Sinister Six; Parker Industries",
+   "alliances": "Sinister Six; Parker Industries",
+   "aliases": "|powers = Superhuman strength and speed; Flight; Clawed hands; Limbs that can rotate at nearly 360 degrees; Ability to analyze any situation and determine how best to achieve its goals, process and collate large amounts of information and find any weaknesses in a being or structure; Originally:; External controls on its thorax"
+  },
+  "url": "https://en.wikipedia.org/wiki/Living_Brain"
+ },
+ "rocket-racer": {
+  "title": "Thing (Marvel Comics)",
+  "status": "search",
+  "fields": {
+   "debut": "Fantastic Four #1 (November. 1961)",
+   "alter_ego": "|full_name = Benjamin Jacob \"Ben\" Grimm",
+   "full_name": "Benjamin Jacob \"Ben\" Grimm",
+   "alliances": "Fantastic Four; Avengers; Guardians of the Galaxy; Future Foundation",
+   "aliases": "Blackbeard the Pirate; Angrir: Breaker of Souls; Dr. Josiah Verpoorteen; El Morrito",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Thing_%28Marvel_Comics%29"
+ },
+ "jack-olantern": {
+  "title": "Venom (character)",
+  "status": "search",
+  "fields": {
+   "debut": "As \"The Alien Costume\":; The Amazing Spider-Man #252 (May 1984); As Venom:; Cameo appearance: The Amazing Spider-Man #299 (April 1988); Full appearance: The Amazing Spider-Man #300 (May 1988) }}",
+   "alter_ego": "Various hosts",
+   "alliances": "Sinister Six; Dark Avengers; Project Rebirth; Thunderbolts; Secret Avengers; Guardians of the Galaxy; New Warriors; S.H.I.E.L.D.; Agents of Cosmos; Venom-Army; X-Men Blue; Symbiote Imperium; Kree Empire; Savage Avengers }}",
+   "aliases": "Spider-Man, The Black Suit, Alien Costume, The Other, She-Venom, The Sinister Spider-Man, Agent Venom, Superior Venom, Venom Spaceknight, The Spider's Black Spirit, Svartalfvenom",
+   "species": "Klyntar (Symbiote)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Venom_%28character%29"
+ },
+ "montana": {
+  "title": "Montana (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "The Amazing Spider-Man #10 (March 1964)",
+   "alliances": "Enforcers",
+   "aliases": "|powers = * Trained mercenary; Expert marksman; Skilled in the use of a lasso",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Montana_%28character%29"
+ },
+ "cardiac": {
+  "title": "Cardiac (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "As Elias Wirtham:; The Amazing Spider-Man #342 (December 1990); As Cardiac:; The Amazing Spider-Man #344 (February 1991)",
+   "alliances": "Parker Industries; H.E.A.R.T. Clinic",
+   "aliases": "|powers=Accomplished physician and surgeon; Superhuman strength, speed, stamina and durability; Accelerated healing factor; Wields a pulse staff, and rides a beta-propelled stingray hang-glider; Channels beta particles via the neural web of his vibranium-mesh skin",
+   "species": "Human cyborg"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cardiac_%28character%29"
+ },
+ "overdrive": {
+  "title": "Overdrive (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Free Comic Book Day: Spider-Man (July 2007)",
+   "alter_ego": "James Beverley",
+   "alliances": "Sinister Six",
+   "aliases": "|powers = Ability to convert any vehicle into a high-powered one",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Overdrive_%28character%29"
+ },
+ "mister-fantastic": {
+  "title": "Mister Fantastic",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #1 (November. 1961)",
+   "alliances": "Fantastic Four; Avengers; Future Foundation; Defenders; Illuminati",
+   "aliases": "Invincible Man, Reed Benjamin",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+ },
+ "invisible-woman": {
+  "title": "Invisible Woman",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #1; (November. 1961)",
+   "alliances": "Fantastic Four; Avengers; Lady Liberators; Fantastic Four Incorporated; Future Foundation; Seven Brides of Set; Daughters of Liberty",
+   "aliases": "Invisible Girl; Invisible Woman; Captain Universe; Susan Benjamin; Malice, Mistress of Hate; Baroness Von Doom; Tabitha Deneuve",
+   "species": "Human mutate",
+   "partners": "| supports ="
+  },
+  "url": "https://en.wikipedia.org/wiki/Invisible_Woman"
+ },
+ "human-torch-johnny-storm": {
+  "title": "Human Torch",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #1 (November. 1961)",
+   "alliances": "Fantastic Four; Avengers; Future Foundation; Fantastic Force; Herald of Galactus; Fantastic Four Incorporated; Avengers Unity Division",
+   "aliases": "Invisible Man",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Human_Torch"
+ },
+ "thing": {
+  "title": "Thing (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #1 (November. 1961)",
+   "alter_ego": "|full_name = Benjamin Jacob \"Ben\" Grimm",
+   "full_name": "Benjamin Jacob \"Ben\" Grimm",
+   "alliances": "Fantastic Four; Avengers; Guardians of the Galaxy; Future Foundation",
+   "aliases": "Blackbeard the Pirate; Angrir: Breaker of Souls; Dr. Josiah Verpoorteen; El Morrito",
+   "species": "Human mutate"
+  },
+  "url": "https://en.wikipedia.org/wiki/Thing_%28Marvel_Comics%29"
+ },
+ "doctor-doom": {
+  "title": "Doctor Doom",
+  "status": "ok",
+  "fields": {
+   "debut": "The Fantastic Four #5; (cover-dated July 1962; published April 10, 1962)",
+   "alliances": "Acts of Vengeance; Cabal; Intelligencia; Future Foundation; Astonishing Avengers; Doom's Avengers; Guardians of the Galaxy"
+  },
+  "url": "https://en.wikipedia.org/wiki/Doctor_Doom"
+ },
+ "galactus": {
+  "title": "Galactus",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #48 (March 1966)",
+   "alter_ego": "Galan",
+   "alliances": "",
+   "aliases": "Ashta, the Devourer of Worlds, the Lifebringer, the Seeder of Worlds",
+   "species": "Taa-an",
+   "partners": "Taaia (mother); {{Collapsible list|title=Heralds of Galactus|}}"
+  },
+  "url": "https://en.wikipedia.org/wiki/Galactus"
+ },
+ "silver-surfer": {
+  "title": "Silver Surfer",
+  "status": "ok",
+  "fields": {
+   "debut": "The Fantastic Four #48 (March 1966)",
+   "alliances": "",
+   "species": "Zenn-Lavian",
+   "partners": "Fantastic Four"
+  },
+  "url": "https://en.wikipedia.org/wiki/Silver_Surfer"
+ },
+ "mole-man": {
+  "title": "Mole Man",
+  "status": "ok",
+  "fields": {
+   "debut": "The Fantastic Four #1 (November 1961)",
+   "alliances": "Subterranea; Outcasts; Lethal Legion",
+   "aliases": "Dr. Arthur Molekevic",
+   "species": "Human",
+   "partners": "Kala"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mole_Man"
+ },
+ "annihilus": {
+  "title": "Annihilus",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four Annual #6 (November 1968)",
+   "alter_ego": "|species = Arthrosian",
+   "alliances": "Annihilation Wave",
+   "aliases": "Lord of the Negative Zone, the Living Death that Walks, Ahmyor",
+   "species": "Arthrosian",
+   "partners": "Blastaar"
+  },
+  "url": "https://en.wikipedia.org/wiki/Annihilus"
+ },
+ "super-skrull": {
+  "title": "Super-Skrull",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four #18 (September 1963)",
+   "full_name": "Kl'rt",
+   "alliances": "Secret Defenders ; United Front",
+   "aliases": "Invincible Man; Dr. Franklin Storm; Thing; Captain Hero; Bobby Wright; Dorrek VIII",
+   "species": "Enhanced Skrull",
+   "partners": ""
+  },
+  "url": "https://en.wikipedia.org/wiki/Super-Skrull"
+ },
+ "franklin-richards": {
+  "title": "Franklin Richards (character)",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four Annual #6 (November 1968)",
+   "alliances": "Future Foundation; Fantastic Four; Fantastic Force; Power Pack; Generation X; Daydreamers",
+   "aliases": "Powerhouse; Psi-Lord; Ego-Spawn; Avatar; Tattletale; Franklin Benjamin; Richard Franklin",
+   "species": "Human mutant (originally) ; Depowered human mutate (retconned)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Franklin_Richards_%28character%29"
+ },
+ "valeria-richards": {
+  "title": "Valeria Richards",
+  "status": "ok",
+  "fields": {
+   "debut": "Fantastic Four (vol. 3) #15 (March 1999)",
+   "alliances": "Fantastic Four; Future Foundation",
+   "aliases": "Brainstorm; Marvel Girl; Val"
+  },
+  "url": "https://en.wikipedia.org/wiki/Valeria_Richards"
+ },
+ "herbie": {
+  "title": "H.E.R.B.I.E.",
+  "status": "ok",
+  "fields": {
+   "alliances": "A.I. Army; Fantastic Four",
+   "aliases": "|powers = Ability to connect to any computer system; Electricity generators; Lasers; Various hidden tools and features",
+   "species": "Robot"
+  },
+  "url": "https://en.wikipedia.org/wiki/H.E.R.B.I.E."
+ },
+ "wizard": {
+  "title": "Wizard (Marvel Comics)",
+  "status": "ok",
+  "fields": {
+   "debut": "Strange Tales #102 (November 1962)",
+   "alliances": "Frightful Four; Intelligencia",
+   "aliases": "The Wingless Wizard",
+   "species": "Human"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wizard_%28Marvel_Comics%29"
  }
 }

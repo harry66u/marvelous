@@ -1,0 +1,11 @@
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 44px; padding: 10px 16px; background: none;
+  border: 1px solid var(--line); color: var(--orange);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  text-shadow: var(--glow); border-radius: 0;
+}
+.btn:hover { background: rgba(242, 103, 15, 0.12); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.solid { background: var(--orange); color: var(--ink); text-shadow: none; }
+.solid:hover { background: var(--phosphor); }

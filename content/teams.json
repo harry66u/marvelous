@@ -87,7 +87,7 @@
   {
     "id": "young-avengers",
     "name": "Young Avengers",
-    "short": "Young Avengers"
+    "short": "Y. Avengers"
   },
   {
     "id": "runaways",
@@ -102,7 +102,7 @@
   {
     "id": "midnight-sons",
     "name": "Midnight Sons",
-    "short": "Midnight Sons"
+    "short": "Midnite Sons"
   },
   {
     "id": "illuminati",
@@ -112,12 +112,12 @@
   {
     "id": "dark-avengers",
     "name": "Dark Avengers",
-    "short": "Dark Avengers"
+    "short": "D. Avengers"
   },
   {
     "id": "heroes-for-hire",
     "name": "Heroes for Hire",
-    "short": "Heroes 4 Hire"
+    "short": "Heroes/Hire"
   },
   {
     "id": "frightful-four",
@@ -132,7 +132,7 @@
   {
     "id": "wrecking-crew",
     "name": "Wrecking Crew",
-    "short": "Wrecking Crew"
+    "short": "Wrecking Cr."
   },
   {
     "id": "morlocks",
@@ -157,7 +157,7 @@
   {
     "id": "shiar-imperial-guard",
     "name": "Shi'ar Imperial Guard",
-    "short": "Imperial Guard"
+    "short": "Imp. Guard"
   },
   {
     "id": "black-order",
@@ -252,7 +252,7 @@
   {
     "id": "secret-warriors",
     "name": "Secret Warriors",
-    "short": "Secret Warriors"
+    "short": "S. Warriors"
   },
   {
     "id": "heralds-of-galactus",
@@ -267,7 +267,7 @@
   {
     "id": "great-lakes-avengers",
     "name": "Great Lakes Avengers",
-    "short": "G.L. Avengers"
+    "short": "GLA"
   },
   {
     "id": "web-warriors",

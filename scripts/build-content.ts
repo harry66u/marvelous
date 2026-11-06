@@ -1,14 +1,27 @@
 /**
  * Validates content/ and emits public/data/characters.json (public fields only).
- * Scaffold version: emit only. Task 4 adds validation and a non-zero exit on errors.
+ * Exits 1 on any error-level issue; warnings are printed.
  */
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
-import type { Character, PublicCharacter } from '../src/content/types'
+import { mkdirSync, writeFileSync } from 'node:fs'
+import characters from '../content/characters.json' with { type: 'json' }
+import teams from '../content/teams.json' with { type: 'json' }
+import schedule from '../content/schedule.json' with { type: 'json' }
+import type { Character, Schedule, Team } from '../src/content/types'
+import { toPublic, validateCharacters, validateSchedule } from '../src/content/validate'
 
-const characters = JSON.parse(readFileSync('content/characters.json', 'utf8')) as Character[]
-const publicOnes: PublicCharacter[] = characters.map(
-  ({ sources: _s, notes: _n, answerOk: _a, difficulty: _d, otherTeams: _o, ...rest }) => rest,
-)
+const chars = characters as Character[]
+const issues = [
+  ...validateCharacters(chars, teams as Team[]),
+  ...validateSchedule(schedule as Schedule, chars),
+]
+for (const i of issues) console.log(`${i.level.toUpperCase()} ${i.path}: ${i.message}`)
+const errors = issues.filter((i) => i.level === 'error').length
+if (errors > 0) {
+  console.error(`content: ${errors} error(s); nothing written.`)
+  process.exit(1)
+}
+
+const publicOnes = chars.map(toPublic).sort((a, b) => a.name.localeCompare(b.name))
 mkdirSync('public/data', { recursive: true })
 writeFileSync('public/data/characters.json', JSON.stringify(publicOnes))
 console.log(`content: ${publicOnes.length} characters written to public/data/characters.json`)
