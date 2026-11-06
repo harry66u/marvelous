@@ -55,5 +55,6 @@ div.card { padding: 0; border-radius: 6px; overflow: hidden; }
   .body { grid-template-columns: 96px minmax(0, 1fr); gap: 12px; padding: 14px 12px; }
   .fields dd { font-size: 14px; }
   .notes { padding: 0 12px 14px; }
-  .body .stamp { left: 62%; top: 66%; width: 66%; }
+  /* narrow cards: across the empty space under the photo, clear of the longer fields */
+  .body .stamp { left: 36%; top: 72%; width: 62%; }
 }

@@ -1,3 +1,4 @@
+import SmartLink from './SmartLink'
 import s from './ActionList.module.css'
 
 interface Item { label: string; onSelect?: () => void; href?: string }
@@ -12,7 +13,7 @@ export default function ActionList({ title, items }: { title: string; items: Ite
           return (
             <li key={`${i}-${it.label}`}>
               {it.href ? (
-                <a className={s.row} href={it.href}>{num}{it.label}</a>
+                <SmartLink className={s.row} href={it.href}>{num}{it.label}</SmartLink>
               ) : (
                 <button type="button" className={s.row} onClick={it.onSelect}>{num}{it.label}</button>
               )}

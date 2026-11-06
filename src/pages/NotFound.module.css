@@ -2,7 +2,7 @@
 /* div.* outranks the Paper component's own padding */
 div.sheet {
   max-width: 560px; overflow: hidden;
-  padding: clamp(20px, 5vw, 40px) clamp(20px, 5vw, 40px) 104px;
+  padding: clamp(20px, 5vw, 40px) clamp(20px, 5vw, 40px) 120px;
 }
 .eyebrow {
   margin: 0 0 14px; font: 12px/1.2 var(--f-hud); letter-spacing: 0.2em; text-transform: uppercase; color: var(--rust);
@@ -10,4 +10,5 @@ div.sheet {
 .h1 { margin: 0; font: 400 clamp(26px, 6vw, 36px)/1.15 var(--f-memo); color: var(--ink); }
 .body { margin: 12px 0 0; font: 16px/1.5 var(--f-body); }
 .link { color: var(--rust); font-weight: 600; text-underline-offset: 3px; }
-.sheet .stamp { left: 70%; top: calc(100% - 54px); width: min(220px, 52%); }
+/* wide enough for MISFILED on one line at the stamp's largest size */
+.sheet .stamp { left: 60%; top: calc(100% - 62px); width: min(270px, 66%); }

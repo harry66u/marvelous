@@ -1,3 +1,4 @@
+import SmartLink from './SmartLink'
 import type { ReactNode } from 'react'
 import s from './Ticket.module.css'
 
@@ -25,7 +26,7 @@ export default function Ticket({ no, title, subtitle, status, statusText, href }
   )
   const cls = `${s.ticket} ${cssClass(status)}`
   return href ? (
-    <a className={`${cls} ${s.link ?? ''}`} href={href} data-status={status}>{body}</a>
+    <SmartLink className={`${cls} ${s.link ?? ''}`} href={href} data-status={status}>{body}</SmartLink>
   ) : (
     <div className={cls} data-status={status}>{body}</div>
   )

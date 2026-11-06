@@ -30,6 +30,12 @@ const FLIP_MS = 500 + 5 * 120 + 150
 
 const reducedMotion = () => document.documentElement.dataset.motion === 'reduce'
 
+/** Focus is on <body>, or still on a control inside a dialog that just closed. */
+function focusIsStranded(): boolean {
+  const active = document.activeElement
+  return !active || active === document.body || active.closest('dialog:not([open])') !== null
+}
+
 const isResult = (r: unknown): r is UnmaskedResult =>
   typeof r === 'object' && r !== null && typeof (r as UnmaskedResult).attempts === 'number'
 
@@ -83,8 +89,25 @@ function Game() {
   const verdictRef = useRef<HTMLHeadingElement>(null)
   const timers = useRef<number[]>([])
 
-  useEffect(() => setSfxEnabled(settings.sound), [settings.sound])
   useEffect(() => () => timers.current.forEach((t) => clearTimeout(t)), [])
+
+  // The first-visit manual opens on its own, so closing it leaves focus nowhere. With a mouse or
+  // keyboard, hand it to the search (as soon as the case has loaded); on touch screens that would
+  // pop the keyboard up uninvited.
+  const lastDialog = useRef(dialog)
+  const searchWantsFocus = useRef(false)
+  useEffect(() => {
+    const closed = lastDialog.current !== null && dialog === null
+    lastDialog.current = dialog
+    if (closed && typeof matchMedia === 'function' && matchMedia('(pointer: fine)').matches) {
+      searchWantsFocus.current = true
+    }
+  }, [dialog])
+  useEffect(() => {
+    if (!searchWantsFocus.current || !inputRef.current) return
+    searchWantsFocus.current = false
+    if (focusIsStranded()) inputRef.current.focus()
+  }, [dialog, game.status])
 
   const { state, answer, characters } = game
   const ended = state !== null && state.status !== 'playing'

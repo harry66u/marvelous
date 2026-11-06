@@ -24,4 +24,5 @@
   .hasRail { grid-template-columns: minmax(0, 1fr); }
   .tr, .br { right: 20px; }
   .br { display: none; }
+  .term::before { display: none; }
 }
