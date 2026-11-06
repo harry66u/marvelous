@@ -1,0 +1,26 @@
+.body { display: grid; gap: var(--s-5); }
+.group { display: grid; gap: var(--s-2); }
+.legend {
+  font-family: var(--f-hud);
+  font-size: var(--fs-xs);
+  letter-spacing: var(--tracking-hud);
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.choices { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.choice {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-2);
+  min-height: 44px;
+  padding: 0 var(--s-4);
+  border: 1px solid var(--line-soft);
+  font-family: var(--f-hud);
+  font-size: var(--fs-sm);
+  color: var(--cream);
+  cursor: pointer;
+}
+.choice:has(input:checked) { border-color: var(--orange); box-shadow: var(--glow); }
+.choice:has(input:focus-visible) { outline: 2px solid var(--mustard); outline-offset: 2px; }
+.choice input { accent-color: var(--orange); }
+.note { margin: 0; font-family: var(--f-memo); font-size: var(--fs-sm); color: var(--paper); }
