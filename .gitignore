@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+.vercel/
+public/data/
+*.local
+.DS_Store
+__pycache__/
+content/_research/

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#120E0B" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="description" content="Three daily Marvel games, filed by the Multiversal Archive. An unofficial fan game." />
+    <meta property="og:title" content="Marvelous" />
+    <meta property="og:description" content="Three daily Marvel games: Unmasked, B-List and Retcon. An unofficial fan game." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Marvelous</title>
+    <script>
+      (function () {
+        var reduce = false
+        try {
+          var raw = localStorage.getItem('marvelous:v1')
+          var store = raw ? JSON.parse(raw) : null
+          var motion = (store && store.settings && store.settings.motion) || 'system'
+          reduce = motion === 'reduce' || (motion === 'system' && matchMedia('(prefers-reduced-motion: reduce)').matches)
+        } catch (e) {
+          reduce = matchMedia('(prefers-reduced-motion: reduce)').matches
+        }
+        document.documentElement.dataset.motion = reduce ? 'reduce' : 'full'
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

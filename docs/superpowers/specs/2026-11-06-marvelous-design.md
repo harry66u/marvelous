@@ -1,7 +1,7 @@
 # Marvelous: design spec
 
 **Date:** 2026-11-06
-**Status:** Draft for review. No product code until this is approved.
+**Status:** Approved 2026-11-06, with the decisions in section 17 applied.
 **Visual direction board:** https://claude.ai/artifact/HY48idySfnUzd9S58hAkZT (private to you; source in `docs/design/`)
 
 ---
@@ -38,7 +38,7 @@
    - The show comes through in palette, materials, type and voice, not its marks.
    - Character names appear only as trivia facts.
 2. **A "consecutive shift"** means a puzzle day on which all three assignments were completed, win or lose. Missing a day resets it to zero.
-3. **Stack:** Supabase (your existing Pro organization) for sign-in, the database and the scheduling tools, plus Vercel (your existing team) for hosting.
+3. **Stack:** Vercel (your existing team) hosts the site and one small serverless function. There is no database at launch (section 6).
 4. **Admin:** your Google account is the only Scheduling Office admin at launch.
 5. **Numbering:** puzzle #001 is launch day.
 
@@ -124,7 +124,7 @@ Measured contrast on Void: cream 15.2:1, orange 6.2:1, muted text 7.8:1. Dark in
 | `/shift` | **End of shift**, on cafeteria tile: per-game summary, combined share, stats. |
 | `/agent` | **Agent file:** your own ID card, agent number, streaks, per-game stats, and a history calendar. |
 | `/manual` | Field Manual (rules for all three games) and About (disclaimer, credits, licenses). |
-| `/office/*` | **Scheduling Office** (admin only, lazy-loaded). |
+| `/office/*` | **Scheduling Office** (Git-backed, needs your GitHub token to save, lazy-loaded). |
 
 **Phone layout:**
 - The monitor fills the width. Branch labels are HTML overlays so they stay readable at 360px.
@@ -156,55 +156,47 @@ Measured contrast on Void: cream 15.2:1, orange 6.2:1, muted text 7.8:1. Dark in
 Browser (React SPA, Vite, TypeScript)
   ├─ local-first progress (localStorage, versioned schema)
   ├─ pure game logic modules (tested)
-  └─ Supabase JS ─► Supabase: Postgres + Auth (Google) + RPC functions + RLS
-Hosting: Vercel (static build, SPA rewrites, a preview deploy per pull request)
+  └─ GET /api/day ─► Vercel Function: today's puzzle bundle, built from the
+                     content compiled into the function; future dates refused
+Content: JSON in content/, validated at build, edited in the Scheduling Office
+         (commits to GitHub) ─► Vercel redeploys on every commit
 ```
 
 - **Frontend:** React + TypeScript + Vite, React Router, CSS Modules on global CSS tokens. No UI kit, and no animation library unless Retcon's reorder needs one (hand-rolled FLIP first).
-- **Backend:** Supabase only. Postgres functions do the work; there is no custom server.
+- **Server:** one Vercel Function (`api/day.ts`) on the free Hobby plan. It answers `GET /api/day?date=YYYY-MM-DD` with that day's bundle, refuses dates after today in Eastern time, and returns 404 for unscheduled days. The same pure function serves `/api/day` in local development through a Vite middleware.
+- **No database at launch.** You declined a new Supabase project, so M1 runs without one.
+  - Puzzles, characters and the schedule live in `content/` as JSON.
+  - Player progress lives in the browser.
+- **Shared backend (deferred):** three features need a small shared database, and we'll decide on one before they ship:
+  - B-List pick rates and "rarest answers other agents found" (M2)
+  - Clock-in with agent numbers and cross-device sync
+  - Free options: a Supabase free organization, Neon Postgres, or Upstash Redis through Vercel. The code talks to storage through one interface, so plugging any of these in is a contained change.
 - **Modules** (each with one job and a typed interface):
   - `lib/time`: Eastern date, puzzle number, countdown
   - `lib/match`: normalization, alias and typo matching
-  - `lib/progress`: history, streaks, cloud merge
+  - `lib/progress`: history, streaks
   - `lib/share`: combined report text
   - `games/unmasked`, `games/blist`, `games/retcon`: each split into `logic/` (pure reducers and scoring, no DOM) and `ui/`
-  - `data/`: bundle fetch, cache, types
-  - `auth/`: clock-in
+  - `content/`: types and validation shared by the app, the build, the function and the Office
+  - `server/`: the day bundle
   - `audio/`: synthesized sounds
   - `ui/`: design-system components
-  - `office/`: the admin
-- **Content in the repo:** `content/` holds characters, prompts, records, schedule and sources as JSON. It's validated by tests on every commit, seeded into Supabase by a script, and can be exported back for backups. After launch, the database is the source of truth and the Office edits it directly.
+  - `office/`: the Scheduling Office
 
-### Data model (Supabase)
+### Content files
 
-| Table | Key fields |
+| File | Holds |
 |---|---|
-| `characters` | id, name, aliases[], real_name, primary_team, teams[], debut_year, debut_issue, alignment, origin, gender, mcu, mcu_first, answer_ok, difficulty, case_note, archetype, sources[], notes |
-| `blist_prompts` | id, text, notes |
-| `blist_answers` | id, prompt_id, name, aliases[], tier (1–5) |
-| `retcon_records` | id, title, kind, year, month, detail, source |
-| `schedule` | date (pk), unmasked_id, blist_ids[7], retcon_ids[6], published, note |
-| `profiles` | user_id, agent_no (sequential), created_at |
-| `plays` | user_id, date, game, result (json), completed_at |
-| `blist_picks` | date, prompt_id, answer_id (null = miss), device_hash; unique per device and prompt |
-| `admins`, `settings` | admin list; switches such as live rarity on/off and its sample size |
+| `content/characters.json` | every Unmasked character: name, aliases, real name, primary team, teams, debut year/issue/date, alignment, origin, gender, MCU flag and first title, answer-pool flag, difficulty, case note, silhouette archetype, sources, notes |
+| `content/teams.json` | the team/affiliation vocabulary (id → display name) |
+| `content/schedule.json` | launch date, plus one entry per date naming that day's Unmasked answer (B-List prompts and Retcon records join in M2 and M3) |
+| `content/FACTCHECK.md` | contested calls and how each was decided |
 
-### RPC functions
+`npm run build` validates all content first. A bad edit fails the build, and the live site keeps the last good version.
 
-- `get_bundle(date)`: today's three puzzles; refuses future dates.
-- `get_characters()`: public fields for autocomplete, cached by version.
-- `submit_pick(...)`: records a B-List answer or miss; returns the live tier when live rarity is on.
-- `get_rarest(date)`: per prompt, the rarest answers found by at least two agents.
-- `clock_in()`: creates the profile and agent number on first sign-in.
-- `sync_plays(rows)`: merges a user's history.
-
-### Row-level security
-
-- Content is readable only through the RPCs.
-- Admins write content.
-- Users read and write only their own plays.
-
-**Known trade-off:** today's answers reach the browser so the games respond instantly, including B-List typo matching inside a 25-second timer. A determined player could dig them out of developer tools. That's normal for daily web games. The answer is lightly obfuscated, and future days stay on the server.
+**Known trade-offs:**
+- The game ships today's answer to the browser so play is instant. A determined player could dig it out of developer tools, which is normal for daily web games. The answer is lightly obfuscated.
+- **The repository is public,** so anyone can read the schedule on GitHub. Making the repository private hides future answers completely, at no cost.
 
 ---
 
@@ -379,30 +371,29 @@ https://<domain>/
 
 ## 11. Accounts: clocking in
 
-- **Without an account:** progress lives in the browser.
-- **Clocking in:** "Clock in with Google" through Supabase Auth.
-  - **First clock-in:** creates your profile and assigns the next agent number ("Agent No. 0042"), then uploads your local history.
-  - **Each later device:** merges local and cloud history. They're combined by date and game, a completed game beats one in progress, and the earliest completion wins a conflict.
-- **Clocking out:** signs you out and leaves a local copy.
-- **Stored data:** only the Google account ID and email (held by Supabase Auth) plus play history. Nothing is shown publicly.
+Deferred, per your decision: Google sign-in comes "eventually", and it needs the shared backend from section 6.
 
-**What you'll need to do once:** create a Google OAuth client in Google Cloud Console and paste its ID and secret into Supabase. I'll give you a five-step checklist when we get there.
+- **Until then:** progress, streaks and stats live on the device. The home desk says so in memo voice: "Agent registration opens soon. Your shifts are kept on this device."
+- **When we add it, the plan is unchanged:**
+  - "Clock in with Google".
+  - An agent number on first clock-in.
+  - Local history uploaded, then merged across devices: combined by date and game, a completed game beats one in progress, and the earliest completion wins a conflict.
+  - You create a Google OAuth client; I'll provide the steps.
 
 ---
 
 ## 12. The Scheduling Office (no-code puzzle management)
 
-- `/office`, visible only to admins and enforced by the database.
+- **Where:** `/office`, not linked from the public site.
+- **How it saves:** it reads and writes the files in `content/` through GitHub's API.
+  - Edits become commits on the site's branch, and Vercel redeploys in about a minute.
+  - No database or server is involved, and the full history of every change lives in git.
+- **Access:** you paste a GitHub fine-grained access token (this repository, Contents read/write) once; it stays in your browser. Without a token the Office is read-only, so the page being public is harmless.
 - **Calendar:** the next 90 days with coverage per game. Any unscheduled day in the next 14 is flagged.
-- **Day editor:** pick the Unmasked answer (search shows difficulty and when it was last used), the seven B-List prompts (search the library and preview answers), and the six Retcon records (shows years and checks the rules). Days are saved as drafts and then published.
-- **Library editors:**
-  - characters: every attribute, sources and notes, plus the answer-pool switch
-  - prompts: text, plus an answers table with aliases and tier; bulk paste as `Name | aliases | tier`
-  - Retcon records
-- **Validation shown inline:** missing fields, duplicate aliases, cooldown violations, repeated years.
-- **Auto-fill drafts:** fills empty days from unused items.
-- **Takes effect immediately:** no redeploy.
-- **Fallback:** Supabase's built-in table editor.
+- **Day editor:** pick the Unmasked answer. Search shows each character's difficulty and when they were last used. B-List prompts and Retcon records join in M2 and M3.
+- **Character editor:** every attribute, sources and notes, plus the answer-pool switch.
+- **Validation shown inline:** missing fields, cooldown violations, unknown characters. The build runs the same validation.
+- **Auto-fill:** fills empty days from unused answer-pool characters, with easier days Monday to Thursday and harder days Friday to Sunday.
 
 ---
 
@@ -465,7 +456,7 @@ Each game is scheduled for 60+ days from launch.
   - streaks and the cloud merge
   - share-text snapshots
 - **Content tests:** the rules in section 13 run on every commit. A content error fails the build.
-- **Database tests:** the RPCs and row-level security, run against a Supabase branch.
+- **Function tests:** `/api/day` serves today and past days only, returns 404 for unscheduled days, and never leaks a future date.
 - **End-to-end tests (Playwright):**
   - a full play-through of each game at phone and desktop sizes
   - a keyboard-only run
@@ -480,18 +471,22 @@ Each game is scheduled for 60+ days from launch.
 
 | # | Scope | Ends with |
 |---|---|---|
-| M0 | This spec + the design board | your approval, then a written implementation plan for M1 |
-| M1 | Scaffold, design system, Marvelous Display font, home (branch monitor, shift desk, clock), **Unmasked** complete, ≥ 450 verified characters, 60 days of Unmasked, local progress and streaks, share (Unmasked part), Supabase project + schema + bundle API, clock-in + agent numbers + sync, Scheduling Office for Unmasked and characters, preview deploy | **check-in** with a playable preview link |
-| M2 | **B-List** complete: matcher, tiers, depth gauge, 420 prompts, picks and rarity pipeline, rarest finds, Office tools for prompts | **check-in** |
+| M0 | This spec + the design board | approved 2026-11-06 |
+| M1 | Scaffold, design system, Marvelous Display font, home (branch monitor, shift desk, clock), **Unmasked** complete, ≥ 450 verified characters, 60+ days of Unmasked, local progress and streaks, share (Unmasked part), `/api/day` function, Git-backed Scheduling Office for the schedule and characters, Vercel deploy | **check-in** with a playable link |
+| M2 | **B-List** complete: matcher, tiers, depth gauge, 420 prompts, Office tools for prompts. Pick rates and the rarest-finds list need the shared backend, so we decide on one first. | **check-in** |
 | M3 | **Retcon** complete: timeline and collapse animation, ≥ 360 records, 60 days; end-of-shift screen, combined share, agent file | **check-in** |
-| M4 (optional) | Domain, social preview image, final accessibility and performance pass, the post-Doomsday content update | launch |
+| M4 (optional) | Shared backend + clock-in, domain, social preview image, final accessibility and performance pass, the post-Doomsday content update | launch |
 
 ---
 
-## 17. Decisions I need from you
+## 17. Decisions
 
-1. **Identity.** Is the original M.A.R.V.E.L.O.U.S. agency and seal OK, in place of the show's marks?
-2. **Supabase.** Can I create a new project called `marvelous` in your Pro organization? That probably adds about $10/month of compute, since you already run three projects there.
-3. **Google sign-in.** Will you set up the Google OAuth client when we reach clock-in? Otherwise clock-in waits.
-4. **Domain.** Is there one for share links, or should we use the Vercel URL for now?
-5. **Design direction.** Is the board's direction approved, or what should change?
+Answered 2026-11-06:
+
+1. **Identity:** M.A.R.V.E.L.O.U.S. agency and seal. **Yes.**
+2. **Supabase project in the Pro organization:** **No.** M1 runs without a database (section 6).
+3. **Google sign-in:** **Eventually.** Clock-in is deferred (section 11).
+4. **Domain:** **None.** Share links use the Vercel address.
+5. **Design direction:** **Approved.**
+
+Open: the repository is public. Making it private keeps future answers off GitHub.

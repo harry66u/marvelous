@@ -1,0 +1,357 @@
+[
+  {
+    "id": "avengers",
+    "name": "Avengers",
+    "short": "Avengers"
+  },
+  {
+    "id": "x-men",
+    "name": "X-Men",
+    "short": "X-Men"
+  },
+  {
+    "id": "fantastic-four",
+    "name": "Fantastic Four",
+    "short": "F. Four"
+  },
+  {
+    "id": "guardians-of-the-galaxy",
+    "name": "Guardians of the Galaxy",
+    "short": "Guardians"
+  },
+  {
+    "id": "defenders",
+    "name": "Defenders",
+    "short": "Defenders"
+  },
+  {
+    "id": "shield",
+    "name": "S.H.I.E.L.D.",
+    "short": "S.H.I.E.L.D."
+  },
+  {
+    "id": "hydra",
+    "name": "Hydra",
+    "short": "Hydra"
+  },
+  {
+    "id": "aim",
+    "name": "A.I.M.",
+    "short": "A.I.M."
+  },
+  {
+    "id": "sword",
+    "name": "S.W.O.R.D.",
+    "short": "S.W.O.R.D."
+  },
+  {
+    "id": "inhumans",
+    "name": "Inhuman Royal Family",
+    "short": "Inhumans"
+  },
+  {
+    "id": "eternals",
+    "name": "Eternals",
+    "short": "Eternals"
+  },
+  {
+    "id": "brotherhood-of-mutants",
+    "name": "Brotherhood of Mutants",
+    "short": "Brotherhood"
+  },
+  {
+    "id": "sinister-six",
+    "name": "Sinister Six",
+    "short": "Sinister 6"
+  },
+  {
+    "id": "masters-of-evil",
+    "name": "Masters of Evil",
+    "short": "M. of Evil"
+  },
+  {
+    "id": "thunderbolts",
+    "name": "Thunderbolts",
+    "short": "Thunderbolts"
+  },
+  {
+    "id": "hellfire-club",
+    "name": "Hellfire Club",
+    "short": "Hellfire"
+  },
+  {
+    "id": "alpha-flight",
+    "name": "Alpha Flight",
+    "short": "Alpha Flight"
+  },
+  {
+    "id": "young-avengers",
+    "name": "Young Avengers",
+    "short": "Young Avengers"
+  },
+  {
+    "id": "runaways",
+    "name": "Runaways",
+    "short": "Runaways"
+  },
+  {
+    "id": "champions",
+    "name": "Champions",
+    "short": "Champions"
+  },
+  {
+    "id": "midnight-sons",
+    "name": "Midnight Sons",
+    "short": "Midnight Sons"
+  },
+  {
+    "id": "illuminati",
+    "name": "Illuminati",
+    "short": "Illuminati"
+  },
+  {
+    "id": "dark-avengers",
+    "name": "Dark Avengers",
+    "short": "Dark Avengers"
+  },
+  {
+    "id": "heroes-for-hire",
+    "name": "Heroes for Hire",
+    "short": "Heroes 4 Hire"
+  },
+  {
+    "id": "frightful-four",
+    "name": "Frightful Four",
+    "short": "Frightful 4"
+  },
+  {
+    "id": "serpent-society",
+    "name": "Serpent Society",
+    "short": "Serpents"
+  },
+  {
+    "id": "wrecking-crew",
+    "name": "Wrecking Crew",
+    "short": "Wrecking Crew"
+  },
+  {
+    "id": "morlocks",
+    "name": "Morlocks",
+    "short": "Morlocks"
+  },
+  {
+    "id": "marauders",
+    "name": "Marauders",
+    "short": "Marauders"
+  },
+  {
+    "id": "acolytes",
+    "name": "Acolytes",
+    "short": "Acolytes"
+  },
+  {
+    "id": "starjammers",
+    "name": "Starjammers",
+    "short": "Starjammers"
+  },
+  {
+    "id": "shiar-imperial-guard",
+    "name": "Shi'ar Imperial Guard",
+    "short": "Imperial Guard"
+  },
+  {
+    "id": "black-order",
+    "name": "Black Order",
+    "short": "Black Order"
+  },
+  {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "short": "Ravagers"
+  },
+  {
+    "id": "nova-corps",
+    "name": "Nova Corps",
+    "short": "Nova Corps"
+  },
+  {
+    "id": "invaders",
+    "name": "Invaders",
+    "short": "Invaders"
+  },
+  {
+    "id": "howling-commandos",
+    "name": "Howling Commandos",
+    "short": "Commandos"
+  },
+  {
+    "id": "warriors-three",
+    "name": "Warriors Three",
+    "short": "Warriors 3"
+  },
+  {
+    "id": "dora-milaje",
+    "name": "Dora Milaje",
+    "short": "Dora Milaje"
+  },
+  {
+    "id": "the-hand",
+    "name": "The Hand",
+    "short": "The Hand"
+  },
+  {
+    "id": "maggia",
+    "name": "Maggia",
+    "short": "Maggia"
+  },
+  {
+    "id": "new-warriors",
+    "name": "New Warriors",
+    "short": "New Warriors"
+  },
+  {
+    "id": "power-pack",
+    "name": "Power Pack",
+    "short": "Power Pack"
+  },
+  {
+    "id": "x-force",
+    "name": "X-Force",
+    "short": "X-Force"
+  },
+  {
+    "id": "x-factor",
+    "name": "X-Factor",
+    "short": "X-Factor"
+  },
+  {
+    "id": "new-mutants",
+    "name": "New Mutants",
+    "short": "New Mutants"
+  },
+  {
+    "id": "excalibur",
+    "name": "Excalibur",
+    "short": "Excalibur"
+  },
+  {
+    "id": "generation-x",
+    "name": "Generation X",
+    "short": "Gen X"
+  },
+  {
+    "id": "weapon-x",
+    "name": "Weapon X",
+    "short": "Weapon X"
+  },
+  {
+    "id": "red-room",
+    "name": "Red Room",
+    "short": "Red Room"
+  },
+  {
+    "id": "secret-warriors",
+    "name": "Secret Warriors",
+    "short": "Secret Warriors"
+  },
+  {
+    "id": "heralds-of-galactus",
+    "name": "Heralds of Galactus",
+    "short": "Heralds"
+  },
+  {
+    "id": "elders-of-the-universe",
+    "name": "Elders of the Universe",
+    "short": "Elders"
+  },
+  {
+    "id": "great-lakes-avengers",
+    "name": "Great Lakes Avengers",
+    "short": "G.L. Avengers"
+  },
+  {
+    "id": "web-warriors",
+    "name": "Web-Warriors",
+    "short": "Web-Warriors"
+  },
+  {
+    "id": "agents-of-atlas",
+    "name": "Agents of Atlas",
+    "short": "Atlas"
+  },
+  {
+    "id": "winter-guard",
+    "name": "Winter Guard",
+    "short": "Winter Guard"
+  },
+  {
+    "id": "squadron-supreme",
+    "name": "Squadron Supreme",
+    "short": "Squadron"
+  },
+  {
+    "id": "cabal",
+    "name": "Cabal",
+    "short": "Cabal"
+  },
+  {
+    "id": "legion-of-monsters",
+    "name": "Legion of Monsters",
+    "short": "Monsters"
+  },
+  {
+    "id": "annihilators",
+    "name": "Annihilators",
+    "short": "Annihilators"
+  },
+  {
+    "id": "time-variance-authority",
+    "name": "Time Variance Authority",
+    "short": "T.V.A."
+  },
+  {
+    "id": "kree-empire",
+    "name": "Kree Empire",
+    "short": "Kree"
+  },
+  {
+    "id": "skrull-empire",
+    "name": "Skrull Empire",
+    "short": "Skrulls"
+  },
+  {
+    "id": "shiar-empire",
+    "name": "Shi'ar Empire",
+    "short": "Shi'ar"
+  },
+  {
+    "id": "asgard",
+    "name": "Asgard",
+    "short": "Asgard"
+  },
+  {
+    "id": "olympus",
+    "name": "Olympus",
+    "short": "Olympus"
+  },
+  {
+    "id": "wakanda",
+    "name": "Wakanda",
+    "short": "Wakanda"
+  },
+  {
+    "id": "atlantis",
+    "name": "Atlantis",
+    "short": "Atlantis"
+  },
+  {
+    "id": "kun-lun",
+    "name": "K'un-Lun",
+    "short": "K'un-Lun"
+  },
+  {
+    "id": "latveria",
+    "name": "Latveria",
+    "short": "Latveria"
+  }
+]
