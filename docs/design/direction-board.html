@@ -1,0 +1,839 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Marvelous Design Direction</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&family=Share+Tech+Mono&family=Special+Elite&display=swap">
+<style>
+/* Layout: one dossier. A paper cover memo, then numbered forms on a near-black terminal ground; each form shows one piece of the system at working size. */
+:root{
+  color-scheme: dark;
+  --void:#120e0b; --panel:#17110d; --chocolate:#3b2416; --walnut:#5c3a22;
+  --orange:#f2670f; --kiln:#b9470a; --phosphor:#ee8a62; --mustard:#d9a23a;
+  --cream:#f1e4c6; --paper:#e9d5ac; --ink:#2a1a10; --teal:#7fbdb4;
+  --tile-green:#6f8f6a; --tile-cream:#e6dcc3; --stamp:#c2361b; --muted:#b9a27e;
+  --rust:#8e2f12;
+  --line:rgba(242,103,15,.62); --line-soft:rgba(242,103,15,.24);
+  --glow:0 0 6px rgba(242,103,15,.55);
+  --f-hud:'Share Tech Mono', ui-monospace, Menlo, Consolas, monospace;
+  --f-body:'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+  --f-memo:'Special Elite', 'Courier New', Courier, monospace;
+  --grain:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27180%27%20height%3D%27180%27%3E%3Cfilter%20id%3D%27n%27%3E%3CfeTurbulence%20type%3D%27fractalNoise%27%20baseFrequency%3D%27.85%27%20numOctaves%3D%272%27%20stitchTiles%3D%27stitch%27%2F%3E%3CfeColorMatrix%20values%3D%270%200%200%200%201%20%200%200%200%200%201%20%200%200%200%200%201%20%200%200%200%201.1%20-.35%27%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%27100%25%27%20height%3D%27100%25%27%20filter%3D%27url%28%23n%29%27%2F%3E%3C%2Fsvg%3E");
+  --woodgrain:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27420%27%20height%3D%27420%27%3E%3Cfilter%20id%3D%27w%27%3E%3CfeTurbulence%20type%3D%27fractalNoise%27%20baseFrequency%3D%27.16%20.006%27%20numOctaves%3D%273%27%20seed%3D%274%27%20stitchTiles%3D%27stitch%27%2F%3E%3CfeColorMatrix%20values%3D%270%200%200%200%20.10%20%200%200%200%200%20.05%20%200%200%200%200%20.02%20%200%200%200%201.25%20-.42%27%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%27100%25%27%20height%3D%27100%25%27%20filter%3D%27url%28%23w%29%27%2F%3E%3C%2Fsvg%3E");
+  --inkmask:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27240%27%20height%3D%27240%27%3E%3Cfilter%20id%3D%27m%27%3E%3CfeTurbulence%20type%3D%27fractalNoise%27%20baseFrequency%3D%27.7%27%20numOctaves%3D%273%27%20seed%3D%2711%27%20stitchTiles%3D%27stitch%27%2F%3E%3CfeColorMatrix%20values%3D%270%200%200%200%200%20%200%200%200%200%200%20%200%200%200%200%200%20%200%200%200%20-5%203.45%27%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%27100%25%27%20height%3D%27100%25%27%20filter%3D%27url%28%23m%29%27%2F%3E%3C%2Fsvg%3E");
+  --paper-tex:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27360%27%20height%3D%27360%27%3E%3Cfilter%20id%3D%27p%27%3E%3CfeTurbulence%20type%3D%27fractalNoise%27%20baseFrequency%3D%27.035%27%20numOctaves%3D%274%27%20seed%3D%279%27%20stitchTiles%3D%27stitch%27%2F%3E%3CfeColorMatrix%20values%3D%270%200%200%200%20.42%20%200%200%200%200%20.27%20%200%200%200%200%20.12%20%200%200%200%20.6%20-.22%27%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%27100%25%27%20height%3D%27100%25%27%20filter%3D%27url%28%23p%29%27%2F%3E%3C%2Fsvg%3E");
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--void);color:var(--cream);font:15px/1.6 var(--f-body);overflow-x:hidden}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--teal);outline-offset:3px}
+.grain{position:fixed;inset:-50%;pointer-events:none;background-image:var(--grain);opacity:.07;z-index:50;animation:grain 1.2s steps(6) infinite}
+@keyframes grain{0%{transform:translate(0,0)}20%{transform:translate(-3%,2%)}40%{transform:translate(2%,-3%)}60%{transform:translate(-2%,-1%)}80%{transform:translate(3%,3%)}100%{transform:translate(0,0)}}
+
+/* status strip */
+.strip{border-bottom:1px solid var(--line-soft);background:#0d0a08}
+.strip-in{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-block:9px;font:12px/1.3 var(--f-hud);letter-spacing:.16em;text-transform:uppercase;color:var(--orange);text-shadow:var(--glow)}
+.strip-in i{font-style:normal;color:var(--muted)}
+
+/* paper */
+.paper{position:relative;background:
+  radial-gradient(120% 90% at 20% 10%, rgba(255,246,220,.55), transparent 55%),
+  radial-gradient(90% 70% at 85% 90%, rgba(140,96,48,.28), transparent 60%),
+  var(--paper-tex), var(--paper);
+  color:var(--ink);box-shadow:inset 0 0 60px rgba(120,80,40,.35), 0 18px 40px rgba(0,0,0,.45)}
+
+/* cover */
+.cover{padding-block:28px 8px}
+.sheet{padding:clamp(20px,4vw,44px);border-radius:3px;overflow:hidden}
+.sheet-top{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;align-items:start}
+.eyebrow{font:12px/1.2 var(--f-hud);letter-spacing:.2em;text-transform:uppercase;color:var(--kiln);margin:0 0 14px}
+.wm-hero{margin:0;line-height:0}
+.wm{display:block;width:100%;height:auto}
+.wm .l{fill:var(--orange)} .wm .d{fill:var(--kiln)}
+.backronym{font:clamp(13px,2vw,16px)/1.45 var(--f-memo);margin:16px 0 0;max-width:46ch;color:#4a2f1d}
+.seal{width:clamp(92px,16vw,150px);height:auto;transform:rotate(-8deg);filter:drop-shadow(0 2px 0 rgba(0,0,0,.12))}
+.memo{display:grid;gap:4px;margin:26px 0 0;padding:14px 0;border-top:2px solid var(--ink);border-bottom:1px solid rgba(42,26,16,.4);font:15px/1.5 var(--f-memo)}
+.memo div{display:grid;grid-template-columns:76px minmax(0,1fr);gap:10px}
+.memo dt{font:12px/1.9 var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--kiln)}
+.memo dd{margin:0}
+.memo-body{font:15px/1.7 var(--f-memo);max-width:66ch;margin:16px 0 0}
+.stamp{position:absolute;font:22px/1 var(--f-memo);letter-spacing:.12em;color:var(--stamp);border:3px double var(--stamp);padding:8px 14px;transform:rotate(-7deg);-webkit-mask-image:var(--inkmask);mask-image:var(--inkmask);-webkit-mask-size:220px;mask-size:220px;opacity:.88}
+.stamp-review{right:clamp(14px,5vw,60px);bottom:clamp(14px,3vw,30px)}
+
+/* forms */
+.form{padding-block:56px 8px}
+.form-head{display:grid;gap:8px;margin-bottom:22px;max-width:72ch}
+.tag{justify-self:start;font:11px/1 var(--f-hud);letter-spacing:.2em;text-transform:uppercase;color:var(--void);background:var(--orange);padding:5px 8px 4px}
+.form-head h2{margin:0;font:600 clamp(20px,3.4vw,28px)/1.2 var(--f-body);letter-spacing:.02em;text-wrap:balance}
+.form-head p{margin:0;color:var(--muted);max-width:66ch}
+.note{font:12px/1.6 var(--f-hud);letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin:16px 0 0}
+
+/* palette */
+.chips{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.chip{margin:0;border:1px solid var(--line-soft);background:var(--panel)}
+.chip .sw{height:74px;background:var(--c);border-bottom:1px solid rgba(0,0,0,.4)}
+.chip figcaption{display:grid;gap:2px;padding:9px 10px 11px;font-size:12px;line-height:1.4}
+.chip b{font:600 13px/1.3 var(--f-body)}
+.chip code{font:12px var(--f-hud);letter-spacing:.08em;color:var(--orange)}
+.chip span{color:var(--muted)}
+.chip.teal .sw{background:var(--void);position:relative}
+.chip.teal .sw::after{content:"";position:absolute;left:10px;right:10px;top:50%;height:2px;background:var(--teal);box-shadow:0 0 8px var(--teal)}
+
+/* lettering */
+.type-grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:18px}
+.specimen{padding:clamp(18px,3vw,30px);display:grid;gap:16px;border-radius:3px}
+.wm-row{max-width:520px}
+.spec-note{font:14px/1.55 var(--f-memo);margin:4px 0 0;color:#4a2f1d}
+.type-samples{display:grid;gap:12px;align-content:start}
+.ts{border:1px solid var(--line-soft);padding:14px 16px;background:var(--panel)}
+.ts-k{display:block;font:11px var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.ts p{margin:0}
+.hud-sample{font:17px/1.5 var(--f-hud);letter-spacing:.14em;text-transform:uppercase;color:var(--orange);text-shadow:var(--glow)}
+.body-sample{font:15px/1.65 var(--f-body)}
+.memo-sample{font:17px/1.5 var(--f-memo);color:var(--paper)}
+
+/* home scene */
+.scene{position:relative;margin-top:6px;overflow:hidden;border-block:1px solid #000}
+.ceiling{position:relative;height:clamp(90px,14vw,150px);overflow:hidden;background:#2a180e}
+.ceiling-plane{position:absolute;left:-100%;right:-100%;top:0;height:640px;transform:perspective(252px) rotateX(-40deg);transform-origin:50% 0;
+  background:
+    radial-gradient(closest-side, #ffd27a 0, #f3a64c 38%, #b8641f 66%, rgba(0,0,0,0) 70%) 0 0/64px 56px,
+    radial-gradient(closest-side, #ffd27a 0, #f3a64c 38%, #b8641f 66%, rgba(0,0,0,0) 70%) 32px 28px/64px 56px,
+    #3b2215}
+.ceiling::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 35%,rgba(20,10,5,.82));pointer-events:none}
+.wall{background:var(--woodgrain),
+  repeating-linear-gradient(90deg, rgba(0,0,0,.5) 0 2px, rgba(255,214,170,.07) 2px 3px, rgba(0,0,0,0) 3px 132px),
+  linear-gradient(180deg,#5f3c23,#46291a 60%,#2d1a10);padding-block:34px 0}
+.crt{max-width:760px;margin:0 auto}
+.crt-bezel{position:relative;padding:clamp(14px,3.2vw,30px);border-radius:clamp(26px,5vw,52px)/clamp(24px,4.6vw,48px);
+  background:linear-gradient(150deg,#f4e8cb 0%,#dccaa2 40%,#b9a37b 80%,#9c8761 100%);
+  box-shadow:inset 0 3px 2px rgba(255,255,255,.55), inset 0 -6px 12px rgba(80,58,30,.45), 0 22px 40px rgba(0,0,0,.6)}
+.crt-screen{position:relative;border-radius:14%/18%;overflow:hidden;background:#060404;box-shadow:inset 0 0 0 3px #3a2f24, inset 0 0 40px rgba(0,0,0,.95)}
+.crt-screen svg{display:block;width:100%;height:auto}
+.scan{position:absolute;inset:0;pointer-events:none;background:
+  repeating-linear-gradient(0deg, rgba(0,0,0,.28) 0 1px, rgba(0,0,0,0) 1px 3px),
+  radial-gradient(120% 90% at 30% 20%, rgba(255,240,220,.10), rgba(0,0,0,0) 45%),
+  radial-gradient(110% 110% at 50% 50%, rgba(0,0,0,0) 60%, rgba(0,0,0,.65));
+  animation:flicker 5s infinite}
+@keyframes flicker{0%,100%{opacity:1}47%{opacity:1}48%{opacity:.86}49%{opacity:1}72%{opacity:.95}}
+.knob{position:absolute;top:50%;width:10px;height:26px;margin-top:-13px;border-radius:3px;background:linear-gradient(90deg,#6c5536,#a88b62)}
+.knob.l{left:-8px}.knob.r{right:-8px}
+.crt-foot{width:46%;height:16px;margin:0 auto;background:linear-gradient(180deg,#a8936e,#6f5a3c);border-radius:0 0 10px 10px}
+.branch{cursor:pointer}
+.branch path.b{fill:none;stroke:#ff8d55;stroke-width:2.6;filter:url(#glow);transition:stroke-width .2s}
+.branch:hover path.b,.branch:focus path.b{stroke-width:4}
+.branch .node{fill:#120e0b;stroke:#ffb37f;stroke-width:2}
+.branch .lab{font:15px var(--f-hud);letter-spacing:.12em;fill:#ff9a5e}
+.branch .sub{font:11px var(--f-hud);letter-spacing:.14em;fill:#cfe7e2}
+.branch:focus{outline:none}
+.branch:focus .node{stroke:var(--teal);stroke-width:3}
+.pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:.9;transform:scale(1.6)}}
+.desk{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,.8fr) minmax(0,.9fr);gap:14px;margin:26px auto 0;max-width:980px;padding-bottom:28px}
+.tickets{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.ticket{display:grid;grid-template-columns:auto minmax(0,1fr) auto;grid-template-rows:auto auto;column-gap:12px;align-items:center;padding:10px 12px;background:#efe2c2;color:var(--ink);border-left:6px solid var(--kiln);box-shadow:0 6px 14px rgba(0,0,0,.35)}
+.t-no{grid-row:span 2;font:22px/1 var(--f-hud);color:var(--kiln)}
+.t-name{font:600 15px/1.2 var(--f-body);text-transform:uppercase;letter-spacing:.06em}
+.t-sub{grid-column:2;font:12px/1.3 var(--f-memo);color:#5a3b25}
+.t-status{grid-row:1 / span 2;grid-column:3;font:11px/1 var(--f-hud);letter-spacing:.14em;text-transform:uppercase;padding:6px 8px;border:1px solid currentColor;color:#7a5536}
+.ticket.done{border-left-color:var(--orange)}
+.ticket.done .t-status{color:var(--ink);background:var(--orange);border-color:var(--orange)}
+.shift-box{display:grid;align-content:center;justify-items:center;text-align:center;gap:4px;padding:14px;border:1px solid var(--line);background:rgba(12,9,7,.86)}
+.shift-box .k,.clock .k{font:11px var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+.shift-box .big{font:64px/1 var(--f-hud);color:var(--orange);text-shadow:0 0 14px rgba(242,103,15,.6);font-variant-numeric:tabular-nums}
+.shift-box .k2{font:12px/1.4 var(--f-memo);color:var(--paper)}
+.clock{margin:0;display:grid;justify-items:center;gap:6px;padding:12px;border:1px solid var(--line);background:rgba(12,9,7,.86)}
+.clock svg{width:min(150px,100%);height:auto}
+.clock figcaption{display:grid;justify-items:center;gap:2px}
+.cd{font:24px/1 var(--f-hud);letter-spacing:.08em;color:var(--orange);text-shadow:var(--glow);font-variant-numeric:tabular-nums}
+
+/* terminal frame */
+.term{position:relative;display:grid;grid-template-columns:52px minmax(0,1fr);border:1px solid var(--line);background:linear-gradient(180deg,#17110d,#0f0b08);
+  box-shadow:inset 0 0 0 5px var(--void), inset 0 0 0 6px var(--line-soft), 0 0 30px rgba(242,103,15,.10)}
+.term::before,.term::after{content:"";position:absolute;width:22px;height:22px;background-image:linear-gradient(var(--line) 1px,rgba(0,0,0,0) 1px),linear-gradient(90deg,var(--line) 1px,rgba(0,0,0,0) 1px);background-size:7px 7px;pointer-events:none}
+.term::before{top:14px;right:14px}
+.term::after{bottom:14px;right:14px}
+.rail{display:flex;flex-direction:column;align-items:center;gap:6px;padding:16px 0;border-right:1px solid var(--line-soft);margin:6px 0 6px 6px}
+.ri{width:36px;height:36px;display:grid;place-items:center;color:var(--orange);background:none;border:1px solid rgba(0,0,0,0);border-radius:3px}
+.ri svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;filter:drop-shadow(0 0 3px rgba(242,103,15,.5))}
+.ri:hover{border-color:var(--line)}
+.ri.on{background:rgba(242,103,15,.14);border-color:var(--line)}
+.term-main{position:relative;padding:clamp(18px,3vw,30px);min-width:0}
+.code{position:absolute;font:11px/1 var(--f-hud);letter-spacing:.16em;text-transform:uppercase;color:var(--orange);background:var(--void);padding:0 6px;white-space:nowrap}
+.code.tl{top:-6px;left:24px}.code.tr{top:-6px;right:48px}.code.bl{bottom:-6px;left:24px}.code.br{bottom:-6px;right:48px}
+.hud{font:12px/1.5 var(--f-hud);letter-spacing:.16em;text-transform:uppercase;color:var(--orange);text-shadow:var(--glow);margin:0}
+.term-head{display:grid;gap:10px;margin-bottom:18px}
+.wm-small{max-width:300px}
+.term-body{display:grid;grid-template-columns:minmax(0,1fr) 210px;gap:22px}
+.search{display:grid;gap:6px;margin-bottom:18px}
+.field{display:flex;align-items:center;gap:4px;border:1px solid var(--line);background:#0b0807;padding:10px 12px;font:600 18px/1.2 var(--f-body);letter-spacing:.04em;text-transform:uppercase}
+.field .typed{color:var(--cream)}
+.caret{width:10px;height:20px;background:var(--orange);animation:blink 1s steps(1) infinite;box-shadow:var(--glow)}
+@keyframes blink{50%{opacity:0}}
+.ac{list-style:none;margin:0;padding:4px 0;border:1px solid var(--line-soft);border-top:0;background:#0d0a08;font:14px/1.2 var(--f-body)}
+.ac li{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;text-transform:uppercase;letter-spacing:.04em}
+.ac li em{font-style:normal;font:12px var(--f-hud);letter-spacing:.06em;color:var(--muted);text-transform:none}
+.ac li.on{background:rgba(242,103,15,.16);box-shadow:inset 3px 0 0 var(--orange)}
+.guesses{display:grid;gap:12px}
+.g-head,.g-cells{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px}
+.g-head{font:10px var(--f-hud);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-align:center}
+.g-row{display:grid;gap:6px}
+.g-name{font:13px/1.2 var(--f-hud);letter-spacing:.16em;text-transform:uppercase;color:var(--cream)}
+.cell{position:relative;min-height:54px;display:grid;place-items:center;text-align:center;padding:8px 2px 6px;font:600 11px/1.15 var(--f-body);text-transform:uppercase;letter-spacing:.02em;border:1px solid}
+.cell .mk{position:absolute;top:2px;right:4px;font:11px var(--f-hud)}
+.cell.x{background:var(--chocolate);color:var(--cream);border-color:#5b3b27}
+.cell.c{background:var(--mustard);color:var(--ink);border-color:#f2c46c}
+.cell.e{background:var(--orange);color:var(--ink);border-color:#ffa062;box-shadow:0 0 12px rgba(242,103,15,.4)}
+.cell.blank{background:rgba(0,0,0,0);border:1px dashed var(--line-soft)}
+.g-row.flip .cell{animation:flipin .5s cubic-bezier(.2,.7,.2,1) both}
+.g-row.flip .cell:nth-child(2){animation-delay:.12s}.g-row.flip .cell:nth-child(3){animation-delay:.24s}.g-row.flip .cell:nth-child(4){animation-delay:.36s}.g-row.flip .cell:nth-child(5){animation-delay:.48s}.g-row.flip .cell:nth-child(6){animation-delay:.6s}
+@keyframes flipin{0%{transform:rotateX(90deg);filter:brightness(2)}100%{transform:rotateX(0)}}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:14px;font:11px var(--f-hud);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{display:inline-grid;place-items:center;width:18px;height:18px;font-style:normal;font-size:11px;border:1px solid}
+.legend .e{background:var(--orange);color:var(--ink);border-color:#ffa062}
+.legend .c{background:var(--mustard);color:var(--ink);border-color:#f2c46c}
+.legend .x{background:var(--chocolate);color:var(--cream);border-color:#5b3b27}
+.actions{border:1px solid var(--line-soft);padding:14px;align-self:start}
+.actions h3{margin:0 0 10px;font:13px var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--orange);text-shadow:var(--glow)}
+.actions h3 b{font-weight:400;color:var(--muted)}
+.actions ol{margin:0;padding:0;list-style:none;display:grid;gap:4px}
+.actions li a{display:block;padding:7px 8px;font:13px var(--f-hud);letter-spacing:.14em;text-transform:uppercase;color:var(--cream);text-decoration:none;border:1px solid rgba(0,0,0,0)}
+.actions li a:hover,.actions li a:focus-visible{border-color:var(--line);color:var(--orange)}
+.actions li a span{color:var(--orange);margin-right:6px}
+.actions .att{margin-top:14px;display:flex;gap:6px}
+.actions .att i{flex:1;height:8px;border:1px solid var(--line)}
+.actions .att i.used{background:var(--orange);box-shadow:var(--glow)}
+
+/* ID card */
+.id-wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.8fr);gap:24px;align-items:center}
+.idcard{position:relative;max-width:560px;width:100%;padding:0;border-radius:6px;overflow:hidden}
+.id-band{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--orange);color:var(--ink);padding:8px 14px;font:13px/1 var(--f-hud);letter-spacing:.2em;text-transform:uppercase}
+.id-band b{font-weight:400;background:var(--ink);color:var(--orange);padding:4px 6px}
+.id-body{display:grid;grid-template-columns:132px minmax(0,1fr);gap:16px;padding:16px}
+.photo{margin:0;display:grid;gap:6px}
+.photo svg{width:100%;height:auto;display:block;border:1px solid rgba(42,26,16,.55)}
+.photo figcaption{font:10px var(--f-hud);letter-spacing:.14em;text-transform:uppercase;color:#6a4a31;text-align:center}
+.fields{display:grid;gap:7px;align-content:start;margin:0}
+.fields div{display:grid;gap:1px}
+.fields dt{font:10px/1.2 var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--kiln)}
+.fields dd{margin:0;font:15px/1.3 var(--f-memo);border-bottom:1px dotted rgba(42,26,16,.45);padding-bottom:2px}
+.id-notes{padding:0 16px 16px;font:14px/1.55 var(--f-memo);margin:0}
+.id-notes b{font:10px var(--f-hud);letter-spacing:.18em;color:var(--kiln);display:block;font-weight:400;margin-bottom:2px}
+.closed{position:absolute;left:64%;top:58%;width:min(290px,58%);transform:translate(-50%,-50%) rotate(-9deg);border:4px solid var(--stamp);outline:2px solid var(--stamp);outline-offset:3px;padding:10px 12px;display:grid;gap:6px;
+  -webkit-mask-image:var(--inkmask);mask-image:var(--inkmask);-webkit-mask-size:240px;mask-size:240px;opacity:.9;pointer-events:none}
+.closed svg{display:block;width:100%;height:auto}
+.closed .s{fill:var(--stamp)}
+.closed small{font:11px/1 var(--f-hud);letter-spacing:.24em;color:var(--stamp);text-align:center;text-transform:uppercase}
+.closed.slam{animation:slam .55s cubic-bezier(.2,.9,.3,1.2) both}
+@keyframes slam{0%{transform:translate(-50%,-50%) rotate(-16deg) scale(2.4);opacity:0;filter:blur(4px)}60%{transform:translate(-50%,-50%) rotate(-9deg) scale(.95);opacity:.95;filter:blur(0)}80%{transform:translate(-50%,-50%) rotate(-9deg) scale(1.03)}100%{transform:translate(-50%,-50%) rotate(-9deg) scale(1);opacity:.9}}
+.idcard.thud{animation:thud .35s .3s ease-out both}
+@keyframes thud{0%,100%{transform:none}35%{transform:translateY(4px) scale(.995)}70%{transform:translateY(-1px)}}
+.id-side{display:grid;gap:14px}
+.id-side p{margin:0;color:var(--muted);max-width:52ch}
+.btn{justify-self:start;display:inline-flex;align-items:center;gap:8px;padding:10px 16px;background:none;border:1px solid var(--line);color:var(--orange);font:13px/1 var(--f-hud);letter-spacing:.18em;text-transform:uppercase;text-shadow:var(--glow)}
+.btn:hover{background:rgba(242,103,15,.12)}
+.btn.solid{background:var(--orange);color:var(--ink);text-shadow:none}
+
+/* B-List */
+.bl-grid{display:grid;grid-template-columns:minmax(0,1fr) 230px;gap:22px}
+.req{display:grid;gap:12px}
+.req .q{font:600 clamp(19px,3.6vw,26px)/1.3 var(--f-body);margin:0;text-wrap:balance}
+.timer{display:flex;align-items:center;gap:12px}
+.bar{flex:1;height:10px;border:1px solid var(--line);position:relative;overflow:hidden}
+.bar i{position:absolute;inset:1px;background:repeating-linear-gradient(90deg,var(--orange) 0 6px,rgba(0,0,0,0) 6px 9px);transform-origin:left;animation:drain 25s linear infinite;box-shadow:var(--glow)}
+@keyframes drain{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+.tnum{font:22px/1 var(--f-hud);color:var(--orange);font-variant-numeric:tabular-nums;text-shadow:var(--glow);min-width:3.2ch;text-align:right}
+.typein{display:flex;align-items:center;gap:6px;border:1px solid var(--line);background:#0b0807;padding:12px;font:600 19px/1 var(--f-body);text-transform:uppercase;letter-spacing:.04em}
+.typein .typed{color:var(--cream)}
+.result{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;align-items:center;padding:12px 14px;border:1px solid}
+.result .rp{grid-column:2;grid-row:1 / span 2}
+.result .rk{font:11px var(--f-hud);letter-spacing:.18em;text-transform:uppercase}
+.result .ra{font:600 17px/1.2 var(--f-body);text-transform:uppercase}
+.result .rp{font:26px/1 var(--f-hud)}
+.result.pop{animation:pop .6s cubic-bezier(.2,.9,.3,1.3) both}
+@keyframes pop{0%{transform:translateY(16px) scale(.96);opacity:0;filter:brightness(2)}100%{transform:none;opacity:1}}
+.tiers{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.tiers li{display:grid;grid-template-columns:22px minmax(0,1fr) auto;gap:10px;align-items:center;padding:9px 12px;border:1px solid;font:12px/1.2 var(--f-hud);letter-spacing:.14em;text-transform:uppercase}
+.tiers li b{font-weight:400;font-size:16px;font-variant-numeric:tabular-nums}
+.tiers svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7}
+.t1{background:#efe3c6;color:var(--ink);border-color:#fff3d6}
+.t2{background:var(--mustard);color:var(--ink);border-color:#f2c46c}
+.t3{background:var(--orange);color:var(--ink);border-color:#ffa062}
+.t4{background:var(--rust);color:var(--cream);border-color:#b64a24}
+.t5{background:#070605;color:var(--teal);border-color:var(--teal);box-shadow:0 0 14px rgba(127,189,180,.22), inset 0 0 12px rgba(127,189,180,.12)}
+.depth{display:grid;grid-template-columns:auto 26px;gap:10px;justify-content:end;align-self:start}
+.depth ol{list-style:none;margin:0;padding:0;display:grid;grid-template-rows:repeat(8,30px);font:11px/30px var(--f-hud);letter-spacing:.14em;color:var(--muted);text-align:right}
+.depth ol li.here{color:var(--orange);text-shadow:var(--glow)}
+.shaft{position:relative;border:1px solid var(--line);background:repeating-linear-gradient(180deg,rgba(242,103,15,.18) 0 1px,rgba(0,0,0,0) 1px 30px)}
+.shaft i{position:absolute;left:2px;right:2px;top:2px;height:calc(var(--d) * 1%);background:linear-gradient(180deg,rgba(242,103,15,.25),var(--orange));box-shadow:var(--glow);transition:height .9s cubic-bezier(.2,.8,.2,1)}
+.depth-read{grid-column:1 / -1;text-align:right;font:13px var(--f-hud);letter-spacing:.14em;color:var(--orange);text-shadow:var(--glow);text-transform:uppercase}
+.others{margin-top:6px;border-top:1px dashed var(--line-soft);padding-top:12px}
+.others ul{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:6px;font:13px/1.35 var(--f-body)}
+.others li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;align-items:baseline}
+.others li span{font:11px var(--f-hud);letter-spacing:.12em;color:var(--muted);text-transform:uppercase}
+
+/* Retcon */
+.rc-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.9fr);gap:22px;align-items:start}
+.lives{display:flex;align-items:center;gap:10px}
+.lives i{width:16px;height:16px;border-radius:50%;border:2px solid var(--orange);box-shadow:var(--glow)}
+.lives i.full{background:var(--orange)}
+.incoming{border:1px dashed var(--line);padding:12px 14px;display:grid;gap:4px;margin:14px 0 18px;background:rgba(242,103,15,.06)}
+.incoming .ev{font:600 16px/1.3 var(--f-body)}
+.line{position:relative;padding-left:64px;display:grid;gap:10px}
+.line::before{content:"";position:absolute;left:18px;top:-6px;bottom:-6px;width:4px;border-radius:2px;background:#f6f1e7;box-shadow:0 0 10px rgba(255,255,255,.65),0 0 22px rgba(255,200,160,.35)}
+.slot{position:relative;justify-self:start;font:11px/1 var(--f-hud);letter-spacing:.16em;text-transform:uppercase;color:var(--teal);border:1px dashed rgba(127,189,180,.6);background:none;padding:7px 10px}
+.slot:hover,.slot:focus-visible{background:rgba(127,189,180,.12)}
+.ev-card{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;padding:10px 12px;background:#efe2c2;color:var(--ink);box-shadow:0 6px 14px rgba(0,0,0,.35);transition:transform .7s cubic-bezier(.6,0,.2,1)}
+.ev-card .t{font:600 14px/1.3 var(--f-body)}
+.ev-card .k{display:block;font:10px var(--f-hud);letter-spacing:.16em;color:#7a5536;text-transform:uppercase;margin-bottom:2px}
+.ev-card .yr{font:20px/1 var(--f-hud);color:var(--kiln)}
+.ev-card.anchor{border-left:5px solid var(--teal)}
+.ev-card svg.br{position:absolute;left:-48px;top:50%;width:48px;height:60px;margin-top:-58px;overflow:visible}
+.ev-card svg.br path{fill:none;stroke:#ff8d55;stroke-width:2.4;filter:drop-shadow(0 0 4px rgba(255,141,85,.8));stroke-dasharray:90;stroke-dashoffset:0;transition:stroke-dashoffset .6s ease-in}
+.line.collapsed .ev-card{transform:translateX(-44px)}
+.line.collapsed .ev-card svg.br path{stroke-dashoffset:90}
+.line.collapsed .slot{opacity:0;transition:opacity .3s}
+.line.collapsed::before{animation:restore 1.2s .5s ease-out both}
+@keyframes restore{0%{box-shadow:0 0 10px rgba(255,255,255,.65)}40%{box-shadow:0 0 26px rgba(255,255,255,1),0 0 60px rgba(255,190,140,.8)}100%{box-shadow:0 0 10px rgba(255,255,255,.65),0 0 22px rgba(255,200,160,.35)}}
+.rc-side{display:grid;gap:14px}
+.rc-side p{margin:0;color:var(--muted)}
+
+/* surfaces */
+.surf{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.surf figure{margin:0;border:1px solid var(--line-soft);background:var(--panel)}
+.surf .tile{height:150px;position:relative;overflow:hidden}
+.surf figcaption{padding:10px 12px;font-size:13px;line-height:1.45;color:var(--muted)}
+.surf figcaption b{display:block;color:var(--cream);font-weight:600}
+.tile.honey{background:#2a180e}
+.tile.honey::before{content:"";position:absolute;left:-100%;right:-100%;top:0;height:640px;transform:perspective(252px) rotateX(-40deg);transform-origin:50% 0;
+  background:radial-gradient(closest-side,#ffd27a 0,#f3a64c 38%,#b8641f 66%,rgba(0,0,0,0) 70%) 0 0/52px 46px,radial-gradient(closest-side,#ffd27a 0,#f3a64c 38%,#b8641f 66%,rgba(0,0,0,0) 70%) 26px 23px/52px 46px,#3b2215}
+.tile.honey::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgba(20,10,5,.8))}
+.tile.wood{background:var(--woodgrain),repeating-linear-gradient(90deg,rgba(0,0,0,.5) 0 2px,rgba(255,214,170,.07) 2px 3px,rgba(0,0,0,0) 3px 70px),linear-gradient(180deg,#5f3c23,#3b2416)}
+.tile.floor{background:#cfc3a6;perspective:260px}
+.tile.floor::before{content:"";position:absolute;left:-60%;right:-60%;top:0;height:260%;transform:rotateX(62deg) rotateZ(45deg);transform-origin:50% 0;
+  background:repeating-conic-gradient(var(--tile-green) 0 25%, var(--tile-cream) 0 50%) 0 0/44px 44px}
+.results{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px;margin-top:26px;align-items:start}
+.floorstage{position:relative;padding:22px;overflow:hidden;border:1px solid var(--line-soft);background:#cfc3a6}
+.floorstage::before{content:"";position:absolute;inset:-50%;transform:perspective(500px) rotateX(55deg) rotateZ(45deg);background:repeating-conic-gradient(var(--tile-green) 0 25%, var(--tile-cream) 0 50%) 0 0/56px 56px;opacity:.95}
+.share{position:relative;background:#0e0b09;border:1px solid var(--line);padding:16px;box-shadow:0 18px 40px rgba(0,0,0,.45)}
+.share pre{margin:0 0 12px;font:14px/1.5 var(--f-hud);letter-spacing:.06em;color:var(--cream);white-space:pre-wrap}
+.voice{display:grid;gap:10px}
+.voice blockquote{margin:0;padding:12px 14px;font:15px/1.55 var(--f-memo);color:var(--ink);border-left:5px solid var(--kiln)}
+.voice blockquote cite{display:block;font:10px var(--f-hud);letter-spacing:.18em;text-transform:uppercase;color:var(--kiln);font-style:normal;margin-bottom:4px}
+.sound{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:22px}
+.sound div{border:1px solid var(--line-soft);padding:12px;background:var(--panel);font-size:13px;color:var(--muted)}
+.sound b{display:block;color:var(--orange);font:12px var(--f-hud);letter-spacing:.16em;text-transform:uppercase;margin-bottom:4px;text-shadow:var(--glow)}
+
+footer{margin-top:64px;border-top:1px solid var(--line-soft);background:#0d0a08}
+footer .wrap{padding-block:22px 34px;display:grid;gap:6px;font:12px/1.6 var(--f-hud);letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
+footer b{color:var(--orange);font-weight:400}
+
+@media (max-width: 860px){
+  .type-grid,.term-body,.id-wrap,.bl-grid,.rc-grid,.results{grid-template-columns:minmax(0,1fr)}
+  .desk{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .tickets{grid-column:1 / -1}
+  .surf{grid-template-columns:minmax(0,1fr)}
+  .depth{justify-content:start;grid-template-columns:auto 26px}
+}
+@media (max-width: 560px){
+  .sheet-top{grid-template-columns:minmax(0,1fr)}
+  .seal{justify-self:end;margin-top:-6px}
+  .term{grid-template-columns:minmax(0,1fr)}
+  .rail{flex-direction:row;justify-content:space-around;border-right:0;border-bottom:1px solid var(--line-soft);margin:6px 6px 0;padding:6px 0}
+  .code.tr,.code.br{right:20px}
+  .id-body{grid-template-columns:96px minmax(0,1fr)}
+  .stamp{font-size:17px}
+  .memo div{grid-template-columns:60px minmax(0,1fr)}
+  .sheet{padding-bottom:92px}
+  .stamp-review{right:16px;bottom:22px}
+  .term::before{display:none}
+  .code.br{display:none}
+  .closed{left:70%;top:68%;width:54%}
+  .others li{grid-template-columns:minmax(0,1fr)}
+}
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{animation-duration:.001ms !important;animation-iteration-count:1 !important;transition-duration:.001ms !important}
+  .grain{display:none}
+}
+</style>
+
+<div class="grain" aria-hidden="true"></div>
+<header class="strip">
+  <div class="wrap strip-in">
+    <span>M.A.R.V.E.L.O.U.S. <i>▸</i> Design office <i>▸</i> Memo 001</span>
+    <span id="etnow">-- --- ---- · --:--:-- ET</span>
+  </div>
+</header>
+
+<main>
+<section class="cover">
+  <div class="wrap">
+    <div class="paper sheet">
+      <div class="sheet-top">
+        <div>
+          <p class="eyebrow">Interoffice memo · Form 001-D</p>
+          <h1 class="wm-hero" aria-label="Marvelous"><svg class="wm" viewBox="-4 -4 922 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,100.0 L0.0,100.0 L0.0,0.0 L30.0,0.0 L30.0,100.0ZM94.0,0.0 L124.0,0.0 L124.0,100.0 L94.0,100.0 L94.0,0.0ZM136.0,100.0 L186.0,0.0 L186.0,42.0 L166.0,100.0 L136.0,100.0ZM278.0,100.0 L248.0,100.0 L248.0,0.0 L278.0,0.0 L278.0,100.0ZM332.0,100.0 L304.0,100.0 L286.9,65.8 L289.6,65.6 L295.1,64.3 L300.4,62.1 L303.8,60.0 L310.0,60.0 L332.0,100.0ZM394.0,100.0 L344.0,0.0 L380.0,0.0 L394.0,44.0 L394.0,100.0ZM486.0,100.0 L456.0,100.0 L456.0,0.0 L486.0,0.0 L486.0,100.0ZM568.0,100.0 L538.0,100.0 L538.0,0.0 L568.0,0.0 L568.0,100.0ZM654.5,97.6 L647.3,94.6 L640.6,90.5 L634.6,85.4 L629.5,79.4 L625.4,72.7 L622.4,65.5 L620.6,57.8 L620.0,50.0 L620.6,42.2 L622.4,34.5 L625.4,27.3 L629.5,20.6 L634.6,14.6 L640.6,9.5 L647.3,5.4 L654.5,2.4 L662.2,0.6 L670.0,0.0 L670.0,35.0 L667.7,35.2 L665.4,35.7 L663.2,36.6 L661.2,37.9 L659.4,39.4 L657.9,41.2 L656.6,43.2 L655.7,45.4 L655.2,47.7 L655.0,50.0 L655.2,52.3 L655.7,54.6 L656.6,56.8 L657.9,58.8 L659.4,60.6 L661.2,62.1 L663.2,63.4 L665.4,64.3 L667.7,64.8 L670.0,65.0 L670.0,100.0 L662.2,99.4 L654.5,97.6ZM762.0,54.0 L732.0,54.0 L732.0,0.0 L762.0,0.0 L762.0,54.0ZM794.0,0.0 L824.0,0.0 L824.0,54.0 L794.0,54.0 L794.0,0.0ZM852.9,58.6 L848.8,56.1 L845.1,52.9 L841.9,49.2 L839.4,45.1 L837.5,40.6 L836.4,35.8 L836.0,31.0 L836.4,26.2 L837.5,21.4 L839.4,16.9 L841.9,12.8 L845.1,9.1 L848.8,5.9 L852.9,3.4 L857.4,1.5 L862.2,0.4 L867.0,0.0 L914.0,0.0 L914.0,24.0 L867.0,24.0 L864.8,24.3 L863.8,24.8 L862.1,26.1 L860.8,27.8 L860.1,29.9 L860.1,32.1 L860.8,34.2 L862.1,35.9 L862.9,36.7 L864.8,37.7 L867.0,38.0 L867.0,62.0 L862.2,61.6 L857.4,60.5 L852.9,58.6Z"/><path class="d" d="M84.0,0.0 L88.0,0.0 L88.0,63.8 L80.0,78.0 L44.0,78.0 L36.0,63.8 L36.0,0.0 L61.1,44.6 L84.0,0.0ZM189.2,51.2 L192.0,43.0 L192.0,12.0 L236.0,100.0 L206.0,100.0 L189.2,51.2ZM182.7,70.0 L189.3,70.0 L194.8,86.0 L177.2,86.0 L182.7,70.0ZM308.3,47.6 L305.2,51.2 L301.6,54.3 L297.6,56.7 L293.3,58.5 L288.7,59.6 L284.0,60.0 L284.0,39.0 L286.8,38.6 L289.3,37.3 L290.4,36.4 L291.3,35.3 L292.6,32.8 L293.0,30.0 L292.6,27.2 L291.3,24.7 L290.4,23.6 L288.1,22.0 L286.8,21.4 L284.0,21.0 L284.0,0.0 L288.7,0.4 L293.3,1.5 L297.6,3.3 L301.6,5.7 L305.2,8.8 L308.3,12.4 L310.7,16.4 L312.5,20.7 L313.6,25.3 L314.0,30.0 L313.6,34.7 L312.5,39.3 L310.7,43.6 L308.3,47.6ZM400.0,88.0 L400.0,43.1 L397.1,34.1 L408.0,0.0 L444.0,0.0 L400.0,88.0ZM526.0,28.0 L492.0,28.0 L492.0,0.0 L526.0,0.0 L526.0,28.0ZM516.0,64.0 L492.0,64.0 L492.0,36.0 L516.0,36.0 L516.0,64.0ZM526.0,100.0 L492.0,100.0 L492.0,72.0 L526.0,72.0 L526.0,100.0ZM608.0,100.0 L574.0,100.0 L574.0,72.0 L608.0,72.0 L608.0,100.0ZM710.5,79.4 L705.4,85.4 L699.4,90.5 L692.7,94.6 L685.5,97.6 L677.8,99.4 L676.0,99.5 L676.0,63.7 L678.8,62.1 L680.6,60.6 L682.1,58.8 L683.4,56.8 L684.3,54.6 L684.8,52.3 L685.0,50.0 L684.8,47.7 L684.3,45.4 L683.4,43.2 L682.1,41.2 L680.6,39.4 L678.8,37.9 L676.0,36.3 L676.0,0.5 L677.8,0.6 L685.5,2.4 L692.7,5.4 L699.4,9.5 L705.4,14.6 L710.5,20.6 L714.6,27.3 L717.6,34.5 L719.4,42.2 L720.0,50.0 L719.4,57.8 L717.6,65.5 L714.6,72.7 L710.5,79.4ZM815.2,81.0 L810.5,86.5 L805.0,91.2 L798.9,95.0 L792.2,97.7 L785.2,99.4 L778.0,100.0 L770.8,99.4 L763.8,97.7 L757.1,95.0 L751.0,91.2 L745.5,86.5 L740.8,81.0 L737.0,74.9 L734.3,68.2 L732.6,61.2 L732.5,60.0 L763.2,60.0 L763.7,61.3 L765.1,63.4 L766.7,65.3 L768.6,66.9 L770.7,68.3 L773.1,69.2 L775.5,69.8 L778.0,70.0 L780.5,69.8 L782.9,69.2 L785.3,68.3 L787.4,66.9 L789.3,65.3 L790.9,63.4 L792.3,61.3 L792.8,60.0 L823.5,60.0 L823.4,61.2 L821.7,68.2 L819.0,74.9 L815.2,81.0ZM883.0,76.0 L885.2,75.7 L886.2,75.2 L887.1,74.7 L888.7,73.1 L889.2,72.2 L889.9,70.1 L890.0,69.0 L889.7,66.8 L889.2,65.8 L887.9,64.1 L886.2,62.8 L885.2,62.3 L883.0,62.0 L873.0,62.0 L873.0,38.0 L883.0,38.0 L887.8,38.4 L892.6,39.5 L897.1,41.4 L901.2,43.9 L904.9,47.1 L908.1,50.8 L910.6,54.9 L912.5,59.4 L913.6,64.2 L914.0,69.0 L913.6,73.8 L912.5,78.6 L910.6,83.1 L908.1,87.2 L904.9,90.9 L901.2,94.1 L897.1,96.6 L892.6,98.5 L887.8,99.6 L883.0,100.0 L836.0,100.0 L836.0,76.0 L883.0,76.0Z"/></svg></h1>
+          <p class="backronym">Multiversal Archive of Records, Variants, Events, Lore &amp; Other Unfiled Stories</p>
+        </div>
+        <svg class="seal" viewBox="0 0 200 200" role="img" aria-label="Marvelous seal: For the record, established 1939">
+<defs><path id="sealpath" d="M100 100 m-75 0 a75 75 0 1 1 150 0 a75 75 0 1 1 -150 0"/></defs>
+<circle cx="100" cy="100" r="98" fill="#b9470a"/>
+<circle cx="100" cy="100" r="92" fill="none" stroke="#f1e4c6" stroke-width="2"/>
+<text fill="#f1e4c6" style="font:13px 'Share Tech Mono',monospace;letter-spacing:2.2px"><textPath href="#sealpath">M.A.R.V.E.L.O.U.S. ★ FOR THE RECORD ★ EST. 1939 ★</textPath></text>
+<circle cx="100" cy="100" r="60" fill="#f2670f" stroke="#f1e4c6" stroke-width="2.5"/>
+<circle cx="100" cy="100" r="53" fill="none" stroke="#b9470a" stroke-width="1.5" stroke-dasharray="2 4"/>
+<g fill="none" stroke="#2a1a10" stroke-width="5" stroke-linecap="round">
+<path d="M100 54 V146"/>
+<path d="M100 128 C100 114 112 110 126 100"/>
+<path d="M100 108 C100 94 88 90 74 80"/>
+<path d="M100 88 C100 76 110 72 122 64"/>
+</g>
+<g fill="#f1e4c6" stroke="#2a1a10" stroke-width="2.5"><circle cx="127" cy="99" r="5"/><circle cx="73" cy="79" r="5"/><circle cx="123" cy="63" r="5"/></g>
+</svg>
+      </div>
+      <dl class="memo">
+        <div><dt>To</dt><dd>Harry, requesting agent</dd></div>
+        <div><dt>From</dt><dd>Design Office, Sublevel 2</dd></div>
+        <div><dt>Re</dt><dd>Visual direction for the Marvelous daily portal</dd></div>
+        <div><dt>Status</dt><dd>Awaiting countersignature</dd></div>
+      </dl>
+      <p class="memo-body">The portal should feel like a 1970s records bureau that never closed. Game screens are thin orange line-work on near-black, like a field terminal. The home screen is a cream CRT on a walnut wall under a honeycomb ceiling. Anything official is typed on aged paper and stamped. Every mark on this page, including the lettering and the seal, is drawn from scratch for Marvelous. No official logos, characters, photos or stills are used.</p>
+      <div class="stamp stamp-review" aria-hidden="true">For review</div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="palette">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 02</span><h2>Palette</h2><p>Burnt orange carries every frame and every exact match. Mustard means close. Chocolate means no. Teal appears only as a hairline, never as a fill.</p></header>
+    <div class="chips">
+      <figure class="chip" style="--c:#f2670f"><div class="sw"></div><figcaption><b>Signal Orange</b><code>#F2670F</code><span>Frames, lettering tone A, exact match</span></figcaption></figure>
+      <figure class="chip" style="--c:#b9470a"><div class="sw"></div><figcaption><b>Kiln Orange</b><code>#B9470A</code><span>Lettering tone B, pressed states</span></figcaption></figure>
+      <figure class="chip" style="--c:#ee8a62"><div class="sw"></div><figcaption><b>Phosphor</b><code>#EE8A62</code><span>CRT branch lines and glow</span></figcaption></figure>
+      <figure class="chip" style="--c:#d9a23a"><div class="sw"></div><figcaption><b>Mustard</b><code>#D9A23A</code><span>Close match, warnings, Filed tier</span></figcaption></figure>
+      <figure class="chip" style="--c:#3b2416"><div class="sw"></div><figcaption><b>Chocolate</b><code>#3B2416</code><span>No match, panels</span></figcaption></figure>
+      <figure class="chip" style="--c:#5c3a22"><div class="sw"></div><figcaption><b>Walnut</b><code>#5C3A22</code><span>Wood walls</span></figcaption></figure>
+      <figure class="chip" style="--c:#f1e4c6"><div class="sw"></div><figcaption><b>Cream</b><code>#F1E4C6</code><span>Text on dark, CRT bezel</span></figcaption></figure>
+      <figure class="chip" style="--c:#e9d5ac"><div class="sw"></div><figcaption><b>Aged Paper</b><code>#E9D5AC</code><span>Memos, ID cards, tickets</span></figcaption></figure>
+      <figure class="chip" style="--c:#120e0b"><div class="sw"></div><figcaption><b>Void</b><code>#120E0B</code><span>Base ground</span></figcaption></figure>
+      <figure class="chip teal"><div class="sw"></div><figcaption><b>Teal hairline</b><code>#7FBDB4</code><span>Focus rings, CRT rules, Sealed tier</span></figcaption></figure>
+      <figure class="chip" style="--c:#6f8f6a"><div class="sw"></div><figcaption><b>Tile Green</b><code>#6F8F6A</code><span>Results floor, with Tile Cream #E6DCC3</span></figcaption></figure>
+      <figure class="chip" style="--c:#c2361b"><div class="sw"></div><figcaption><b>Stamp Red</b><code>#C2361B</code><span>Rubber-stamp ink only</span></figcaption></figure>
+    </div>
+    <p class="note">Measured contrast on the void ground: cream 15.2:1 · orange 6.2:1 · muted text 7.8:1 · dark ink on orange 5.4:1 · on mustard 7.3:1. Orange on paper is 2.2:1, so orange lettering on paper is display-only and always has a plain-text equivalent.</p>
+  </div>
+</section>
+
+<section class="form" id="type">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 03</span><h2>Lettering</h2><p>One display face for the site name and game titles, one condensed mono for the terminal edges, one readable mono for play, one typewriter for anything on paper.</p></header>
+    <div class="type-grid">
+      <div class="paper specimen">
+        <div class="wm-row" role="img" aria-label="Unmasked"><svg class="wm" viewBox="-4 -4 840 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,54.0 L0.0,54.0 L0.0,0.0 L30.0,0.0 L30.0,54.0ZM62.0,0.0 L92.0,0.0 L92.0,54.0 L62.0,54.0 L62.0,0.0ZM134.0,100.0 L104.0,100.0 L104.0,0.0 L134.0,0.0 L134.0,100.0ZM182.0,0.0 L212.0,0.0 L212.0,100.0 L182.0,100.0 L182.0,0.0ZM254.0,100.0 L224.0,100.0 L224.0,0.0 L254.0,0.0 L254.0,100.0ZM318.0,0.0 L348.0,0.0 L348.0,100.0 L318.0,100.0 L318.0,0.0ZM360.0,100.0 L410.0,0.0 L410.0,42.0 L390.0,100.0 L360.0,100.0ZM488.9,58.6 L484.8,56.1 L481.1,52.9 L477.9,49.2 L475.4,45.1 L473.5,40.6 L472.4,35.8 L472.0,31.0 L472.4,26.2 L473.5,21.4 L475.4,16.9 L477.9,12.8 L481.1,9.1 L484.8,5.9 L488.9,3.4 L493.4,1.5 L498.2,0.4 L503.0,0.0 L550.0,0.0 L550.0,24.0 L503.0,24.0 L500.8,24.3 L499.8,24.8 L498.1,26.1 L496.8,27.8 L496.1,29.9 L496.1,32.1 L496.8,34.2 L498.1,35.9 L498.9,36.7 L500.8,37.7 L503.0,38.0 L503.0,62.0 L498.2,61.6 L493.4,60.5 L488.9,58.6ZM592.0,100.0 L562.0,100.0 L562.0,0.0 L592.0,0.0 L592.0,100.0ZM622.0,100.0 L617.6,83.3 L620.3,85.5 L634.8,53.1 L652.0,100.0 L622.0,100.0ZM694.0,100.0 L664.0,100.0 L664.0,0.0 L694.0,0.0 L694.0,100.0ZM776.0,100.0 L746.0,100.0 L746.0,0.0 L776.0,0.0 L776.0,100.0Z"/><path class="d" d="M83.2,81.0 L78.5,86.5 L73.0,91.2 L66.9,95.0 L60.2,97.7 L53.2,99.4 L46.0,100.0 L38.8,99.4 L31.8,97.7 L25.1,95.0 L19.0,91.2 L13.5,86.5 L8.8,81.0 L5.0,74.9 L2.3,68.2 L0.6,61.2 L0.5,60.0 L31.2,60.0 L31.7,61.3 L33.1,63.4 L34.7,65.3 L36.6,66.9 L38.7,68.3 L41.1,69.2 L43.5,69.8 L46.0,70.0 L48.5,69.8 L50.9,69.2 L53.3,68.3 L55.4,66.9 L57.3,65.3 L58.9,63.4 L60.3,61.3 L60.8,60.0 L91.5,60.0 L91.4,61.2 L89.7,68.2 L87.0,74.9 L83.2,81.0ZM176.0,43.8 L176.0,100.0 L168.0,100.0 L140.0,56.2 L140.0,0.0 L148.0,0.0 L176.0,43.8ZM308.0,0.0 L312.0,0.0 L312.0,63.8 L304.0,78.0 L268.0,78.0 L260.0,63.8 L260.0,0.0 L285.1,44.6 L308.0,0.0ZM413.2,51.2 L416.0,43.0 L416.0,12.0 L460.0,100.0 L430.0,100.0 L413.2,51.2ZM406.7,70.0 L413.3,70.0 L418.8,86.0 L401.2,86.0 L406.7,70.0ZM519.0,76.0 L521.2,75.7 L522.2,75.2 L523.1,74.7 L524.7,73.1 L525.2,72.2 L525.9,70.1 L526.0,69.0 L525.7,66.8 L525.2,65.8 L523.9,64.1 L522.2,62.8 L521.2,62.3 L519.0,62.0 L509.0,62.0 L509.0,38.0 L519.0,38.0 L523.8,38.4 L528.6,39.5 L533.1,41.4 L537.2,43.9 L540.9,47.1 L544.1,50.8 L546.6,54.9 L548.5,59.4 L549.6,64.2 L550.0,69.0 L549.6,73.8 L548.5,78.6 L546.6,83.1 L544.1,87.2 L540.9,90.9 L537.2,94.1 L533.1,96.6 L528.6,98.5 L523.8,99.6 L519.0,100.0 L472.0,100.0 L472.0,76.0 L519.0,76.0ZM652.0,0.0 L618.0,76.0 L598.0,60.0 L622.0,0.0 L652.0,0.0ZM734.0,28.0 L700.0,28.0 L700.0,0.0 L734.0,0.0 L734.0,28.0ZM724.0,64.0 L700.0,64.0 L700.0,36.0 L724.0,36.0 L724.0,64.0ZM734.0,100.0 L700.0,100.0 L700.0,72.0 L734.0,72.0 L734.0,100.0ZM822.5,79.4 L817.4,85.4 L811.4,90.5 L804.7,94.6 L797.5,97.6 L789.8,99.4 L782.0,100.0 L782.0,65.0 L784.3,64.8 L786.6,64.3 L788.8,63.4 L790.8,62.1 L792.6,60.6 L794.1,58.8 L795.4,56.8 L796.3,54.6 L796.8,52.3 L797.0,50.0 L796.8,47.7 L796.3,45.4 L795.4,43.2 L794.1,41.2 L792.6,39.4 L790.8,37.9 L788.8,36.6 L786.6,35.7 L784.3,35.2 L782.0,35.0 L782.0,0.0 L789.8,0.6 L797.5,2.4 L804.7,5.4 L811.4,9.5 L817.4,14.6 L822.5,20.6 L826.6,27.3 L829.6,34.5 L831.4,42.2 L832.0,50.0 L831.4,57.8 L829.6,65.5 L826.6,72.7 L822.5,79.4Z"/></svg></div>
+        <div class="wm-row" role="img" aria-label="B-List" style="max-width:290px"><svg class="wm" viewBox="-4 -4 442 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,100.0 L0.0,100.0 L0.0,0.0 L30.0,0.0 L30.0,100.0ZM166.0,100.0 L136.0,100.0 L136.0,0.0 L166.0,0.0 L166.0,100.0ZM248.0,100.0 L218.0,100.0 L218.0,0.0 L248.0,0.0 L248.0,100.0ZM276.9,58.6 L272.8,56.1 L269.1,52.9 L265.9,49.2 L263.4,45.1 L261.5,40.6 L260.4,35.8 L260.0,31.0 L260.4,26.2 L261.5,21.4 L263.4,16.9 L265.9,12.8 L269.1,9.1 L272.8,5.9 L276.9,3.4 L281.4,1.5 L286.2,0.4 L291.0,0.0 L338.0,0.0 L338.0,24.0 L291.0,24.0 L288.8,24.3 L287.8,24.8 L286.1,26.1 L284.8,27.8 L284.1,29.9 L284.1,32.1 L284.8,34.2 L286.1,35.9 L286.9,36.7 L288.8,37.7 L291.0,38.0 L291.0,62.0 L286.2,61.6 L281.4,60.5 L276.9,58.6ZM434.0,28.0 L350.0,28.0 L350.0,0.0 L434.0,0.0 L434.0,28.0Z"/><path class="d" d="M55.4,38.1 L53.0,41.0 L50.1,43.4 L46.9,45.4 L43.4,46.8 L39.8,47.7 L36.0,48.0 L36.0,31.0 L38.2,30.7 L39.2,30.2 L40.9,28.9 L42.2,27.2 L42.7,26.2 L43.0,24.0 L42.7,21.8 L42.2,20.8 L40.9,19.1 L39.2,17.8 L38.2,17.3 L36.0,17.0 L36.0,0.0 L39.8,0.3 L43.4,1.2 L46.9,2.6 L50.1,4.6 L53.0,7.0 L55.4,9.9 L57.4,13.1 L58.8,16.6 L59.7,20.2 L60.0,24.0 L59.7,27.8 L58.8,31.4 L57.4,34.9 L55.4,38.1ZM57.8,88.9 L55.1,92.1 L51.9,94.8 L48.3,97.1 L44.3,98.7 L40.2,99.7 L36.0,100.0 L36.0,81.0 L38.5,80.6 L40.7,79.5 L41.7,78.7 L43.1,76.6 L43.9,74.3 L44.0,73.0 L43.6,70.5 L43.1,69.4 L41.7,67.3 L39.6,65.9 L37.3,65.1 L36.0,65.0 L36.0,54.0 L40.7,53.6 L45.3,52.5 L49.6,50.7 L50.4,50.3 L51.9,51.2 L55.1,53.9 L57.8,57.1 L60.1,60.7 L61.7,64.7 L62.7,68.8 L63.0,73.0 L62.7,77.2 L61.7,81.3 L60.1,85.3 L57.8,88.9ZM80.0,62.0 L80.0,38.0 L124.0,38.0 L124.0,62.0 L80.0,62.0ZM206.0,100.0 L172.0,100.0 L172.0,72.0 L206.0,72.0 L206.0,100.0ZM307.0,76.0 L309.2,75.7 L310.2,75.2 L311.1,74.7 L312.7,73.1 L313.2,72.2 L313.9,70.1 L314.0,69.0 L313.7,66.8 L313.2,65.8 L311.9,64.1 L310.2,62.8 L309.2,62.3 L307.0,62.0 L297.0,62.0 L297.0,38.0 L307.0,38.0 L311.8,38.4 L316.6,39.5 L321.1,41.4 L325.2,43.9 L328.9,47.1 L332.1,50.8 L334.6,54.9 L336.5,59.4 L337.6,64.2 L338.0,69.0 L337.6,73.8 L336.5,78.6 L334.6,83.1 L332.1,87.2 L328.9,90.9 L325.2,94.1 L321.1,96.6 L316.6,98.5 L311.8,99.6 L307.0,100.0 L260.0,100.0 L260.0,76.0 L307.0,76.0ZM377.0,100.0 L377.0,34.0 L407.0,34.0 L407.0,100.0 L377.0,100.0Z"/></svg></div>
+        <div class="wm-row" role="img" aria-label="Retcon" style="max-width:370px"><svg class="wm" viewBox="-4 -4 606 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,100.0 L0.0,100.0 L0.0,0.0 L30.0,0.0 L30.0,100.0ZM84.0,100.0 L56.0,100.0 L38.9,65.8 L41.6,65.6 L47.1,64.3 L52.4,62.1 L55.8,60.0 L62.0,60.0 L84.0,100.0ZM126.0,100.0 L96.0,100.0 L96.0,0.0 L126.0,0.0 L126.0,100.0ZM262.0,28.0 L178.0,28.0 L178.0,0.0 L262.0,0.0 L262.0,28.0ZM308.5,97.6 L301.3,94.6 L294.6,90.5 L288.6,85.4 L283.5,79.4 L279.4,72.7 L276.4,65.5 L274.6,57.8 L274.0,50.0 L274.6,42.2 L276.4,34.5 L279.4,27.3 L283.5,20.6 L288.6,14.6 L294.6,9.5 L301.3,5.4 L308.5,2.4 L316.2,0.6 L324.0,0.0 L324.0,35.0 L321.7,35.2 L319.4,35.7 L317.2,36.6 L315.2,37.9 L313.4,39.4 L311.9,41.2 L310.6,43.2 L309.7,45.4 L309.2,47.7 L309.0,50.0 L309.2,52.3 L309.7,54.6 L310.6,56.8 L311.9,58.8 L313.4,60.6 L315.2,62.1 L317.2,63.4 L319.4,64.3 L321.7,64.8 L324.0,65.0 L324.0,100.0 L316.2,99.4 L308.5,97.6ZM412.5,97.6 L405.3,94.6 L398.6,90.5 L392.6,85.4 L387.5,79.4 L383.4,72.7 L380.4,65.5 L378.6,57.8 L378.0,50.0 L378.6,42.2 L380.4,34.5 L383.4,27.3 L387.5,20.6 L392.6,14.6 L398.6,9.5 L405.3,5.4 L412.5,2.4 L420.2,0.6 L428.0,0.0 L428.0,35.0 L425.7,35.2 L423.4,35.7 L421.2,36.6 L419.2,37.9 L417.4,39.4 L415.9,41.2 L414.6,43.2 L413.7,45.4 L413.2,47.7 L413.0,50.0 L413.2,52.3 L413.7,54.6 L414.6,56.8 L415.9,58.8 L417.4,60.6 L419.2,62.1 L421.2,63.4 L423.4,64.3 L425.7,64.8 L428.0,65.0 L428.0,100.0 L420.2,99.4 L412.5,97.6ZM520.0,100.0 L490.0,100.0 L490.0,0.0 L520.0,0.0 L520.0,100.0ZM568.0,0.0 L598.0,0.0 L598.0,100.0 L568.0,100.0 L568.0,0.0Z"/><path class="d" d="M60.3,47.6 L57.2,51.2 L53.6,54.3 L49.6,56.7 L45.3,58.5 L40.7,59.6 L36.0,60.0 L36.0,39.0 L38.8,38.6 L41.3,37.3 L42.4,36.4 L43.3,35.3 L44.6,32.8 L45.0,30.0 L44.6,27.2 L43.3,24.7 L42.4,23.6 L40.1,22.0 L38.8,21.4 L36.0,21.0 L36.0,0.0 L40.7,0.4 L45.3,1.5 L49.6,3.3 L53.6,5.7 L57.2,8.8 L60.3,12.4 L62.7,16.4 L64.5,20.7 L65.6,25.3 L66.0,30.0 L65.6,34.7 L64.5,39.3 L62.7,43.6 L60.3,47.6ZM166.0,28.0 L132.0,28.0 L132.0,0.0 L166.0,0.0 L166.0,28.0ZM156.0,64.0 L132.0,64.0 L132.0,36.0 L156.0,36.0 L156.0,64.0ZM166.0,100.0 L132.0,100.0 L132.0,72.0 L166.0,72.0 L166.0,100.0ZM205.0,100.0 L205.0,34.0 L235.0,34.0 L235.0,100.0 L205.0,100.0ZM330.0,0.4 L335.2,1.3 L340.2,2.7 L344.6,4.5 L348.8,6.6 L352.8,9.1 L356.9,12.4 L360.3,15.6 L363.4,19.2 L335.8,40.8 L333.2,38.2 L330.0,36.3 L330.0,0.4ZM330.0,63.7 L333.2,61.8 L335.8,59.2 L363.4,80.8 L360.3,84.4 L356.6,87.9 L352.4,91.1 L348.4,93.6 L344.2,95.7 L339.3,97.6 L334.8,98.8 L330.0,99.6 L330.0,63.7ZM468.5,79.4 L463.4,85.4 L457.4,90.5 L450.7,94.6 L443.5,97.6 L435.8,99.4 L434.0,99.5 L434.0,63.7 L436.8,62.1 L438.6,60.6 L440.1,58.8 L441.4,56.8 L442.3,54.6 L442.8,52.3 L443.0,50.0 L442.8,47.7 L442.3,45.4 L441.4,43.2 L440.1,41.2 L438.6,39.4 L436.8,37.9 L434.0,36.3 L434.0,0.5 L435.8,0.6 L443.5,2.4 L450.7,5.4 L457.4,9.5 L463.4,14.6 L468.5,20.6 L472.6,27.3 L475.6,34.5 L477.4,42.2 L478.0,50.0 L477.4,57.8 L475.6,65.5 L472.6,72.7 L468.5,79.4ZM562.0,43.8 L562.0,100.0 L554.0,100.0 L526.0,56.2 L526.0,0.0 L534.0,0.0 L562.0,43.8Z"/></svg></div>
+        <p class="spec-note">Marvelous Display. An original geometric stencil cut for this project: chunky round bowls, triangle joins, and two oranges per letter. It ships as our own web font under the SIL Open Font License, so it's licensed for web use from day one.</p>
+      </div>
+      <div class="type-samples">
+        <div class="ts"><span class="ts-k">Terminal edges · Share Tech Mono</span><p class="hud-sample">01. Resume case // Attempt 3 of 6 // Sig 1.95 units</p></div>
+        <div class="ts"><span class="ts-k">Play text · IBM Plex Mono</span><p class="body-sample">Identify the subject in six attempts or fewer. Each attempt is compared against the file on six counts.</p></div>
+        <div class="ts"><span class="ts-k">Paper · Special Elite</span><p class="memo-sample">Agents are reminded that guessing is mandatory and enthusiasm is optional.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="home">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 04</span><h2>Home: the branch monitor</h2><p>Today's three assignments branch off the bright main line. Tap a branch to open its game. Under the monitor sits the shift desk: assignment status, consecutive shifts, and the wall clock counting down to midnight Eastern.</p></header>
+  </div>
+  <div class="scene">
+    <div class="ceiling" aria-hidden="true"><div class="ceiling-plane"></div></div>
+    <div class="wall">
+      <div class="wrap">
+        <div class="crt">
+          <div class="crt-bezel">
+            <div class="crt-screen"><svg viewBox="0 0 480 340" role="group" aria-label="Branch monitor showing today's three assignments">
+<style>.mh{font:12px 'Share Tech Mono',monospace;letter-spacing:.14em;fill:#ff8d55}.mf{font:11px 'Share Tech Mono',monospace;letter-spacing:.1em;fill:#ee8a62}</style>
+<defs>
+<radialGradient id="scr" cx="50%" cy="46%" r="72%"><stop offset="0" stop-color="#211814"/><stop offset=".65" stop-color="#0c0908"/><stop offset="1" stop-color="#030202"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="480" height="340" fill="url(#scr)"/>
+<text class="mh" x="44" y="38">BRANCH MONITOR</text>
+<text class="mh" x="436" y="38" text-anchor="end">SHIFT 001 &gt;&gt;&gt; FOR THE RECORD</text>
+<line x1="36" y1="47" x2="444" y2="47" stroke="#ee8a62" stroke-width="2" filter="url(#glow)"/>
+<line x1="36" y1="54" x2="444" y2="54" stroke="#7fbdb4" stroke-width="1.4"/>
+<line x1="24" y1="74" x2="456" y2="74" stroke="#ee8a62" stroke-width="4" opacity=".7" filter="url(#glow)"/>
+<g stroke="#ee8a62" stroke-width="1.1" fill="none" opacity=".34"><path d="M28 172 C79 172 123 141 269 141"/><path d="M47 172 C81 172 147 141 251 141"/><path d="M59 172 C113 172 157 83 296 83"/><path d="M76 172 C110 172 167 208 255 208"/><path d="M94 172 C146 172 169 223 333 223"/><path d="M111 172 C165 172 213 219 314 219"/><path d="M136 172 C187 172 267 236 307 236"/><path d="M146 172 C207 172 227 226 297 226"/><path d="M160 172 C225 172 252 236 420 236"/><path d="M184 172 C252 172 287 253 392 253"/><path d="M195 172 C258 172 285 264 435 264"/><path d="M219 172 C254 172 293 135 428 135"/><path d="M230 172 C263 172 331 88 426 88"/><path d="M256 172 C302 172 351 216 452 216"/><path d="M273 172 C313 172 377 131 433 131"/><path d="M282 172 C335 172 419 122 452 122"/><path d="M302 172 C368 172 427 202 452 202"/><path d="M323 172 C378 172 397 139 452 139"/></g>
+<g fill="#ee8a62" opacity=".55"><circle cx="269" cy="141" r="2"/><circle cx="333" cy="223" r="2"/><circle cx="314" cy="219" r="2"/><circle cx="297" cy="226" r="2"/><circle cx="420" cy="236" r="2"/><circle cx="392" cy="253" r="2"/><circle cx="435" cy="264" r="2"/><circle cx="426" cy="88" r="2"/><circle cx="433" cy="131" r="2"/><circle cx="452" cy="122" r="2"/><circle cx="452" cy="139" r="2"/></g>
+<line x1="24" y1="172" x2="334" y2="172" stroke="#fffaf2" stroke-width="4" stroke-linecap="round" filter="url(#glow2)"/>
+<line x1="334" y1="172" x2="456" y2="172" stroke="#8d8781" stroke-width="3" stroke-linecap="round"/>
+<a href="#unmasked" class="branch" aria-label="Assignment 1, Unmasked: filed, solved in 3 of 6">
+<path class="b" d="M64 172 C120 172 158 106 222 98"/><circle class="node" cx="222" cy="98" r="7"/>
+<circle class="pulse" cx="222" cy="98" r="7" fill="none" stroke="#ffb37f" stroke-width="1.5"/>
+<text class="lab" x="236" y="96">01 UNMASKED</text><text class="sub" x="236" y="112">FILED 3/6</text>
+<circle r="2.6" fill="#fff6ea"><animateMotion dur="3.48s" repeatCount="indefinite" path="M64 172 C120 172 158 106 222 98"/></circle></a><a href="#blist" class="branch" aria-label="Assignment 2, B-List: pending">
+<path class="b" d="M140 172 C200 172 236 236 296 240"/><circle class="node" cx="296" cy="240" r="7"/>
+<circle class="pulse" cx="296" cy="240" r="7" fill="none" stroke="#ffb37f" stroke-width="1.5"/>
+<text class="lab" x="310" y="238">02 B-LIST</text><text class="sub" x="310" y="254">PENDING</text>
+<circle r="2.6" fill="#fff6ea"><animateMotion dur="3.32s" repeatCount="indefinite" path="M140 172 C200 172 236 236 296 240"/></circle></a><a href="#retcon" class="branch" aria-label="Assignment 3, Retcon: pending">
+<path class="b" d="M206 172 C262 172 292 134 344 128"/><circle class="node" cx="344" cy="128" r="7"/>
+<circle class="pulse" cx="344" cy="128" r="7" fill="none" stroke="#ffb37f" stroke-width="1.5"/>
+<text class="lab" x="358" y="126">03 RETCON</text><text class="sub" x="358" y="142">PENDING</text>
+<circle r="2.6" fill="#fff6ea"><animateMotion dur="3.32s" repeatCount="indefinite" path="M206 172 C262 172 292 134 344 128"/></circle></a>
+<line x1="24" y1="270" x2="456" y2="270" stroke="#ee8a62" stroke-width="4" opacity=".7" filter="url(#glow)"/>
+<line x1="36" y1="287" x2="444" y2="287" stroke="#7fbdb4" stroke-width="1.4"/>
+<text class="mf" x="44" y="308">SIG 1.95 UNITS</text>
+<text class="mf" id="mon-cd" x="436" y="308" text-anchor="end">NEXT ASSIGNMENT --:--:--</text>
+</svg><div class="scan" aria-hidden="true"></div></div>
+            <span class="knob l" aria-hidden="true"></span><span class="knob r" aria-hidden="true"></span>
+          </div>
+          <div class="crt-foot" aria-hidden="true"></div>
+        </div>
+        <div class="desk">
+          <ol class="tickets" aria-label="Today's assignments">
+            <li class="ticket done"><span class="t-no">01</span><span class="t-name">Unmasked</span><span class="t-sub">Identify the variant</span><span class="t-status">Filed 3/6</span></li>
+            <li class="ticket"><span class="t-no">02</span><span class="t-name">B-List</span><span class="t-sub">Records search</span><span class="t-status">Pending</span></li>
+            <li class="ticket"><span class="t-no">03</span><span class="t-name">Retcon</span><span class="t-sub">Timeline repair</span><span class="t-status">Pending</span></li>
+          </ol>
+          <div class="shift-box"><span class="k">Consecutive shifts</span><span class="big">12</span><span class="k2">Clock in to keep them on file across devices.</span></div>
+          <figure class="clock"><svg viewBox="0 0 200 200" role="img" aria-label="Wall clock counting down to the next assignment at midnight Eastern">
+<defs><radialGradient id="face" cx="40%" cy="35%" r="75%"><stop offset="0" stop-color="#fbf4e2"/><stop offset="1" stop-color="#e6d6b3"/></radialGradient></defs>
+<circle cx="100" cy="100" r="98" fill="#7a5a38"/>
+<circle cx="100" cy="100" r="93" fill="#d6c29a"/>
+<circle cx="100" cy="100" r="86" fill="url(#face)" stroke="#a88d63" stroke-width="1.5"/>
+<path id="wedge" fill="#f2670f" opacity=".32" d=""/>
+<line x1="100.00" y1="18.00" x2="100.00" y2="28.00" stroke="#2a1a10" stroke-width="3"/><line x1="110.70" y1="18.70" x2="110.44" y2="20.68" stroke="#2a1a10" stroke-width="1"/><line x1="121.22" y1="20.79" x2="119.67" y2="26.59" stroke="#2a1a10" stroke-width="1.6"/><line x1="131.38" y1="24.24" x2="130.61" y2="26.09" stroke="#2a1a10" stroke-width="1"/><line x1="141.00" y1="28.99" x2="138.00" y2="34.18" stroke="#2a1a10" stroke-width="1.6"/><line x1="149.92" y1="34.95" x2="148.70" y2="36.53" stroke="#2a1a10" stroke-width="1"/><line x1="157.98" y1="42.02" x2="150.91" y2="49.09" stroke="#2a1a10" stroke-width="3"/><line x1="165.05" y1="50.08" x2="163.47" y2="51.30" stroke="#2a1a10" stroke-width="1"/><line x1="171.01" y1="59.00" x2="165.82" y2="62.00" stroke="#2a1a10" stroke-width="1.6"/><line x1="175.76" y1="68.62" x2="173.91" y2="69.39" stroke="#2a1a10" stroke-width="1"/><line x1="179.21" y1="78.78" x2="173.41" y2="80.33" stroke="#2a1a10" stroke-width="1.6"/><line x1="181.30" y1="89.30" x2="179.32" y2="89.56" stroke="#2a1a10" stroke-width="1"/><line x1="182.00" y1="100.00" x2="172.00" y2="100.00" stroke="#2a1a10" stroke-width="3"/><line x1="181.30" y1="110.70" x2="179.32" y2="110.44" stroke="#2a1a10" stroke-width="1"/><line x1="179.21" y1="121.22" x2="173.41" y2="119.67" stroke="#2a1a10" stroke-width="1.6"/><line x1="175.76" y1="131.38" x2="173.91" y2="130.61" stroke="#2a1a10" stroke-width="1"/><line x1="171.01" y1="141.00" x2="165.82" y2="138.00" stroke="#2a1a10" stroke-width="1.6"/><line x1="165.05" y1="149.92" x2="163.47" y2="148.70" stroke="#2a1a10" stroke-width="1"/><line x1="157.98" y1="157.98" x2="150.91" y2="150.91" stroke="#2a1a10" stroke-width="3"/><line x1="149.92" y1="165.05" x2="148.70" y2="163.47" stroke="#2a1a10" stroke-width="1"/><line x1="141.00" y1="171.01" x2="138.00" y2="165.82" stroke="#2a1a10" stroke-width="1.6"/><line x1="131.38" y1="175.76" x2="130.61" y2="173.91" stroke="#2a1a10" stroke-width="1"/><line x1="121.22" y1="179.21" x2="119.67" y2="173.41" stroke="#2a1a10" stroke-width="1.6"/><line x1="110.70" y1="181.30" x2="110.44" y2="179.32" stroke="#2a1a10" stroke-width="1"/><line x1="100.00" y1="182.00" x2="100.00" y2="172.00" stroke="#2a1a10" stroke-width="3"/><line x1="89.30" y1="181.30" x2="89.56" y2="179.32" stroke="#2a1a10" stroke-width="1"/><line x1="78.78" y1="179.21" x2="80.33" y2="173.41" stroke="#2a1a10" stroke-width="1.6"/><line x1="68.62" y1="175.76" x2="69.39" y2="173.91" stroke="#2a1a10" stroke-width="1"/><line x1="59.00" y1="171.01" x2="62.00" y2="165.82" stroke="#2a1a10" stroke-width="1.6"/><line x1="50.08" y1="165.05" x2="51.30" y2="163.47" stroke="#2a1a10" stroke-width="1"/><line x1="42.02" y1="157.98" x2="49.09" y2="150.91" stroke="#2a1a10" stroke-width="3"/><line x1="34.95" y1="149.92" x2="36.53" y2="148.70" stroke="#2a1a10" stroke-width="1"/><line x1="28.99" y1="141.00" x2="34.18" y2="138.00" stroke="#2a1a10" stroke-width="1.6"/><line x1="24.24" y1="131.38" x2="26.09" y2="130.61" stroke="#2a1a10" stroke-width="1"/><line x1="20.79" y1="121.22" x2="26.59" y2="119.67" stroke="#2a1a10" stroke-width="1.6"/><line x1="18.70" y1="110.70" x2="20.68" y2="110.44" stroke="#2a1a10" stroke-width="1"/><line x1="18.00" y1="100.00" x2="28.00" y2="100.00" stroke="#2a1a10" stroke-width="3"/><line x1="18.70" y1="89.30" x2="20.68" y2="89.56" stroke="#2a1a10" stroke-width="1"/><line x1="20.79" y1="78.78" x2="26.59" y2="80.33" stroke="#2a1a10" stroke-width="1.6"/><line x1="24.24" y1="68.62" x2="26.09" y2="69.39" stroke="#2a1a10" stroke-width="1"/><line x1="28.99" y1="59.00" x2="34.18" y2="62.00" stroke="#2a1a10" stroke-width="1.6"/><line x1="34.95" y1="50.08" x2="36.53" y2="51.30" stroke="#2a1a10" stroke-width="1"/><line x1="42.02" y1="42.02" x2="49.09" y2="49.09" stroke="#2a1a10" stroke-width="3"/><line x1="50.08" y1="34.95" x2="51.30" y2="36.53" stroke="#2a1a10" stroke-width="1"/><line x1="59.00" y1="28.99" x2="62.00" y2="34.18" stroke="#2a1a10" stroke-width="1.6"/><line x1="68.62" y1="24.24" x2="69.39" y2="26.09" stroke="#2a1a10" stroke-width="1"/><line x1="78.78" y1="20.79" x2="80.33" y2="26.59" stroke="#2a1a10" stroke-width="1.6"/><line x1="89.30" y1="18.70" x2="89.56" y2="20.68" stroke="#2a1a10" stroke-width="1"/><text x="100.0" y="45.5" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">24</text><text x="141.7" y="62.8" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">3</text><text x="159.0" y="104.5" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">6</text><text x="141.7" y="146.2" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">9</text><text x="100.0" y="163.5" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">12</text><text x="58.3" y="146.2" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">15</text><text x="41.0" y="104.5" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">18</text><text x="58.3" y="62.8" text-anchor="middle" style="font:13px 'Share Tech Mono',monospace;fill:#2a1a10">21</text>
+<text x="100" y="134" text-anchor="middle" style="font:8px 'Share Tech Mono',monospace;letter-spacing:2px;fill:#7a5536">24-HR REMAINING</text>
+<g id="hand-h"><path d="M100 112 L96 100 L100 50 L104 100 Z" fill="#2a1a10"/></g>
+<g id="hand-m"><path d="M100 114 L97.5 100 L100 28 L102.5 100 Z" fill="#2a1a10"/></g>
+<g id="hand-s"><line x1="100" y1="120" x2="100" y2="24" stroke="#d9480f" stroke-width="1.6"/><circle cx="100" cy="116" r="4" fill="#d9480f"/></g>
+<circle cx="100" cy="100" r="4.5" fill="#2a1a10"/><circle cx="100" cy="100" r="1.6" fill="#d9480f"/>
+</svg><figcaption><span class="k">Next assignment in</span><span id="cd" class="cd">--:--:--</span></figcaption></figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="unmasked">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 05</span><h2>Field terminal: Unmasked</h2><p>Every game screen sits in this frame: hairline orange border, corner grids, an icon rail, numbered menu items, and status codes riding the edges. Feedback colors always come with a mark (✓ ≈ ✕) and arrows, so color is never the only signal.</p></header>
+    <div class="term">
+      <nav class="rail" aria-label="Terminal menu">
+        <button class="ri" aria-label="Home"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4" width="18" height="12" rx="3"/><path d="M8 20h8M12 16v4"/></svg></button>
+        <button class="ri on" aria-label="Field manual"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 3.5h10l4 4V20.5H5z"/><path d="M15 3.5v4h4M8 12h8M8 16h6"/></svg></button>
+        <button class="ri" aria-label="Statistics"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11M10 20V6M15 20v-7M20 20V9"/></svg></button>
+        <button class="ri" aria-label="Sound is off"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 9h4l5-4v14l-5-4H4z"/><path d="M17 9.5l4 5M21 9.5l-4 5"/></svg></button>
+        <button class="ri" aria-label="Settings"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.8v2.6M12 18.6v2.6M2.8 12h2.6M18.6 12h2.6M5.5 5.5l1.8 1.8M16.7 16.7l1.8 1.8M5.5 18.5l1.8-1.8M16.7 7.3l1.8-1.8"/></svg></button>
+      </nav>
+      <div class="term-main">
+        <span class="code tl">Case 0001-U</span><span class="code tr">Sig 1.95 units</span>
+        <span class="code bl" id="tcode">--:--:-- ET // Terminal 07</span><span class="code br">2 of 6 filed</span>
+        <div class="term-head">
+          <div class="wm-small" role="img" aria-label="Unmasked"><svg class="wm" viewBox="-4 -4 840 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,54.0 L0.0,54.0 L0.0,0.0 L30.0,0.0 L30.0,54.0ZM62.0,0.0 L92.0,0.0 L92.0,54.0 L62.0,54.0 L62.0,0.0ZM134.0,100.0 L104.0,100.0 L104.0,0.0 L134.0,0.0 L134.0,100.0ZM182.0,0.0 L212.0,0.0 L212.0,100.0 L182.0,100.0 L182.0,0.0ZM254.0,100.0 L224.0,100.0 L224.0,0.0 L254.0,0.0 L254.0,100.0ZM318.0,0.0 L348.0,0.0 L348.0,100.0 L318.0,100.0 L318.0,0.0ZM360.0,100.0 L410.0,0.0 L410.0,42.0 L390.0,100.0 L360.0,100.0ZM488.9,58.6 L484.8,56.1 L481.1,52.9 L477.9,49.2 L475.4,45.1 L473.5,40.6 L472.4,35.8 L472.0,31.0 L472.4,26.2 L473.5,21.4 L475.4,16.9 L477.9,12.8 L481.1,9.1 L484.8,5.9 L488.9,3.4 L493.4,1.5 L498.2,0.4 L503.0,0.0 L550.0,0.0 L550.0,24.0 L503.0,24.0 L500.8,24.3 L499.8,24.8 L498.1,26.1 L496.8,27.8 L496.1,29.9 L496.1,32.1 L496.8,34.2 L498.1,35.9 L498.9,36.7 L500.8,37.7 L503.0,38.0 L503.0,62.0 L498.2,61.6 L493.4,60.5 L488.9,58.6ZM592.0,100.0 L562.0,100.0 L562.0,0.0 L592.0,0.0 L592.0,100.0ZM622.0,100.0 L617.6,83.3 L620.3,85.5 L634.8,53.1 L652.0,100.0 L622.0,100.0ZM694.0,100.0 L664.0,100.0 L664.0,0.0 L694.0,0.0 L694.0,100.0ZM776.0,100.0 L746.0,100.0 L746.0,0.0 L776.0,0.0 L776.0,100.0Z"/><path class="d" d="M83.2,81.0 L78.5,86.5 L73.0,91.2 L66.9,95.0 L60.2,97.7 L53.2,99.4 L46.0,100.0 L38.8,99.4 L31.8,97.7 L25.1,95.0 L19.0,91.2 L13.5,86.5 L8.8,81.0 L5.0,74.9 L2.3,68.2 L0.6,61.2 L0.5,60.0 L31.2,60.0 L31.7,61.3 L33.1,63.4 L34.7,65.3 L36.6,66.9 L38.7,68.3 L41.1,69.2 L43.5,69.8 L46.0,70.0 L48.5,69.8 L50.9,69.2 L53.3,68.3 L55.4,66.9 L57.3,65.3 L58.9,63.4 L60.3,61.3 L60.8,60.0 L91.5,60.0 L91.4,61.2 L89.7,68.2 L87.0,74.9 L83.2,81.0ZM176.0,43.8 L176.0,100.0 L168.0,100.0 L140.0,56.2 L140.0,0.0 L148.0,0.0 L176.0,43.8ZM308.0,0.0 L312.0,0.0 L312.0,63.8 L304.0,78.0 L268.0,78.0 L260.0,63.8 L260.0,0.0 L285.1,44.6 L308.0,0.0ZM413.2,51.2 L416.0,43.0 L416.0,12.0 L460.0,100.0 L430.0,100.0 L413.2,51.2ZM406.7,70.0 L413.3,70.0 L418.8,86.0 L401.2,86.0 L406.7,70.0ZM519.0,76.0 L521.2,75.7 L522.2,75.2 L523.1,74.7 L524.7,73.1 L525.2,72.2 L525.9,70.1 L526.0,69.0 L525.7,66.8 L525.2,65.8 L523.9,64.1 L522.2,62.8 L521.2,62.3 L519.0,62.0 L509.0,62.0 L509.0,38.0 L519.0,38.0 L523.8,38.4 L528.6,39.5 L533.1,41.4 L537.2,43.9 L540.9,47.1 L544.1,50.8 L546.6,54.9 L548.5,59.4 L549.6,64.2 L550.0,69.0 L549.6,73.8 L548.5,78.6 L546.6,83.1 L544.1,87.2 L540.9,90.9 L537.2,94.1 L533.1,96.6 L528.6,98.5 L523.8,99.6 L519.0,100.0 L472.0,100.0 L472.0,76.0 L519.0,76.0ZM652.0,0.0 L618.0,76.0 L598.0,60.0 L622.0,0.0 L652.0,0.0ZM734.0,28.0 L700.0,28.0 L700.0,0.0 L734.0,0.0 L734.0,28.0ZM724.0,64.0 L700.0,64.0 L700.0,36.0 L724.0,36.0 L724.0,64.0ZM734.0,100.0 L700.0,100.0 L700.0,72.0 L734.0,72.0 L734.0,100.0ZM822.5,79.4 L817.4,85.4 L811.4,90.5 L804.7,94.6 L797.5,97.6 L789.8,99.4 L782.0,100.0 L782.0,65.0 L784.3,64.8 L786.6,64.3 L788.8,63.4 L790.8,62.1 L792.6,60.6 L794.1,58.8 L795.4,56.8 L796.3,54.6 L796.8,52.3 L797.0,50.0 L796.8,47.7 L796.3,45.4 L795.4,43.2 L794.1,41.2 L792.6,39.4 L790.8,37.9 L788.8,36.6 L786.6,35.7 L784.3,35.2 L782.0,35.0 L782.0,0.0 L789.8,0.6 L797.5,2.4 L804.7,5.4 L811.4,9.5 L817.4,14.6 L822.5,20.6 L826.6,27.3 L829.6,34.5 L831.4,42.2 L832.0,50.0 L831.4,57.8 L829.6,65.5 L826.6,72.7 L822.5,79.4Z"/></svg></div>
+          <p class="hud">Form 7B // Identify the variant // Attempt 3 of 6</p>
+        </div>
+        <div class="term-body">
+          <div>
+            <div class="search">
+              <label class="hud" for="q-demo">Enter subject name</label>
+              <div class="field" id="q-demo"><span class="typed">St</span><span class="caret" aria-hidden="true"></span></div>
+              <ul class="ac" aria-label="Suggestions (sample)">
+                <li>Star-Lord <em>Peter Quill</em></li>
+                <li>Stature <em>Cassie Lang</em></li>
+                <li class="on">Storm <em>Ororo Munroe</em></li>
+                <li>Strong Guy <em>Guido Carosella</em></li>
+              </ul>
+            </div>
+            <div class="guesses">
+              <div class="g-head" aria-hidden="true"><span>Affil.</span><span>Debut</span><span>Align.</span><span>Origin</span><span>Gender</span><span>MCU</span></div>
+              <div class="g-row"><span class="g-name">Galactus</span><div class="g-cells">
+                <span class="cell x">None<span class="mk">✕</span></span><span class="cell c">1960s ▲<span class="mk">≈</span></span><span class="cell x">Villain<span class="mk">✕</span></span><span class="cell x">Cosmic<span class="mk">✕</span></span><span class="cell x">Male<span class="mk">✕</span></span><span class="cell x">Yes<span class="mk">✕</span></span></div></div>
+              <div class="g-row" id="rogue"><span class="g-name">Rogue</span><div class="g-cells">
+                <span class="cell e">X-Men<span class="mk">✓</span></span><span class="cell c">1980s ▼<span class="mk">≈</span></span><span class="cell e">Hero<span class="mk">✓</span></span><span class="cell e">Mutant<span class="mk">✓</span></span><span class="cell e">Female<span class="mk">✓</span></span><span class="cell e">No<span class="mk">✓</span></span></div></div>
+              <div class="g-row"><span class="g-name">— Attempt 3 —</span><div class="g-cells"><span class="cell blank"></span><span class="cell blank"></span><span class="cell blank"></span><span class="cell blank"></span><span class="cell blank"></span><span class="cell blank"></span></div></div>
+            </div>
+            <div class="legend"><span><i class="e">✓</i>Exact</span><span><i class="c">≈</i>Close</span><span><i class="x">✕</i>No match</span><span>▲ ▼ Subject debuted later / earlier</span></div>
+          </div>
+          <aside class="actions" aria-label="Action list">
+            <h3>Action list <b>////</b></h3>
+            <ol>
+              <li><a href="#unmasked"><span>1.</span>Resume case</a></li>
+              <li><a href="#unmasked"><span>2.</span>Field manual</a></li>
+              <li><a href="#unmasked"><span>3.</span>File statistics</a></li>
+            </ol>
+            <div class="att" aria-label="2 of 6 attempts used"><i class="used"></i><i class="used"></i><i></i><i></i><i></i><i></i></div>
+            <button class="btn" id="flipbtn" type="button" style="margin-top:14px">Replay the flip</button>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="idcard">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 06</span><h2>Confirm identity</h2><p>The end of every Unmasked case. Characters are never shown in official art: each one gets an original sepia silhouette, an origin emblem, a case number and a short case file in memo voice.</p></header>
+    <div class="id-wrap">
+      <article class="paper idcard" id="card">
+        <div class="id-band"><span>Confirm identity</span><b>Case 0001-U</b></div>
+        <div class="id-body">
+          <figure class="photo"><svg viewBox="0 0 160 190" role="img" aria-label="Original sepia silhouette with a mutant origin emblem">
+<defs>
+<radialGradient id="sep" cx="45%" cy="35%" r="80%"><stop offset="0" stop-color="#e2c79c"/><stop offset=".6" stop-color="#c49f6e"/><stop offset="1" stop-color="#8a6741"/></radialGradient>
+<pattern id="ht" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#5a3a22" opacity=".25"/></pattern>
+<radialGradient id="vig" cx="50%" cy="45%" r="70%"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#2a1a10" stop-opacity=".55"/></radialGradient>
+</defs>
+<rect width="160" height="190" fill="url(#sep)"/>
+<path d="M50 74 C44 40 64 20 80 20 C98 20 116 40 110 74 C114 100 124 122 134 146 L26 146 C36 122 46 100 50 74 Z" fill="#4b3020"/>
+<path d="M10 190 C14 150 38 132 62 126 L98 126 C122 132 146 150 150 190 Z" fill="#3c271a"/>
+<path d="M52 130 L38 102 L68 124 Z M108 130 L122 102 L92 124 Z" fill="#3c271a"/>
+<rect x="70" y="94" width="20" height="36" fill="#4b3020"/>
+<ellipse cx="80" cy="68" rx="22" ry="27" fill="#56382a"/>
+<rect width="160" height="190" fill="url(#ht)"/>
+<rect width="160" height="190" fill="url(#vig)"/>
+<g transform="translate(130 162)"><circle r="17" fill="#f2670f" stroke="#2a1a10" stroke-width="2"/>
+<g fill="none" stroke="#2a1a10" stroke-width="2" stroke-linecap="round"><path d="M-5 -10 C-5 -3 5 -3 5 2 S-5 7 -5 10"/><path d="M5 -10 C5 -3 -5 -3 -5 2 S5 7 5 10"/><path d="M-3 -5.5h6M-3 5.5h6"/></g></g>
+</svg><figcaption>Silhouette on file</figcaption></figure>
+          <dl class="fields">
+            <div><dt>Subject</dt><dd>Storm</dd></div>
+            <div><dt>Known as</dt><dd>Ororo Munroe</dd></div>
+            <div><dt>Affiliation</dt><dd>X-Men</dd></div>
+            <div><dt>First record</dt><dd>Giant-Size X-Men #1 (May 1975)</dd></div>
+            <div><dt>Classification</dt><dd>Hero · Mutant</dd></div>
+          </dl>
+        </div>
+        <p class="id-notes"><b>Case notes</b>Subject manipulates weather on a planetary scale. Has led the X-Men in the field and served as Queen of Wakanda. Agents are advised not to schedule picnics.</p>
+        <div class="closed slam" id="stamp" aria-hidden="true"><svg viewBox="-6 -6 568 236" aria-hidden="true" focusable="false"><g transform="translate(90.0,0)"><path class="s" d="M34.5,97.6 L27.3,94.6 L20.6,90.5 L14.6,85.4 L9.5,79.4 L5.4,72.7 L2.4,65.5 L0.6,57.8 L0.0,50.0 L0.6,42.2 L2.4,34.5 L5.4,27.3 L9.5,20.6 L14.6,14.6 L20.6,9.5 L27.3,5.4 L34.5,2.4 L42.2,0.6 L50.0,0.0 L50.0,35.0 L47.7,35.2 L45.4,35.7 L43.2,36.6 L41.2,37.9 L39.4,39.4 L37.9,41.2 L36.6,43.2 L35.7,45.4 L35.2,47.7 L35.0,50.0 L35.2,52.3 L35.7,54.6 L36.6,56.8 L37.9,58.8 L39.4,60.6 L41.2,62.1 L43.2,63.4 L45.4,64.3 L47.7,64.8 L50.0,65.0 L50.0,100.0 L42.2,99.4 L34.5,97.6ZM104.0,100.0 L154.0,0.0 L154.0,42.0 L134.0,100.0 L104.0,100.0ZM232.9,58.6 L228.8,56.1 L225.1,52.9 L221.9,49.2 L219.4,45.1 L217.5,40.6 L216.4,35.8 L216.0,31.0 L216.4,26.2 L217.5,21.4 L219.4,16.9 L221.9,12.8 L225.1,9.1 L228.8,5.9 L232.9,3.4 L237.4,1.5 L242.2,0.4 L247.0,0.0 L294.0,0.0 L294.0,24.0 L247.0,24.0 L244.8,24.3 L243.8,24.8 L242.1,26.1 L240.8,27.8 L240.1,29.9 L240.1,32.1 L240.8,34.2 L242.1,35.9 L242.9,36.7 L244.8,37.7 L247.0,38.0 L247.0,62.0 L242.2,61.6 L237.4,60.5 L232.9,58.6ZM336.0,100.0 L306.0,100.0 L306.0,0.0 L336.0,0.0 L336.0,100.0ZM56.0,0.4 L61.2,1.3 L66.2,2.7 L70.6,4.5 L74.8,6.6 L78.8,9.1 L82.9,12.4 L86.3,15.6 L89.4,19.2 L61.8,40.8 L59.2,38.2 L56.0,36.3 L56.0,0.4ZM56.0,63.7 L59.2,61.8 L61.8,59.2 L89.4,80.8 L86.3,84.4 L82.6,87.9 L78.4,91.1 L74.4,93.6 L70.2,95.7 L65.3,97.6 L60.8,98.8 L56.0,99.6 L56.0,63.7ZM157.2,51.2 L160.0,43.0 L160.0,12.0 L204.0,100.0 L174.0,100.0 L157.2,51.2ZM150.7,70.0 L157.3,70.0 L162.8,86.0 L145.2,86.0 L150.7,70.0ZM263.0,76.0 L265.2,75.7 L266.2,75.2 L267.1,74.7 L268.7,73.1 L269.2,72.2 L269.9,70.1 L270.0,69.0 L269.7,66.8 L269.2,65.8 L267.9,64.1 L266.2,62.8 L265.2,62.3 L263.0,62.0 L253.0,62.0 L253.0,38.0 L263.0,38.0 L267.8,38.4 L272.6,39.5 L277.1,41.4 L281.2,43.9 L284.9,47.1 L288.1,50.8 L290.6,54.9 L292.5,59.4 L293.6,64.2 L294.0,69.0 L293.6,73.8 L292.5,78.6 L290.6,83.1 L288.1,87.2 L284.9,90.9 L281.2,94.1 L277.1,96.6 L272.6,98.5 L267.8,99.6 L263.0,100.0 L216.0,100.0 L216.0,76.0 L263.0,76.0ZM376.0,28.0 L342.0,28.0 L342.0,0.0 L376.0,0.0 L376.0,28.0ZM366.0,64.0 L342.0,64.0 L342.0,36.0 L366.0,36.0 L366.0,64.0ZM376.0,100.0 L342.0,100.0 L342.0,72.0 L376.0,72.0 L376.0,100.0Z"/></g><g transform="translate(0,124)"><path class="s" d="M34.5,97.6 L27.3,94.6 L20.6,90.5 L14.6,85.4 L9.5,79.4 L5.4,72.7 L2.4,65.5 L0.6,57.8 L0.0,50.0 L0.6,42.2 L2.4,34.5 L5.4,27.3 L9.5,20.6 L14.6,14.6 L20.6,9.5 L27.3,5.4 L34.5,2.4 L42.2,0.6 L50.0,0.0 L50.0,35.0 L47.7,35.2 L45.4,35.7 L43.2,36.6 L41.2,37.9 L39.4,39.4 L37.9,41.2 L36.6,43.2 L35.7,45.4 L35.2,47.7 L35.0,50.0 L35.2,52.3 L35.7,54.6 L36.6,56.8 L37.9,58.8 L39.4,60.6 L41.2,62.1 L43.2,63.4 L45.4,64.3 L47.7,64.8 L50.0,65.0 L50.0,100.0 L42.2,99.4 L34.5,97.6ZM134.0,100.0 L104.0,100.0 L104.0,0.0 L134.0,0.0 L134.0,100.0ZM220.5,97.6 L213.3,94.6 L206.6,90.5 L200.6,85.4 L195.5,79.4 L191.4,72.7 L188.4,65.5 L186.6,57.8 L186.0,50.0 L186.6,42.2 L188.4,34.5 L191.4,27.3 L195.5,20.6 L200.6,14.6 L206.6,9.5 L213.3,5.4 L220.5,2.4 L228.2,0.6 L236.0,0.0 L236.0,35.0 L233.7,35.2 L231.4,35.7 L229.2,36.6 L227.2,37.9 L225.4,39.4 L223.9,41.2 L222.6,43.2 L221.7,45.4 L221.2,47.7 L221.0,50.0 L221.2,52.3 L221.7,54.6 L222.6,56.8 L223.9,58.8 L225.4,60.6 L227.2,62.1 L229.2,63.4 L231.4,64.3 L233.7,64.8 L236.0,65.0 L236.0,100.0 L228.2,99.4 L220.5,97.6ZM314.9,58.6 L310.8,56.1 L307.1,52.9 L303.9,49.2 L301.4,45.1 L299.5,40.6 L298.4,35.8 L298.0,31.0 L298.4,26.2 L299.5,21.4 L301.4,16.9 L303.9,12.8 L307.1,9.1 L310.8,5.9 L314.9,3.4 L319.4,1.5 L324.2,0.4 L329.0,0.0 L376.0,0.0 L376.0,24.0 L329.0,24.0 L326.8,24.3 L325.8,24.8 L324.1,26.1 L322.8,27.8 L322.1,29.9 L322.1,32.1 L322.8,34.2 L324.1,35.9 L324.9,36.7 L326.8,37.7 L329.0,38.0 L329.0,62.0 L324.2,61.6 L319.4,60.5 L314.9,58.6ZM418.0,100.0 L388.0,100.0 L388.0,0.0 L418.0,0.0 L418.0,100.0ZM500.0,100.0 L470.0,100.0 L470.0,0.0 L500.0,0.0 L500.0,100.0ZM56.0,0.4 L61.2,1.3 L66.2,2.7 L70.6,4.5 L74.8,6.6 L78.8,9.1 L82.9,12.4 L86.3,15.6 L89.4,19.2 L61.8,40.8 L59.2,38.2 L56.0,36.3 L56.0,0.4ZM56.0,63.7 L59.2,61.8 L61.8,59.2 L89.4,80.8 L86.3,84.4 L82.6,87.9 L78.4,91.1 L74.4,93.6 L70.2,95.7 L65.3,97.6 L60.8,98.8 L56.0,99.6 L56.0,63.7ZM174.0,100.0 L140.0,100.0 L140.0,72.0 L174.0,72.0 L174.0,100.0ZM276.5,79.4 L271.4,85.4 L265.4,90.5 L258.7,94.6 L251.5,97.6 L243.8,99.4 L242.0,99.5 L242.0,63.7 L244.8,62.1 L246.6,60.6 L248.1,58.8 L249.4,56.8 L250.3,54.6 L250.8,52.3 L251.0,50.0 L250.8,47.7 L250.3,45.4 L249.4,43.2 L248.1,41.2 L246.6,39.4 L244.8,37.9 L242.0,36.3 L242.0,0.5 L243.8,0.6 L251.5,2.4 L258.7,5.4 L265.4,9.5 L271.4,14.6 L276.5,20.6 L280.6,27.3 L283.6,34.5 L285.4,42.2 L286.0,50.0 L285.4,57.8 L283.6,65.5 L280.6,72.7 L276.5,79.4ZM345.0,76.0 L347.2,75.7 L348.2,75.2 L349.1,74.7 L350.7,73.1 L351.2,72.2 L351.9,70.1 L352.0,69.0 L351.7,66.8 L351.2,65.8 L349.9,64.1 L348.2,62.8 L347.2,62.3 L345.0,62.0 L335.0,62.0 L335.0,38.0 L345.0,38.0 L349.8,38.4 L354.6,39.5 L359.1,41.4 L363.2,43.9 L366.9,47.1 L370.1,50.8 L372.6,54.9 L374.5,59.4 L375.6,64.2 L376.0,69.0 L375.6,73.8 L374.5,78.6 L372.6,83.1 L370.1,87.2 L366.9,90.9 L363.2,94.1 L359.1,96.6 L354.6,98.5 L349.8,99.6 L345.0,100.0 L298.0,100.0 L298.0,76.0 L345.0,76.0ZM458.0,28.0 L424.0,28.0 L424.0,0.0 L458.0,0.0 L458.0,28.0ZM448.0,64.0 L424.0,64.0 L424.0,36.0 L448.0,36.0 L448.0,64.0ZM458.0,100.0 L424.0,100.0 L424.0,72.0 L458.0,72.0 L458.0,100.0ZM546.5,79.4 L541.4,85.4 L535.4,90.5 L528.7,94.6 L521.5,97.6 L513.8,99.4 L506.0,100.0 L506.0,65.0 L508.3,64.8 L510.6,64.3 L512.8,63.4 L514.8,62.1 L516.6,60.6 L518.1,58.8 L519.4,56.8 L520.3,54.6 L520.8,52.3 L521.0,50.0 L520.8,47.7 L520.3,45.4 L519.4,43.2 L518.1,41.2 L516.6,39.4 L514.8,37.9 L512.8,36.6 L510.6,35.7 L508.3,35.2 L506.0,35.0 L506.0,0.0 L513.8,0.6 L521.5,2.4 L528.7,5.4 L535.4,9.5 L541.4,14.6 L546.5,20.6 L550.6,27.3 L553.6,34.5 L555.4,42.2 L556.0,50.0 L555.4,57.8 L553.6,65.5 L550.6,72.7 L546.5,79.4Z"/></g></svg><small>Filed 06 Nov 2026</small></div>
+      </article>
+      <div class="id-side">
+        <p>The stamp lands with a short drop, a one-frame shake and an ink texture. With reduced motion turned on, it simply appears.</p>
+        <button class="btn solid" id="stampbtn" type="button">Stamp it again</button>
+        <p>Sample subject and facts shown for layout. In the game, the card stays redacted until the case is solved or all six attempts are used.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="blist">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 07</span><h2>Field terminal: B-List</h2><p>Seven records requests, 25 seconds each. A wrong answer costs three seconds and you type again. Each accepted answer is pulled from the stacks with its rarity tier, and every point drops you ten feet deeper into the archive. Seven sublevels, B1 to B7.</p></header>
+    <div class="term">
+      <nav class="rail" aria-label="Terminal menu">
+        <button class="ri" aria-label="Home"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4" width="18" height="12" rx="3"/><path d="M8 20h8M12 16v4"/></svg></button>
+        <button class="ri" aria-label="Field manual"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 3.5h10l4 4V20.5H5z"/><path d="M15 3.5v4h4M8 12h8M8 16h6"/></svg></button>
+        <button class="ri on" aria-label="Statistics"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11M10 20V6M15 20v-7M20 20V9"/></svg></button>
+        <button class="ri" aria-label="Sound is off"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 9h4l5-4v14l-5-4H4z"/><path d="M17 9.5l4 5M21 9.5l-4 5"/></svg></button>
+        <button class="ri" aria-label="Settings"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.8v2.6M12 18.6v2.6M2.8 12h2.6M18.6 12h2.6M5.5 5.5l1.8 1.8M16.7 16.7l1.8 1.8M5.5 18.5l1.8-1.8M16.7 7.3l1.8-1.8"/></svg></button>
+      </nav>
+      <div class="term-main">
+        <span class="code tl">Request 3 of 7</span><span class="code tr">Depth 1,750 ft</span>
+        <span class="code bl">Records search // Stacks open</span><span class="code br">Sublevel B1</span>
+        <div class="term-head"><div class="wm-small" style="max-width:170px" role="img" aria-label="B-List"><svg class="wm" viewBox="-4 -4 442 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,100.0 L0.0,100.0 L0.0,0.0 L30.0,0.0 L30.0,100.0ZM166.0,100.0 L136.0,100.0 L136.0,0.0 L166.0,0.0 L166.0,100.0ZM248.0,100.0 L218.0,100.0 L218.0,0.0 L248.0,0.0 L248.0,100.0ZM276.9,58.6 L272.8,56.1 L269.1,52.9 L265.9,49.2 L263.4,45.1 L261.5,40.6 L260.4,35.8 L260.0,31.0 L260.4,26.2 L261.5,21.4 L263.4,16.9 L265.9,12.8 L269.1,9.1 L272.8,5.9 L276.9,3.4 L281.4,1.5 L286.2,0.4 L291.0,0.0 L338.0,0.0 L338.0,24.0 L291.0,24.0 L288.8,24.3 L287.8,24.8 L286.1,26.1 L284.8,27.8 L284.1,29.9 L284.1,32.1 L284.8,34.2 L286.1,35.9 L286.9,36.7 L288.8,37.7 L291.0,38.0 L291.0,62.0 L286.2,61.6 L281.4,60.5 L276.9,58.6ZM434.0,28.0 L350.0,28.0 L350.0,0.0 L434.0,0.0 L434.0,28.0Z"/><path class="d" d="M55.4,38.1 L53.0,41.0 L50.1,43.4 L46.9,45.4 L43.4,46.8 L39.8,47.7 L36.0,48.0 L36.0,31.0 L38.2,30.7 L39.2,30.2 L40.9,28.9 L42.2,27.2 L42.7,26.2 L43.0,24.0 L42.7,21.8 L42.2,20.8 L40.9,19.1 L39.2,17.8 L38.2,17.3 L36.0,17.0 L36.0,0.0 L39.8,0.3 L43.4,1.2 L46.9,2.6 L50.1,4.6 L53.0,7.0 L55.4,9.9 L57.4,13.1 L58.8,16.6 L59.7,20.2 L60.0,24.0 L59.7,27.8 L58.8,31.4 L57.4,34.9 L55.4,38.1ZM57.8,88.9 L55.1,92.1 L51.9,94.8 L48.3,97.1 L44.3,98.7 L40.2,99.7 L36.0,100.0 L36.0,81.0 L38.5,80.6 L40.7,79.5 L41.7,78.7 L43.1,76.6 L43.9,74.3 L44.0,73.0 L43.6,70.5 L43.1,69.4 L41.7,67.3 L39.6,65.9 L37.3,65.1 L36.0,65.0 L36.0,54.0 L40.7,53.6 L45.3,52.5 L49.6,50.7 L50.4,50.3 L51.9,51.2 L55.1,53.9 L57.8,57.1 L60.1,60.7 L61.7,64.7 L62.7,68.8 L63.0,73.0 L62.7,77.2 L61.7,81.3 L60.1,85.3 L57.8,88.9ZM80.0,62.0 L80.0,38.0 L124.0,38.0 L124.0,62.0 L80.0,62.0ZM206.0,100.0 L172.0,100.0 L172.0,72.0 L206.0,72.0 L206.0,100.0ZM307.0,76.0 L309.2,75.7 L310.2,75.2 L311.1,74.7 L312.7,73.1 L313.2,72.2 L313.9,70.1 L314.0,69.0 L313.7,66.8 L313.2,65.8 L311.9,64.1 L310.2,62.8 L309.2,62.3 L307.0,62.0 L297.0,62.0 L297.0,38.0 L307.0,38.0 L311.8,38.4 L316.6,39.5 L321.1,41.4 L325.2,43.9 L328.9,47.1 L332.1,50.8 L334.6,54.9 L336.5,59.4 L337.6,64.2 L338.0,69.0 L337.6,73.8 L336.5,78.6 L334.6,83.1 L332.1,87.2 L328.9,90.9 L325.2,94.1 L321.1,96.6 L316.6,98.5 L311.8,99.6 L307.0,100.0 L260.0,100.0 L260.0,76.0 L307.0,76.0ZM377.0,100.0 L377.0,34.0 L407.0,34.0 L407.0,100.0 L377.0,100.0Z"/></svg></div></div>
+        <div class="bl-grid">
+          <div class="req">
+            <p class="hud">Request 3 of 7</p>
+            <p class="q">Name a member of the X-Men.</p>
+            <div class="timer"><div class="bar" aria-hidden="true"><i></i></div><span class="tnum" id="tnum">0:25</span></div>
+            <div class="typein"><span class="typed">Dazzler</span><span class="caret" aria-hidden="true"></span></div>
+            <div class="result t4 pop" id="result" aria-live="polite"><span class="ra" id="r-ans">Dazzler</span><span class="rk" id="r-tier">Classified</span><span class="rp" id="r-pts">+85</span></div>
+            <button class="btn" id="tierbtn" type="button">Retrieve another sample</button>
+            <div class="others">
+              <p class="hud">Rarest records other agents found today (sample)</p>
+              <ul>
+                <li>Maggott <span>Sealed Archive · 0.4% of agents</span></li>
+                <li>Cecilia Reyes <span>Classified · 1.1% of agents</span></li>
+              </ul>
+            </div>
+          </div>
+          <div>
+            <ul class="tiers" aria-label="Rarity tiers">
+              <li class="t1"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 7h6l2 2h10v10H3z"/><path d="M3 7V5h6"/></svg><span>Common Record</span><b>10</b></li>
+              <li class="t2"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 7h6l2 2h10v10H3z"/><path d="M3 7V5h6"/></svg><span>Filed</span><b>30</b></li>
+              <li class="t3"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 7h6l2 2h10v10H3z"/><path d="M3 7V5h6"/></svg><span>Restricted</span><b>60</b></li>
+              <li class="t4"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 7h6l2 2h10v10H3z"/><path d="M3 7V5h6"/></svg><span>Classified</span><b>85</b></li>
+              <li class="t5"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="5" y="11" width="14" height="9" rx="1.5"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg><span>Sealed Archive</span><b>100</b></li>
+            </ul>
+            <div class="depth" style="margin-top:18px">
+              <ol aria-hidden="true"><li>HALL</li><li class="here">B1</li><li>B2</li><li>B3</li><li>B4</li><li>B5</li><li>B6</li><li>B7</li></ol>
+              <div class="shaft" aria-hidden="true"><i id="shaft" style="--d:25"></i></div>
+              <div class="depth-read" id="depthread">175 pts · 1,750 ft</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="retcon">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 08</span><h2>Field terminal: Retcon</h2><p>Six records, placed one at a time onto a growing timeline. A wrong placement costs one of three variance allowances, and the card snaps to its true position with its year. When the case closes, the branches retract into the main line.</p></header>
+    <div class="term">
+      <nav class="rail" aria-label="Terminal menu">
+        <button class="ri" aria-label="Home"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4" width="18" height="12" rx="3"/><path d="M8 20h8M12 16v4"/></svg></button>
+        <button class="ri" aria-label="Field manual"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 3.5h10l4 4V20.5H5z"/><path d="M15 3.5v4h4M8 12h8M8 16h6"/></svg></button>
+        <button class="ri" aria-label="Statistics"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V11M10 20V6M15 20v-7M20 20V9"/></svg></button>
+        <button class="ri" aria-label="Sound is off"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 9h4l5-4v14l-5-4H4z"/><path d="M17 9.5l4 5M21 9.5l-4 5"/></svg></button>
+        <button class="ri on" aria-label="Settings"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.8v2.6M12 18.6v2.6M2.8 12h2.6M18.6 12h2.6M5.5 5.5l1.8 1.8M16.7 16.7l1.8 1.8M5.5 18.5l1.8-1.8M16.7 7.3l1.8-1.8"/></svg></button>
+      </nav>
+      <div class="term-main">
+        <span class="code tl">Timeline repair</span><span class="code tr">Record 4 of 6</span>
+        <span class="code bl">Main line integrity 92%</span><span class="code br">Allowance 2 of 3</span>
+        <div class="term-head"><div class="wm-small" style="max-width:230px" role="img" aria-label="Retcon"><svg class="wm" viewBox="-4 -4 606 108" aria-hidden="true" focusable="false"><path class="l" d="M30.0,100.0 L0.0,100.0 L0.0,0.0 L30.0,0.0 L30.0,100.0ZM84.0,100.0 L56.0,100.0 L38.9,65.8 L41.6,65.6 L47.1,64.3 L52.4,62.1 L55.8,60.0 L62.0,60.0 L84.0,100.0ZM126.0,100.0 L96.0,100.0 L96.0,0.0 L126.0,0.0 L126.0,100.0ZM262.0,28.0 L178.0,28.0 L178.0,0.0 L262.0,0.0 L262.0,28.0ZM308.5,97.6 L301.3,94.6 L294.6,90.5 L288.6,85.4 L283.5,79.4 L279.4,72.7 L276.4,65.5 L274.6,57.8 L274.0,50.0 L274.6,42.2 L276.4,34.5 L279.4,27.3 L283.5,20.6 L288.6,14.6 L294.6,9.5 L301.3,5.4 L308.5,2.4 L316.2,0.6 L324.0,0.0 L324.0,35.0 L321.7,35.2 L319.4,35.7 L317.2,36.6 L315.2,37.9 L313.4,39.4 L311.9,41.2 L310.6,43.2 L309.7,45.4 L309.2,47.7 L309.0,50.0 L309.2,52.3 L309.7,54.6 L310.6,56.8 L311.9,58.8 L313.4,60.6 L315.2,62.1 L317.2,63.4 L319.4,64.3 L321.7,64.8 L324.0,65.0 L324.0,100.0 L316.2,99.4 L308.5,97.6ZM412.5,97.6 L405.3,94.6 L398.6,90.5 L392.6,85.4 L387.5,79.4 L383.4,72.7 L380.4,65.5 L378.6,57.8 L378.0,50.0 L378.6,42.2 L380.4,34.5 L383.4,27.3 L387.5,20.6 L392.6,14.6 L398.6,9.5 L405.3,5.4 L412.5,2.4 L420.2,0.6 L428.0,0.0 L428.0,35.0 L425.7,35.2 L423.4,35.7 L421.2,36.6 L419.2,37.9 L417.4,39.4 L415.9,41.2 L414.6,43.2 L413.7,45.4 L413.2,47.7 L413.0,50.0 L413.2,52.3 L413.7,54.6 L414.6,56.8 L415.9,58.8 L417.4,60.6 L419.2,62.1 L421.2,63.4 L423.4,64.3 L425.7,64.8 L428.0,65.0 L428.0,100.0 L420.2,99.4 L412.5,97.6ZM520.0,100.0 L490.0,100.0 L490.0,0.0 L520.0,0.0 L520.0,100.0ZM568.0,0.0 L598.0,0.0 L598.0,100.0 L568.0,100.0 L568.0,0.0Z"/><path class="d" d="M60.3,47.6 L57.2,51.2 L53.6,54.3 L49.6,56.7 L45.3,58.5 L40.7,59.6 L36.0,60.0 L36.0,39.0 L38.8,38.6 L41.3,37.3 L42.4,36.4 L43.3,35.3 L44.6,32.8 L45.0,30.0 L44.6,27.2 L43.3,24.7 L42.4,23.6 L40.1,22.0 L38.8,21.4 L36.0,21.0 L36.0,0.0 L40.7,0.4 L45.3,1.5 L49.6,3.3 L53.6,5.7 L57.2,8.8 L60.3,12.4 L62.7,16.4 L64.5,20.7 L65.6,25.3 L66.0,30.0 L65.6,34.7 L64.5,39.3 L62.7,43.6 L60.3,47.6ZM166.0,28.0 L132.0,28.0 L132.0,0.0 L166.0,0.0 L166.0,28.0ZM156.0,64.0 L132.0,64.0 L132.0,36.0 L156.0,36.0 L156.0,64.0ZM166.0,100.0 L132.0,100.0 L132.0,72.0 L166.0,72.0 L166.0,100.0ZM205.0,100.0 L205.0,34.0 L235.0,34.0 L235.0,100.0 L205.0,100.0ZM330.0,0.4 L335.2,1.3 L340.2,2.7 L344.6,4.5 L348.8,6.6 L352.8,9.1 L356.9,12.4 L360.3,15.6 L363.4,19.2 L335.8,40.8 L333.2,38.2 L330.0,36.3 L330.0,0.4ZM330.0,63.7 L333.2,61.8 L335.8,59.2 L363.4,80.8 L360.3,84.4 L356.6,87.9 L352.4,91.1 L348.4,93.6 L344.2,95.7 L339.3,97.6 L334.8,98.8 L330.0,99.6 L330.0,63.7ZM468.5,79.4 L463.4,85.4 L457.4,90.5 L450.7,94.6 L443.5,97.6 L435.8,99.4 L434.0,99.5 L434.0,63.7 L436.8,62.1 L438.6,60.6 L440.1,58.8 L441.4,56.8 L442.3,54.6 L442.8,52.3 L443.0,50.0 L442.8,47.7 L442.3,45.4 L441.4,43.2 L440.1,41.2 L438.6,39.4 L436.8,37.9 L434.0,36.3 L434.0,0.5 L435.8,0.6 L443.5,2.4 L450.7,5.4 L457.4,9.5 L463.4,14.6 L468.5,20.6 L472.6,27.3 L475.6,34.5 L477.4,42.2 L478.0,50.0 L477.4,57.8 L475.6,65.5 L472.6,72.7 L468.5,79.4ZM562.0,43.8 L562.0,100.0 L554.0,100.0 L526.0,56.2 L526.0,0.0 L534.0,0.0 L562.0,43.8Z"/></svg></div></div>
+        <div class="rc-grid">
+          <div>
+            <div class="lives" aria-label="2 of 3 variance allowances left"><span class="hud">Variance allowance</span><i class="full"></i><i class="full"></i><i></i></div>
+            <div class="incoming"><span class="hud">Incoming record</span><span class="ev">Marvel Comics #1 goes on sale</span></div>
+            <div class="line" id="line">
+              <button class="slot" type="button">Place here</button>
+              <div class="ev-card anchor"><svg class="br" viewBox="0 0 48 60" aria-hidden="true"><path d="M4 0 C4 30 20 58 48 58"/></svg><span><span class="k">Comic debut · anchor</span><span class="t">Spider-Man debuts in Amazing Fantasy #15</span></span><span class="yr">1962</span></div>
+              <button class="slot" type="button">Place here</button>
+              <div class="ev-card"><svg class="br" viewBox="0 0 48 60" aria-hidden="true"><path d="M4 0 C4 30 20 58 48 58"/></svg><span><span class="k">Storyline</span><span class="t">The Dark Phoenix Saga ends in X-Men #137</span></span><span class="yr">1980</span></div>
+              <button class="slot" type="button">Place here</button>
+              <div class="ev-card"><svg class="br" viewBox="0 0 48 60" aria-hidden="true"><path d="M4 0 C4 30 20 58 48 58"/></svg><span><span class="k">MCU release</span><span class="t">Iron Man opens in theaters</span></span><span class="yr">2008</span></div>
+              <button class="slot" type="button">Place here</button>
+            </div>
+          </div>
+          <div class="rc-side">
+            <p>Keyboard: arrow keys move between the slots, Enter places the card. Screen readers hear “Place before Spider-Man debuts, 1962”.</p>
+            <button class="btn solid" id="collapse" type="button">Close the case</button>
+            <p>Comic dates use cover dates; screen releases use the first U.S. release. No two records on the same day share a year.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form" id="surfaces">
+  <div class="wrap">
+    <header class="form-head"><span class="tag">Form 09</span><h2>Surfaces, results and sound</h2><p>Three backgrounds do the scene-setting. Results screens stand on the cafeteria tile, and every shift ends in one combined share message.</p></header>
+    <div class="surf">
+      <figure><div class="tile honey" aria-hidden="true"></div><figcaption><b>Honeycomb ceiling</b>Home and dashboard headers. Pure CSS, no images.</figcaption></figure>
+      <figure><div class="tile wood" aria-hidden="true"></div><figcaption><b>Walnut panelling</b>Home wall and agent profile. Grain is generated noise.</figcaption></figure>
+      <figure><div class="tile floor" aria-hidden="true"></div><figcaption><b>Cafeteria tile</b>Results and end-of-shift screens.</figcaption></figure>
+    </div>
+    <div class="results">
+      <div class="floorstage">
+        <div class="share">
+          <p class="hud" style="margin-bottom:10px">End of shift // Share report</p>
+<pre id="sharetext">MARVELOUS · SHIFT #001 · 06 NOV 2026
+UNMASKED 3/6
+⬛🟨⬛⬛⬛⬛
+🟧🟨🟧🟧🟧🟧
+🟧🟧🟧🟧🟧🟧
+B-LIST 370/700 · SUBLEVEL B3
+🟨🟥⬜🟧⬛➖🟥
+RETCON 4/5
+🟧🟧⬛🟧🟧
+(link to the shift)</pre>
+          <button class="btn solid" id="copybtn" type="button">Copy report</button>
+        </div>
+      </div>
+      <div class="voice paper" style="padding:18px;border-radius:3px">
+        <blockquote><cite>Wrong answer, B-List</cite>No record on file. Three seconds have been deducted for the inconvenience.</blockquote>
+        <blockquote><cite>Timeout</cite>Request expired. The Archive does not grant extensions.</blockquote>
+        <blockquote><cite>Unmasked, solved</cite>Identity confirmed. Paperwork has been forwarded to a department that will lose it.</blockquote>
+        <blockquote><cite>Clock-in screen</cite>Clocking in assigns you an agent number and keeps your shifts on file across devices. It does not include a pension.</blockquote>
+        <blockquote><cite>No puzzle scheduled</cite>No assignments have been issued for this date. Please remain at your desk.</blockquote>
+      </div>
+    </div>
+    <div class="sound" aria-label="Sound design">
+      <div><b>Typewriter</b>Short key clacks while typing on paper fields.</div>
+      <div><b>Terminal chirp</b>Square-wave blip on submit, lower tone on a miss.</div>
+      <div><b>Drawer slide</b>Filtered noise sweep when a B-List record is pulled.</div>
+      <div><b>Stamp thud</b>Low thump under CASE CLOSED. All sounds are synthesized in the browser and off by default.</div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span><b>Marvelous</b> is an unofficial fan game. Not affiliated with, endorsed by, or sponsored by Marvel or Disney.</span>
+    <span>Character names are used for identification only. All artwork is original.</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const fmt = new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hourCycle:'h23',year:'numeric',month:'short',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit'});
+  const pad = n => String(n).padStart(2,'0');
+  const $ = id => document.getElementById(id);
+  function wedge(cx,cy,r,frac){
+    if(frac>=0.9999) return `M${cx} ${cy-r}A${r} ${r} 0 1 1 ${cx-0.01} ${cy-r}Z`;
+    const a = frac*2*Math.PI, x = cx + r*Math.sin(a), y = cy - r*Math.cos(a);
+    return `M${cx} ${cy}L${cx} ${cy-r}A${r} ${r} 0 ${frac>0.5?1:0} 1 ${x.toFixed(2)} ${y.toFixed(2)}Z`;
+  }
+  function tick(){
+    const p = Object.fromEntries(fmt.formatToParts(new Date()).map(x=>[x.type,x.value]));
+    const h = +p.hour % 24, m = +p.minute, s = +p.second;
+    $('etnow').textContent = `${p.day} ${p.month.toUpperCase()} ${p.year} · ${pad(h)}:${pad(m)}:${pad(s)} ET`;
+    const tc = $('tcode'); if (tc) tc.textContent = `${pad(h)}:${pad(m)}:${pad(s)} ET // Terminal 07`;
+    const rem = 86400 - (h*3600 + m*60 + s);
+    const rh = Math.floor(rem/3600), rm = Math.floor(rem%3600/60), rs = rem%60;
+    const txt = `${pad(rh)}:${pad(rm)}:${pad(rs)}`;
+    $('cd').textContent = txt;
+    const mon = $('mon-cd'); if (mon) mon.textContent = 'NEXT ASSIGNMENT ' + txt;
+    const hr = $('hand-h'), mn = $('hand-m'), sc = $('hand-s'), wg = $('wedge');
+    if (hr) hr.setAttribute('transform', `rotate(${(rem/86400)*360} 100 100)`);
+    if (mn) mn.setAttribute('transform', `rotate(${((rem%3600)/3600)*360} 100 100)`);
+    if (sc) sc.setAttribute('transform', `rotate(${(rs/60)*360} 100 100)`);
+    if (wg) wg.setAttribute('d', wedge(100,100,74,rem/86400));
+  }
+  tick(); setInterval(tick, 1000);
+
+  // B-List timer readout synced to the CSS bar
+  let t0 = performance.now();
+  setInterval(()=>{ const e = ((performance.now()-t0)/1000)%25; const left = Math.ceil(25-e); $('tnum').textContent = `0:${pad(left)}`; }, 200);
+
+  function replay(el, cls){ el.classList.remove(cls); void el.offsetWidth; el.classList.add(cls); }
+  $('stampbtn').addEventListener('click', ()=>{ replay($('stamp'),'slam'); replay($('card'),'thud'); });
+  $('flipbtn').addEventListener('click', ()=> replay($('rogue'),'flip'));
+
+  const samples = [
+    ['Dazzler','Classified','+85','t4',25,'175 pts · 1,750 ft','B1'],
+    ['Maggott','Sealed Archive','+100','t5',39,'275 pts · 2,750 ft','B2'],
+    ['Wolverine','Common Record','+10','t1',40,'285 pts · 2,850 ft','B2'],
+    ['Polaris','Filed','+30','t2',44,'315 pts · 3,150 ft','B3'],
+    ['Cannonball','Restricted','+60','t3',53,'375 pts · 3,750 ft','B3']
+  ];
+  let si = 0;
+  $('tierbtn').addEventListener('click', ()=>{
+    si = (si+1) % samples.length; const s = samples[si];
+    const r = $('result'); r.className = 'result ' + s[3];
+    $('r-ans').textContent = s[0]; $('r-tier').textContent = s[1]; $('r-pts').textContent = s[2];
+    replay(r,'pop');
+    $('shaft').style.setProperty('--d', s[4]);
+    $('depthread').textContent = s[5];
+    document.querySelectorAll('.depth ol li').forEach(li=> li.classList.toggle('here', li.textContent===s[6]));
+  });
+
+  $('collapse').addEventListener('click', (e)=>{
+    const l = $('line'); const on = l.classList.toggle('collapsed');
+    e.currentTarget.textContent = on ? 'Reopen the branches' : 'Close the case';
+  });
+
+  $('copybtn').addEventListener('click', async (e)=>{
+    const b = e.currentTarget; const text = $('sharetext').textContent;
+    try { await navigator.clipboard.writeText(text); b.textContent = 'Copied to clipboard'; }
+    catch { const r = document.createRange(); r.selectNodeContents($('sharetext')); const s = getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent = 'Selected, press copy'; }
+    setTimeout(()=> b.textContent = 'Copy report', 2200);
+  });
+})();
+</script>
+
+</html>
