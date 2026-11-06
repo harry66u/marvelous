@@ -1,5 +1,6 @@
 import type { CSSProperties } from 'react'
 import './surfaces.css'
+import DisplayText from './DisplayText'
 import s from './Stamp.module.css'
 
 const reducedMotion = () =>
@@ -13,7 +14,7 @@ export default function Stamp({
   const cls = [s.stamp, play ? (reducedMotion() ? s.shown : s.slam) : s.hidden, className]
   return (
     <div className={cls.filter(Boolean).join(' ')} style={style} data-testid="stamp" aria-hidden={!play}>
-      <span className={s.text}>{text}</span>
+      <DisplayText text={text} className={s.text} />
       {sub ? <small className={s.sub}>{sub}</small> : null}
     </div>
   )

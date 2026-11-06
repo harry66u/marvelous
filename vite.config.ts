@@ -2,9 +2,11 @@ import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
 import { devApi } from './src/server/devApi'
 
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   plugins: [react(), devApi()],
-  build: { target: 'es2022', sourcemap: true, chunkSizeWarningLimit: 300 },
+  // `--mode static`: relative asset paths so the static preview works from any URL
+  base: mode === 'static' ? './' : '/',
+  build: { target: 'es2022', sourcemap: mode !== 'static', chunkSizeWarningLimit: 300, outDir: mode === 'static' ? 'dist-preview' : 'dist' },
   test: {
     environment: 'jsdom',
     globals: true,
@@ -12,4 +14,4 @@ export default defineConfig({
     include: ['src/**/*.test.{ts,tsx}', 'api/**/*.test.ts', 'scripts/**/*.test.ts', 'content/**/*.test.ts'],
     css: { modules: { classNameStrategy: 'non-scoped' } },
   },
-})
+}))

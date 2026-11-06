@@ -9,3 +9,4 @@ public/data/
 .DS_Store
 __pycache__/
 content/_research/
+dist-preview/
