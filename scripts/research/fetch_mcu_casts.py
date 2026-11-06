@@ -144,7 +144,8 @@ def terms_for(c, draft, box):
     terms = {base}
     if paren:
         terms.add(paren.group(1))
-    real = (draft or {}).get('realName') or (box or {}).get('fields', {}).get('alter_ego', '')
+    reliable_box = box if (box or {}).get('reliable') else {}
+    real = (draft or {}).get('realName') or (reliable_box or {}).get('fields', {}).get('alter_ego', '')
     for r in re.split(r';|/', real or ''):
         r = re.sub(r'\(.*?\)', '', r).strip()
         if len(r) >= 5:

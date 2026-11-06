@@ -1,0 +1,646 @@
+[
+ {
+  "id": "agent-venom",
+  "name": "Agent Venom",
+  "field": "mcuFirst",
+  "record": "Spider-Man: Homecoming",
+  "evidence": "earliest cast match: Spider-Man: Far From Home: …ademic decathlon teacher and a chaperone on his school trip to Europe. * Tony Revolori as Eugene \"Flash\" Thompson: Peter's rival. * Marisa Tomei as May Parker: Peter's aunt who is aware of his secret ide…"
+ },
+ {
+  "id": "alex-power",
+  "name": "Alex Power",
+  "field": "debut",
+  "record": "1984 Power Pack #1",
+  "evidence": "infobox (Alex Wilder): Runaways (vol. 1) #1 (July 2003)"
+ },
+ {
+  "id": "amadeus-cho",
+  "name": "Amadeus Cho",
+  "field": "debut",
+  "record": "2006 Amazing Fantasy vol. 2 #15",
+  "evidence": "infobox (Amadeus Cho): Amazing Fantasy vol. 2 #15 (January 2005)"
+ },
+ {
+  "id": "ant-man-hank-pym",
+  "name": "Ant-Man (Hank Pym)",
+  "field": "realName",
+  "record": "Hank Pym",
+  "evidence": "infobox alter ego: Dr. Henry Jonathan Pym"
+ },
+ {
+  "id": "ant-man-hank-pym",
+  "name": "Ant-Man (Hank Pym)",
+  "field": "mcuFirst",
+  "record": "Ant-Man",
+  "evidence": "earliest cast match: Avengers: Age of Ultron: …ed to reshoot the final scene of the film to incorporate the new Falcon suit designed for Ant-Man (2015), which was released after Age of Ultron, as Falcon was originally shot in his orig…"
+ },
+ {
+  "id": "ant-man-scott-lang",
+  "name": "Ant-Man (Scott Lang)",
+  "field": "mcuFirst",
+  "record": "Ant-Man",
+  "evidence": "earliest cast match: Avengers: Age of Ultron: …ed to reshoot the final scene of the film to incorporate the new Falcon suit designed for Ant-Man (2015), which was released after Age of Ultron, as Falcon was originally shot in his orig…"
+ },
+ {
+  "id": "baron-zemo",
+  "name": "Baron Zemo",
+  "field": "primaryTeam",
+  "record": "masters-of-evil",
+  "evidence": "infobox alliances: | aliases = Heinrich Zemo; Helmut Zemo"
+ },
+ {
+  "id": "beast",
+  "name": "Beast",
+  "field": "mcuFirst",
+  "record": "The Marvels",
+  "evidence": "earliest cast match: Thor: The Dark World: …manity all the way throughout Kurse's transformation, so that even when you see Kurse the beast, you can still relate to him as being Algrim inside. And symbolically we did that by keep…"
+ },
+ {
+  "id": "beetle-abner-jenkins",
+  "name": "Beetle (Abner Jenkins)",
+  "field": "source",
+  "record": 1964,
+  "evidence": "no reliable infobox (resolved to Janice Lincoln); verify debut, real name and teams directly"
+ },
+ {
+  "id": "big-wheel",
+  "name": "Big Wheel",
+  "field": "source",
+  "record": 1978,
+  "evidence": "no reliable infobox (resolved to Carol Danvers); verify debut, real name and teams directly"
+ },
+ {
+  "id": "bishop",
+  "name": "Bishop",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Hawkeye: …Ronin, as first shown in the film Avengers: Endgame (2019). Renner said that meeting Kate Bishop brings \"an onslaught of problems\" into Barton's life, as Barton does not understand her o… | The Marvels: …role from previous MCU films as Valkyrie, and Hailee Steinfeld reprises her role as Kate Bishop from the Disney+ miniseries Hawkeye (2021). Lashana Lynch reprises her role as Monica's m…"
+ },
+ {
+  "id": "black-dwarf",
+  "name": "Black Dwarf",
+  "field": "source",
+  "record": 2013,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: B); verify debut, real name and teams directly"
+ },
+ {
+  "id": "black-dwarf",
+  "name": "Black Dwarf",
+  "field": "mcu",
+  "record": "true (Avengers: Infinity War)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "black-panther",
+  "name": "Black Panther",
+  "field": "primaryTeam",
+  "record": "wakanda",
+  "evidence": "infobox alliances: Avengers; Fantastic Four; Mighty Avengers; Fantastic Force; New Avengers; Ultimates; The Crew"
+ },
+ {
+  "id": "boomerang",
+  "name": "Boomerang",
+  "field": "source",
+  "record": 1966,
+  "evidence": "no reliable infobox (resolved to Blade (character)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "cable",
+  "name": "Cable",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Captain America: The First Avenger: …So a lot of the effects, if I'm going to punch someone they're not going to put them on a cable and fly them back 50&nbsp;feet, but he's going to go down, probably not getting back up,… | Avengers: Infinity War: …emotionalize the whole thing\". Brolin further added that he preferred playing Thanos over Cable in Deadpool 2 (2018) because of the amount of work that went into creating the character.…"
+ },
+ {
+  "id": "captain-america",
+  "name": "Captain America",
+  "field": "debut",
+  "record": "1941 Captain America Comics #1",
+  "evidence": "infobox (Captain America): Captain America Comics #1 (December 20, 1940)"
+ },
+ {
+  "id": "captain-america",
+  "name": "Captain America",
+  "field": "mcuFirst",
+  "record": "Captain America: The First Avenger",
+  "evidence": "earliest cast match: The Incredible Hulk: …occasionally recovers.\" In June 2015, when reflecting on how his reprisal in the MCU film Captain America: Civil War (2016) was different from this film, Hurt said, \"What I created [for The Incre…"
+ },
+ {
+  "id": "chameleon",
+  "name": "Chameleon",
+  "field": "mcu",
+  "record": "true (Spider-Man: Far From Home)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "crimson-dynamo",
+  "name": "Crimson Dynamo",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Iron Man 2: …erts, a reporter covering the Stark expo. Yevgeni Lazarev appears as Ivan Vanko's father, Anton Vanko, Kate Mara portrays a process server who summons Tony to the government hearing, and Stan… | Iron Man 2: …to exact vengeance on the Stark family. The character is an amalgamation of Whiplash and Crimson Dynamo. Rourke visited Butyrka prison to research the role, and he suggested that half of the ch…"
+ },
+ {
+  "id": "death",
+  "name": "Death",
+  "field": "mcuFirst",
+  "record": "Agatha All Along",
+  "evidence": "earliest cast match: Iron Man 2: …perhero, but she's also human. She's small, but she's strong... She is dark and has faced death so many times that she has a deep perspective on the value of life... It's hard not to ad…"
+ },
+ {
+  "id": "devil-dinosaur",
+  "name": "Devil Dinosaur",
+  "field": "primaryTeam",
+  "record": "secret-warriors",
+  "evidence": "infobox alliances: Fallen Angels; Circus of Crime; Pet Avengers"
+ },
+ {
+  "id": "dum-dum-dugan",
+  "name": "Dum Dum Dugan",
+  "field": "mcu",
+  "record": "true (Captain America: The First Avenger)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "ebony-maw",
+  "name": "Ebony Maw",
+  "field": "source",
+  "record": 2013,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: M); verify debut, real name and teams directly"
+ },
+ {
+  "id": "ego-the-living-planet",
+  "name": "Ego the Living Planet",
+  "field": "mcu",
+  "record": "true (Guardians of the Galaxy Vol. 2)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "enchantress",
+  "name": "Enchantress",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Loki: …Loki, using the name \"Sylvie\" as an alias. While Sylvie was inspired by Sylvie Lushton / Enchantress and Lady Loki from the comics, she is a different person with a different backstory from…"
+ },
+ {
+  "id": "eternity",
+  "name": "Eternity",
+  "field": "mcu",
+  "record": "true (Thor: Love and Thunder)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "falcon-sam-wilson",
+  "name": "Falcon (Sam Wilson)",
+  "field": "source",
+  "record": 1969,
+  "evidence": "no reliable infobox (resolved to Falcon (comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "green-goblin",
+  "name": "Green Goblin",
+  "field": "primaryTeam",
+  "record": "dark-avengers",
+  "evidence": "infobox alliances: Doctor Bat and man"
+ },
+ {
+  "id": "hammerhead",
+  "name": "Hammerhead",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Thor: …riana Barraza plays diner owner Isabella Alvarez and Isaac Kappy plays a pet store clerk. Joseph Gatt, Josh Coxx, and Douglas Tait portray Frost Giants. Stan Lee and J. Michael Straczyns… | Moon Knight: …the avatar of the Egyptian goddess of magic Isis, Loic Mabanza as Mogart's bodyguard Bek, Joseph Millson as Dr. Steven Grant from the fictional film Tomb Buster, while Bill Bekele portra… | She-Hulk: Attorney at Law: …ll, a human/cattle hybrid who gained his appearance from a science experiment gone wrong; Joseph Castillo-Midyett as El Águila, a self-proclaimed swashbuckler who is capable of generatin… | The Fantastic Four: First Steps: …Film Festival 08 (Cropped).jpg | image3 = EbonMossBachrach-byPhilipRomano.jpg | image4 = Joseph Quinn (53673250583) (cropped).jpg | footer = Pedro Pascal, Vanessa Kirby, Joseph Quinn, a…"
+ },
+ {
+  "id": "hawkeye-kate-bishop",
+  "name": "Hawkeye (Kate Bishop)",
+  "field": "mcuFirst",
+  "record": "Hawkeye",
+  "evidence": "earliest cast match: Thor: …amuel L. Jackson and Jeremy Renner have uncredited cameos as Nick Fury and Clint Barton / Hawkeye, respectively.…"
+ },
+ {
+  "id": "hela",
+  "name": "Hela",
+  "field": "primaryTeam",
+  "record": "asgard",
+  "evidence": "infobox alliances: Hell-Lords; Death Gods; Black Order"
+ },
+ {
+  "id": "hobgoblin-roderick-kingsley",
+  "name": "Hobgoblin (Roderick Kingsley)",
+  "field": "source",
+  "record": 1983,
+  "evidence": "no reliable infobox (resolved to Hobgoblin (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "honey-badger",
+  "name": "Honey Badger",
+  "field": "source",
+  "record": 2016,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: K); verify debut, real name and teams directly"
+ },
+ {
+  "id": "hydro-man",
+  "name": "Hydro-Man",
+  "field": "mcu",
+  "record": "true (Spider-Man: Far From Home)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "hyperion-marcus-milton",
+  "name": "Hyperion (Marcus Milton)",
+  "field": "debut",
+  "record": "2012 Avengers (vol. 5) #1",
+  "evidence": "infobox (Hyperion (character)): Zhib-Ran:; The Avengers #69; (October 1969); Mark Milton:; The Avengers #85; (February 1971); Squadron Supreme's Mark Milton:; Supreme Power #1; (October 2003); (Marcus Milton):; Avengers vol. 5 #1; (December 2012)"
+ },
+ {
+  "id": "iron-man",
+  "name": "Iron Man",
+  "field": "debut",
+  "record": "1963 Tales of Suspense #39",
+  "evidence": "infobox (Iron Man): Tales of Suspense #39; (December 1962)"
+ },
+ {
+  "id": "jack-olantern",
+  "name": "Jack O'Lantern",
+  "field": "source",
+  "record": 1981,
+  "evidence": "no reliable infobox (resolved to Venom (character)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "karnilla",
+  "name": "Karnilla",
+  "field": "source",
+  "record": 1964,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: K); verify debut, real name and teams directly"
+ },
+ {
+  "id": "katie-power",
+  "name": "Katie Power",
+  "field": "source",
+  "record": 1984,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: A); verify debut, real name and teams directly"
+ },
+ {
+  "id": "laufey",
+  "name": "Laufey",
+  "field": "source",
+  "record": 1965,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: L); verify debut, real name and teams directly"
+ },
+ {
+  "id": "loki",
+  "name": "Loki",
+  "field": "primaryTeam",
+  "record": "asgard",
+  "evidence": "infobox alliances: Frost Giants; Dark Council; Cabal; Mighty Avengers; Acts of Vengeance; Young Avengers; Astonishing Avengers }}"
+ },
+ {
+  "id": "loki",
+  "name": "Loki",
+  "field": "mcuFirst",
+  "record": "Thor",
+  "evidence": "earliest cast match: Iron Man 2: …cockatoo, paying for the teeth and bird with his own money. One of Rourke's tattoos read \"Loki\", the name of one of his dogs that had died prior to filming, which Feige requested be di…"
+ },
+ {
+  "id": "magus",
+  "name": "Magus",
+  "field": "debut",
+  "record": "1975 Strange Tales #178",
+  "evidence": "infobox (Adam Warlock): As Him:; Fantastic Four #66–67 (September–October 1967); As Adam Warlock:; Marvel Premiere #1 (April 1972)"
+ },
+ {
+  "id": "mister-negative",
+  "name": "Mister Negative",
+  "field": "realName",
+  "record": "Martin Li",
+  "evidence": "infobox alter ego: | alliances = Inner Demons"
+ },
+ {
+  "id": "molten-man",
+  "name": "Molten Man",
+  "field": "mcu",
+  "record": "true (Spider-Man: Far From Home)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "moon-girl",
+  "name": "Moon Girl",
+  "field": "source",
+  "record": 2016,
+  "evidence": "no reliable infobox (resolved to Squirrel Girl); verify debut, real name and teams directly"
+ },
+ {
+  "id": "patriot-eli-bradley",
+  "name": "Patriot (Eli Bradley)",
+  "field": "source",
+  "record": 2005,
+  "evidence": "no reliable infobox (resolved to Patriot (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "patriot-eli-bradley",
+  "name": "Patriot (Eli Bradley)",
+  "field": "mcuFirst",
+  "record": "The Falcon and the Winter Soldier",
+  "evidence": "earliest cast match: The Incredible Hulk: …he actually sees and recognizes that it's more developed than his own, even though he's a patriot and a warrior for his country. He's sacrificed [much] for that purpose, but at the expens…"
+ },
+ {
+  "id": "peggy-carter",
+  "name": "Peggy Carter",
+  "field": "mcuFirst",
+  "record": "Captain America: The First Avenger",
+  "evidence": "earliest cast match: Captain America: The Winter Soldier: …en really well, and she even looks like the character from the books.\" * Hayley Atwell as Peggy Carter: A retired military agent with the Strategic Scientific Reserve and co-founder of S.H.I.E…"
+ },
+ {
+  "id": "pepper-potts",
+  "name": "Pepper Potts",
+  "field": "mcuFirst",
+  "record": "Iron Man",
+  "evidence": "earliest cast match: Iron Man 2: …the role. Six-year-old Davin Ransom portrays Tony Stark as a child. * Gwyneth Paltrow as Pepper Potts: Stark's closest friend, budding love interest, and business partner; Pepper is promoted…"
+ },
+ {
+  "id": "phil-coulson",
+  "name": "Phil Coulson",
+  "field": "debut",
+  "record": "2008 Iron Man (2008 film)",
+  "evidence": "infobox (Phil Coulson): Battle Scars #6 (April 2012)"
+ },
+ {
+  "id": "professor-x",
+  "name": "Professor X",
+  "field": "mcuFirst",
+  "record": "Doctor Strange in the Multiverse of Madness",
+  "evidence": "earliest cast match: Black Panther: …\", and likened Killmonger and T'Challa's relationship to the X-Men characters Magneto and Professor X. He added that Killmonger is strategic, thoughtful, patient, and \"trained to a T\". Killmo…"
+ },
+ {
+  "id": "prowler-hobie-brown",
+  "name": "Prowler (Hobie Brown)",
+  "field": "source",
+  "record": 1969,
+  "evidence": "no reliable infobox (resolved to Prowler (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "prowler-hobie-brown",
+  "name": "Prowler (Hobie Brown)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Spider-Man: Homecoming: …iminal looking to purchase weapons from Toomes. The character's moniker from the comics, \"Prowler\", is listed as one of his aliases, although he is not referred to as such in the film. Da…"
+ },
+ {
+  "id": "proxima-midnight",
+  "name": "Proxima Midnight",
+  "field": "source",
+  "record": 2013,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: M); verify debut, real name and teams directly"
+ },
+ {
+  "id": "rocket-racer",
+  "name": "Rocket Racer",
+  "field": "source",
+  "record": 1977,
+  "evidence": "no reliable infobox (resolved to Thing (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "rogue",
+  "name": "Rogue",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Guardians of the Galaxy: …as a kid, and now he goes around space, making out with hot alien girls and just being a rogue and a bit of a jerk, and through teaming up with these guys, finds a higher purpose for h… | The Falcon and the Winter Soldier: …the series, and called the reveal \"very fitting [since] she was hurt and scorned and went rogue\". Spellman said the writers chose not to \"be fake\" by simply saying she had been in hidin… | Doctor Strange in the Multiverse of Madness: …the Darkhold. * Elizabeth Olsen as Wanda Maximoff / Scarlet Witch: A former Avenger gone rogue who can harness chaos magic, engage in telepathy and telekinesis, and alter reality. The…"
+ },
+ {
+  "id": "sentry",
+  "name": "Sentry",
+  "field": "mcuFirst",
+  "record": "Thunderbolts*",
+  "evidence": "earliest cast match: Thor: …uit that flexes with me.\" * Idris Elba as Heimdall: The all-seeing, all-hearing Asgardian sentry of the bifröst bridge, based on the mythological deity of the same name. Elba said Branag…"
+ },
+ {
+  "id": "she-hulk",
+  "name": "She-Hulk",
+  "field": "debut",
+  "record": "1980 The Savage She-Hulk #1",
+  "evidence": "infobox (She-Hulk): The Savage She-Hulk #1 (November 1979)"
+ },
+ {
+  "id": "she-hulk",
+  "name": "She-Hulk",
+  "field": "mcuFirst",
+  "record": "She-Hulk: Attorney at Law",
+  "evidence": "earliest cast match: Ms. Marvel: …ne. A photo of Jameela Jamil as Titania, who stars as the character in the Disney+ series She-Hulk: Attorney at Law (2022), appears in the series; Jamil was unaware of its inclusion in Ms.…"
+ },
+ {
+  "id": "silk",
+  "name": "Silk",
+  "field": "mcu",
+  "record": "true (Spider-Man: Homecoming)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "speed",
+  "name": "Speed",
+  "field": "mcuFirst",
+  "record": "WandaVision",
+  "evidence": "earliest cast match: The Incredible Hulk: …ncluding being pulled by a harness to show Blonsky's enhanced 30–40 mile-per-hour running speed. Cyril Raffaelli performed some of his stunts. Roth enjoyed the motion capture for Abomin…"
+ },
+ {
+  "id": "spider-girl-mayday-parker",
+  "name": "Spider-Girl (Mayday Parker)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Captain America: Civil War: …that extent of it, but they are certainly getting to know each other.\" * Marisa Tomei as May Parker: Peter Parker's aunt. * Tom Holland as Peter Parker / Spider-Man: A teenager allied with… | Spider-Man: Homecoming: …as Anne Marie Hoag: The head of the U.S. Department of Damage Control. * Marisa Tomei as May Parker: Peter's aunt. First reports of Tomei's casting caused backlash on social media, with com… | Avengers: Endgame: …d Stark, Tilda Swinton as the Ancient One, Hayley Atwell as Peggy Carter, Marisa Tomei as May Parker, Taika Waititi as Korg, Angela Bassett as Ramonda, Michael Douglas as Hank Pym, Michelle… | Spider-Man: Far From Home: …p to Europe. * Tony Revolori as Eugene \"Flash\" Thompson: Peter's rival. * Marisa Tomei as May Parker: Peter's aunt who is aware of his secret identity and wants him to be Spider-Man more so…"
+ },
+ {
+  "id": "spider-gwen",
+  "name": "Spider-Gwen",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Spider-Man: No Way Home: …alternate version of Peter who is haunted by his failure to save his deceased girlfriend, Gwen Stacy, during the events of The Amazing Spider-Man 2. The other Spider-Men refer to him as \"Pet…"
+ },
+ {
+  "id": "spider-ham",
+  "name": "Spider-Ham",
+  "field": "primaryTeam",
+  "record": "web-warriors",
+  "evidence": "infobox alliances: Web Warriors, The Scavengers"
+ },
+ {
+  "id": "spider-man-2099",
+  "name": "Spider-Man 2099",
+  "field": "realName",
+  "record": "Miguel O'Hara",
+  "evidence": "infobox alter ego: | full_name ="
+ },
+ {
+  "id": "spider-man-2099",
+  "name": "Spider-Man 2099",
+  "field": "primaryTeam",
+  "record": "web-warriors",
+  "evidence": "infobox alliances: Exiles; Alchemax"
+ },
+ {
+  "id": "spider-man-miles-morales",
+  "name": "Spider-Man (Miles Morales)",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "The Incredible Hulk: …ter had been retroactively named Roger Harrington, which is Starr's role in the MCU films Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021).… | Iron Man 2: …n Max appears as a child wearing an Iron Man mask whom Stark saves from a drone. In 2017, Spider-Man: Homecoming director Jon Watts said that he had suggested to Feige that they retroactivel… | Guardians of the Galaxy: …hy he took the role, Hounsou said, \"I have a four-year old son who loves superheroes from Spider-Man to Iron Man to Batman. He's got all the costumes. One day he looks at me and says 'Dad, I… | Captain America: Civil War: …ther.\" * Marisa Tomei as May Parker: Peter Parker's aunt. * Tom Holland as Peter Parker / Spider-Man: A teenager allied with Stark; he received spider-like abilities after being bitten by a…"
+ },
+ {
+  "id": "spider-man-peter-parker",
+  "name": "Spider-Man (Peter Parker)",
+  "field": "source",
+  "record": 1962,
+  "evidence": "no reliable infobox (resolved to Spider-Man); verify debut, real name and teams directly"
+ },
+ {
+  "id": "spider-man-peter-parker",
+  "name": "Spider-Man (Peter Parker)",
+  "field": "mcuFirst",
+  "record": "Captain America: Civil War",
+  "evidence": "earliest cast match: The Incredible Hulk: …ter had been retroactively named Roger Harrington, which is Starr's role in the MCU films Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021).…"
+ },
+ {
+  "id": "spot",
+  "name": "Spot",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Captain America: Civil War: …can do is figure out ways to undermine them. He's emotionally driven and he finds a weak spot.\" Brühl, who was cast due to his German accent, did not feel the role was a stereotype, s…"
+ },
+ {
+  "id": "stature",
+  "name": "Stature",
+  "field": "primaryTeam",
+  "record": "young-avengers",
+  "evidence": "infobox alliances: {{Unbulleted list"
+ },
+ {
+  "id": "storm",
+  "name": "Storm",
+  "field": "mcu",
+  "record": "false",
+  "evidence": "Deadpool & Wolverine: …/ Blade from New Line Cinema's Blade film trilogy (1998–2004); and Chris Evans as Johnny Storm / Human Torch—a member of the Fantastic Four who can engulf himself in and control fire,… | The Fantastic Four: First Steps: …e to having a long-standing relationship working together in film. * Vanessa Kirby as Sue Storm / Invisible Woman: Reed's pregnant wife, Johnny's older sister, and a member of the Fanta…"
+ },
+ {
+  "id": "supergiant",
+  "name": "Supergiant",
+  "field": "source",
+  "record": 2013,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: S); verify debut, real name and teams directly"
+ },
+ {
+  "id": "tarantula",
+  "name": "Tarantula",
+  "field": "source",
+  "record": 1974,
+  "evidence": "no reliable infobox (resolved to Jackal (Marvel Comics character)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "thane",
+  "name": "Thane",
+  "field": "source",
+  "record": 2013,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: T); verify debut, real name and teams directly"
+ },
+ {
+  "id": "the-leader",
+  "name": "The Leader",
+  "field": "mcuFirst",
+  "record": "The Incredible Hulk",
+  "evidence": "earliest cast match: Iron Man: …helps Stark build the first Iron Man suit.    Additionally, Faran Tahir appears as Raza, the leader of the Ten Rings; Paul Bettany voices J.A.R.V.I.S., Stark's personal AI system; and Clark…"
+ },
+ {
+  "id": "the-serpent",
+  "name": "The Serpent",
+  "field": "primaryTeam",
+  "record": "asgard",
+  "evidence": "infobox alliances: Worthy"
+ },
+ {
+  "id": "thor",
+  "name": "Thor",
+  "field": "mcuFirst",
+  "record": "Thor",
+  "evidence": "earliest cast match: Iron Man 2: …it would lead to confusion regarding the comics character Loki, who was set to appear in Thor (2011).{{rp|131}} Rourke explained that he did not want to play a \"one-dimensional bad gu…"
+ },
+ {
+  "id": "throg",
+  "name": "Throg",
+  "field": "source",
+  "record": 1986,
+  "evidence": "no reliable infobox (resolved to Lockjaw (character)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "throg",
+  "name": "Throg",
+  "field": "mcu",
+  "record": "true (Loki season 1)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "thunderstrike",
+  "name": "Thunderstrike",
+  "field": "realName",
+  "record": "Eric Masterson",
+  "evidence": "infobox alter ego: |publisher=Marvel Comics"
+ },
+ {
+  "id": "tinkerer",
+  "name": "Tinkerer",
+  "field": "mcuFirst",
+  "record": "Spider-Man: Homecoming",
+  "evidence": "earliest cast match: Ant-Man: …'s lost control of his company. He lives in sort of a time warp. He was always a bit of a tinkerer. He's got a lab, plus a lot of other stuff, in his basement that we find out about. He's…"
+ },
+ {
+  "id": "valkyrie-brunnhilde",
+  "name": "Valkyrie (Brunnhilde)",
+  "field": "source",
+  "record": 1966,
+  "evidence": "no reliable infobox (resolved to Valkyrie (Marvel Comics)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "venom",
+  "name": "Venom",
+  "field": "realName",
+  "record": "Eddie Brock",
+  "evidence": "infobox alter ego: Various hosts"
+ },
+ {
+  "id": "viper-ophelia-sarkissian",
+  "name": "Viper (Ophelia Sarkissian)",
+  "field": "source",
+  "record": 1969,
+  "evidence": "no reliable infobox (resolved to Viper (Madame Hydra)); verify debut, real name and teams directly"
+ },
+ {
+  "id": "vision",
+  "name": "Vision",
+  "field": "mcuFirst",
+  "record": "Avengers: Age of Ultron",
+  "evidence": "earliest cast match: The Incredible Hulk: …yed from the fugitive story that he associated with the character. He was won over by the vision of Leterrier and Marvel Studios and believed they were looking to him to guide the projec…"
+ },
+ {
+  "id": "viv-vision",
+  "name": "Viv Vision",
+  "field": "source",
+  "record": 2016,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: V); verify debut, real name and teams directly"
+ },
+ {
+  "id": "volstagg",
+  "name": "Volstagg",
+  "field": "source",
+  "record": 1965,
+  "evidence": "no reliable infobox (resolved to List of Marvel Comics characters: H); verify debut, real name and teams directly"
+ },
+ {
+  "id": "wiccan",
+  "name": "Wiccan",
+  "field": "mcu",
+  "record": "true (WandaVision)",
+  "evidence": "name not found in any MCU cast section (cameo? check)"
+ },
+ {
+  "id": "winter-soldier",
+  "name": "Winter Soldier",
+  "field": "mcuFirst",
+  "record": "Captain America: The First Avenger",
+  "evidence": "earliest cast match: Captain America: The Winter Soldier: …stion what they want and what is their true identity.\" * Sebastian Stan as Bucky Barnes / Winter Soldier: Steve Rogers' childhood best friend who has re-emerged as an enhanced brainwashed assass…"
+ }
+]

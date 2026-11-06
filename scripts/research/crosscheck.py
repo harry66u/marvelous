@@ -70,11 +70,14 @@ def main():
 
     for cid, rec in sorted(recs.items()):
         box = boxes.get(cid, {})
+        if not box.get('reliable'):
+            flag(rec, 'source', rec['debutYear'], f'no reliable infobox (resolved to {box.get("title")}); verify debut, real name and teams directly')
+            box = {}
         fields = box.get('fields', {})
         # debut year
         y = first_year(fields.get('debut', ''))
         if y is None:
-            flag(rec, 'debut', rec['debutYear'], f'no infobox debut ({box.get("status")}, page {box.get("title")})')
+            pass
         elif y != rec['debutYear']:
             flag(rec, 'debut', f'{rec["debutYear"]} {rec["debutIssue"]}', f'infobox ({box.get("title")}): {fields.get("debut")}')
         # real name
