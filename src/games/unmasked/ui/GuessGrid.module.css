@@ -1,0 +1,71 @@
+/* Guess grid from board Form 05. Six columns where there is room; below 560px of grid width
+   the cells fold into a 3 x 2 block and each cell carries its own column caption. */
+.grid { container-type: inline-size; display: grid; gap: 12px; min-width: 0; }
+
+.head, .cells { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 6px; }
+.head {
+  font: 10px/1.2 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted); text-align: center;
+}
+
+.rows { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.row, .visual { display: grid; gap: 6px; min-width: 0; }
+
+.name {
+  display: flex; align-items: center; gap: 8px; margin: 0; min-width: 0;
+  font: 13px/1.25 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--cream); overflow-wrap: anywhere;
+}
+
+.chip {
+  flex: none; display: inline-grid; place-items: center; width: 18px; height: 18px;
+  font: normal 11px/1 var(--f-hud); letter-spacing: 0; border: 1px solid;
+}
+
+.cell {
+  position: relative; min-width: 0; min-height: 54px; display: grid; place-items: center;
+  padding: 10px 4px 8px; text-align: center; border: 1px solid;
+  font: 600 11px/1.15 var(--f-body); letter-spacing: 0.02em; text-transform: uppercase;
+  overflow-wrap: anywhere;
+}
+.val { display: block; }
+.mk { position: absolute; top: 2px; right: 4px; font: 11px/1 var(--f-hud); }
+.cap { display: none; }
+
+.exact {
+  background: var(--mark-exact-bg); color: var(--mark-exact-fg); border-color: var(--phosphor);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--orange) 40%, transparent);
+}
+.close {
+  background: var(--mark-close-bg); color: var(--mark-close-fg);
+  border-color: color-mix(in srgb, var(--mustard) 60%, var(--cream));
+}
+.no { background: var(--mark-no-bg); color: var(--mark-no-fg); border-color: var(--walnut); }
+.chip.exact { box-shadow: none; }
+.blank { background: transparent; border: 1px dashed var(--line-soft); }
+
+.flip .cell {
+  animation: flip-in 0.5s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i, 0) * 120ms);
+}
+@keyframes flip-in {
+  0% { transform: rotateX(90deg); filter: brightness(2); }
+  100% { transform: rotateX(0); }
+}
+
+.legend {
+  display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 2px 0 0; padding: 0; list-style: none;
+  font: 11px/1.4 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
+}
+.legend li { display: inline-flex; align-items: center; gap: 6px; }
+
+@container (max-width: 559px) {
+  .head { display: none; }
+  .cells { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; }
+  .cell { min-height: 58px; padding: 17px 2px 6px; font-size: 10px; letter-spacing: 0; }
+  .cap {
+    display: block; position: absolute; top: 3px; left: 4px;
+    font: 9px/1 var(--f-hud); letter-spacing: 0.08em;
+  }
+  .blank .cap { color: var(--muted); }
+}

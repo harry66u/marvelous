@@ -1,0 +1,47 @@
+/* Subject search from board Form 05: a terminal field with an autocomplete list that
+   overlays the grid below, so typing never shifts the page. */
+.search { display: grid; gap: 6px; min-width: 0; }
+.label {
+  justify-self: start; font: 12px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.combo { position: relative; min-width: 0; }
+.row { display: flex; gap: 6px; min-width: 0; }
+.input {
+  flex: 1; min-width: 0; min-height: 44px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 0;
+  background: var(--void); color: var(--cream); caret-color: var(--orange);
+  font: 600 18px/1.2 var(--f-body); letter-spacing: 0.04em; text-transform: uppercase;
+}
+.input::placeholder {
+  color: var(--muted); opacity: 1; font: 400 13px/1.2 var(--f-hud); letter-spacing: 0.1em;
+}
+.file { flex: none; min-width: 72px; }
+
+.list {
+  position: absolute; z-index: 5; top: calc(100% - 1px); left: 0; right: 0;
+  margin: 0; padding: 4px 0; list-style: none;
+  border: 1px solid var(--line-soft); border-top: 0; background: var(--void);
+  box-shadow: 0 18px 40px rgb(0 0 0 / 0.55);
+  font: 14px/1.25 var(--f-body);
+}
+.list[hidden] { display: none; }
+.option {
+  display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 10px;
+  padding: 8px 12px; cursor: pointer; color: var(--cream);
+  text-transform: uppercase; letter-spacing: 0.04em; overflow-wrap: anywhere;
+}
+.option:hover { background: color-mix(in srgb, var(--orange) 9%, transparent); }
+.active { background: color-mix(in srgb, var(--orange) 16%, transparent); box-shadow: inset 3px 0 0 var(--orange); }
+.optName { min-width: 0; }
+.optReal { font: 12px/1.25 var(--f-hud); letter-spacing: 0.06em; color: var(--muted); text-transform: none; }
+.filed { color: var(--muted); cursor: not-allowed; }
+.filed .optName { text-decoration: line-through; text-decoration-thickness: 1px; }
+.optFiled {
+  margin-left: auto; padding: 2px 5px; border: 1px solid currentColor;
+  font: 10px/1 var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase;
+}
+
+.status {
+  min-height: 18px; margin: 0; font: 11px/1.6 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--mustard);
+}

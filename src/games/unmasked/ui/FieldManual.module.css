@@ -1,0 +1,30 @@
+.form {
+  margin: 0 0 14px; font: 11px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--muted);
+}
+.rules { --accent: var(--orange); display: grid; gap: 12px; font: 14px/1.6 var(--f-body); }
+.paper { --accent: var(--rust); }
+.rules p { margin: 0; }
+.rules h3 {
+  margin: 8px 0 0; font: 12px/1.4 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent);
+}
+.rules:not(.paper) h3 { text-shadow: var(--glow); }
+
+.counts { display: grid; gap: 10px; margin: 0; }
+.counts div { display: flex; flex-wrap: wrap; gap: 0 14px; }
+.counts dt { flex: 0 0 8.5em; font-weight: 600; }
+.counts dd { flex: 1 1 16em; margin: 0; min-width: 0; }
+
+.marks { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
+.marks li { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 10px; align-items: start; }
+.marks b { font-weight: 600; }
+.chip {
+  display: inline-grid; place-items: center; width: 22px; height: 22px; margin-top: 1px;
+  font: normal 13px/1 var(--f-hud); border: 1px solid;
+}
+.exact { background: var(--mark-exact-bg); color: var(--mark-exact-fg); border-color: var(--phosphor); }
+.close { background: var(--mark-close-bg); color: var(--mark-close-fg); border-color: color-mix(in srgb, var(--mustard) 60%, var(--cream)); }
+.no { background: var(--mark-no-bg); color: var(--mark-no-fg); border-color: var(--walnut); }
+
+.actions { display: flex; justify-content: flex-end; margin-top: 18px; }

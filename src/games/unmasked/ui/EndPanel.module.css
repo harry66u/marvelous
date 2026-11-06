@@ -1,0 +1,29 @@
+.end {
+  display: grid; gap: 14px; justify-items: start; min-width: 0;
+  padding-bottom: 22px; border-bottom: 1px dashed var(--line-soft);
+}
+.kicker {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.verdict { margin: -6px 0 4px; font: 600 clamp(18px, 2.4vw, 22px)/1.35 var(--f-body); color: var(--cream); }
+/* focused by script when the case closes; it is not a control, so no ring */
+.verdict:focus { outline: none; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.link {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px;
+  border: 1px solid var(--line); color: var(--orange); text-decoration: none; text-shadow: var(--glow);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+}
+.link:hover { background: color-mix(in srgb, var(--orange) 12%, transparent); }
+
+/* stays mounted (empty) so screen readers hear it when it fills */
+.copied {
+  align-self: center; margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted);
+}
+.manual {
+  width: 100%; max-width: 560px; padding: 12px; resize: none; border: 1px solid var(--line); border-radius: 0;
+  background: var(--void); color: var(--cream); font: 14px/1.5 var(--f-hud); letter-spacing: 0.06em;
+}
