@@ -1,0 +1,1011 @@
+{
+  "characters": [
+    {
+      "id": "star-lord",
+      "name": "Star-Lord",
+      "aliases": [
+        "Peter Quill",
+        "Peter Jason Quill",
+        "Master of the Sun"
+      ],
+      "realName": "Peter Quill",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers",
+        "nova-corps"
+      ],
+      "otherTeams": [
+        "Infinity Watch"
+      ],
+      "debutYear": 1976,
+      "debutIssue": "Marvel Preview #4",
+      "debutDate": "1976-01",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a half-human, half-alien outlaw abducted from Earth as a child. Leads the Guardians of the Galaxy and has briefly served in the Nova Corps. Agents are advised to confiscate the cassette player.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Star-Lord"
+      ],
+      "notes": "Half-Spartoi heritage; origin could be argued as mutate or alien. Infobox gives Marvel Preview #4 as overall debut (Earth-616 debut Thanos #8, 2004)."
+    },
+    {
+      "id": "gamora",
+      "name": "Gamora",
+      "aliases": [
+        "Gamora Zen Whoberi Ben Titan",
+        "Requiem",
+        "Deadliest Woman in the Universe",
+        "Most Dangerous Woman in the Universe"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Infinity Watch"
+      ],
+      "debutYear": 1975,
+      "debutIssue": "Strange Tales #180",
+      "debutDate": "1975-06",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is the last of the Zen-Whoberi and was raised as an assassin by Thanos. Defected to become a founding Guardian of the Galaxy. Agents should not ask about her father figure.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gamora"
+      ],
+      "notes": "Wikipedia infobox species is 'Zen-Whoberian mutate'; rubric treats Zen-Whoberi as alien. Real name field left empty because Gamora is her given name."
+    },
+    {
+      "id": "drax-the-destroyer",
+      "name": "Drax the Destroyer",
+      "aliases": [
+        "Drax",
+        "Arthur Sampson Douglas",
+        "Arthur Douglas"
+      ],
+      "realName": "Arthur Douglas",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Infinity Watch",
+        "Legion of the Unliving"
+      ],
+      "debutYear": 1973,
+      "debutIssue": "The Invincible Iron Man #55",
+      "debutDate": "1973-02",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is a deceased Earth man reborn as a vessel built to destroy Thanos. Has served with the Guardians and the Infinity Watch. Agents are warned that metaphors do not translate.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Drax_the_Destroyer"
+      ],
+      "notes": "Origin: infobox says human mutate (rebuilt by Kronos and Mentor); cosmic is also defensible. Real name Arthur Douglas is from my knowledge of the character; infobox gave none."
+    },
+    {
+      "id": "rocket-raccoon",
+      "name": "Rocket Raccoon",
+      "aliases": [
+        "Rocket",
+        "Rocky Raccoon",
+        "Ranger Rocket",
+        "Rocket Raccoon"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Keystone Quadrant Rangers"
+      ],
+      "debutYear": 1976,
+      "debutIssue": "Marvel Preview #7",
+      "debutDate": "1976-07",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a raccoon engineered into a sapient soldier on the planet Halfworld. Pilot, tinkerer and weapons specialist of the Guardians. Agents are advised not to call him a rodent.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "groot",
+      "name": "Groot",
+      "aliases": [
+        "Flora Colossus",
+        "Monarch of Planet X",
+        "Tree",
+        "Baby Groot"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "S.H.I.E.L.D. Paranormal Containment Unit"
+      ],
+      "debutYear": 1960,
+      "debutIssue": "Tales to Astonish #13",
+      "debutDate": "1960-11",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a sentient tree from Planet X with extreme regeneration. Began as an invading menace and later became a Guardian and Rocket's closest partner. Vocabulary is limited and adequate.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Groot"
+      ],
+      "notes": "Debuted as a villain in 1960; hero for most of his history."
+    },
+    {
+      "id": "mantis",
+      "name": "Mantis",
+      "aliases": [
+        "Celestial Madonna",
+        "Mandy Celestine",
+        "Willow",
+        "Lorelei"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Knowhere Corps"
+      ],
+      "debutYear": 1973,
+      "debutIssue": "The Avengers #112",
+      "debutDate": "1973-06",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 2",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a martial artist raised by the Priests of Pama and later named the Celestial Madonna. Served with the Avengers and the Guardians. Agents are reminded that she is not an actual insect.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mantis_(Marvel_Comics)"
+      ],
+      "notes": "Origin: infobox human mutate; trained or cosmic arguable. primaryTeam: avengers (original tenure) vs guardians (MCU association)."
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "aliases": [
+        "Captain Nebula",
+        "Ms. Peale",
+        "Luphomoid"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Graces"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "The Avengers #257",
+      "debutDate": "1985-07",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a Luphomoid space pirate who claimed to be Thanos's granddaughter. Moved from enemy of the Avengers to a Guardian. Agents are advised to bring a thick-skinned negotiator.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nebula_(character)"
+      ],
+      "notes": "Alignment: villain early, antihero later; the side-switching rule gives antihero."
+    },
+    {
+      "id": "yondu",
+      "name": "Yondu",
+      "aliases": [
+        "Yondu Udonta",
+        "Yondu Udonta Centauri"
+      ],
+      "realName": "",
+      "primaryTeam": "ravagers",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "ravagers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1969,
+      "debutIssue": "Marvel Super-Heroes #18",
+      "debutDate": "1969-01",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a blue Centaurian archer who commands his arrow by whistle. Founding member of the 31st-century Guardians. Agents are advised against whistling near him.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yondu"
+      ],
+      "notes": "Comics Yondu is a hero; MCU version is an antihero."
+    },
+    {
+      "id": "cosmo-the-spacedog",
+      "name": "Cosmo the Spacedog",
+      "aliases": [
+        "Cosmo",
+        "Cosmonaut Cosmo",
+        "Colonel Cosmo",
+        "Cosmo the Russian Telepath Dog"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Knowhere Corps",
+        "Pet Avengers"
+      ],
+      "debutYear": 2008,
+      "debutIssue": "Nova vol. 4 #8",
+      "debutDate": "2008-01",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Soviet dog sent to orbit and altered by cosmic exposure. Telepathic and head of security on Knowhere. Agents are advised to treat him as a very senior officer.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cosmo_the_Spacedog"
+      ],
+      "notes": "mcuFirst: Guardians of the Galaxy (2014) per cast note on a canine actor cameo; Holiday Special (2022) is the first named speaking role. Origin could be cosmic."
+    },
+    {
+      "id": "adam-warlock",
+      "name": "Adam Warlock",
+      "aliases": [
+        "Him",
+        "Adam Magus",
+        "Avatar of Life",
+        "Master of All Souls"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Infinity Watch",
+        "Universal Church of Truth"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Fantastic Four #66",
+      "debutDate": "1967-09",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy Vol. 3",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is an artificially engineered being bearing the Soul Gem. Has repeatedly been reborn and holds a long rivalry with Thanos. Agents are advised not to ask which version is present.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adam_Warlock"
+      ],
+      "notes": "Origin: cosmic entity per infobox; synthetic arguable (created in a lab). Debut as Him in Fantastic Four #66-67; as Adam Warlock Marvel Premiere #1 (1972)."
+    },
+    {
+      "id": "ronan-the-accuser",
+      "name": "Ronan the Accuser",
+      "aliases": [
+        "Ronan",
+        "Supreme Accuser of the Kree"
+      ],
+      "realName": "",
+      "primaryTeam": "kree-empire",
+      "teams": [
+        "kree-empire"
+      ],
+      "otherTeams": [
+        "Annihilators"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Fantastic Four #65",
+      "debutDate": "1967-08",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the Kree Empire's chief enforcer, wielding the Universal Weapon. Has opposed the Fantastic Four, Avengers and Guardians. Agents are advised that the hammer is not for sale.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "korath-the-pursuer",
+      "name": "Korath the Pursuer",
+      "aliases": [
+        "Korath"
+      ],
+      "realName": "",
+      "primaryTeam": "kree-empire",
+      "teams": [
+        "kree-empire"
+      ],
+      "otherTeams": [
+        "Starforce"
+      ],
+      "debutYear": 1992,
+      "debutIssue": "Quasar #32",
+      "debutDate": "1992-03",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Kree warrior and long-time soldier of Ronan. Pursues targets until they are caught or he is not. Agents are advised not to be caught.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
+      ],
+      "notes": "mcu: Djimon Hounsou played Korath in GotG (2014) per film cast; no snippet in mcu_matches. Not confirmed in this session."
+    },
+    {
+      "id": "yon-rogg",
+      "name": "Yon-Rogg",
+      "aliases": [
+        "Colonel Yon-Rogg",
+        "Magnitron"
+      ],
+      "realName": "",
+      "primaryTeam": "kree-empire",
+      "teams": [
+        "kree-empire"
+      ],
+      "otherTeams": [
+        "Starforce"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Marvel Super-Heroes #12",
+      "debutDate": "1967-12",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Kree military commander, Captain Mar-Vell's rival for Una. Has repeatedly tried to eliminate Mar-Vell. Agents are advised to avoid his command.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yon-Rogg"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "captain-mar-vell",
+      "name": "Captain Mar-Vell",
+      "aliases": [
+        "Mar-Vell",
+        "Walter Lawson",
+        "Captain Marvel",
+        "Dr. Walter Lawson"
+      ],
+      "realName": "Mar-Vell",
+      "primaryTeam": "kree-empire",
+      "teams": [
+        "kree-empire",
+        "avengers",
+        "defenders"
+      ],
+      "otherTeams": [
+        "Starforce",
+        "Legion of the Unliving"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Marvel Super-Heroes #12",
+      "debutDate": "1967-12",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a Kree soldier who defected and became Earth's defender. Wears the Nega-Bands, and wore a different name for each loyalty. Agents are advised not to confuse him with the other Captains Marvel.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Captain_Marvel_(Mar-Vell)"
+      ],
+      "notes": "mcu: the film's Mar-Vell is played by Annette Bening as a woman (Wendy Lawson); counts as a live-action appearance of the Mar-Vell identity but is contested. Alternate: mcu false."
+    },
+    {
+      "id": "supreme-intelligence",
+      "name": "Supreme Intelligence",
+      "aliases": [
+        "The Supreme Intelligence",
+        "Multitude"
+      ],
+      "realName": "",
+      "primaryTeam": "kree-empire",
+      "teams": [
+        "kree-empire"
+      ],
+      "otherTeams": [
+        "Starforce"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Fantastic Four #65",
+      "debutDate": "1967-08",
+      "alignment": "villain",
+      "origin": "synthetic",
+      "gender": "other",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the Kree collective consciousness serving as the empire's ruler. A computer built from the greatest Kree minds. Agents are advised to stay out of its meeting.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Supreme_Intelligence"
+      ],
+      "notes": "Alignment villain (Kree ruler); neutral also arguable. Gender: other (non-person composite)."
+    },
+    {
+      "id": "talos",
+      "name": "Talos",
+      "aliases": [
+        "Talos the Untamed",
+        "Talos the Tamed",
+        "Jonathan Richards"
+      ],
+      "realName": "",
+      "primaryTeam": "skrull-empire",
+      "teams": [
+        "skrull-empire"
+      ],
+      "otherTeams": [],
+      "debutYear": 1994,
+      "debutIssue": "The Incredible Hulk vol. 1 #418",
+      "debutDate": "1994-06",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Captain Marvel",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a Skrull shapeshifter and military leader who sometimes poses as Jonathan Richards. Appears in Marvel's cosmic conflicts. Agents are advised that everyone in the room may be him.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Talos_the_Untamed"
+      ],
+      "notes": "Alignment: villain in comics, antihero/ally in MCU. mcuFirst Captain Marvel (2019)."
+    },
+    {
+      "id": "veranke",
+      "name": "Veranke",
+      "aliases": [
+        "Skrull Queen",
+        "Skrull Empress",
+        "Silver Scorpion",
+        "Jessica Drew"
+      ],
+      "realName": "",
+      "primaryTeam": "skrull-empire",
+      "teams": [
+        "skrull-empire"
+      ],
+      "otherTeams": [],
+      "debutYear": 2005,
+      "debutIssue": "New Avengers #1",
+      "debutDate": "2005-01",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the Skrull Queen who replaced Jessica Drew and led the Secret Invasion. Impersonated Spider-Woman for years. Agents are advised to check ID.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Veranke"
+      ],
+      "notes": "Infobox lists New Avengers #1 as Spider-Woman cover; first appearance as Veranke is New Avengers #40 (2008-06). Not in MCU cast."
+    },
+    {
+      "id": "moondragon",
+      "name": "Moondragon",
+      "aliases": [
+        "Heather Douglas",
+        "Madame MacEvil",
+        "Dragon of the Moon",
+        "Moon Lady"
+      ],
+      "realName": "Heather Douglas",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "defenders",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Infinity Watch"
+      ],
+      "debutYear": 1973,
+      "debutIssue": "Iron Man #54",
+      "debutDate": "1973-01",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the daughter of Drax, a monk-trained telepath on Titan. Has served with the Avengers and Defenders. Agents are advised not to read the minds of Titan's monks.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moondragon"
+      ],
+      "notes": "Origin: trained (Titan monastic discipline, human) vs mutate. Alignment hero with villainous periods; antihero arguable. Infobox gives Madame MacEvil debut Iron Man #54 (Jan 1973) and Moondragon debut Daredevil #105."
+    },
+    {
+      "id": "phyla-vell",
+      "name": "Phyla-Vell",
+      "aliases": [
+        "Quasar",
+        "Captain Marvel",
+        "Martyr"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "annihilators"
+      ],
+      "otherTeams": [],
+      "debutYear": 2003,
+      "debutIssue": "Captain Marvel vol. 5 #16",
+      "debutDate": "2003-11",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is the daughter of Mar-Vell, a Titanian-Kree hybrid who carried the Quantum Bands and later the title Martyr. Agents are advised that names are being recycled.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phyla-Vell"
+      ],
+      "notes": "Origin: Titanian/Kree alien vs cosmic (Quantum Bands). Teams based on infobox listing Guardians; Annihilators from Annihilation: Conquest."
+    },
+    {
+      "id": "quasar",
+      "name": "Quasar",
+      "aliases": [
+        "Wendell Vaughn",
+        "Wendell Elvis Vaughn",
+        "Marvel Boy",
+        "Protector of the Universe"
+      ],
+      "realName": "Wendell Vaughn",
+      "primaryTeam": "avengers",
+      "teams": [
+        "avengers",
+        "shield"
+      ],
+      "otherTeams": [],
+      "debutYear": 1979,
+      "debutIssue": "The Incredible Hulk vol. 2 #234",
+      "debutDate": "1979-04",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is Wendell Vaughn, a former security agent who wears the Quantum Bands. Served with the Avengers as Protector of the Universe. Agents are advised not to borrow his jewelry.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quasar_(character)"
+      ],
+      "notes": "Resolved infobox was wrong; used the Quasar article. Wendell Vaughn Quasar debut #234; Marvel Boy debut Captain America #217 (1978-01). Other Quasars: Phyla-Vell, Richard Rider."
+    },
+    {
+      "id": "nova-richard-rider",
+      "name": "Nova (Richard Rider)",
+      "aliases": [
+        "Nova",
+        "Richard Rider",
+        "Richie Rider",
+        "Nova Prime",
+        "Kid Nova",
+        "Human Rocket"
+      ],
+      "realName": "Richard Rider",
+      "primaryTeam": "nova-corps",
+      "teams": [
+        "nova-corps",
+        "new-warriors",
+        "defenders",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [],
+      "debutYear": 1976,
+      "debutIssue": "The Man Called Nova #1",
+      "debutDate": "1976-09",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Richard Rider, an Earth teenager who became Nova by inheriting a helmet from Rhomann Dey. Founded the New Warriors and served as Nova Prime. Agents are advised to ask for the helmet back.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
+      ],
+      "notes": "Origin: cosmic (Nova Force) vs tech (helmet)."
+    },
+    {
+      "id": "nova-sam-alexander",
+      "name": "Nova (Sam Alexander)",
+      "aliases": [
+        "Nova",
+        "Sam Alexander",
+        "Samuel Alexander"
+      ],
+      "realName": "Samuel Alexander",
+      "primaryTeam": "nova-corps",
+      "teams": [
+        "nova-corps",
+        "new-warriors",
+        "avengers",
+        "champions"
+      ],
+      "otherTeams": [],
+      "debutYear": 2011,
+      "debutIssue": "Marvel Point One #1",
+      "debutDate": "2011-11",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a teenager who inherited a Nova helmet from his father. Served in the Nova Corps and the New Warriors. Agents are advised not to ask who Nova is.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nova_(Sam_Alexander)"
+      ],
+      "notes": "Origin: cosmic vs tech. Infobox debut Marvel Point One #1 (Nov 2011); Nova #1 is his first full appearance."
+    },
+    {
+      "id": "gladiator-kallark",
+      "name": "Gladiator (Kallark)",
+      "aliases": [
+        "Gladiator",
+        "Kallark",
+        "Kallark of the Strontians"
+      ],
+      "realName": "",
+      "primaryTeam": "shiar-imperial-guard",
+      "teams": [
+        "shiar-imperial-guard",
+        "shiar-empire",
+        "guardians-of-the-galaxy",
+        "annihilators"
+      ],
+      "otherTeams": [],
+      "debutYear": 1977,
+      "debutIssue": "The X-Men #107",
+      "debutDate": "1977-10",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the Strontian leader of the Shi'ar Imperial Guard. Strongest of the Guard and opposed the X-Men before supporting them. Agents are advised not to be his emperor.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gladiator_(Kallark)"
+      ],
+      "notes": "Alignment: hero vs antihero vs villain; changed sides between Shi'ar loyalty and Guardians. MCU: matches are false (Hulk's gladiator persona)."
+    },
+    {
+      "id": "lilandra",
+      "name": "Lilandra",
+      "aliases": [
+        "Lilandra Neramani",
+        "Majestrix Lilandra",
+        "Empress of the Shi'ar"
+      ],
+      "realName": "",
+      "primaryTeam": "shiar-empire",
+      "teams": [
+        "shiar-empire",
+        "starjammers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1976,
+      "debutIssue": "The Uncanny X-Men #97",
+      "debutDate": "1976-02",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Shi'ar empress who deposed her mad sibling and allied with the X-Men. Rules a galactic empire. Agents are advised that she is also bigger than the entire agency.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lilandra_Neramani"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "deathbird",
+      "name": "Deathbird",
+      "aliases": [
+        "Cal'syee Neramani",
+        "Deathbird",
+        "War"
+      ],
+      "realName": "Cal'syee Neramani",
+      "primaryTeam": "shiar-empire",
+      "teams": [
+        "shiar-empire"
+      ],
+      "otherTeams": [
+        "Horsemen of Apocalypse",
+        "Brood"
+      ],
+      "debutYear": 1977,
+      "debutIssue": "Ms. Marvel #9",
+      "debutDate": "1977-09",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the Shi'ar warrior and elder sister of Lilandra. Has repeatedly seized the throne and fought Ms. Marvel. Agents are advised to keep her away from family reunions.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deathbird"
+      ],
+      "notes": "Origin: Shi'ar mutant per infobox; rubric alien (not X-gene)."
+    },
+    {
+      "id": "corsair",
+      "name": "Corsair",
+      "aliases": [
+        "Christopher Summers",
+        "Chris Summers"
+      ],
+      "realName": "Christopher Summers",
+      "primaryTeam": "starjammers",
+      "teams": [
+        "starjammers"
+      ],
+      "otherTeams": [],
+      "debutYear": 1977,
+      "debutIssue": "The Uncanny X-Men #104",
+      "debutDate": "1977-04",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is Christopher Summers, a pilot who survived alien capture and became a space pirate. Father of Cyclops and Havok. Agents are advised not to ask about the family dinners.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Corsair_(character)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "angela",
+      "name": "Angela",
+      "aliases": [
+        "The Hunter",
+        "Queen of Hel",
+        "Aldrif Odinsdottir"
+      ],
+      "realName": "",
+      "primaryTeam": "asgard",
+      "teams": [
+        "asgard",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Asgardians of the Galaxy",
+        "A-Force"
+      ],
+      "debutYear": 1993,
+      "debutIssue": "Spawn #9",
+      "debutDate": "1993-03",
+      "alignment": "hero",
+      "origin": "deity",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an angelic warrior from Heven who discovered she is an Asgardian princess. Bounty hunter turned queen of Hel. Agents are advised not to ask about the legal rights.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Angela_(character)"
+      ],
+      "notes": "Debut: Spawn #9 (Image, Mar 1993) per infobox; Marvel debut Age of Ultron #10 (June 2013). Alignment hero vs antihero."
+    },
+    {
+      "id": "beta-ray-bill",
+      "name": "Beta Ray Bill",
+      "aliases": [
+        "Bill",
+        "Beta Ray Thor",
+        "Simon Walters"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy",
+        "annihilators"
+      ],
+      "otherTeams": [
+        "Omega Flight",
+        "Star Masters",
+        "Thor Corps"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "The Mighty Thor #337",
+      "debutDate": "1983-11",
+      "alignment": "hero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Korbinite cyborg who won Mjolnir in single combat with Thor. Protector of his fleeing people. Agents are advised not to challenge him to a hammer duel.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beta_Ray_Bill"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "major-victory",
+      "name": "Major Victory",
+      "aliases": [
+        "Vance Astro",
+        "Vance Astrovik",
+        "Marvel Boy",
+        "Justice"
+      ],
+      "realName": "Vance Astrovik",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "U.S. Air Force"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "Marvel Super-Heroes #18",
+      "debutDate": "1969-01",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a 20th-century astronaut who aged in a centuries-long journey. Founding member of the 31st-century Guardians. Agents are reminded that he is not Marvel Boy.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vance_Astro"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kraglin",
+      "name": "Kraglin",
+      "aliases": [
+        "Kraglin Obfonteri",
+        "Kraglin the Fire-Eater"
+      ],
+      "realName": "",
+      "primaryTeam": "guardians-of-the-galaxy",
+      "teams": [
+        "ravagers",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Tales to Astonish #46",
+      "debutDate": "1963-08",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Guardians of the Galaxy",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is an A-Chilitarian who served as Yondu's second-in-command. Joined the Guardians after the Ravagers broke up. Agents are advised not to ask about the arrow.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kraglin"
+      ],
+      "notes": "Alignment: MCU Kraglin moves from Ravagers to Guardians; hero arguable."
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,1011 @@
+{
+ "characters": [
+  {
+   "id": "doctor-strange",
+   "name": "Doctor Strange",
+   "aliases": [
+    "Stephen Strange",
+    "Stephen Vincent Strange",
+    "Dr. Strange",
+    "Sorcerer Supreme",
+    "Master of the Mystic Arts"
+   ],
+   "realName": "Stephen Strange",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "avengers",
+    "illuminati"
+   ],
+   "otherTeams": [],
+   "debutYear": 1963,
+   "debutIssue": "Strange Tales #110",
+   "debutDate": "1963-07",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a former neurosurgeon whose hands were ruined in a car crash. Studied the mystic arts and became Sorcerer Supreme of Earth. Agents are advised not to ask about the cloak's opinions.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Doctor_Strange"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "wong",
+   "name": "Wong",
+   "aliases": [
+    "Wong",
+    "Master Wong"
+   ],
+   "realName": "",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "W.A.N.D."
+   ],
+   "debutYear": 1963,
+   "debutIssue": "Strange Tales #110",
+   "debutDate": "1963-07",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is the longtime manservant and confidant of Doctor Strange. Trained in the mystic arts of Kamar-Taj and has served on several Avengers rosters. Agents are advised that he handles the household accounts.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wong_(Marvel_Comics)"
+   ],
+   "notes": "Comics Wong is a martial artist and mystic servant; magic chosen because the MCU and recent comics make him a sorcerer (trained is defensible)."
+  },
+  {
+   "id": "clea",
+   "name": "Clea",
+   "aliases": [
+    "Clea Strange",
+    "Princess Clea"
+   ],
+   "realName": "",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "avengers"
+   ],
+   "otherTeams": [],
+   "debutYear": 1964,
+   "debutIssue": "Strange Tales #126",
+   "debutDate": "1964-11",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange in the Multiverse of Madness",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a sorceress of the Dark Dimension and the niece of Dormammu. Married to Doctor Strange and a rare family member of the Dread One with sound judgment. Agents are advised to address her by title.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Clea_(Marvel_Comics)"
+   ],
+   "notes": "Infobox gives unnamed debut Strange Tales #126 (1964-11); first named as Clea in Strange Tales #146 (1966-07). Origin could also be alien (Faltine)."
+  },
+  {
+   "id": "baron-mordo",
+   "name": "Baron Mordo",
+   "aliases": [
+    "Karl Mordo",
+    "Karl Amadeus Mordo",
+    "Mordo"
+   ],
+   "realName": "Karl Mordo",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1963,
+   "debutIssue": "Strange Tales #111",
+   "debutDate": "1963-08",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a sorcerer and the oldest enemy of Doctor Strange. Once a fellow student of the Ancient One. Agents are advised that he holds grudges for a very long time.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Baron_Mordo"
+   ],
+   "notes": "Appears in Doctor Strange (2016) as Karl Mordo, a conflation of comics characters; not a villain until the later film."
+  },
+  {
+   "id": "dormammu",
+   "name": "Dormammu",
+   "aliases": [
+    "Lord of the Dark Dimension",
+    "The Dread One",
+    "Lord of Chaos",
+    "The Great Enigma",
+    "Lord of Darkness"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Mindless Ones"
+   ],
+   "debutYear": 1964,
+   "debutIssue": "Strange Tales #126",
+   "debutDate": "1964-11",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a Faltine ruler of the Dark Dimension and a recurring threat to Earth. Commands the Mindless Ones. Agents are advised that bargaining with him is a poor use of time, unless repeated.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dormammu"
+   ],
+   "notes": "Faltine could support cosmic; magic chosen under the rubric's mystic-entities rule."
+  },
+  {
+   "id": "mephisto",
+   "name": "Mephisto",
+   "aliases": [
+    "Mephistopheles",
+    "The Devil",
+    "Lucifer",
+    "Satan",
+    "Beelzebub",
+    "Lord of Evil"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Six-Fingered Hand",
+    "Legion Accursed"
+   ],
+   "debutYear": 1968,
+   "debutIssue": "Silver Surfer #3",
+   "debutDate": "1968-12",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Ironheart",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a demon lord who collects souls and makes deals with the desperate. Has tormented the Silver Surfer, Ghost Rider and others. Agents are advised to read all contracts.",
+   "archetype": "horned",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mephisto_(Marvel_Comics)"
+   ],
+   "notes": "Ironheart is the first live-action title in which the name Mephisto is applied to a character on screen."
+  },
+  {
+   "id": "agatha-harkness",
+   "name": "Agatha Harkness",
+   "aliases": [
+    "Agnes",
+    "Agnes Harkness",
+    "Agatha"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Witches of New Salem",
+    "Daughters of Liberty"
+   ],
+   "debutYear": 1970,
+   "debutIssue": "Fantastic Four #94",
+   "debutDate": "1970-01",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "WandaVision",
+   "difficulty": 3,
+   "answerOk": false,
+   "caseNote": "Subject is a centuries-old witch who worked as nanny to the Richards family. Later tutored Wanda Maximoff in witchcraft. Agents are advised to keep the neighbors under watch.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Agatha_Harkness"
+   ],
+   "notes": "Comics: protective nanny and mentor (hero); MCU: antagonist turned antihero. Alignment is contested."
+  },
+  {
+   "id": "doctor-voodoo",
+   "name": "Doctor Voodoo",
+   "aliases": [
+    "Jericho Drumm",
+    "Brother Voodoo",
+    "Houngan Supreme",
+    "Sorcerer Supreme"
+   ],
+   "realName": "Jericho Drumm",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "Strange Academy"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "Strange Tales #169",
+   "debutDate": "1973-09",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a Haitian-American psychologist turned houngan of the loa. Served as Sorcerer Supreme and on several Avengers rosters. Agents are advised he can speak with the dead.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jericho_Drumm"
+   ],
+   "notes": "Infobox fetched for Jericho Drumm; the Doctor Voodoo page is a disambiguation of Daniel and Jericho Drumm. Debut as Brother Voodoo."
+  },
+  {
+   "id": "nightmare",
+   "name": "Nightmare",
+   "aliases": [
+    "Lord of the Dream Dimension",
+    "Fear Lord"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Fear Lords"
+   ],
+   "debutYear": 1963,
+   "debutIssue": "Strange Tales #110",
+   "debutDate": "1963-07",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a demon ruler of the Dream Dimension who feeds on fear. A long-running foe of Doctor Strange. Agents are advised to log all sleep disturbances.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nightmare_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "shuma-gorath",
+   "name": "Shuma-Gorath",
+   "aliases": [
+    "Great One Who Slumbers",
+    "Conqueror of Midnight",
+    "All-Killer of the Dawn",
+    "Father of All Evil",
+    "Lord of Chaos"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1973,
+   "debutIssue": "Marvel Premiere #10",
+   "debutDate": "1973-09",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a tentacled extradimensional entity of enormous power. Has repeatedly sought to conquer Earth. Agents are advised not to make eye contact with the eye.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shuma-Gorath"
+   ],
+   "notes": "Cosmic is a defensible origin; magic chosen under the mystic-entities rule."
+  },
+  {
+   "id": "dracula",
+   "name": "Dracula",
+   "aliases": [
+    "Count Dracula",
+    "Vlad the Impaler",
+    "Vlad Tepes",
+    "Lord of the Vampires",
+    "Dracula"
+   ],
+   "realName": "Vlad Tepes",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Legion of the Unliving"
+   ],
+   "debutYear": 1972,
+   "debutIssue": "The Tomb of Dracula #1",
+   "debutDate": "1972-04",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is the lord of the vampires and a centuries-old tyrant. Has fought Blade, the Defenders and Doctor Strange. Agents are advised to avoid invitations.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)"
+   ],
+   "notes": "Infobox also lists Suspense #7 (March 1951) as a retroactive appearance; the Marvel debut Tomb of Dracula #1 is used."
+  },
+  {
+   "id": "blade",
+   "name": "Blade",
+   "aliases": [
+    "Eric Brooks",
+    "The Daywalker",
+    "Daywalker"
+   ],
+   "realName": "Eric Brooks",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Nightstalkers"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "The Tomb of Dracula #10",
+   "debutDate": "1973-07",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Deadpool & Wolverine",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a half-vampire hunter who wields silver blades and stakes. Has tracked Dracula across several decades. Agents are advised not to take him to dinner.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Blade_(character)"
+   ],
+   "notes": "Eternals post-credit cameo is voice-only so does not count; first live-action is Wesley Snipes in Deadpool & Wolverine. Dhampir origin is categorised as magic (vampiric)."
+  },
+  {
+   "id": "ghost-rider-johnny-blaze",
+   "name": "Ghost Rider (Johnny Blaze)",
+   "aliases": [
+    "Johnny Blaze",
+    "Jonathan Blaze",
+    "Spirit of Vengeance",
+    "Frank Ryder",
+    "King of Hell"
+   ],
+   "realName": "Johnny Blaze",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons",
+    "defenders",
+    "heroes-for-hire",
+    "thunderbolts",
+    "champions"
+   ],
+   "otherTeams": [
+    "Legion of Monsters"
+   ],
+   "debutYear": 1972,
+   "debutIssue": "Marvel Spotlight #5",
+   "debutDate": "1972-08",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a stunt rider who sold his soul to save his father and is bonded to the demon Zarathos. His skeleton burns with hellfire. Agents are advised to keep the motorcycle away from fuel depots.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghost_Rider"
+   ],
+   "notes": "Fox-era Ghost Rider films and ABC's Agents of S.H.I.E.L.D. do not count for MCU."
+  },
+  {
+   "id": "ghost-rider-robbie-reyes",
+   "name": "Ghost Rider (Robbie Reyes)",
+   "aliases": [
+    "Robbie Reyes",
+    "Roberto Reyes",
+    "Hellcharger",
+    "La Leyenda"
+   ],
+   "realName": "Robbie Reyes",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers"
+   ],
+   "otherTeams": [
+    "Ghost Racers"
+   ],
+   "debutYear": 2014,
+   "debutIssue": "All-New Ghost Rider #1",
+   "debutDate": "2014-03",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a street racer who bonded with a vengeful spirit to protect his younger brother. Drives a muscle car that is also on fire. Agents are advised to avoid street races in Los Angeles.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghost_Rider"
+   ],
+   "notes": "Played in Agents of S.H.I.E.L.D. (ABC), which does not count."
+  },
+  {
+   "id": "ghost-rider-danny-ketch",
+   "name": "Ghost Rider (Danny Ketch)",
+   "aliases": [
+    "Danny Ketch",
+    "Daniel Ketch",
+    "Spirit of Vengeance",
+    "Death Rider"
+   ],
+   "realName": "Danny Ketch",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Secret Defenders",
+    "New Fantastic Four"
+   ],
+   "debutYear": 1990,
+   "debutIssue": "Ghost Rider vol. 3 #1",
+   "debutDate": "1990-05",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a New York teenager who became the new Ghost Rider after a fateful night in a cemetery. Fought Blackout and the Lilin. Agents are advised not to ask about the chain.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ghost_Rider"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "man-thing",
+   "name": "Man-Thing",
+   "aliases": [
+    "Ted Sallis",
+    "Theodore Sallis",
+    "Guardian of the Nexus"
+   ],
+   "realName": "Ted Sallis",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons",
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "Legion of Monsters"
+   ],
+   "debutYear": 1971,
+   "debutIssue": "Savage Tales #1",
+   "debutDate": "1971-05",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Werewolf by Night",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a biochemist transformed into a swamp creature by an experimental serum. Burns those who feel fear. Agents are advised to remain calm.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Man-Thing"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "werewolf-by-night",
+   "name": "Werewolf by Night",
+   "aliases": [
+    "Jack Russell",
+    "Jacob Russoff",
+    "Jake Russell"
+   ],
+   "realName": "Jack Russell",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Legion of Monsters",
+    "Night Shift"
+   ],
+   "debutYear": 1972,
+   "debutIssue": "Marvel Spotlight #2",
+   "debutDate": "1972-02",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Werewolf by Night",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject carries a hereditary curse that makes him a werewolf under the full moon. Has served on monster-hunting teams. Agents are advised to check the lunar calendar.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Werewolf_by_Night_(character)"
+   ],
+   "notes": "Origin: hereditary curse (magic) with Russoff bloodline."
+  },
+  {
+   "id": "elsa-bloodstone",
+   "name": "Elsa Bloodstone",
+   "aliases": [
+    "Elsa",
+    "Elsa Bloodstone"
+   ],
+   "realName": "Elsa Bloodstone",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Nextwave",
+    "Fearless Defenders"
+   ],
+   "debutYear": 2001,
+   "debutIssue": "Bloodstone #1",
+   "debutDate": "2001-12",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Werewolf by Night",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a monster hunter and the daughter of Ulysses Bloodstone. Raised to hunt creatures of the night. Agents are advised not to tease her about her family's estate.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Elsa_Bloodstone"
+   ],
+   "notes": "Infobox gives Bloodstone #1 (2001-12). Powers come from the family bloodstone and training, so trained vs magic is contested."
+  },
+  {
+   "id": "satana",
+   "name": "Satana",
+   "aliases": [
+    "Satana Hellstrom",
+    "Satana Hellstorm",
+    "The Devil's Daughter"
+   ],
+   "realName": "Satana Hellstrom",
+   "primaryTeam": "none",
+   "teams": [
+    "masters-of-evil",
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "Legion of Monsters",
+    "Defenders"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "Vampire Tales #2",
+   "debutDate": "1973-10",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a succubus and the daughter of Marduk Kurios. Has fought Doctor Strange and joined several teams of villains. Agents are advised to count their souls after meeting.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Satana_(Marvel_Comics)"
+   ],
+   "notes": "Infobox lists Vampire Tales #2; alignment fluctuates between hero and villain."
+  },
+  {
+   "id": "daimon-hellstrom",
+   "name": "Daimon Hellstrom",
+   "aliases": [
+    "Hellstorm",
+    "Son of Satan",
+    "Daimon Hellstorm"
+   ],
+   "realName": "Daimon Hellstrom",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Hellfire Club",
+    "Masters of Evil"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "Ghost Rider #1",
+   "debutDate": "1973-09",
+   "alignment": "antihero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the son of Satan and an occult investigator. Wields a trident and the Darksoul. Agents are advised not to ask about the family reunion.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daimon_Hellstrom"
+   ],
+   "notes": "Debut cover date per infobox is 1973-09 (Ghost Rider #1)."
+  },
+  {
+   "id": "moon-knight",
+   "name": "Moon Knight",
+   "aliases": [
+    "Marc Spector",
+    "Steven Grant",
+    "Jake Lockley",
+    "Mr. Knight",
+    "Fist of Khonshu"
+   ],
+   "realName": "Marc Spector",
+   "primaryTeam": "none",
+   "teams": [
+    "avengers",
+    "defenders",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "Midnight Sons"
+   ],
+   "debutYear": 1975,
+   "debutIssue": "Werewolf by Night #32",
+   "debutDate": "1975-08",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Moon Knight",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a former mercenary who serves as the avatar of the Egyptian moon god Khonshu. Operates with several distinct identities. Agents are advised that he does not enjoy being introduced as a bat.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Moon_Knight"
+   ],
+   "notes": "Powers granted by Khonshu make magic defensible; trained chosen because he has no innate powers."
+  },
+  {
+   "id": "chthon",
+   "name": "Chthon",
+   "aliases": [
+    "Elder God",
+    "Chthon the Elder God"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1975,
+   "debutIssue": "Marvel Chillers #1",
+   "debutDate": "1975-10",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the first Elder God and author of the Darkhold. Was banished and weakened by his own power. Agents are advised not to read anything he wrote.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
+   ],
+   "notes": "Infobox fetch resolved to the wrong page. Sources disagree on debut: Marvel Chillers #1 (1975-10) or Avengers #186 (1979-08)."
+  },
+  {
+   "id": "morgan-le-fay",
+   "name": "Morgan le Fay",
+   "aliases": [
+    "Morgana",
+    "Morganna Le Fay",
+    "Morgan Le Fey"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Darkholders"
+   ],
+   "debutYear": 1955,
+   "debutIssue": "Black Knight #1",
+   "debutDate": "1955-05",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the half-sister of King Arthur and a powerful sorceress. A longtime foe of the Black Knight and Avengers. Agents are advised not to accept anything she bakes.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morgan_le_Fay_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "blackheart",
+   "name": "Blackheart",
+   "aliases": [
+    "Black King",
+    "Son of Mephisto"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [
+    "hellfire-club"
+   ],
+   "otherTeams": [],
+   "debutYear": 1989,
+   "debutIssue": "Daredevil #270",
+   "debutDate": "1989-09",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the demon son of Mephisto and a rebellious one. Has taken on Daredevil and Ghost Rider. Agents are advised that family disputes are not fun.",
+   "archetype": "horned",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Blackheart_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "zarathos",
+   "name": "Zarathos",
+   "aliases": [
+    "Ghost Rider",
+    "Spirit of Vengeance"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1972,
+   "debutIssue": "Marvel Spotlight #5",
+   "debutDate": "1972-08",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a demon bound to the first Ghost Rider. Was imprisoned by Mephisto before returning. Agents are advised not to speak about it before dinner.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zarathos"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "lilith",
+   "name": "Lilith",
+   "aliases": [
+    "Lilith Drake",
+    "Lilith",
+    "Lilith the Demon",
+    "Angel O'Hara"
+   ],
+   "realName": "",
+   "primaryTeam": "shield",
+   "teams": [
+    "shield"
+   ],
+   "otherTeams": [],
+   "debutYear": 1974,
+   "debutIssue": "Giant-Size Chillers #1",
+   "debutDate": "1974-06",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the vampire daughter of Dracula who has opposed her father. Has worked with S.H.I.E.L.D.'s Paranormal Containment Unit. Agents are advised not to mention family.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lilith_(Marvel_Comics)"
+   ],
+   "notes": "Infobox lists Giant-Size Chillers Featuring the Curse of Dracula #1 (1974-06)."
+  },
+  {
+   "id": "hannibal-king",
+   "name": "Hannibal King",
+   "aliases": [
+    "Henry Kagle",
+    "Hannibal King"
+   ],
+   "realName": "Hannibal King",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "Nightstalkers"
+   ],
+   "debutYear": 1974,
+   "debutIssue": "The Tomb of Dracula #25",
+   "debutDate": "1974-10",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a private detective turned vampire hunter. Founded the Nightstalkers with Blade and Frank Drake. Agents are advised to inquire about his rates.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hannibal_King"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "deacon-frost",
+   "name": "Deacon Frost",
+   "aliases": [
+    "Whitehair",
+    "Deacon Frost"
+   ],
+   "realName": "Deacon Frost",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1973,
+   "debutIssue": "The Tomb of Dracula #13",
+   "debutDate": "1973-10",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a scientist turned vampire who created a new bloodline. Has hunted Blade and the Nightstalkers. Agents are advised not to ask about the white hair.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Deacon_Frost"
+   ],
+   "notes": "Origin: science-based vampirism (mutate under the rubric) vs magic."
+  },
+  {
+   "id": "jennifer-kale",
+   "name": "Jennifer Kale",
+   "aliases": [
+    "Witch Woman",
+    "Jennifer Kale"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [
+    "midnight-sons"
+   ],
+   "otherTeams": [
+    "The Command",
+    "Strange Academy"
+   ],
+   "debutYear": 1972,
+   "debutIssue": "Adventure into Fear #11",
+   "debutDate": "1972-12",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a young sorceress of the Kale family who came into magical power. Has worked with Man-Thing and Howard the Duck. Agents are advised to avoid swamps.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jennifer_Kale"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "the-ancient-one",
+   "name": "The Ancient One",
+   "aliases": [
+    "Yao",
+    "The Ancient One"
+   ],
+   "realName": "Yao",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1963,
+   "debutIssue": "Strange Tales #110",
+   "debutDate": "1963-07",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is the former Sorcerer Supreme and master of Doctor Strange. Has lived for centuries in the Himalayas. Agents are advised to bring tea.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ancient_One"
+   ],
+   "notes": "Tilda Swinton plays the character in Doctor Strange (2016)."
+  },
+  {
+   "id": "khonshu",
+   "name": "Khonshu",
+   "aliases": [
+    "Moon God",
+    "Khonsu"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Heliopolitan Gods"
+   ],
+   "debutYear": 1980,
+   "debutIssue": "Moon Knight #1",
+   "debutDate": "1980-11",
+   "alignment": "antihero",
+   "origin": "deity",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Moon Knight",
+   "difficulty": 3,
+   "answerOk": false,
+   "caseNote": "Subject is the Egyptian god of the moon and patron of Moon Knight. Demands loyalty and vengeance in equal measure. Agents are advised not to cancel the appointment.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Khonshu_(Marvel_Comics)"
+   ],
+   "notes": "Khonshu is a voiced CGI figure in Moon Knight; whether it counts as live action is defensible either way."
+  }
+ ],
+ "dropped": []
+}

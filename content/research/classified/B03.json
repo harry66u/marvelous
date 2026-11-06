@@ -1,0 +1,1026 @@
+{
+  "characters": [
+    {
+      "id": "magneto",
+      "name": "Magneto",
+      "aliases": [
+        "Magnus",
+        "Erik Lehnsherr",
+        "Max Eisenhardt",
+        "Erik the Red",
+        "Michael Xavier",
+        "White Pilgrim",
+        "Master of Magnetism"
+      ],
+      "realName": "Max Eisenhardt",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "x-men",
+        "acolytes",
+        "hellfire-club",
+        "new-mutants"
+      ],
+      "otherTeams": [
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "The X-Men #1",
+      "debutDate": "1963-09",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject controls magnetic fields and holds strong views on mutant survival. Has led the Brotherhood, served as an X-Man and sat on Krakoa's Quiet Council. Agents are advised to remove metal fillings before interview.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magneto_%28Marvel_Comics%29"
+      ],
+      "notes": "Villain by origin, antihero by long tenure as protector of mutants; rubric treats side-switching as antihero."
+    },
+    {
+      "id": "mystique",
+      "name": "Mystique",
+      "aliases": [
+        "Raven Darkholme",
+        "Raven",
+        "Mystique"
+      ],
+      "realName": "Raven Darkholme",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Freedom Force",
+        "Dark X-Men"
+      ],
+      "debutYear": 1978,
+      "debutIssue": "Ms. Marvel #16",
+      "debutDate": "1978-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a shapeshifting mutant, spy and long-time Brotherhood leader. Has adopted the face of agents, senators and, once, a lover. Agents should request a password from everyone, including Subject's supervisor.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mystique_%28character%29"
+      ],
+      "notes": "Infobox debut field is empty; Ms. Marvel #16 (Jan 1978) taken from article lead. Alignment villain vs antihero is arguable; X-Men membership is brief."
+    },
+    {
+      "id": "sabretooth",
+      "name": "Sabretooth",
+      "aliases": [
+        "Victor Creed",
+        "Creed"
+      ],
+      "realName": "Victor Creed",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "weapon-x",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Team X"
+      ],
+      "debutYear": 1977,
+      "debutIssue": "Iron Fist #14",
+      "debutDate": "1977-08",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a feral mutant with claws, enhanced senses and a healing factor. Has hunted Wolverine for decades. Agents are advised that a polite request to stop is not effective.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sabretooth_%28character%29"
+      ],
+      "notes": "Appears in Deadpool & Wolverine as a returning Fox-film actor (Tyler Mane); cameo counts per rubric."
+    },
+    {
+      "id": "juggernaut",
+      "name": "Juggernaut",
+      "aliases": [
+        "Cain Marko",
+        "Kuurth",
+        "Breaker of Stone"
+      ],
+      "realName": "Cain Marko",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "x-men",
+        "thunderbolts"
+      ],
+      "otherTeams": [
+        "New Excalibur",
+        "Lethal Legion",
+        "All-New Exiles"
+      ],
+      "debutYear": 1965,
+      "debutIssue": "The X-Men #12",
+      "debutDate": "1965-07",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is an unstoppable juggernaut empowered by the Crimson Gem of Cyttorak. Stepbrother of Professor X, with a lifelong grudge. Agents are advised not to stand in the way.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juggernaut_%28character%29"
+      ],
+      "notes": "Origin: Gem of Cyttorak (magic) vs Wikipedia's 'empowered human'; magic chosen."
+    },
+    {
+      "id": "apocalypse",
+      "name": "Apocalypse",
+      "aliases": [
+        "En Sabah Nur",
+        "The First One",
+        "Genesis",
+        "Set",
+        "Eternal One"
+      ],
+      "realName": "En Sabah Nur",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Four Horsemen",
+        "Clan Akkaba"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "Marvel Graphic Novel #17",
+      "debutDate": "1985-07",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is among the oldest known mutants and believes in survival of the fittest. Recruits Horsemen to carry out his convictions. Agents are advised to skip the entrance exam.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apocalypse_%28character%29"
+      ],
+      "notes": "Infobox lists unnamed MGN #17 (Jul 1985), cameo X-Factor #5 (Jun 1986) and full X-Factor #6 (Jul 1986); first listed used."
+    },
+    {
+      "id": "mister-sinister",
+      "name": "Mister Sinister",
+      "aliases": [
+        "Nathaniel Essex",
+        "Nathan Milbury",
+        "Robert Windsor",
+        "Nosferatu",
+        "Sinister"
+      ],
+      "realName": "Nathaniel Essex",
+      "primaryTeam": "marauders",
+      "teams": [
+        "marauders"
+      ],
+      "otherTeams": [
+        "Nasty Boys",
+        "Intelligencia",
+        "Hellions"
+      ],
+      "debutYear": 1987,
+      "debutIssue": "The Uncanny X-Men #213",
+      "debutDate": "1987-01",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Victorian-era geneticist who has dedicated centuries to engineering mutant bloodlines. Maintains many clones. Agents are advised to keep hair samples private.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mister_Sinister"
+      ],
+      "notes": "Debut: first mentioned #212 (1986), first seen in silhouette #213 (1987-01), full #221 (1987-09). Origin mutate vs mutant arguable."
+    },
+    {
+      "id": "sebastian-shaw",
+      "name": "Sebastian Shaw",
+      "aliases": [
+        "Black King",
+        "Lord Imperial",
+        "Black Bishop",
+        "Sebastian Hiram Shaw"
+      ],
+      "realName": "Sebastian Shaw",
+      "primaryTeam": "hellfire-club",
+      "teams": [
+        "hellfire-club",
+        "marauders"
+      ],
+      "otherTeams": [
+        "Shaw Industries"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Uncanny X-Men #129",
+      "debutDate": "1980-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an industrialist who absorbs kinetic energy and grows stronger. Has served as Black King of the Hellfire Club. Agents are advised not to hit Subject.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sebastian_Shaw_%28character%29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "toad",
+      "name": "Toad",
+      "aliases": [
+        "Mortimer Toynbee",
+        "Terrible Toad-King"
+      ],
+      "realName": "Mortimer Toynbee",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [
+        "The Misfits",
+        "The 198"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The X-Men #4",
+      "debutDate": "1964-03",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a leaping mutant who has served as Magneto's lackey. Later fought alongside the Defenders. Agents are advised not to ask about the warts.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Toad_%28Marvel_Comics%29"
+      ],
+      "notes": "Alignment villain, though some stories cast him as comic relief."
+    },
+    {
+      "id": "blob",
+      "name": "Blob",
+      "aliases": [
+        "Fred Dukes",
+        "Frederick Dukes",
+        "Freddie Dukes"
+      ],
+      "realName": "Fred Dukes",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "x-men"
+      ],
+      "otherTeams": [
+        "Factor Three",
+        "Freedom Force",
+        "X-Cell"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The X-Men #3",
+      "debutDate": "1964-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a former carnival performer who is nearly immovable. Has been a Brotherhood member and a reluctant X-Men ally. Agents are advised not to arm-wrestle.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blob_%28Marvel_Comics%29"
+      ],
+      "notes": "X-Men membership is limited; Wikipedia lists the Defenders and Brotherhood."
+    },
+    {
+      "id": "pyro",
+      "name": "Pyro",
+      "aliases": [
+        "St. John Allerdyce",
+        "John Allerdyce"
+      ],
+      "realName": "St. John Allerdyce",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants",
+        "marauders",
+        "x-factor"
+      ],
+      "otherTeams": [
+        "Freedom Force",
+        "Lethal Legion"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "The Uncanny X-Men #141",
+      "debutDate": "1981-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject controls flame and cannot create it. Has served the Brotherhood and Freedom Force. Agents are advised to bring a lighter.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pyro_%28Marvel_Comics%29"
+      ],
+      "notes": "Alignment villain; occasionally hero-adjacent."
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche",
+      "aliases": [
+        "Dominic Petros",
+        "Dominic Janos Petros",
+        "Jon Bloom",
+        "Dominic Szilard"
+      ],
+      "realName": "Dominic Petros",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [
+        "Freedom Force",
+        "X-Corps"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "The Uncanny X-Men #141",
+      "debutDate": "1981-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject creates seismic tremors with his mutant power. Long associated with the Brotherhood and Freedom Force. Agents are advised not to stand on shaky ground.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Avalanche_%28character%29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "destiny",
+      "name": "Destiny",
+      "aliases": [
+        "Irene Adler",
+        "Irene Adler Destiny"
+      ],
+      "realName": "Irene Adler",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [
+        "Freedom Force"
+      ],
+      "debutYear": 1981,
+      "debutIssue": "The Uncanny X-Men #141",
+      "debutDate": "1981-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a precognitive who has foreseen several futures. Long-time partner of Mystique. Agents are advised not to ask about the weather.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Destiny_%28Irene_Adler%29"
+      ],
+      "notes": "Infobox gives the October 21, 1980 on-sale date; the January 1981 cover date is used."
+    },
+    {
+      "id": "omega-red",
+      "name": "Omega Red",
+      "aliases": [
+        "Arkady Rossovich",
+        "Arkady Gregorivich",
+        "Vasyliev Arkady"
+      ],
+      "realName": "Arkady Rossovich",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Red Mafia",
+        "Weapon X-Force",
+        "Marauders"
+      ],
+      "debutYear": 1992,
+      "debutIssue": "X-Men (vol. 2) #4",
+      "debutDate": "1992-01",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Russian super-soldier with carbonadium tentacles that drain life force. Has repeatedly fought Wolverine. Agents are advised not to shake hands.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Omega_Red"
+      ],
+      "notes": "Origin mutant (Wikipedia: human mutant) vs mutate (Soviet experiment)."
+    },
+    {
+      "id": "bolivar-trask",
+      "name": "Bolivar Trask",
+      "aliases": [
+        "Trask"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Sentinels",
+        "Purifiers",
+        "Control"
+      ],
+      "debutYear": 1965,
+      "debutIssue": "The X-Men #14",
+      "debutDate": "1965-11",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a roboticist who built the Sentinels to hunt mutants. Learned that his creation would take his instructions literally. Agents are advised to check robots' interpretation of orders.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bolivar_Trask"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "cassandra-nova",
+      "name": "Cassandra Nova",
+      "aliases": [
+        "Nova"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Marauders",
+        "3K"
+      ],
+      "debutYear": 2001,
+      "debutIssue": "New X-Men #114",
+      "debutDate": "2001-07",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the twin of Charles Xavier, formed as a psionic entity. Has used Sentinels to commit genocide on a mutant nation. Agents are advised to stay out of her mind.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cassandra_Nova"
+      ],
+      "notes": "Origin alien (Mummudrai) vs mutant (as billed in the film)."
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "aliases": [
+        "Bennet du Paris",
+        "Paris Bennet"
+      ],
+      "realName": "Bennet du Paris",
+      "primaryTeam": "acolytes",
+      "teams": [
+        "acolytes"
+      ],
+      "otherTeams": [
+        "Crusaders",
+        "The 198",
+        "Quiet Council of Krakoa"
+      ],
+      "debutYear": 1993,
+      "debutIssue": "X-Factor #92",
+      "debutDate": "1993-07",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a medieval Crusader with telepathic and telekinetic powers. Magneto's chosen successor in the Acolytes. Agents are advised to leave their faith at the door.",
+      "archetype": "caped",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Exodus_%28character%29"
+      ],
+      "notes": "Wikipedia lists the Brotherhood in alliances, not counted as iconic."
+    },
+    {
+      "id": "stryfe",
+      "name": "Stryfe",
+      "aliases": [
+        "Chaos Bringer",
+        "Scion of the Dark Lord"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Mutant Liberation Front",
+        "Dark Riders"
+      ],
+      "debutYear": 1990,
+      "debutIssue": "The New Mutants #86",
+      "debutDate": "1990-02",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a clone of Cable, raised in a different time. Founded the Mutant Liberation Front. Agents are advised not to take sides.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stryfe"
+      ],
+      "notes": "Real name is shared with the original (Nathan Summers), so realName left empty."
+    },
+    {
+      "id": "lady-deathstrike",
+      "name": "Lady Deathstrike",
+      "aliases": [
+        "Yuriko Oyama",
+        "Deathstrike"
+      ],
+      "realName": "Yuriko Oyama",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Reavers",
+        "Sisterhood of Mutants",
+        "Weapon X-Force"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "Daredevil #197",
+      "debutDate": "1983-08",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a cyborg with adamantium-laced claws and a grudge against Wolverine. Her father was the original adamantium bonding engineer. Agents are advised not to be underweight.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lady_Deathstrike"
+      ],
+      "notes": "Debut: Yuriko Oyama in Daredevil #197 (Aug 1983) used per infobox; first as Lady Deathstrike is Alpha Flight #33 (Apr 1986)."
+    },
+    {
+      "id": "selene",
+      "name": "Selene",
+      "aliases": [
+        "Selene Gallio",
+        "Black Queen",
+        "Black Priestess",
+        "Dark Huntress",
+        "Moon Goddess"
+      ],
+      "realName": "Selene Gallio",
+      "primaryTeam": "hellfire-club",
+      "teams": [
+        "hellfire-club"
+      ],
+      "otherTeams": [
+        "Externals",
+        "Sisterhood of Mutants"
+      ],
+      "debutYear": 1983,
+      "debutIssue": "The New Mutants #9",
+      "debutDate": "1983-11",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an immortal who has lived for millennia and feeds on life force. Has led the Hellfire Club. Agents are advised to avoid inviting Subject to dinner.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Selene_%28comics%29"
+      ],
+      "notes": "Origin mutant (Wikipedia) vs magic (psychic vampire, sorcery)."
+    },
+    {
+      "id": "mojo",
+      "name": "Mojo",
+      "aliases": [
+        "Mojo"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Mojoverse"
+      ],
+      "debutYear": 1985,
+      "debutIssue": "Longshot #3",
+      "debutDate": "1985-11",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a Spineless One who rules a dimension of television. Broadcasts violence to a captive audience. Agents are advised not to turn on the TV.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mojo_%28comics%29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "arcade",
+      "name": "Arcade",
+      "aliases": [
+        "Mister A",
+        "Mad Monk",
+        "Pinball Wizard",
+        "A.R. Cadenski"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Crazy Gang",
+        "Masters of Evil"
+      ],
+      "debutYear": 1978,
+      "debutIssue": "Marvel Team-Up #65",
+      "debutDate": "1978-01",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an assassin who hosts deadly amusement parks. Has kidnapped heroes for sport. Agents are advised to avoid carnivals.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arcade_%28Marvel_Comics%29"
+      ],
+      "notes": "Real name unknown in Wikipedia."
+    },
+    {
+      "id": "onslaught",
+      "name": "Onslaught",
+      "aliases": [
+        "That Which Shall Survive",
+        "Patchwork Man",
+        "Dark Xavier"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Dark Descendants"
+      ],
+      "debutYear": 1996,
+      "debutIssue": "X-Men (vol. 2) #53",
+      "debutDate": "1996-05",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a psionic entity born of the dark halves of two mutants. Threatened to end the world. Agents are advised not to merge their minds with anyone.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Onslaught_%28Marvel_Comics%29"
+      ],
+      "notes": "Origin: psionic entity mutant (Wikipedia) vs cosmic/other. Aliases exclude Xavier and Magneto."
+    },
+    {
+      "id": "silver-samurai",
+      "name": "Silver Samurai",
+      "aliases": [
+        "Kenuichio Harada",
+        "Harada"
+      ],
+      "realName": "Kenuichio Harada",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Clan Yashida"
+      ],
+      "debutYear": 1974,
+      "debutIssue": "Daredevil #111",
+      "debutDate": "1974-07",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is an armored swordsman who generates a tachyon edge. Has served Japan's criminal underworld. Agents are advised to bring a thicker blade.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silver_Samurai"
+      ],
+      "notes": "Two characters use the name; Kenuichio Harada (1974) used per infobox. Origin mutant vs tech (armor)."
+    },
+    {
+      "id": "black-tom-cassidy",
+      "name": "Black Tom Cassidy",
+      "aliases": [
+        "Thomas Cassidy",
+        "Black Tom"
+      ],
+      "realName": "Thomas Cassidy",
+      "primaryTeam": "brotherhood-of-mutants",
+      "teams": [
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [],
+      "debutYear": 1976,
+      "debutIssue": "X-Men #99",
+      "debutDate": "1976-06",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject channels his power through wood and is cousin of Banshee. Long-time partner of Juggernaut. Agents are advised not to hand him a branch.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
+      ],
+      "notes": "Infobox lists cameo X-Men #99 (Jun 1976) and full X-Men #101 (Oct 1976)."
+    },
+    {
+      "id": "mastermind-jason-wyngarde",
+      "name": "Mastermind (Jason Wyngarde)",
+      "aliases": [
+        "Jason Wyngarde",
+        "Mastermind"
+      ],
+      "realName": "Jason Wyngarde",
+      "primaryTeam": "hellfire-club",
+      "teams": [
+        "hellfire-club",
+        "brotherhood-of-mutants"
+      ],
+      "otherTeams": [
+        "Factor Three",
+        "Secret Empire"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "The X-Men #4",
+      "debutDate": "1964-03",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject creates convincing illusions and has used them to manipulate mutants. Corrupted Jean Grey as the Black Queen. Agents are advised not to trust their eyes.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mastermind_%28Jason_Wyngarde%29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "callisto",
+      "name": "Callisto",
+      "aliases": [
+        "White Knight"
+      ],
+      "realName": "",
+      "primaryTeam": "morlocks",
+      "teams": [
+        "morlocks"
+      ],
+      "otherTeams": [],
+      "debutYear": 1983,
+      "debutIssue": "The Uncanny X-Men #169",
+      "debutDate": "1983-05",
+      "alignment": "antihero",
+      "origin": "mutant",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject leads the Morlocks, a society of outcast mutants. Heightened senses and fighting ability. Agents are advised to keep their distance from the sewers.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Callisto_%28comics%29"
+      ],
+      "notes": "Alignment antihero (leader of outcasts, shifts sides)."
+    },
+    {
+      "id": "sauron",
+      "name": "Sauron",
+      "aliases": [
+        "Karl Lykos"
+      ],
+      "realName": "Karl Lykos",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Savage Land Mutates"
+      ],
+      "debutYear": 1969,
+      "debutIssue": "The X-Men #59",
+      "debutDate": "1969-08",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a physician transformed into a pterodactyl creature that feeds on mutants. Believes the Savage Land should be his. Agents are advised to bring a guide.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sauron_%28Marvel_Comics%29"
+      ],
+      "notes": "Origin mutate vs mutant. Mentions in MCU snippet refer to Tolkien's Sauron."
+    },
+    {
+      "id": "bastion",
+      "name": "Bastion",
+      "aliases": [
+        "Template",
+        "The Oracle",
+        "Arnold Rodriguez"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Operation: Zero Tolerance",
+        "Purifiers",
+        "Friends of Humanity"
+      ],
+      "debutYear": 1996,
+      "debutIssue": "X-Men (vol. 2) #52",
+      "debutDate": "1996-05",
+      "alignment": "villain",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a hybrid of Sentinel technology that targets mutants. Led Operation: Zero Tolerance. Agents are advised not to reboot.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bastion_%28comics%29"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "donald-pierce",
+      "name": "Donald Pierce",
+      "aliases": [
+        "White Bishop",
+        "White King"
+      ],
+      "realName": "Donald Pierce",
+      "primaryTeam": "hellfire-club",
+      "teams": [
+        "hellfire-club"
+      ],
+      "otherTeams": [
+        "Reavers",
+        "Purifiers"
+      ],
+      "debutYear": 1980,
+      "debutIssue": "The Uncanny X-Men #132",
+      "debutDate": "1980-04",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a cyborg who sat as White Bishop of the Hellfire Club. Leads the Reavers. Agents are advised not to challenge him to arm wrestling.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Donald_Pierce"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "azazel",
+      "name": "Azazel",
+      "aliases": [
+        "Azazel"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [
+        "hellfire-club"
+      ],
+      "otherTeams": [
+        "Dark X-Men"
+      ],
+      "debutYear": 2003,
+      "debutIssue": "Uncanny X-Men #428",
+      "debutDate": "2003-07",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a teleporting mutant of the Neyaphem. Father of Nightcrawler. Agents are advised not to ask about the family reunion.",
+      "archetype": "winged",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azazel_%28Marvel_Comics%29"
+      ],
+      "notes": "Hellfire Club tenure brief. Mutant (Wikipedia) vs demonic/magic."
+    },
+    {
+      "id": "proteus",
+      "name": "Proteus",
+      "aliases": [
+        "Kevin MacTaggert",
+        "Mutant X"
+      ],
+      "realName": "Kevin MacTaggert",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1979,
+      "debutIssue": "The Uncanny X-Men #125",
+      "debutDate": "1979-09",
+      "alignment": "villain",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a reality-warping mutant whose body is unstable. Son of Moira MacTaggert. Agents are advised not to ask about his mother.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Proteus_%28Marvel_Comics%29"
+      ],
+      "notes": ""
+    }
+  ],
+  "dropped": []
+}

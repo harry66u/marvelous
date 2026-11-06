@@ -1,0 +1,1012 @@
+{
+ "characters": [
+  {
+   "id": "daredevil",
+   "name": "Daredevil",
+   "aliases": [
+    "Matt Murdock",
+    "Matthew Michael Murdock",
+    "Man Without Fear",
+    "Mike Murdock",
+    "Jack Batlin"
+   ],
+   "realName": "Matt Murdock",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Marvel Knights",
+    "Nelson & Murdock"
+   ],
+   "debutYear": 1964,
+   "debutIssue": "Daredevil #1",
+   "debutDate": "1964-04",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Spider-Man: No Way Home",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a blind attorney by day and masked vigilante by night. A radioactive accident cost him his sight and sharpened his other senses. Agents are advised that he is not impressed by cover stories.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)",
+    "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+   ],
+   "notes": "Primary team Defenders vs Avengers (New Avengers) or none is arguable. Live-action first appearance is the Matt Murdock cameo in No Way Home (2021)."
+  },
+  {
+   "id": "elektra",
+   "name": "Elektra",
+   "aliases": [
+    "Elektra Natchios",
+    "Elektra King",
+    "Erynys",
+    "Woman Without Fear"
+   ],
+   "realName": "Elektra Natchios",
+   "primaryTeam": "the-hand",
+   "teams": [
+    "the-hand",
+    "thunderbolts",
+    "shield"
+   ],
+   "otherTeams": [
+    "The Chaste",
+    "Savage Avengers"
+   ],
+   "debutYear": 1981,
+   "debutIssue": "Daredevil #168",
+   "debutDate": "1981-01",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Deadpool & Wolverine",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a Greek-born assassin trained by the Hand. Has died and returned more often than is administratively convenient. Agents should note her relationship with Daredevil is classified as complicated.",
+   "archetype": "hooded",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Elektra_(character)",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Born Again season 3 (Yung) is unreleased; Garner cameo in Deadpool & Wolverine (2024) is the first qualifying title. Alignment antihero vs villain."
+  },
+  {
+   "id": "bullseye",
+   "name": "Bullseye",
+   "aliases": [
+    "Benjamin Poindexter",
+    "Dex",
+    "Lester",
+    "Leonard McClain",
+    "Lester Jangles"
+   ],
+   "realName": "Benjamin Poindexter",
+   "primaryTeam": "thunderbolts",
+   "teams": [
+    "thunderbolts",
+    "dark-avengers"
+   ],
+   "otherTeams": [
+    "Assassins Guild"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "Daredevil #131",
+   "debutDate": "1976-03",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Deadpool & Wolverine",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a psychopathic assassin who rarely misses with any thrown object. Has served on the Thunderbolts and the Dark Avengers. Agents are advised to hide the paper clips.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bullseye_(Marvel_Comics)",
+    "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+   ],
+   "notes": "Curtis Small plays a Bullseye variant in Deadpool & Wolverine (2024), which precedes Wilson Bethel's Born Again (2025). Alignment villain vs antihero during Thunderbolts/Dark Avengers."
+  },
+  {
+   "id": "punisher",
+   "name": "Punisher",
+   "aliases": [
+    "Frank Castle",
+    "Francis Castiglione",
+    "Frankencastle"
+   ],
+   "realName": "Frank Castle",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "U.S. Marine Corps"
+   ],
+   "debutYear": 1974,
+   "debutIssue": "The Amazing Spider-Man #129",
+   "debutDate": "1974-02",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Daredevil: Born Again season 1",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is a former Marine who wages a lethal war on crime after his family was killed. Possesses no superhuman powers, only a large inventory. Agents are advised not to ask about the skull.",
+   "archetype": "armored",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Punisher",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Thunderbolts and Savage Avengers memberships were brief and left out."
+  },
+  {
+   "id": "jessica-jones",
+   "name": "Jessica Jones",
+   "aliases": [
+    "Jewel",
+    "Knightress",
+    "Power Woman",
+    "Mrs. Cage",
+    "Jessica Campbell Jones-Cage"
+   ],
+   "realName": "Jessica Jones",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "defenders"
+   ],
+   "otherTeams": [
+    "Alias Investigations",
+    "The Pulse"
+   ],
+   "debutYear": 2001,
+   "debutIssue": "Alias #1",
+   "debutDate": "2001-11",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Daredevil: Born Again season 2",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a private investigator with super strength and limited flight, acquired in a car accident involving radioactive material. Briefly operated as the hero Jewel. Agents are advised not to expect a warm welcome.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jessica_Jones",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Wikipedia credits Alias #1 (2001); a retcon places her unnamed in Amazing Spider-Man #4 (1963-06). Her Born Again appearance is in season 2."
+  },
+  {
+   "id": "luke-cage",
+   "name": "Luke Cage",
+   "aliases": [
+    "Power Man",
+    "Lucas Cage",
+    "Carl Lucas",
+    "Hero for Hire"
+   ],
+   "realName": "Luke Cage",
+   "primaryTeam": "heroes-for-hire",
+   "teams": [
+    "heroes-for-hire",
+    "avengers",
+    "defenders"
+   ],
+   "otherTeams": [],
+   "debutYear": 1972,
+   "debutIssue": "Luke Cage, Hero for Hire #1",
+   "debutDate": "1972-06",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Daredevil: Born Again season 2",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject gained unbreakable skin and super strength from a prison experiment. Founded Heroes for Hire and later joined the Avengers. Agents are advised that bullets are a poor opening argument.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Luke_Cage",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Mike Colter appears in Born Again only in the season 2 finale. Netflix's Luke Cage does not count."
+  },
+  {
+   "id": "iron-fist",
+   "name": "Iron Fist",
+   "aliases": [
+    "Danny Rand",
+    "Daniel Thomas Rand-K'ai",
+    "Living Weapon",
+    "Young Dragon",
+    "Thunderer"
+   ],
+   "realName": "Daniel Rand",
+   "primaryTeam": "heroes-for-hire",
+   "teams": [
+    "heroes-for-hire",
+    "defenders",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Immortal Weapons",
+    "Rand Corporation"
+   ],
+   "debutYear": 1974,
+   "debutIssue": "Marvel Premiere #15",
+   "debutDate": "1974-05",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 3,
+   "answerOk": false,
+   "caseNote": "Subject is a billionaire heir who trained in the mystic city of K'un-L'un. Channels chi into a glowing fist. Agents are advised that he has been described as the Living Weapon, not as a team player.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Iron_Fist_(character)",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Finn Jones is credited only in Born Again season 3 (March 2027, unreleased), so mcu is false. Origin magic vs cosmic/mutate is arguable."
+  },
+  {
+   "id": "misty-knight",
+   "name": "Misty Knight",
+   "aliases": [
+    "Mercedes Knight",
+    "Maya Corday",
+    "Control"
+   ],
+   "realName": "Mercedes Knight",
+   "primaryTeam": "heroes-for-hire",
+   "teams": [
+    "heroes-for-hire",
+    "defenders"
+   ],
+   "otherTeams": [
+    "Daughters of the Dragon",
+    "NYPD"
+   ],
+   "debutYear": 1975,
+   "debutIssue": "Marvel Premiere #21",
+   "debutDate": "1975-03",
+   "alignment": "hero",
+   "origin": "tech",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a former police detective who lost an arm in a bombing. Replaced it with a Stark-built bionic one. Co-leads the Daughters of the Dragon with Colleen Wing.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Misty_Knight"
+   ],
+   "notes": "Origin tech (bionic arm) vs trained is arguable. Her Netflix appearances do not count."
+  },
+  {
+   "id": "colleen-wing",
+   "name": "Colleen Wing",
+   "aliases": [
+    "Colleen",
+    "Daughter of the Dragon"
+   ],
+   "realName": "Colleen Wing",
+   "primaryTeam": "heroes-for-hire",
+   "teams": [
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "Daughters of the Dragon",
+    "Nightwing Restorations"
+   ],
+   "debutYear": 1974,
+   "debutIssue": "Marvel Premiere #19",
+   "debutDate": "1974-11",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a samurai-trained martial artist and the daughter of a Japanese swordsmith. Partner of Misty Knight in the Daughters of the Dragon. Agents are advised not to challenge her to a duel.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Colleen_Wing"
+   ],
+   "notes": "Netflix appearances do not count; she is only a wished-for character in Born Again."
+  },
+  {
+   "id": "typhoid-mary",
+   "name": "Typhoid Mary",
+   "aliases": [
+    "Mary Walker",
+    "Mutant Zero",
+    "Bloody Mary",
+    "Marie Walker"
+   ],
+   "realName": "Mary Walker",
+   "primaryTeam": "the-hand",
+   "teams": [
+    "the-hand"
+   ],
+   "otherTeams": [
+    "The Initiative",
+    "Sisterhood of Mutants"
+   ],
+   "debutYear": 1988,
+   "debutIssue": "Daredevil #254",
+   "debutDate": "1988-05",
+   "alignment": "villain",
+   "origin": "mutant",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject has multiple personalities and telekinetic powers. Has worked as assassin for the Kingpin and the Hand. Agents are advised to ask which personality is on duty.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Typhoid_Mary_(character)"
+   ],
+   "notes": "Origin mutant per Wikipedia infobox; her power source has been retconned over time. Debut as Mutant Zero (2007) is later."
+  },
+  {
+   "id": "purple-man",
+   "name": "Purple Man",
+   "aliases": [
+    "Zebediah Killgrave",
+    "Killgrave",
+    "Kilgrave"
+   ],
+   "realName": "Zebediah Killgrave",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Villains for Hire",
+    "Purple Children"
+   ],
+   "debutYear": 1964,
+   "debutIssue": "Daredevil #4",
+   "debutDate": "1964-11",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a spy whose skin turned purple after a chemical accident and who compels obedience. Menaced Daredevil and Jessica Jones. Agents are advised to decline any request politely worded as an order.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Purple_Man"
+   ],
+   "notes": "Netflix Jessica Jones does not count toward mcu."
+  },
+  {
+   "id": "cottonmouth",
+   "name": "Cottonmouth",
+   "aliases": [
+    "Cornell Stokes"
+   ],
+   "realName": "Cornell Stokes",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "The Rivals",
+    "Flashmob",
+    "New Pride"
+   ],
+   "debutYear": 1974,
+   "debutIssue": "Luke Cage, Power Man #18",
+   "debutDate": "1974-06",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a Harlem crime boss who filed his teeth into points. A longtime enemy of Luke Cage. Agents are advised that the snake theme is sincere.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cottonmouth_(Cornell_Stokes)"
+   ],
+   "notes": "Netflix Luke Cage does not count."
+  },
+  {
+   "id": "diamondback-willis-stryker",
+   "name": "Diamondback (Willis Stryker)",
+   "aliases": [
+    "Willis Stryker",
+    "Diamondback",
+    "Stryker",
+    "Mr. Sky"
+   ],
+   "realName": "Willis Stryker",
+   "primaryTeam": "maggia",
+   "teams": [
+    "maggia",
+    "hydra"
+   ],
+   "otherTeams": [],
+   "debutYear": 1972,
+   "debutIssue": "Luke Cage, Hero for Hire #1",
+   "debutDate": "1972-06",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is the former friend whose betrayal sent Luke Cage to prison. Has worked with the Maggia and Hydra. Agents are advised that he carries a grudge and a knife.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Diamondback_(Willis_Stryker)"
+   ],
+   "notes": "Netflix Luke Cage's Diamondback does not count."
+  },
+  {
+   "id": "black-mariah",
+   "name": "Black Mariah",
+   "aliases": [
+    "Mariah Dillard",
+    "Mariah"
+   ],
+   "realName": "Mariah Dillard",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Pride",
+    "Rat Pack"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "Luke Cage, Hero for Hire #5",
+   "debutDate": "1973-01",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a heavyset Harlem criminal and taxi driver with a gang of her own. Opposed Luke Cage. Agents are advised that her cab was not available for hire.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Black_Mariah"
+   ],
+   "notes": "Netflix Luke Cage does not count; Alfre Woodard's Civil War role is a different character."
+  },
+  {
+   "id": "stick",
+   "name": "Stick",
+   "aliases": [
+    "Stick"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "The Chaste"
+   ],
+   "debutYear": 1981,
+   "debutIssue": "Daredevil #176",
+   "debutDate": "1981-11",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a blind martial arts master who trained Daredevil. Leads the Chaste against the Hand. Agents are advised that his teaching methods are bluntly practical.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stick_(character)"
+   ],
+   "notes": "Alignment hero vs antihero is arguable. Netflix appearances do not count."
+  },
+  {
+   "id": "echo",
+   "name": "Echo",
+   "aliases": [
+    "Maya Lopez",
+    "Ronin",
+    "Phoenix",
+    "Blindspot"
+   ],
+   "realName": "Maya Lopez",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "the-hand"
+   ],
+   "otherTeams": [
+    "Daughters of Liberty"
+   ],
+   "debutYear": 1999,
+   "debutIssue": "Daredevil #9",
+   "debutDate": "1999-12",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Hawkeye",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a deaf Native American martial artist who can copy any motion she sees. Raised by the Kingpin, later turned to heroism. Agents are advised not to try to out-mimic her.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Echo_(Marvel_Comics)",
+    "https://en.wikipedia.org/wiki/Hawkeye_(2021_TV_series)"
+   ],
+   "notes": "First live-action appearance is Hawkeye (2021), before her own series Echo (2024). Alignment was villain early on."
+  },
+  {
+   "id": "white-tiger-hector-ayala",
+   "name": "White Tiger (Hector Ayala)",
+   "aliases": [
+    "Hector Ayala",
+    "El Tigre Blanco"
+   ],
+   "realName": "Hector Ayala",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Sons of the Tiger"
+   ],
+   "debutYear": 1975,
+   "debutIssue": "Deadly Hands of Kung Fu #19",
+   "debutDate": "1975-12",
+   "alignment": "hero",
+   "origin": "magic",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Daredevil: Born Again season 1",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a martial artist who gained tiger-like abilities from mystic amulets. A founding member of the Sons of the Tiger. Agents are advised to leave the amulets alone.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/White_Tiger_(comics)",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Infobox page is a shared article for several White Tigers; Hector Ayala's debut was used. Origin magic (amulets) vs mutate is arguable."
+  },
+  {
+   "id": "cloak",
+   "name": "Cloak",
+   "aliases": [
+    "Tyrone Johnson",
+    "Ty Johnson",
+    "Demon of Darkness"
+   ],
+   "realName": "Tyrone Johnson",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Cloak and Dagger"
+   ],
+   "debutYear": 1982,
+   "debutIssue": "Peter Parker, the Spectacular Spider-Man #64",
+   "debutDate": "1982-03",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a teen runaway whose body connects to a dark dimension. Partner of Dagger. Agents are advised that anything he swallows is not recoverable.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
+   ],
+   "notes": "Freeform's Cloak & Dagger does not count. Teams left empty; no iconic non-pair team."
+  },
+  {
+   "id": "dagger",
+   "name": "Dagger",
+   "aliases": [
+    "Tandy Bowen",
+    "Lady Light"
+   ],
+   "realName": "Tandy Bowen",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Cloak and Dagger"
+   ],
+   "debutYear": 1982,
+   "debutIssue": "Peter Parker, the Spectacular Spider-Man #64",
+   "debutDate": "1982-03",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a runaway who produces knives of light that cleanse drugs and violence. Partner of Cloak. Agents are advised her cutlery cannot be confiscated.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
+   ],
+   "notes": "Freeform's Cloak & Dagger does not count."
+  },
+  {
+   "id": "shang-chi",
+   "name": "Shang-Chi",
+   "aliases": [
+    "Master of Kung Fu",
+    "Xu Shang-Chi"
+   ],
+   "realName": "",
+   "primaryTeam": "avengers",
+   "teams": [
+    "avengers",
+    "agents-of-atlas",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "MI6",
+    "Five Weapons Society"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "Special Marvel Edition #15",
+   "debutDate": "1973-12",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Shang-Chi and the Legend of the Ten Rings",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a martial arts master and son of Fu Manchu in his original comics. Rejected his father's criminal empire. Agents are advised that he is, in fact, not Bruce Lee.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shang-Chi",
+    "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "jigsaw",
+   "name": "Jigsaw",
+   "aliases": [
+    "Billy Russo",
+    "William Russo",
+    "The Beaut"
+   ],
+   "realName": "William Russo",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Hood's Crime Syndicate"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "The Amazing Spider-Man #161",
+   "debutDate": "1976-10",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a mobster whose face was scarred in a fight with the Punisher. Menaces both the Punisher and Spider-Man. Agents are advised he is a good deal more patient than he appears.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jigsaw_(Marvel_Comics)"
+   ],
+   "notes": "Debut is the cameo in Amazing Spider-Man #161; full appearance is #162. Netflix The Punisher does not count."
+  },
+  {
+   "id": "night-nurse",
+   "name": "Night Nurse",
+   "aliases": [
+    "Linda Carter",
+    "Linda Carter, Student Nurse"
+   ],
+   "realName": "Linda Carter",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1961,
+   "debutIssue": "Linda Carter, Student Nurse #1",
+   "debutDate": "1961-09",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a trained nurse who treats superheroes and others who cannot visit a hospital. Is not herself superpowered. Agents are advised she keeps no records.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Night_Nurse_(comics)"
+   ],
+   "notes": "Candidate resolves to Linda Carter; debut as Linda Carter (1961-09) vs as Night Nurse (Night Nurse #1, 1972-11 or Daredevil #58). Christine Palmer in Doctor Strange is a different character."
+  },
+  {
+   "id": "hellcat",
+   "name": "Hellcat",
+   "aliases": [
+    "Patsy Walker",
+    "Patricia Walker",
+    "The Cat",
+    "Patsy Hedy"
+   ],
+   "realName": "Patricia Walker",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Lady Liberators",
+    "Heroes for Hire"
+   ],
+   "debutYear": 1944,
+   "debutIssue": "Miss America Magazine #2",
+   "debutDate": "1944-11",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject began as a teen comic star and later became a costumed adventurer. Has served on the Avengers and the Defenders. Agents are advised she has outlived multiple genres.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Patsy_Walker"
+   ],
+   "notes": "Debut is as Patsy Walker (1944); Hellcat debuted in Avengers #144 (1976-02). Origin mutate (infobox) vs tech (Cat costume) is arguable. Primary team Defenders vs Avengers is arguable."
+  },
+  {
+   "id": "nighthawk-kyle-richmond",
+   "name": "Nighthawk (Kyle Richmond)",
+   "aliases": [
+    "Kyle Richmond",
+    "Nighthawk"
+   ],
+   "realName": "Kyle Richmond",
+   "primaryTeam": "defenders",
+   "teams": [
+    "defenders",
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "Squadron Sinister",
+    "Squadron Supreme"
+   ],
+   "debutYear": 1969,
+   "debutIssue": "The Avengers #69",
+   "debutDate": "1969-10",
+   "alignment": "antihero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a wealthy heir who drank an alchemy serum for strength at night. Has served as a villain, as a Defender and as a Thunderbolt. Agents are advised that his loyalties vary by decade.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nighthawk_(Marvel_Comics)"
+   ],
+   "notes": "Origin mutate (serum) vs trained is arguable; alignment villain/antihero/hero. Squadron Supreme counted in otherTeams because the Earth-616 version was a simulacrum."
+  },
+  {
+   "id": "muse",
+   "name": "Muse",
+   "aliases": [
+    "Vincent van Gore",
+    "Morgan Whittier",
+    "Bastian Cooper"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 2016,
+   "debutIssue": "Daredevil (vol. 5) #11",
+   "debutDate": "2016-09",
+   "alignment": "villain",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Daredevil: Born Again season 1",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a serial killer who stages mass killings into street art. His ghost later guided a second Muse. Agents are advised not to critique the work.",
+   "archetype": "hooded",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Muse_(character)",
+    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+   ],
+   "notes": "Two Muses: first is Inhuman Vincent van Gore (used), second Morgan Whittier is human (debut 2025). Born Again season 1 depicts Bastian Cooper as the Muse killer; Heather Glenn's Muse is season 3."
+  },
+  {
+   "id": "gladiator-melvin-potter",
+   "name": "Gladiator (Melvin Potter)",
+   "aliases": [
+    "Melvin Potter",
+    "Gladiator",
+    "Gladiator II"
+   ],
+   "realName": "Melvin Potter",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Emissaries of Evil",
+    "Maggia"
+   ],
+   "debutYear": 1966,
+   "debutIssue": "Daredevil #18",
+   "debutDate": "1966-07",
+   "alignment": "villain",
+   "origin": "tech",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a tailor who builds his own costumes with spinning blades on the hands. Fought Daredevil on several occasions. Agents are advised not to hand him fabric shears.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gladiator_(Melvin_Potter)"
+   ],
+   "notes": "Origin tech (blades and armor) vs trained is arguable. The Gladiator in Thor: Ragnarok is unrelated."
+  },
+  {
+   "id": "lady-bullseye",
+   "name": "Lady Bullseye",
+   "aliases": [
+    "Maki Matsumoto",
+    "Lady Bullseye"
+   ],
+   "realName": "Maki Matsumoto",
+   "primaryTeam": "the-hand",
+   "teams": [
+    "the-hand"
+   ],
+   "otherTeams": [
+    "Assassins Guild",
+    "Army of Evil"
+   ],
+   "debutYear": 2008,
+   "debutIssue": "Daredevil (vol. 2) #111",
+   "debutDate": "2008-09",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a lawyer turned assassin inspired by Bullseye. Trained in martial arts and a skilled marksman. Agents are advised that her briefcase is not for filing.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lady_Bullseye"
+   ],
+   "notes": "Wikipedia gives few affiliations; Hand membership noted as informal."
+  },
+  {
+   "id": "bushmaster",
+   "name": "Bushmaster",
+   "aliases": [
+    "John McIver",
+    "John Bushmaster",
+    "Power Master",
+    "Quincy McIver"
+   ],
+   "realName": "John McIver",
+   "primaryTeam": "maggia",
+   "teams": [
+    "maggia"
+   ],
+   "otherTeams": [],
+   "debutYear": 1977,
+   "debutIssue": "Iron Fist #15",
+   "debutDate": "1977-09",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a Maggia crime figure whose Power Man treatment turned him into living metal. Opposed Luke Cage and Iron Fist. Agents are advised he is not a snake, despite the name.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"
+   ],
+   "notes": "Two Bushmasters; John McIver (Iron Fist #15) used. Mustafa Shakir's Luke Cage role is Netflix and does not count."
+  },
+  {
+   "id": "the-owl",
+   "name": "The Owl",
+   "aliases": [
+    "Leland Owlsley",
+    "Owl"
+   ],
+   "realName": "Leland Owlsley",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Owl Gang",
+    "Gang of Four"
+   ],
+   "debutYear": 1964,
+   "debutIssue": "Daredevil #3",
+   "debutDate": "1964-08",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a former financier who used a serum to gain strength and glide on air currents. Bald and fond of owl-themed capes. Agents are advised he did not pay his taxes.",
+   "archetype": "winged",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Owl_(Marvel_Comics)"
+   ],
+   "notes": "Bob Gunton's Daredevil role is Netflix and does not count."
+  },
+  {
+   "id": "paladin",
+   "name": "Paladin",
+   "aliases": [
+    "Paul Denning",
+    "Paul Dennis"
+   ],
+   "realName": "Paul Denning",
+   "primaryTeam": "heroes-for-hire",
+   "teams": [
+    "heroes-for-hire",
+    "thunderbolts"
+   ],
+   "otherTeams": [
+    "Wild Pack",
+    "Intruders"
+   ],
+   "debutYear": 1978,
+   "debutIssue": "Daredevil #150",
+   "debutDate": "1978-01",
+   "alignment": "antihero",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "VisionQuest",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is a mercenary who sells his services to whomever pays. Has worked with Heroes for Hire and the Thunderbolts. Agents are advised to check the invoice.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Paladin_(comics)",
+    "https://en.wikipedia.org/wiki/VisionQuest"
+   ],
+   "notes": "Todd Stashwick appears as Paladin in VisionQuest (2026-10-13). Alignment antihero vs hero is arguable."
+  }
+ ],
+ "dropped": [
+  {
+   "name": "Madame Gao",
+   "reason": "Not a Marvel Comics (Earth-616) character and has no Wikipedia article; she debuted in Netflix's Daredevil (2015), which does not count for the MCU, and the infobox resolved to Stick."
+  }
+ ]
+}

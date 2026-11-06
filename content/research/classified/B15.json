@@ -1,0 +1,1001 @@
+{
+ "characters": [
+  {
+   "id": "ikaris",
+   "name": "Ikaris",
+   "aliases": [
+    "Ike Harris",
+    "Iceberg Ike Harris",
+    "Isaac Harris",
+    "Daedalus",
+    "Sovereign"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #1",
+   "debutDate": "1976-07",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is an Eternal capable of flight and energy projection, and a long-standing champion of Earth. Has posed as a human under the name Ike Harris. Agents should not mistake him for a pilot.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ikaris"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "sersi",
+   "name": "Sersi",
+   "aliases": [
+    "Circe",
+    "Sylvia Sersy",
+    "Mesmer",
+    "Sorceress"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals",
+    "avengers",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [
+    "God Squad",
+    "New Breed"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #3",
+   "debutDate": "1976-09",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is an Eternal able to transmute matter at will. Has served with the Avengers and Heroes for Hire. Her hobbies include turning inconvenient objects into other inconvenient objects.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sersi"
+   ],
+   "notes": "Infobox lists earlier appearances as Circe (Venus #9, 1950; Strange Tales #109, 1963); the 1976 debut as Sersi is used since the character as played is Sersi."
+  },
+  {
+   "id": "thena",
+   "name": "Thena",
+   "aliases": [
+    "Thena Eliot",
+    "Athena",
+    "Zura",
+    "Prime Eternal",
+    "Corona"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals",
+    "heroes-for-hire"
+   ],
+   "otherTeams": [],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #5",
+   "debutDate": "1976-11",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is an Eternal warrior of exceptional combat skill, associated with the Greek goddess Athena. Has served with Heroes for Hire. Agents are advised to avoid sparring.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Thena"
+   ],
+   "notes": "Infobox also lists earlier incarnations (Minerva, Red Raven Comics #1, 1940); Thena debut used."
+  },
+  {
+   "id": "sprite",
+   "name": "Sprite",
+   "aliases": [
+    "Puck",
+    "Robin Goodfellow"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [],
+   "debutYear": 1977,
+   "debutIssue": "The Eternals #9",
+   "debutDate": "1977-03",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an Eternal who appears as a child and has the power to create illusions. Known as a prankster and trickster. Subject has been appearing younger than agents for several thousand years.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sprite_(Eternal)"
+   ],
+   "notes": "Resolved infobox was wrong (Ora Serrata); debut and details from the Sprite (Eternal) article and search. Gender contested: male in comics, female in the MCU."
+  },
+  {
+   "id": "makkari",
+   "name": "Makkari",
+   "aliases": [
+    "Mercury",
+    "Hurricane",
+    "Major Mercury",
+    "Mike Khary",
+    "Thoth"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [
+    "First Line"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #5",
+   "debutDate": "1976-11",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the Eternal speedster, associated with Mercury and Hermes. Has used the aliases Mercury and Hurricane. Agents attempting pursuit are advised to arrive early.",
+   "archetype": "caped",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Makkari_(character)"
+   ],
+   "notes": "Gender contested: male in comics, female in the MCU (Lauren Ridloff). Earlier alias debuts in 1940 and 1941 exist."
+  },
+  {
+   "id": "kingo",
+   "name": "Kingo",
+   "aliases": [
+    "Kingo Sunen"
+   ],
+   "realName": "Kingo Sunen",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [],
+   "debutYear": 1977,
+   "debutIssue": "The Eternals #11",
+   "debutDate": "1977-05",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is an Eternal who projects cosmic energy and has lived among humans as a celebrity. Appeared as a Japanese samurai in earlier eras. Subject is a model of low-profile behavior only in the memo.",
+   "archetype": "armored",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kingo_Sunen"
+   ],
+   "notes": "Comics Kingo is Japanese-styled; MCU version is a Bollywood star."
+  },
+  {
+   "id": "gilgamesh",
+   "name": "Gilgamesh",
+   "aliases": [
+    "Forgotten One",
+    "Gil",
+    "Hero of Sumer",
+    "Lost Eternal",
+    "King Gilgamesh"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals",
+    "avengers"
+   ],
+   "otherTeams": [],
+   "debutYear": 1977,
+   "debutIssue": "The Eternals #13",
+   "debutDate": "1977-07",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is the Eternal known as the Forgotten One, a figure of immense strength inspiring the Sumerian epic. Has served with the Avengers. Considered the strongest of his kind.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Forgotten_One_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "druig",
+   "name": "Druig",
+   "aliases": [
+    "Ivan Druig",
+    "Druig of Nightmares"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [
+    "Vorozheika"
+   ],
+   "debutYear": 1977,
+   "debutIssue": "The Eternals #11",
+   "debutDate": "1977-05",
+   "alignment": "antihero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is an Eternal who can manipulate minds. Has used his abilities for personal ends and rivals other Eternals. Agents should not allow Subject to review his own file.",
+   "archetype": "hooded",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Druig"
+   ],
+   "notes": "Alignment contested: villain in most comics, antihero in the MCU."
+  },
+  {
+   "id": "phastos",
+   "name": "Phastos",
+   "aliases": [
+    "Hephaestus",
+    "Vulcan",
+    "Ceasefire",
+    "Phillip Stoss"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [],
+   "debutYear": 1985,
+   "debutIssue": "The Eternals (vol. 2) #1",
+   "debutDate": "1985-10",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is the Eternal technologist who forged weapons for gods and mortals. Associated with the Greek god Hephaestus. Warranty on the weapons has long expired.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Phastos"
+   ],
+   "notes": "Infobox lists vol. 2 #1; the character may have earlier mentions, but the infobox is followed."
+  },
+  {
+   "id": "ajak",
+   "name": "Ajak",
+   "aliases": [
+    "Tecumotzin",
+    "The Legendary Inca Hero"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals"
+   ],
+   "otherTeams": [
+    "God Squad"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #2",
+   "debutDate": "1976-08",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject is the Eternal leader associated with the Inca and the Olympian Eternals. Maintains contact with the Celestials. Agents are asked to treat the chain of command carefully.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ajak"
+   ],
+   "notes": "Gender contested: male in comics, female in the MCU (Salma Hayek)."
+  },
+  {
+   "id": "kro",
+   "name": "Kro",
+   "aliases": [
+    "Warlord Kro",
+    "Prince of Darkness"
+   ],
+   "realName": "",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [
+    "Deviants"
+   ],
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #1",
+   "debutDate": "1976-07",
+   "alignment": "villain",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is a Deviant warlord and long-time enemy of the Eternals. Appeared in the film Eternals only as a voice-acted CGI character. Subject has no known hobbies other than war.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kro_(character)"
+   ],
+   "notes": "MCU appearance is voice-only (Bill Skarsgard), which does not count. Deviants are not in the teams vocabulary."
+  },
+  {
+   "id": "starfox",
+   "name": "Starfox",
+   "aliases": [
+    "Eros",
+    "Prime Eternal",
+    "Knave of Hearts"
+   ],
+   "realName": "",
+   "primaryTeam": "eternals",
+   "teams": [
+    "eternals",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Dark Guardians"
+   ],
+   "debutYear": 1973,
+   "debutIssue": "The Invincible Iron Man #55",
+   "debutDate": "1973-02",
+   "alignment": "hero",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Eternals",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is Eros of Titan, brother of Thanos, a member of the Avengers and Eternals who can influence emotions. Appears briefly in a film mid-credits scene. Agents are advised to remain unmoved.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Starfox_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "black-bolt",
+   "name": "Black Bolt",
+   "aliases": [
+    "Blackagar Boltagon"
+   ],
+   "realName": "Blackagar Boltagon",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "illuminati"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #45",
+   "debutDate": "1965-12",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Doctor Strange in the Multiverse of Madness",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is the silent king of the Inhumans, whose voice can level cities. Member of the Illuminati. Subject is poor at small talk by necessity.",
+   "archetype": "cowl",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Black_Bolt"
+   ],
+   "notes": "Appears only as an alternate Illuminati version in Multiverse of Madness (Anson Mount); counts per rubric."
+  },
+  {
+   "id": "medusa",
+   "name": "Medusa",
+   "aliases": [
+    "Madame Medusa",
+    "Medusalith Amaquelin-Boltagon"
+   ],
+   "realName": "Medusalith Amaquelin-Boltagon",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "fantastic-four",
+    "frightful-four",
+    "illuminati"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #36",
+   "debutDate": "1965-03",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is queen of the Inhumans and wife of Black Bolt, with prehensile red hair. Has served with the Fantastic Four and Frightful Four. Agents are advised against brushing.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Medusa_(Marvel_Comics)"
+   ],
+   "notes": "Appeared as villain in early Frightful Four stories; hero in main history."
+  },
+  {
+   "id": "crystal",
+   "name": "Crystal",
+   "aliases": [
+    "Crystalia Amaquelin",
+    "Crystalia Amaquelin-Maximoff"
+   ],
+   "realName": "Crystalia Amaquelin",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "fantastic-four",
+    "avengers"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #45",
+   "debutDate": "1965-12",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is an Inhuman princess who controls the four elements. Has served with the Fantastic Four and Avengers. Cousin of Medusa and sister-in-law to the king.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Crystal_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "karnak",
+   "name": "Karnak",
+   "aliases": [
+    "Karnak Mander-Azur",
+    "The Shatterer"
+   ],
+   "realName": "Karnak Mander-Azur",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "secret-warriors"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #45",
+   "debutDate": "1965-12",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is an Inhuman strategist able to find the flaw in any object or plan. Member of the Royal Family. Agents are advised to present flawless paperwork.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karnak_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "gorgon",
+   "name": "Gorgon",
+   "aliases": [
+    "Gorgon Petragon"
+   ],
+   "realName": "Gorgon Petragon",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "fantastic-four"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #44",
+   "debutDate": "1965-11",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is an Inhuman with hooved legs capable of generating seismic shocks. Member of the Royal Family. Not recommended as a houseguest on hardwood.",
+   "archetype": "helmeted",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gorgon_(Inhuman)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "triton",
+   "name": "Triton",
+   "aliases": [],
+   "realName": "",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans"
+   ],
+   "otherTeams": [],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #45",
+   "debutDate": "1965-12",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is an aquatic Inhuman with fish-like features who can survive the deepest oceans. Member of the Royal Family. Prefers to be wet.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Triton_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "lockjaw",
+   "name": "Lockjaw",
+   "aliases": [
+    "Sparky"
+   ],
+   "realName": "",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans"
+   ],
+   "otherTeams": [
+    "Pet Avengers"
+   ],
+   "debutYear": 1965,
+   "debutIssue": "Fantastic Four #45",
+   "debutDate": "1965-12",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is a giant bulldog who teleports himself and others across any distance. Serves as transport for the Inhuman Royal Family. Good boy.",
+   "archetype": "creature",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lockjaw_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "maximus",
+   "name": "Maximus",
+   "aliases": [
+    "Maximus the Mad",
+    "Maximus the Magnificent",
+    "Maximus Boltagon"
+   ],
+   "realName": "Maximus Boltagon",
+   "primaryTeam": "inhumans",
+   "teams": [
+    "inhumans",
+    "cabal"
+   ],
+   "otherTeams": [],
+   "debutYear": 1966,
+   "debutIssue": "Fantastic Four #47",
+   "debutDate": "1966-02",
+   "alignment": "villain",
+   "origin": "inhuman",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject is the brother of Black Bolt and a recurring claimant to the Inhuman throne, with mind-altering abilities. Has been affiliated with the Cabal. Not named as an heir.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_(comics)"
+   ],
+   "notes": "The Thor: Love and Thunder match is unrelated (Gladiator film)."
+  },
+  {
+   "id": "quake",
+   "name": "Quake",
+   "aliases": [
+    "Daisy Johnson",
+    "Daisy Louise Johnson",
+    "Skye",
+    "Director Johnson"
+   ],
+   "realName": "Daisy Johnson",
+   "primaryTeam": "shield",
+   "teams": [
+    "shield",
+    "secret-warriors"
+   ],
+   "otherTeams": [],
+   "debutYear": 2004,
+   "debutIssue": "Secret War #2",
+   "debutDate": "2004-07",
+   "alignment": "hero",
+   "origin": "inhuman",
+   "gender": "female",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 4,
+   "answerOk": true,
+   "caseNote": "Subject generates powerful vibrations and once directed S.H.I.E.L.D. Also led the Secret Warriors. Agents are advised not to stand on shaky ground.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daisy_Johnson"
+   ],
+   "notes": "Live-action portrayal was in ABC Agents of S.H.I.E.L.D., which does not count."
+  },
+  {
+   "id": "namor",
+   "name": "Namor",
+   "aliases": [
+    "Sub-Mariner",
+    "Namor McKenzie",
+    "Prince Namor"
+   ],
+   "realName": "Namor McKenzie",
+   "primaryTeam": "atlantis",
+   "teams": [
+    "atlantis",
+    "invaders",
+    "defenders",
+    "illuminati",
+    "avengers"
+   ],
+   "otherTeams": [
+    "All-Winners Squad"
+   ],
+   "debutYear": 1939,
+   "debutIssue": "Marvel Comics #1",
+   "debutDate": "1939-10",
+   "alignment": "antihero",
+   "origin": "mutant",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Black Panther: Wakanda Forever",
+   "difficulty": 2,
+   "answerOk": true,
+   "caseNote": "Subject is the Atlantean king and mutant who flies and possesses superhuman strength. Marvel's first antihero who has fought both the surface world and its enemies. Agents are advised to be polite.",
+   "archetype": "winged",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Namor"
+   ],
+   "notes": "Debut via Marvel Comics #1 (the uncirculated Motion Picture Funnies Weekly is ignored). Origin as Atlantean-mutant hybrid; could also be argued alien."
+  },
+  {
+   "id": "namora",
+   "name": "Namora",
+   "aliases": [
+    "Aquaria Nautica Neptunia",
+    "Avenging Daughter",
+    "Sea Queen"
+   ],
+   "realName": "",
+   "primaryTeam": "atlantis",
+   "teams": [
+    "atlantis",
+    "agents-of-atlas"
+   ],
+   "otherTeams": [],
+   "debutYear": 1947,
+   "debutIssue": "Marvel Mystery Comics #82",
+   "debutDate": "1947-05",
+   "alignment": "hero",
+   "origin": "mutant",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Black Panther: Wakanda Forever",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is Namor's cousin, a super-strong Atlantean heroine. Has served with Agents of Atlas. Family reunions are loud.",
+   "archetype": "winged",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Namora"
+   ],
+   "notes": "Alias Aquaria Nautica Neptunia included as alias only. Origin hybrid mutant; MCU version is Talokan lieutenant."
+  },
+  {
+   "id": "attuma",
+   "name": "Attuma",
+   "aliases": [
+    "Nerkkod"
+   ],
+   "realName": "",
+   "primaryTeam": "atlantis",
+   "teams": [
+    "atlantis"
+   ],
+   "otherTeams": [
+    "Deep Six",
+    "The Worthy"
+   ],
+   "debutYear": 1964,
+   "debutIssue": "Fantastic Four #33",
+   "debutDate": "1964-12",
+   "alignment": "villain",
+   "origin": "alien",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Black Panther: Wakanda Forever",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is an Atlantean warlord who has repeatedly tried to conquer the surface and Atlantis. Powerful and ruthless. Does not take shore leave.",
+   "archetype": "horned",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Attuma"
+   ],
+   "notes": "Origin contested: Homo mermanus could be read as human mutate; non-human species chosen as alien."
+  },
+  {
+   "id": "tiger-shark",
+   "name": "Tiger Shark",
+   "aliases": [
+    "Arlys Tigershark",
+    "Todd Arliss"
+   ],
+   "realName": "Todd Arliss",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil"
+   ],
+   "otherTeams": [
+    "Deep Six",
+    "Defenders of the Deep",
+    "Lethal Legion"
+   ],
+   "debutYear": 1968,
+   "debutIssue": "Prince Namor, the Sub-Mariner #5",
+   "debutDate": "1968-09",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": false,
+   "mcuFirst": "",
+   "difficulty": 5,
+   "answerOk": false,
+   "caseNote": "Subject is a super-strong aquatic villain made so by Atlantean-derived experimentation, longtime rival of Namor. Has served with the Masters of Evil. Do not swim near.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tiger_Shark_(Marvel_Comics)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "shuri",
+   "name": "Shuri",
+   "aliases": [
+    "Black Panther",
+    "Aja-Adanna",
+    "Princess",
+    "Griot"
+   ],
+   "realName": "Shuri",
+   "primaryTeam": "wakanda",
+   "teams": [
+    "wakanda"
+   ],
+   "otherTeams": [],
+   "debutYear": 2005,
+   "debutIssue": "Black Panther #2",
+   "debutDate": "2005-05",
+   "alignment": "hero",
+   "origin": "mutate",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Black Panther",
+   "difficulty": 2,
+   "answerOk": false,
+   "caseNote": "Subject is the princess of Wakanda, a master inventor, and a former Black Panther. Heart-shaped herb enhances her abilities. Her devices are not available for loan.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shuri_(character)"
+   ],
+   "notes": "Origin contested: mutate (heart-shaped herb) vs trained."
+  },
+  {
+   "id": "okoye",
+   "name": "Okoye",
+   "aliases": [],
+   "realName": "",
+   "primaryTeam": "dora-milaje",
+   "teams": [
+    "dora-milaje",
+    "wakanda",
+    "avengers"
+   ],
+   "otherTeams": [
+    "Midnight Angels"
+   ],
+   "debutYear": 1998,
+   "debutIssue": "Black Panther (vol. 3) #1",
+   "debutDate": "1998-11",
+   "alignment": "hero",
+   "origin": "trained",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Black Panther",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is the head of the Dora Milaje, Wakanda's elite guard, and a master of spear combat. Has served with the Avengers. Not to be trifled with, or wigged.",
+   "archetype": "bald",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Okoye_(character)"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "nakia",
+   "name": "Nakia",
+   "aliases": [
+    "Malice",
+    "Nakia Shauku",
+    "Nakia Cabral"
+   ],
+   "realName": "Nakia Shauku",
+   "primaryTeam": "dora-milaje",
+   "teams": [
+    "dora-milaje"
+   ],
+   "otherTeams": [],
+   "debutYear": 1998,
+   "debutIssue": "Black Panther (vol. 3) #1",
+   "debutDate": "1998-11",
+   "alignment": "villain",
+   "origin": "magic",
+   "gender": "female",
+   "mcu": true,
+   "mcuFirst": "Black Panther",
+   "difficulty": 4,
+   "answerOk": false,
+   "caseNote": "Subject was raised as a Dora Milaje and later became the villain Malice after T'Challa rejected her. Hostile to those close to him. Agents should avoid dating the King.",
+   "archetype": "longhair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Malice_(Nakia_Shauku)"
+   ],
+   "notes": "Origin contested: infobox says human mutate, text says magical ritual. MCU Nakia is a spy, adapted from the comics character. Alignment contested (comics villain, MCU hero)."
+  },
+  {
+   "id": "mbaku",
+   "name": "M'Baku",
+   "aliases": [
+    "Man-Ape",
+    "White Gorilla"
+   ],
+   "realName": "M'Baku",
+   "primaryTeam": "masters-of-evil",
+   "teams": [
+    "masters-of-evil",
+    "wakanda"
+   ],
+   "otherTeams": [
+    "Lethal Legion"
+   ],
+   "debutYear": 1969,
+   "debutIssue": "The Avengers #62",
+   "debutDate": "1969-03",
+   "alignment": "antihero",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Black Panther",
+   "difficulty": 3,
+   "answerOk": false,
+   "caseNote": "Subject is the Jabari warrior known as Man-Ape and a long-standing rival of Black Panther. Has been villain and later ally. Agents are advised to avoid mountains.",
+   "archetype": "brute",
+   "sources": [
+    "https://en.wikipedia.org/wiki/M%27Baku"
+   ],
+   "notes": "Resolved page was wrong; Man-Ape debut and details used. Alignment contested: villain in comics, MCU ally."
+  },
+  {
+   "id": "killmonger",
+   "name": "Killmonger",
+   "aliases": [
+    "Erik Killmonger",
+    "N'Jadaka"
+   ],
+   "realName": "N'Jadaka",
+   "primaryTeam": "none",
+   "teams": [],
+   "otherTeams": [],
+   "debutYear": 1973,
+   "debutIssue": "Jungle Action #6",
+   "debutDate": "1973-09",
+   "alignment": "villain",
+   "origin": "trained",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Black Panther",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a Wakandan-American mercenary and strategist who has repeatedly challenged T'Challa for the throne. Highly trained and ruthless. Not eligible for royal tours.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Erik_Killmonger"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "klaw",
+   "name": "Klaw",
+   "aliases": [
+    "Ulysses Klaw",
+    "Ulysses Klaue",
+    "Master of Sound"
+   ],
+   "realName": "Ulysses Klaue",
+   "primaryTeam": "frightful-four",
+   "teams": [
+    "frightful-four",
+    "masters-of-evil",
+    "aim"
+   ],
+   "otherTeams": [
+    "Lethal Legion"
+   ],
+   "debutYear": 1966,
+   "debutIssue": "Fantastic Four #53",
+   "debutDate": "1966-08",
+   "alignment": "villain",
+   "origin": "mutate",
+   "gender": "male",
+   "mcu": true,
+   "mcuFirst": "Avengers: Age of Ultron",
+   "difficulty": 3,
+   "answerOk": true,
+   "caseNote": "Subject is a sound-based villain whose vibranium converter replaced the hand he lost to the Black Panther. Has served with the Frightful Four. Subject is insured against noise.",
+   "archetype": "shorthair",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Klaw_(character)"
+   ],
+   "notes": "Live action Klaue (Andy Serkis) first in Age of Ultron."
+  }
+ ],
+ "dropped": []
+}

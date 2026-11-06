@@ -205,10 +205,8 @@ def _F():
 
 @glyph('G')
 def _G():
-    return 100, [('A', half(_o_ring(), 'L', 50)),
-                 ('B', sector(50, 50, 50, 15, 38, 90)),
-                 ('B', clip(rect(58, 36, 120, 62), disc(50, 50, 50))),
-                 ('B', sector(50, 50, 50, 15, -90, 0))]
+    lower = clip(union(sector(50, 50, 50, 15, -90, 0), rect(65, 0, 100, 56)), disc(50, 50, 50))
+    return 100, [('A', half(_o_ring(), 'L', 50)), ('B', sector(50, 50, 50, 15, 42, 90)), ('B', lower)]
 
 
 @glyph('H')
@@ -261,11 +259,10 @@ def _P():
     return 70, [('A', rect(0, 0, 30, 100)), ('B', half(ring(36, 70, 30, 9), 'R', 36))]
 
 
-@glyph('Q', ink=(-16, CAP))
+@glyph('Q', ink=(-14, CAP))
 def _Q():
     r = _o_ring()
-    tail = band(bar(62, 34, 98, -14, 30), -14, 60)
-    return 100, [('A', tail), ('A', half(r, 'L', 50)), ('B', half(r, 'R', 50))]
+    return 100, [('A', bar(60, 30, 88, -10, 28)), ('A', half(r, 'L', 50)), ('B', half(r, 'R', 50))]
 
 
 @glyph('R')
@@ -276,8 +273,8 @@ def _R():
 
 @glyph('S')
 def _S():
-    upper = union(half(ring(31, 69, 31, 7), 'L', 31), rect(31, 76, 78, 100))
-    lower = union(half(ring(47, 31, 31, 7), 'R', 47), rect(0, 0, 47, 24), rect(25, 38, 47, 62))
+    upper = union(sector(39, 69, 31, 7, 90, 270), rect(39, 76, 78, 100))
+    lower = union(sector(39, 31, 31, 7, -90, 90), rect(0, 0, 39, 24))
     return 78, [('A', upper), ('B', lower)]
 
 
@@ -320,8 +317,12 @@ def _Y():
 
 @glyph('Z')
 def _Z():
-    return 84, [('A', rect(0, 72, 84, 100)), ('A', rect(0, 0, 84, 28)),
-                ('B', poly((44, 100), (84, 100), (40, 0), (0, 0)))]
+    # The diagonal owns both corners; the bar remnants carry slanted stencil gaps.
+    top, bottom = rect(0, 72, 84, 100), rect(0, 0, 84, 28)
+    diagonal = union(poly((50, 100), (84, 100), (34, 0), (0, 0)),
+                     clip(top, poly((0, 0), (50, 100), (FAR, 100), (FAR, 0))),
+                     clip(bottom, poly((34, 0), (84, 100), (-FAR, 100), (-FAR, 0))))
+    return 84, [('B', diagonal), ('A', top), ('A', bottom)]
 
 
 # ---------------------------------------------------------------- digits
@@ -349,8 +350,9 @@ def _1():
 
 @glyph('2')
 def _2():
-    hook = union(sector(38, 64, 36, 9, -40, 160), band(bar(58, 44, 14, 10, 30), 0, 60))
-    return DIGIT, [('B', rect(0, 0, 76, 26)), ('A', hook)]
+    shoulder = sector(38, 63, 37, 10, -12, 160)
+    diagonal = poly((47.8, 60.9), (74.2, 55.3), (33, 0), (0, 0))
+    return DIGIT, [('B', rect(0, 0, 76, 26)), ('A', union(shoulder, diagonal))]
 
 
 @glyph('3')
@@ -373,8 +375,7 @@ def _5():
 
 
 def _nine():
-    tail = band(bar(60, 44, 24, -6, 28), 0, 70)
-    return [('A', ring(38, 66, 34, 10)), ('B', tail)]
+    return [('A', ring(38, 64, 36, 10)), ('B', poly((50, 54), (74, 64), (34, 0), (6, 0)))]
 
 
 @glyph('6')
@@ -462,10 +463,8 @@ def _numbersign():
 
 @glyph('&')
 def _ampersand():
-    loop = ring(34, 76, 24, 7)
-    leg = band(bar(22, 62, 92, -8, 28), 0, 100)
-    bowl = cut(ring(38, 31, 31, 9), wedge(38, 31, 10, 80))
-    return 96, [('A', loop), ('A', leg), ('B', bowl), ('B', band(bar(64, 30, 94, 56, 24), 0, 60))]
+    return 96, [('A', ring(32, 77, 22, 7)), ('A', band(bar(18, 65, 88, -5, 28), 0, CAP)),
+                ('B', sector(36, 31, 31, 9, 72, 338)), ('B', rect(68, 36, 96, 56))]
 
 
 @glyph('+')

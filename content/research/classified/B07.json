@@ -1,0 +1,1002 @@
+{
+  "characters": [
+    {
+      "id": "mister-fantastic",
+      "name": "Mister Fantastic",
+      "aliases": [
+        "Reed Richards",
+        "Reed Benjamin Richards",
+        "Mr. Fantastic",
+        "Invincible Man"
+      ],
+      "realName": "Reed Richards",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four",
+        "illuminati",
+        "avengers",
+        "defenders"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1961,
+      "debutIssue": "Fantastic Four #1",
+      "debutDate": "1961-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is the foremost scientist of his world, whose body stretches after cosmic ray exposure. Founded the Fantastic Four and sits on the Illuminati. Agents are advised not to ask him to hold a door.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mister_Fantastic",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "invisible-woman",
+      "name": "Invisible Woman",
+      "aliases": [
+        "Sue Storm",
+        "Susan Storm Richards",
+        "Invisible Girl",
+        "Sue Richards",
+        "Malice"
+      ],
+      "realName": "Susan Storm",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1961,
+      "debutIssue": "Fantastic Four #1",
+      "debutDate": "1961-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject turns invisible and projects force fields, a gift of cosmic ray exposure. Founding member of the Fantastic Four and its steadiest tactician. Agents should assume she is present at all meetings.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Invisible_Woman",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "human-torch-johnny-storm",
+      "name": "Human Torch (Johnny Storm)",
+      "aliases": [
+        "Johnny Storm",
+        "Jonathan Storm",
+        "Jonathan Lowell Spencer Storm",
+        "Torch"
+      ],
+      "realName": "Johnny Storm",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four",
+        "avengers"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1961,
+      "debutIssue": "Fantastic Four #1",
+      "debutDate": "1961-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "Deadpool & Wolverine",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject ignites his whole body and flies, courtesy of cosmic rays. Youngest member of the Fantastic Four and brother of the Invisible Woman. Fire safety officers have filed several complaints.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Human_Torch",
+        "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": "Infobox page was a shared page; debut FF #1 is standard. mcuFirst is Chris Evans' Johnny Storm cameo in Deadpool & Wolverine (2024), earlier than Joseph Quinn in First Steps (2025). The 1939 Human Torch (Jim Hammond) is a different character."
+    },
+    {
+      "id": "thing",
+      "name": "Thing",
+      "aliases": [
+        "Ben Grimm",
+        "Benjamin Jacob Grimm",
+        "Benjamin Grimm",
+        "Ever-Lovin' Blue-Eyed Thing",
+        "Blackbeard the Pirate"
+      ],
+      "realName": "Ben Grimm",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four",
+        "avengers",
+        "guardians-of-the-galaxy"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1961,
+      "debutIssue": "Fantastic Four #1",
+      "debutDate": "1961-11",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a former test pilot with rocky orange skin and extreme strength, the result of cosmic rays. Longest-serving muscle of the Fantastic Four. Catchphrase is on file and will not be repeated.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "doctor-doom",
+      "name": "Doctor Doom",
+      "aliases": [
+        "Victor von Doom",
+        "Victor Von Doom",
+        "Doom",
+        "Dr. Doom"
+      ],
+      "realName": "Victor von Doom",
+      "primaryTeam": "latveria",
+      "teams": [
+        "latveria",
+        "cabal"
+      ],
+      "otherTeams": [
+        "Intelligencia",
+        "Future Foundation"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Fantastic Four #5",
+      "debutDate": "1962-07",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is the armored monarch of Latveria, a scientist and sorcerer in equal measure. Principal adversary of the Fantastic Four. Diplomatic immunity is claimed and, regrettably, recognized.",
+      "archetype": "armored",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doctor_Doom",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": "Origin contested: tech (armor and science) or magic (sorcery). Alignment is villain, though he has had hero phases. MCU appearance is Robert Downey Jr.'s uncredited, face-hidden mid-credits cameo in First Steps."
+    },
+    {
+      "id": "galactus",
+      "name": "Galactus",
+      "aliases": [
+        "Galan",
+        "Galan of Taa",
+        "Devourer of Worlds",
+        "Lifebringer",
+        "Eater of Worlds"
+      ],
+      "realName": "Galan",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1966,
+      "debutIssue": "Fantastic Four #48",
+      "debutDate": "1966-03",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": false,
+      "caseNote": "Subject is a cosmic entity who consumes planets to sustain himself. Originally a mortal of the planet Taa before merging with the Sentience of the Universe. Agents are advised to hide the planet.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Galactus",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": "Alignment contested: villain (threat to worlds) vs neutral cosmic force. Real name Galan is the pre-transformation identity."
+    },
+    {
+      "id": "silver-surfer",
+      "name": "Silver Surfer",
+      "aliases": [
+        "Norrin Radd",
+        "Sentinel of the Spaceways",
+        "Shalla-Bal"
+      ],
+      "realName": "Norrin Radd",
+      "primaryTeam": "heralds-of-galactus",
+      "teams": [
+        "heralds-of-galactus",
+        "defenders"
+      ],
+      "otherTeams": [
+        "Infinity Watch"
+      ],
+      "debutYear": 1966,
+      "debutIssue": "Fantastic Four #48",
+      "debutDate": "1966-03",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 2,
+      "answerOk": true,
+      "caseNote": "Subject is a former scientist of Zenn-La who became Galactus's herald to save his world. Rides a board and wields the Power Cosmic. Agents should note that the paint is not removable.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Silver_Surfer",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": "Comics Surfer is Norrin Radd (male); First Steps features Shalla-Bal (Julia Garner) as the Silver Surfer, which still counts for mcu. Shalla-Bal is listed as an alias since players may type it."
+    },
+    {
+      "id": "mole-man",
+      "name": "Mole Man",
+      "aliases": [
+        "Harvey Elder",
+        "Harvey Rupert Elder",
+        "Lord of the Moloids",
+        "Arthur Molekevic"
+      ],
+      "realName": "Harvey Elder",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Subterranea",
+        "Lethal Legion"
+      ],
+      "debutYear": 1961,
+      "debutIssue": "Fantastic Four #1",
+      "debutDate": "1961-11",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is a rejected surface scientist who rules Subterranea and its monsters. First recorded opponent of the Fantastic Four. Does not enjoy sunlight, gardens, or being described as a mole.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mole_Man",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "annihilus",
+      "name": "Annihilus",
+      "aliases": [
+        "Lord of the Negative Zone",
+        "The Living Death That Walks",
+        "Ahmyor"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Annihilation Wave"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "Fantastic Four Annual #6",
+      "debutDate": "1968-11",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is the insectoid ruler of the Negative Zone, sustained by the Cosmic Control Rod. Seeks to conquer the positive-matter universe. Agents are advised to decline any invitations to his realm.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Annihilus"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "super-skrull",
+      "name": "Super-Skrull",
+      "aliases": [
+        "Kl'rt",
+        "Klrt",
+        "Kl'rt the Super-Skrull"
+      ],
+      "realName": "Kl'rt",
+      "primaryTeam": "skrull-empire",
+      "teams": [
+        "skrull-empire"
+      ],
+      "otherTeams": [
+        "Secret Defenders",
+        "United Front"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Fantastic Four #18",
+      "debutDate": "1963-09",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Skrull warrior given the combined powers of the Fantastic Four. Dispatched to Earth to destroy them and later a reluctant ally. Agents will note he has all four powers and no sense of humor.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Super-Skrull"
+      ],
+      "notes": "Alignment contested: villain (most appearances) vs antihero (later ally of the FF)."
+    },
+    {
+      "id": "franklin-richards",
+      "name": "Franklin Richards",
+      "aliases": [
+        "Franklin Benjamin Richards",
+        "Powerhouse",
+        "Psi-Lord",
+        "Tattletale"
+      ],
+      "realName": "Franklin Richards",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four",
+        "power-pack",
+        "generation-x"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1968,
+      "debutIssue": "Fantastic Four Annual #6",
+      "debutDate": "1968-11",
+      "alignment": "hero",
+      "origin": "mutant",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 3,
+      "answerOk": true,
+      "caseNote": "Subject is the son of Reed and Sue Richards and one of the most powerful mutants on record. Reality-altering abilities were apparent in childhood. Agents are advised to keep him away from the remote control.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Franklin_Richards_(character)",
+        "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+      ],
+      "notes": "MCU appearance is the infant Franklin in First Steps (played by several babies)."
+    },
+    {
+      "id": "valeria-richards",
+      "name": "Valeria Richards",
+      "aliases": [
+        "Val",
+        "Valeria Meghan Richards",
+        "Brainstorm",
+        "Marvel Girl"
+      ],
+      "realName": "Valeria Richards",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four"
+      ],
+      "otherTeams": [
+        "Future Foundation"
+      ],
+      "debutYear": 1999,
+      "debutIssue": "Fantastic Four (vol. 3) #15",
+      "debutDate": "1999-03",
+      "alignment": "hero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is the daughter of Reed and Sue Richards and a child prodigy of the highest order. Co-founded the Future Foundation. Agents are advised not to challenge her to a science fair.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Valeria_Richards"
+      ],
+      "notes": "Origin contested: mutate (in-utero cosmic-ray exposure, super-genius) vs trained (intellect only)."
+    },
+    {
+      "id": "herbie",
+      "name": "H.E.R.B.I.E.",
+      "aliases": [
+        "HERBIE",
+        "Humanoid Experimental Robot B-Type Integrated Electronics"
+      ],
+      "realName": "",
+      "primaryTeam": "fantastic-four",
+      "teams": [
+        "fantastic-four"
+      ],
+      "otherTeams": [
+        "A.I. Army"
+      ],
+      "debutYear": 1978,
+      "debutIssue": "The New Fantastic Four (\"A Monster Among Us\")",
+      "debutDate": "1978-09",
+      "alignment": "hero",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": true,
+      "mcuFirst": "The Fantastic Four: First Steps",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a floating robot built to serve as the Fantastic Four's lab assistant. Connects to any computer system and carries assorted hidden tools. Replaced the Human Torch on the roster for one animated season.",
+      "archetype": "synthetic",
+      "sources": [
+        "https://en.wikipedia.org/wiki/H.E.R.B.I.E."
+      ],
+      "notes": "Debut is the 1978 animated series; first comic appearance was Fantastic Four #209 (1979-08). mcu contested: voice by Matthew Wood but a visible robot in First Steps, so counted true; the strict voice-only reading gives false."
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "aliases": [
+        "Wingless Wizard",
+        "Bentley Wittman",
+        "Bentley Wittman Jr."
+      ],
+      "realName": "Bentley Wittman",
+      "primaryTeam": "frightful-four",
+      "teams": [
+        "frightful-four"
+      ],
+      "otherTeams": [
+        "Intelligencia"
+      ],
+      "debutYear": 1962,
+      "debutIssue": "Strange Tales #102",
+      "debutDate": "1962-11",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an inventor whose anti-gravity discs let him fly and hurl objects. Founded the Frightful Four to oppose the Fantastic Four. Agents will find the discs more fashionable than effective.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"
+      ],
+      "notes": "Real name Bentley Wittman is widely given in the comics; mcu matches were unrelated uses of the word."
+    },
+    {
+      "id": "puppet-master",
+      "name": "Puppet Master",
+      "aliases": [
+        "Phillip Masters",
+        "Philip Masters"
+      ],
+      "realName": "Phillip Masters",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Fantastic Four #8",
+      "debutDate": "1962-11",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a sculptor who controls people through clay figures of radioactive material. Stepfather of Alicia Masters. Agents are advised not to sit for portraits.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puppet_Master_(Marvel_Comics)"
+      ],
+      "notes": "Origin contested: tech (radioactive clay) vs mutate."
+    },
+    {
+      "id": "alicia-masters",
+      "name": "Alicia Masters",
+      "aliases": [
+        "Alicia Reiss",
+        "Alicia Grimm",
+        "Alicia Masters Grimm"
+      ],
+      "realName": "Alicia Masters",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1962,
+      "debutIssue": "Fantastic Four #8",
+      "debutDate": "1962-11",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a blind sculptor and longtime partner of Ben Grimm. Stepdaughter of the Puppet Master. Considered by the Fantastic Four to be the sanest person in their orbit.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alicia_Masters"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "impossible-man",
+      "name": "Impossible Man",
+      "aliases": [
+        "Impy",
+        "Herald of Destruction"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Fantastic Four #11",
+      "debutDate": "1963-02",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a shape-shifting Poppupian who treats the universe as a prank. Has annoyed the Fantastic Four on repeated occasions. No containment has proven effective.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Impossible_Man"
+      ],
+      "notes": "Alignment contested: antihero (prankster who is not malicious) vs hero."
+    },
+    {
+      "id": "psycho-man",
+      "name": "Psycho-Man",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1967,
+      "debutIssue": "Fantastic Four Annual #5",
+      "debutDate": "1967-11",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a Micronian ruler who controls emotions with a handheld device. Operates from the Microverse and has repeatedly targeted the Fantastic Four. Agents are advised to remain calm; he will not allow it.",
+      "archetype": "helmeted",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Psycho-Man"
+      ],
+      "notes": "Origin contested: alien (Micronian) vs tech (emotion-control technology)."
+    },
+    {
+      "id": "terrax",
+      "name": "Terrax",
+      "aliases": [
+        "Tyros",
+        "Tyros the Terrible",
+        "Terrax the Tamer"
+      ],
+      "realName": "Tyros",
+      "primaryTeam": "heralds-of-galactus",
+      "teams": [
+        "heralds-of-galactus"
+      ],
+      "otherTeams": [
+        "Offenders",
+        "Legion of the Unliving"
+      ],
+      "debutYear": 1979,
+      "debutIssue": "Fantastic Four #211",
+      "debutDate": "1979-10",
+      "alignment": "villain",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a former herald of Galactus who wields the Power Cosmic via a battle-axe. Has ruled, betrayed, and been betrayed in turn. Agents are advised against asking him to settle quietly.",
+      "archetype": "horned",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Terrax"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "firelord",
+      "name": "Firelord",
+      "aliases": [
+        "Pyreus Kril",
+        "Nova Centurion"
+      ],
+      "realName": "Pyreus Kril",
+      "primaryTeam": "heralds-of-galactus",
+      "teams": [
+        "heralds-of-galactus",
+        "nova-corps"
+      ],
+      "otherTeams": [
+        "United Front"
+      ],
+      "debutYear": 1974,
+      "debutIssue": "Thor #225",
+      "debutDate": "1974-07",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a former herald of Galactus with command of cosmic flame. Served on the Nova Corps and has fought alongside several Earth teams. Not recommended for indoor use.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Firelord_(character)"
+      ],
+      "notes": "Alignment contested: hero vs antihero (former herald, mixed loyalties)."
+    },
+    {
+      "id": "nova-frankie-raye",
+      "name": "Nova (Frankie Raye)",
+      "aliases": [
+        "Frankie Raye",
+        "Nova",
+        "Herald of Galactus"
+      ],
+      "realName": "Frankie Raye",
+      "primaryTeam": "heralds-of-galactus",
+      "teams": [
+        "heralds-of-galactus"
+      ],
+      "otherTeams": [],
+      "debutYear": 1975,
+      "debutIssue": "Fantastic Four #164",
+      "debutDate": "1975-11",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": false,
+      "caseNote": "Subject is a former girlfriend of Johnny Storm who became herald of Galactus. Wields the Power Cosmic and sometimes uses the name Nova. Agents are advised not to confuse her with the Nova Corps.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nova_(Frankie_Raye)"
+      ],
+      "notes": "Not in the MCU: Nova Prime and Nova Corps characters in Guardians films are other characters. Origin cosmic (Power Cosmic); initially acquired fire powers via an experimental process."
+    },
+    {
+      "id": "blastaar",
+      "name": "Blastaar",
+      "aliases": [
+        "Living Bomb-Burst",
+        "Blasstaar"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Legion Accursed",
+        "Aliens of the Negative Zone"
+      ],
+      "debutYear": 1967,
+      "debutIssue": "Fantastic Four #62",
+      "debutDate": "1967-05",
+      "alignment": "villain",
+      "origin": "alien",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a conqueror from the Negative Zone who projects concussive energy. Rival to Annihilus for control of the realm. Agents are advised to keep a respectful distance.",
+      "archetype": "brute",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blastaar"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "diablo",
+      "name": "Diablo",
+      "aliases": [
+        "Esteban Diablo",
+        "Esteban Corazon de Ablo",
+        "Al Bidd"
+      ],
+      "realName": "Esteban Corazon de Ablo",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Legion Accursed"
+      ],
+      "debutYear": 1964,
+      "debutIssue": "Fantastic Four #30",
+      "debutDate": "1964-09",
+      "alignment": "villain",
+      "origin": "magic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is an alchemist who discovered an elixir of life and a taste for conquest. Opposed the Fantastic Four from a castle in Transylvania. Agents are advised not to sample the elixir.",
+      "archetype": "hooded",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Diablo_(Marvel_Comics)"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "dragon-man",
+      "name": "Dragon Man",
+      "aliases": [
+        "Dragon-Man"
+      ],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1965,
+      "debutIssue": "Fantastic Four #35",
+      "debutDate": "1965-02",
+      "alignment": "antihero",
+      "origin": "synthetic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a dragon-shaped android created by a professor and animated by alchemy. Attacked a campus before befriending Sue Storm. Subject remains fond of the Invisible Woman and fire-breathing.",
+      "archetype": "creature",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_D",
+        "https://www.marvel.com/comics/issue/13172/fantastic_four_1961_35"
+      ],
+      "notes": "Resolved Wikipedia page was a shared list; debut from FF #35 (Feb 1965) via web sources. Alignment contested: villain at debut, later friendly. Wikipedia infobox in the data was for another character (Shocker)."
+    },
+    {
+      "id": "trapster",
+      "name": "Trapster",
+      "aliases": [
+        "Paste-Pot Pete",
+        "Peter Petruccelli",
+        "Pete Petruccelli"
+      ],
+      "realName": "Peter Petruccelli",
+      "primaryTeam": "frightful-four",
+      "teams": [
+        "frightful-four",
+        "sinister-six"
+      ],
+      "otherTeams": [
+        "Lethal Legion"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Strange Tales #104",
+      "debutDate": "1963-01",
+      "alignment": "villain",
+      "origin": "tech",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is an inventor of adhesive and trap devices, formerly known as Paste-Pot Pete. Frightful Four member and recurring opponent of the Human Torch. Agents should avoid sticky situations.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trapster"
+      ],
+      "notes": "Debut is as Paste-Pot Pete in Strange Tales #104; Trapster identity from Fantastic Four #38 (1965-05)."
+    },
+    {
+      "id": "molecule-man",
+      "name": "Molecule Man",
+      "aliases": [
+        "Owen Reece",
+        "Owen Gregory Reece"
+      ],
+      "realName": "Owen Reece",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Fantastic Four #20",
+      "debutDate": "1963-11",
+      "alignment": "villain",
+      "origin": "mutate",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a former lab technician with near-total control over matter after a reactor accident. Shy by temperament and among the most powerful beings on Earth. Agents are advised to be polite.",
+      "archetype": "cowl",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Molecule_Man"
+      ],
+      "notes": "Alignment mostly villain, though he has acted as an ally in several events."
+    },
+    {
+      "id": "uatu-the-watcher",
+      "name": "Uatu the Watcher",
+      "aliases": [
+        "Uatu",
+        "Watcher",
+        "The Watcher"
+      ],
+      "realName": "Uatu",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1963,
+      "debutIssue": "Fantastic Four #13",
+      "debutDate": "1963-04",
+      "alignment": "hero",
+      "origin": "cosmic",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 3,
+      "answerOk": false,
+      "caseNote": "Subject is a member of an alien race sworn to observe without interfering. Monitors Earth from a base on the Moon. Has repeatedly broken that oath for the good of humanity.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uatu",
+        "https://en.wikipedia.org/wiki/Watcher_(Marvel_Cinematic_Universe)"
+      ],
+      "notes": "mcu contested: false (Watchers cameo in Guardians Vol. 2 is unnamed; Uatu in Daredevil: Born Again S2 is a silhouette-style easter egg; named Uatu appearances are voice-only animation) vs true (Daredevil: Born Again S2 cameo, 2026-03). Alignment also contested: hero vs neutral."
+    },
+    {
+      "id": "thundra",
+      "name": "Thundra",
+      "aliases": [
+        "Thundra the Unconquerable"
+      ],
+      "realName": "Thundra",
+      "primaryTeam": "frightful-four",
+      "teams": [
+        "frightful-four"
+      ],
+      "otherTeams": [
+        "Lady Liberators",
+        "Grapplers"
+      ],
+      "debutYear": 1972,
+      "debutIssue": "Fantastic Four #129",
+      "debutDate": "1972-12",
+      "alignment": "antihero",
+      "origin": "mutate",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a warrior from an alternate future ruled by women. Fought the Thing in the ring and has worked for and against the Frightful Four. Agents are advised not to challenge her to a match.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thundra"
+      ],
+      "notes": "Alignment contested: antihero vs villain. Origin contested: mutate (genetic enhancement) vs trained."
+    },
+    {
+      "id": "mad-thinker",
+      "name": "Mad Thinker",
+      "aliases": [],
+      "realName": "",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [
+        "Intelligencia",
+        "Triumvirate of Terror"
+      ],
+      "debutYear": 1963,
+      "debutIssue": "Fantastic Four #15",
+      "debutDate": "1963-06",
+      "alignment": "villain",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 4,
+      "answerOk": true,
+      "caseNote": "Subject is a criminal genius who plans to the last detail and builds android pawns. Repeat opponent of the Fantastic Four. Agents may bet against him on any given day.",
+      "archetype": "bald",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mad_Thinker"
+      ],
+      "notes": "No known real name; realName left empty."
+    },
+    {
+      "id": "lyja",
+      "name": "Lyja",
+      "aliases": [
+        "Lyja the Lazerfist",
+        "Alicia Masters Storm"
+      ],
+      "realName": "Lyja",
+      "primaryTeam": "skrull-empire",
+      "teams": [
+        "skrull-empire",
+        "fantastic-four"
+      ],
+      "otherTeams": [],
+      "debutYear": 1984,
+      "debutIssue": "Fantastic Four #265",
+      "debutDate": "1984-04",
+      "alignment": "antihero",
+      "origin": "alien",
+      "gender": "female",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a Skrull spy who first impersonated Alicia Masters. Later married Johnny Storm before returning to her people. Agents are advised to verify identities at all weddings.",
+      "archetype": "longhair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lyja"
+      ],
+      "notes": "Debut is as Alicia Masters (Fantastic Four #265); first appearance as Lyja is #357 (1991-10). Alignment contested: antihero vs villain."
+    },
+    {
+      "id": "wyatt-wingfoot",
+      "name": "Wyatt Wingfoot",
+      "aliases": [
+        "Wyatt"
+      ],
+      "realName": "Wyatt Wingfoot",
+      "primaryTeam": "none",
+      "teams": [],
+      "otherTeams": [],
+      "debutYear": 1966,
+      "debutIssue": "Fantastic Four #50",
+      "debutDate": "1966-05",
+      "alignment": "hero",
+      "origin": "trained",
+      "gender": "male",
+      "mcu": false,
+      "mcuFirst": "",
+      "difficulty": 5,
+      "answerOk": false,
+      "caseNote": "Subject is a Keewazi Native American athlete and friend of the Human Torch. Has served as a trusted ally to the Fantastic Four. Declined to wear a mask.",
+      "archetype": "shorthair",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wyatt_Wingfoot"
+      ],
+      "notes": ""
+    }
+  ],
+  "dropped": []
+}
