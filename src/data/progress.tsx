@@ -1,6 +1,7 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { loadStore, saveStore, type Store } from '../lib/progress'
 import { applyMotionAttribute, effectiveReducedMotion, type Settings } from '../settings/settings'
+import { setSfxEnabled } from '../audio/sfx'
 
 interface ProgressContextValue {
   store: Store
@@ -33,6 +34,11 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     mq.addEventListener?.('change', onChange)
     return () => mq.removeEventListener?.('change', onChange)
   }, [store.settings])
+
+  // Sound effects follow the setting (off by default).
+  useEffect(() => {
+    setSfxEnabled(store.settings.sound)
+  }, [store.settings.sound])
 
   const value = useMemo(() => ({ store, update }), [store, update])
   return <ProgressContext.Provider value={value}>{children}</ProgressContext.Provider>

@@ -1,0 +1,3 @@
+/* Honeycomb ceiling over a walnut wall; the monitor and the desk stand against the wall. */
+.scene { position: relative; overflow: hidden; border-bottom: 1px solid var(--void); }
+.room { padding-bottom: 4px; }

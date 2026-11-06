@@ -5,7 +5,7 @@
   border-left: 6px solid var(--kiln); box-shadow: 0 6px 14px rgba(0, 0, 0, 0.35);
 }
 .link:hover { background: #f5e9cc; }
-.no { grid-row: span 2; font: 22px/1 var(--f-hud); color: var(--kiln); }
+.no { grid-row: span 2; font: 22px/1 var(--f-hud); color: var(--rust); }
 .name { font: 600 15px/1.2 var(--f-body); text-transform: uppercase; letter-spacing: 0.06em; overflow-wrap: anywhere; }
 .sub { grid-column: 2; font: 12px/1.3 var(--f-memo); color: #5a3b25; }
 .status {

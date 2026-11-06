@@ -1,0 +1,233 @@
+/* Branch monitor (board Form 04). Colors are palette tokens, lightened or darkened with
+   color-mix. Inside the screen, --u is one unit of the board's 480-wide drawing, so the
+   wide layout scales exactly like the board; under 480px the phone layout takes over. */
+.crt {
+  --branch: color-mix(in srgb, var(--orange), var(--main-line) 30%);
+  --ring: color-mix(in srgb, var(--phosphor), var(--main-line) 40%);
+  --label-ink: color-mix(in srgb, var(--orange), var(--main-line) 35%);
+  --hud-ink: color-mix(in srgb, var(--orange), var(--main-line) 28%);
+  --status-ink: color-mix(in srgb, var(--teal) 35%, var(--cream));
+  --unlit: color-mix(in srgb, var(--muted) 55%, var(--void));
+  --halo: color-mix(in srgb, var(--orange) 55%, transparent);
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.bezel {
+  position: relative;
+  padding: clamp(14px, 3.2vw, 30px);
+  border-radius: clamp(26px, 5vw, 52px) / clamp(24px, 4.6vw, 48px);
+  background: linear-gradient(
+    150deg,
+    color-mix(in srgb, var(--cream), var(--main-line) 25%) 0%,
+    color-mix(in srgb, var(--paper), var(--muted) 25%) 40%,
+    var(--muted) 80%,
+    color-mix(in srgb, var(--muted), var(--ink) 22%) 100%
+  );
+  box-shadow:
+    inset 0 3px 2px color-mix(in srgb, var(--main-line) 55%, transparent),
+    inset 0 -6px 12px color-mix(in srgb, var(--walnut) 55%, transparent),
+    0 22px 40px color-mix(in srgb, var(--void) 75%, transparent);
+}
+
+.screen {
+  container: monitor / inline-size;
+  --u: calc(100cqi / 480);
+  position: relative;
+  overflow: hidden;
+  border-radius: 14% / 18%;
+  background: radial-gradient(
+    72% 72% at 50% 46%,
+    color-mix(in srgb, var(--chocolate) 42%, var(--void)) 0%,
+    var(--void) 65%,
+    color-mix(in srgb, var(--void), var(--ink) 20%) 100%
+  );
+  box-shadow:
+    inset 0 0 0 3px color-mix(in srgb, var(--ink), var(--muted) 18%),
+    inset 0 0 40px var(--void);
+}
+
+/* HUD header and footer: real text that wraps instead of overlapping. */
+.hud {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0 1.5em;
+  margin-inline: calc(var(--u) * 44);
+  font: 400 12px/1.25 var(--f-hud);
+  font-size: max(11px, calc(var(--u) * 12));
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--hud-ink);
+  text-shadow: 0 0 6px var(--halo);
+  white-space: nowrap;
+}
+.hudTop { padding-top: calc(var(--u) * 25); }
+.hudLow {
+  margin-top: calc(var(--u) * 9);
+  padding-bottom: calc(var(--u) * 30);
+  font-size: max(11px, calc(var(--u) * 11));
+  letter-spacing: 0.1em;
+  color: var(--phosphor);
+}
+.next { margin-left: auto; font-variant-numeric: tabular-nums; }
+
+.hair {
+  display: block;
+  height: max(1px, calc(var(--u) * 1.4));
+  margin: calc(var(--u) * 12) calc(var(--u) * 36) 0;
+  background: var(--teal);
+}
+.hairLow { margin-top: calc(var(--u) * 17); }
+
+/* Plot: the drawing plus the HTML labels laid over it. */
+.plot { position: relative; margin-top: calc(var(--u) * 18); }
+
+.art { display: block; width: 100%; height: auto; }
+.narrow { display: none; }
+
+.decor path { fill: none; stroke: var(--phosphor); stroke-width: 1.1; opacity: 0.34; }
+.dots circle { fill: var(--phosphor); opacity: 0.55; }
+.lit { stroke: var(--main-line); stroke-width: 4; stroke-linecap: round; }
+.unlit { stroke: var(--unlit); stroke-width: 3; stroke-linecap: round; }
+
+.branch path { fill: none; stroke: var(--branch); stroke-width: 2.6; transition: stroke-width var(--dur-fast) ease-out; }
+.node { fill: var(--void); stroke: var(--ring); stroke-width: 2; }
+.branch[data-status='filed'] .node { fill: var(--branch); }
+.pulse {
+  fill: none;
+  stroke: var(--ring);
+  stroke-width: 1.5;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: pulse 2.4s ease-in-out infinite;
+}
+.spark { fill: var(--main-line); }
+.idle path { stroke: color-mix(in srgb, var(--branch) 78%, var(--void)); }
+.idle .node { stroke: color-mix(in srgb, var(--ring) 70%, var(--void)); }
+.hot path { stroke-width: 4; }
+.hot .node { stroke: var(--teal); stroke-width: 3; }
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.35; transform: scale(1); }
+  50% { opacity: 0.9; transform: scale(1.6); }
+}
+
+.labels { position: absolute; inset: 0; z-index: 2; margin: 0; padding: 0; list-style: none; pointer-events: none; }
+.item {
+  position: absolute;
+  left: var(--wx);
+  top: var(--wy);
+  width: max-content;
+  max-width: calc(100% - var(--wx) - var(--u) * 28);
+  margin-left: calc(var(--u) * 10);
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1em;
+  margin-top: calc(-0.725em - 1px); /* centres the title line on its node */
+  padding: 0.15em 0.4em 0.2em;
+  font: 400 15px/1.15 var(--f-hud);
+  font-size: max(13px, calc(var(--u) * 15));
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--label-ink);
+  text-shadow: 0 0 6px var(--halo);
+  border: 1px solid transparent;
+  /* a soft dark backing keeps the label clear of the background branches */
+  background: color-mix(in srgb, var(--void) 40%, transparent);
+  box-shadow: 0 0 10px 4px color-mix(in srgb, var(--void) 40%, transparent);
+  pointer-events: auto;
+}
+.title { white-space: nowrap; }
+.status {
+  font-size: max(11px, calc(var(--u) * 11));
+  letter-spacing: 0.14em;
+  color: var(--status-ink);
+  text-shadow: none;
+}
+.item[data-status='unavailable'] .label { color: var(--phosphor); }
+.item[data-status='unavailable'] .status { color: var(--muted); }
+.link:hover { border-color: var(--line); background: color-mix(in srgb, var(--orange) 14%, transparent); }
+.link:focus-visible { outline-offset: 1px; }
+
+/* CRT glass: scanlines, a highlight, a vignette and a slow flicker (off under reduced motion). */
+.scan {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  background:
+    repeating-linear-gradient(0deg, color-mix(in srgb, var(--void) 30%, transparent) 0 1px, transparent 1px 3px),
+    radial-gradient(120% 90% at 30% 20%, color-mix(in srgb, var(--cream) 10%, transparent), transparent 45%),
+    radial-gradient(110% 110% at 50% 50%, transparent 60%, color-mix(in srgb, var(--void) 70%, transparent));
+  animation: flicker 5s infinite;
+}
+@keyframes flicker {
+  0%, 47%, 49%, 100% { opacity: 1; }
+  48% { opacity: 0.86; }
+  72% { opacity: 0.95; }
+}
+
+.knob {
+  position: absolute;
+  top: 50%;
+  width: 10px;
+  height: 26px;
+  margin-top: -13px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--muted), var(--ink) 45%), color-mix(in srgb, var(--muted), var(--ink) 8%));
+}
+.knobL { left: -8px; }
+.knobR { right: -8px; }
+.foot {
+  width: 46%;
+  height: 16px;
+  margin: 0 auto;
+  border-radius: 0 0 10px 10px;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--muted), var(--ink) 12%), color-mix(in srgb, var(--muted), var(--ink) 48%));
+}
+
+/* Draw-on: once per mount (the component drops data-drawing), never under reduced motion. */
+.crt[data-drawing] .draw {
+  stroke-dasharray: 1;
+  animation: draw 900ms var(--ease-out) both;
+  animation-delay: calc(250ms + var(--i, 0) * 45ms);
+}
+.crt[data-drawing] .lit { animation-duration: 650ms; animation-delay: 0ms; }
+.crt[data-drawing] .branch .draw { animation-duration: 800ms; animation-delay: calc(650ms + var(--i) * 150ms); }
+.crt[data-drawing] .unlit { animation: appear 500ms ease-out 450ms both; }
+.crt[data-drawing] .dots { animation: appear 600ms ease-out 1150ms both; }
+.crt[data-drawing] .knot { animation: appear 350ms ease-out both; animation-delay: calc(1300ms + var(--i) * 150ms); }
+.crt[data-drawing] .item { animation: appear 400ms ease-out both; animation-delay: calc(1400ms + var(--k) * 150ms); }
+
+@keyframes draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+@keyframes appear {
+  from { opacity: 0; }
+}
+
+/* Phones: the narrow drawing, fixed readable sizes, and only the HUD text that fits. */
+@container monitor (width < 480px) {
+  .wide { display: none; }
+  .narrow { display: block; }
+  .hud { margin-inline: max(22px, calc(var(--u) * 44)); }
+  .hudTop { padding-top: max(18px, calc(var(--u) * 25)); }
+  .hudLow { justify-content: center; margin-top: 8px; padding-bottom: 20px; }
+  .next { margin-left: 0; }
+  .motto,
+  .signal { display: none; }
+  .hair { margin-inline: max(16px, calc(var(--u) * 36)); }
+  .plot { margin-top: 12px; }
+  .hairLow { margin-top: 12px; }
+  /* clear of the node, which scales with the 320-unit phone drawing */
+  .item { left: var(--nx); top: var(--ny); margin-left: max(9px, calc(100cqi / 320 * 9)); max-width: calc(100% - var(--nx) - 22px); }
+  .label { font-size: 13px; }
+  .status { font-size: 11px; }
+}
