@@ -1,0 +1,502 @@
+[
+ {
+  "id": "agent-venom",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Spider-Man: Homecoming"
+  },
+  "contested": true,
+  "note": "Flash Thompson (Tony Revolori) debuts in Homecoming, earlier than Far From Home. Agent Venom identity never appears on screen, so the MCU flag is defensible either way.",
+  "source": "https://en.wikipedia.org/wiki/Flash_Thompson"
+ },
+ {
+  "id": "ant-man-hank-pym",
+  "field": "realName",
+  "action": "keep",
+  "value": "Hank Pym",
+  "contested": false,
+  "note": "Infobox gives Dr. Henry Jonathan Pym; Hank Pym is the commonly used form.",
+  "source": "https://en.wikipedia.org/wiki/Hank_Pym"
+ },
+ {
+  "id": "ant-man-hank-pym",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Ant-Man"
+  },
+  "contested": false,
+  "note": "Hank Pym first appears on screen in Ant-Man (2015); Age of Ultron match was only a mention of the suit.",
+  "source": "https://en.wikipedia.org/wiki/Hank_Pym"
+ },
+ {
+  "id": "attuma",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "atlantis",
+  "contested": false,
+  "note": "Atlantean warlord; Deep Six is not a vocabulary team, atlantis is defensible.",
+  "source": "https://en.wikipedia.org/wiki/Attuma"
+ },
+ {
+  "id": "beetle-abner-jenkins",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Strange Tales #123 (Aug 1964), Abner Jenkins, Thunderbolts and Masters of Evil all check out.",
+  "source": "https://en.wikipedia.org/wiki/Abner_Jenkins"
+ },
+ {
+  "id": "black-panther",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "wakanda",
+  "contested": false,
+  "note": "Wakanda remains the strongest association; not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+ },
+ {
+  "id": "captain-america",
+  "field": "debut",
+  "action": "set",
+  "value": {
+   "debutYear": 1940,
+   "debutIssue": "Captain America Comics #1",
+   "debutDate": "1940-12"
+  },
+  "contested": false,
+  "note": "Infobox gives December 20, 1940; same decade as cover date 1941, so policy 2 uses the infobox value.",
+  "source": "https://en.wikipedia.org/wiki/Captain_America"
+ },
+ {
+  "id": "captain-america",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Captain America: The First Avenger"
+  },
+  "contested": false,
+  "note": "Incredible Hulk match is a passing reference only.",
+  "source": "https://en.wikipedia.org/wiki/Captain_America"
+ },
+ {
+  "id": "clea",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Doctor Strange in the Multiverse of Madness"
+  },
+  "contested": false,
+  "note": "Charlize Theron appears in the mid-credits scene; Doctor Strange match was only a mention.",
+  "source": "https://en.wikipedia.org/wiki/Clea_(Marvel_Comics)"
+ },
+ {
+  "id": "daredevil",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Spider-Man: No Way Home"
+  },
+  "contested": false,
+  "note": "Charlie Cox as Matt Murdock debuts in No Way Home (Dec 2021); Hawkeye features only Kingpin.",
+  "source": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+ },
+ {
+  "id": "devil-dinosaur",
+  "field": "primaryTeam",
+  "action": "set",
+  "value": "none",
+  "contested": false,
+  "note": "Secret Warriors is wrong; infobox teams (Fallen Angels, Circus of Crime, Pet Avengers) have no vocabulary id. Teams cleared as well.",
+  "source": "https://en.wikipedia.org/wiki/Devil_Dinosaur"
+ },
+ {
+  "id": "devil-dinosaur",
+  "field": "teams",
+  "action": "set",
+  "value": [],
+  "contested": false,
+  "note": "No vocabulary team applies.",
+  "source": "https://en.wikipedia.org/wiki/Devil_Dinosaur"
+ },
+ {
+  "id": "dracula",
+  "field": "debut",
+  "action": "keep",
+  "value": {
+   "debutYear": 1972,
+   "debutIssue": "The Tomb of Dracula #1",
+   "debutDate": "1972-04"
+  },
+  "contested": false,
+  "note": "Policy 1: Suspense #7 (1951) is a different precursor concept; modern debut kept.",
+  "source": "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)"
+ },
+ {
+  "id": "echo",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Hawkeye"
+  },
+  "contested": false,
+  "note": "Alaqua Cox debuts as Maya Lopez in Hawkeye (Nov 2021), before Echo (2024).",
+  "source": "https://en.wikipedia.org/wiki/Echo_(Marvel_Comics)"
+ },
+ {
+  "id": "falcon-sam-wilson",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Captain America #117 (Sept 1969), Sam Wilson, Avengers all correct.",
+  "source": "https://en.wikipedia.org/wiki/Falcon_(comics)"
+ },
+ {
+  "id": "green-goblin",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "dark-avengers",
+  "contested": false,
+  "note": "Infobox alliance entry is garbled; Osborn led the Dark Avengers, defensible, not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+ },
+ {
+  "id": "hela",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "asgard",
+  "contested": false,
+  "note": "Not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Hela_(character)"
+ },
+ {
+  "id": "human-torch-johnny-storm",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Fantastic Four #1 (Nov 1961), Johnny Storm, Fantastic Four/Avengers fine.",
+  "source": "https://en.wikipedia.org/wiki/Human_Torch"
+ },
+ {
+  "id": "human-torch-johnny-storm",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Deadpool & Wolverine"
+  },
+  "contested": false,
+  "note": "Chris Evans appears on screen as Johnny Storm in Deadpool & Wolverine; the First Avenger exhibit is a prop and does not count.",
+  "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+ },
+ {
+  "id": "iron-man",
+  "field": "debut",
+  "action": "set",
+  "value": {
+   "debutYear": 1962,
+   "debutIssue": "Tales of Suspense #39",
+   "debutDate": "1962-12"
+  },
+  "contested": false,
+  "note": "Infobox gives December 1962; same decade as 1963 cover date, so policy 2 uses the infobox value.",
+  "source": "https://en.wikipedia.org/wiki/Iron_Man"
+ },
+ {
+  "id": "kang-the-conqueror",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Loki season 1"
+  },
+  "contested": false,
+  "note": "He Who Remains (Jonathan Majors) is a Kang variant, appearing before Quantumania.",
+  "source": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+ },
+ {
+  "id": "klaw",
+  "field": "mcu",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Avengers: Age of Ultron"
+  },
+  "contested": false,
+  "note": "Andy Serkis plays Ulysses Klaue (the MCU Klaw) from Age of Ultron.",
+  "source": "https://en.wikipedia.org/wiki/Klaw_(character)"
+ },
+ {
+  "id": "laufey",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Journey into Mystery #112 (Jan 1965), no civilian name, no team all correct.",
+  "source": "https://en.wikipedia.org/wiki/Laufey"
+ },
+ {
+  "id": "magus",
+  "field": "debut",
+  "action": "keep",
+  "value": {
+   "debutYear": 1975,
+   "debutIssue": "Strange Tales #178",
+   "debutDate": "1975-02"
+  },
+  "contested": false,
+  "note": "Magus has his own article and debut; Fantastic Four #66 Him is a distinct character.",
+  "source": "https://en.wikipedia.org/wiki/Magus_(Marvel_Comics)"
+ },
+ {
+  "id": "mephisto",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Ironheart"
+  },
+  "contested": false,
+  "note": "Sacha Baron Cohen plays Mephisto in Ironheart (2025); Infinity War match was only an inspiration remark.",
+  "source": "https://en.wikipedia.org/wiki/Mephisto_(Marvel_Comics)"
+ },
+ {
+  "id": "molten-man",
+  "field": "mcu",
+  "action": "set",
+  "value": {
+   "mcu": false,
+   "mcuFirst": ""
+  },
+  "contested": false,
+  "note": "Only an illusionary fire elemental based on Molten Man appears in Far From Home; Mark Raxton does not appear.",
+  "source": "https://en.wikipedia.org/wiki/Molten_Man"
+ },
+ {
+  "id": "namor",
+  "field": "realName",
+  "action": "keep",
+  "value": "Namor McKenzie",
+  "contested": false,
+  "note": "Infobox full name is Namor McKenzie.",
+  "source": "https://en.wikipedia.org/wiki/Namor"
+ },
+ {
+  "id": "namor",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "atlantis",
+  "contested": false,
+  "note": "Not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Namor"
+ },
+ {
+  "id": "nova-richard-rider",
+  "field": "mcu",
+  "action": "keep",
+  "value": {
+   "mcu": false,
+   "mcuFirst": ""
+  },
+  "contested": false,
+  "note": "Only unrelated Nova Corpsmen (Rhomann Dey) appear; Richard Rider does not.",
+  "source": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
+ },
+ {
+  "id": "peggy-carter",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Captain America: The First Avenger"
+  },
+  "contested": false,
+  "note": "Hayley Atwell debuts as Peggy Carter in The First Avenger.",
+  "source": "https://en.wikipedia.org/wiki/Peggy_Carter"
+ },
+ {
+  "id": "professor-x",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Doctor Strange in the Multiverse of Madness"
+  },
+  "contested": false,
+  "note": "Patrick Stewart appears as Xavier in Multiverse of Madness; Black Panther match was a comparison.",
+  "source": "https://en.wikipedia.org/wiki/Professor_X"
+ },
+ {
+  "id": "quasar",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Wendell Vaughn, Incredible Hulk vol. 2 #234 (Apr 1979) per Wikipedia, Avengers/S.H.I.E.L.D. acceptable.",
+  "source": "https://en.wikipedia.org/wiki/Quasar_(character)"
+ },
+ {
+  "id": "rogue",
+  "field": "mcu",
+  "action": "keep",
+  "value": {
+   "mcu": false,
+   "mcuFirst": ""
+  },
+  "contested": false,
+  "note": "No on-screen Rogue in listed MCU titles.",
+  "source": "https://en.wikipedia.org/wiki/Rogue_(Marvel_Comics)"
+ },
+ {
+  "id": "shang-chi",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "Shang-Chi and the Legend of the Ten Rings"
+  },
+  "contested": false,
+  "note": "Black Widow only mentions the title.",
+  "source": "https://en.wikipedia.org/wiki/Shang-Chi"
+ },
+ {
+  "id": "speed",
+  "field": "mcuFirst",
+  "action": "keep",
+  "value": {
+   "mcu": true,
+   "mcuFirst": "WandaVision"
+  },
+  "contested": false,
+  "note": "Tommy Maximoff (Jett Klyne) appears in WandaVision (2021).",
+  "source": "https://en.wikipedia.org/wiki/Speed_(character)"
+ },
+ {
+  "id": "spider-man-2099",
+  "field": "realName",
+  "action": "keep",
+  "value": "Miguel O'Hara",
+  "contested": false,
+  "note": "Infobox field malformed; Miguel O'Hara is correct.",
+  "source": "https://en.wikipedia.org/wiki/Spider-Man_2099"
+ },
+ {
+  "id": "spider-man-2099",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "web-warriors",
+  "contested": false,
+  "note": "Not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Spider-Man_2099"
+ },
+ {
+  "id": "sprite",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "The Eternals #9 (Mar 1977), no civilian name, Eternals team consistent. MCU Sprite is female, comics male; comics gender kept.",
+  "source": "https://en.wikipedia.org/wiki/Sprite_(Eternal)"
+ },
+ {
+  "id": "super-skrull",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "skrull-empire",
+  "contested": false,
+  "note": "Not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Super-Skrull"
+ },
+ {
+  "id": "tarantula",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Amazing Spider-Man #134 (July 1974); Anton Miguel Rodriquez confirmed. Live-action cameo in Brand New Day (July 2026) supports mcu true.",
+  "source": "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)"
+ },
+ {
+  "id": "thena",
+  "field": "debut",
+  "action": "keep",
+  "value": {
+   "debutYear": 1976,
+   "debutIssue": "The Eternals #5",
+   "debutDate": "1976-11"
+  },
+  "contested": false,
+  "note": "Policy 1: Minerva (1940) is a precursor concept.",
+  "source": "https://en.wikipedia.org/wiki/Thena"
+ },
+ {
+  "id": "thunderstrike",
+  "field": "realName",
+  "action": "keep",
+  "value": "Eric Masterson",
+  "contested": false,
+  "note": "Infobox field malformed; Eric Masterson correct.",
+  "source": "https://en.wikipedia.org/wiki/Thunderstrike_(character)"
+ },
+ {
+  "id": "typhoid-mary",
+  "field": "primaryTeam",
+  "action": "keep",
+  "value": "the-hand",
+  "contested": false,
+  "note": "Hand is listed first in infobox; not clearly wrong.",
+  "source": "https://en.wikipedia.org/wiki/Typhoid_Mary_(character)"
+ },
+ {
+  "id": "viper-ophelia-sarkissian",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "Captain America #110 (Feb 1969), Hydra consistent.",
+  "source": "https://en.wikipedia.org/wiki/Viper_(Madame_Hydra)"
+ },
+ {
+  "id": "warlock-technarch",
+  "field": "source",
+  "action": "keep",
+  "value": null,
+  "contested": false,
+  "note": "The New Mutants #18 (Aug 1984) correct.",
+  "source": "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
+ },
+ {
+  "id": "warlock-technarch",
+  "field": "mcu",
+  "action": "keep",
+  "value": {
+   "mcu": false,
+   "mcuFirst": ""
+  },
+  "contested": false,
+  "note": "Adam Warlock is a different character.",
+  "source": "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
+ },
+ {
+  "id": "wizard",
+  "field": "mcu",
+  "action": "keep",
+  "value": {
+   "mcu": false,
+   "mcuFirst": ""
+  },
+  "contested": false,
+  "note": "No Wizard appears in the MCU.",
+  "source": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"
+ }
+]

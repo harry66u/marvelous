@@ -357,21 +357,20 @@ def _2():
 
 @glyph('3')
 def _3():
-    return DIGIT, [('A', sector(38, 73, 27, 8, -90, 150)),
-                   ('B', sector(38, 30, 30, 9, -150, 90))]
+    return DIGIT, [('A', sector(40, 72, 28, 8, -90, 150)), ('B', sector(40, 31, 31, 9, -150, 90))]
 
 
 @glyph('4')
 def _4():
-    return DIGIT, [('A', rect(44, 0, 72, 100)),
-                   ('B', union(band(bar(58, 108, -4, 30, 30), 22, 100), rect(0, 22, 76, 48)))]
+    diagonal = poly((0, 44), (30, 100), (56, 100), (24, 40))
+    return DIGIT, [('A', rect(46, 0, 74, 100)), ('B', union(diagonal, rect(0, 20, 76, 46)))]
 
 
 @glyph('5')
 def _5():
-    top = union(rect(6, 74, 72, 100), rect(6, 46, 34, 100))
-    bowl = union(half(ring(40, 31, 31, 8), 'R', 40), rect(6, 39, 40, 62), rect(4, 0, 40, 23))
-    return DIGIT, [('A', top), ('B', bowl)]
+    # Square shoulder and a curled bowl keep it apart from S.
+    shoulder = union(rect(6, 76, 70, 100), rect(6, 44, 34, 100))
+    return DIGIT, [('A', shoulder), ('B', sector(39, 33, 33, 10, -145, 90))]
 
 
 def _nine():
@@ -390,7 +389,7 @@ def _7():
 
 @glyph('8')
 def _8():
-    return DIGIT, [('A', ring(38, 75, 25, 7)), ('B', ring(38, 28, 28, 8))]
+    return DIGIT, [('A', ring(38, 74, 26, 7)), ('B', ring(38, 29, 29, 8))]
 
 
 @glyph('9')
@@ -412,7 +411,7 @@ def _period():
 
 @glyph(',', ink=(-26, CAP))
 def _comma():
-    return 30, [('A', union(rect(0, 0, 30, 28), poly((8, 2), (30, 2), (14, -24), (-6, -24))))]
+    return 30, [('A', union(rect(0, 0, 30, 28), poly((10, 2), (30, 2), (16, -24), (0, -24))))]
 
 
 @glyph('!')
@@ -422,8 +421,8 @@ def _exclam():
 
 @glyph('?')
 def _question():
-    hook = union(sector(36, 70, 30, 9, -90, 165), rect(22, 34, 36, 50))
-    return 70, [('A', hook), ('B', rect(22, 0, 52, 28))]
+    hook = union(sector(35, 70, 30, 9, -90, 160), rect(21, 34, 49, 56))
+    return 66, [('A', hook), ('B', rect(21, 0, 49, 28))]
 
 
 @glyph('-')
@@ -463,8 +462,8 @@ def _numbersign():
 
 @glyph('&')
 def _ampersand():
-    return 96, [('A', ring(32, 77, 22, 7)), ('A', band(bar(18, 65, 88, -5, 28), 0, CAP)),
-                ('B', sector(36, 31, 31, 9, 72, 338)), ('B', rect(68, 36, 96, 56))]
+    return 94, [('A', ring(28, 77, 22, 7)), ('A', band(bar(14, 65, 84, -5, 28), 0, CAP)),
+                ('B', sector(32, 31, 31, 9, 72, 338)), ('B', rect(64, 36, 92, 56))]
 
 
 @glyph('+')
@@ -479,15 +478,15 @@ def _percent():
 
 
 def _paren():
-    arc = moved(sector(70, 50, 70, 46, 125, 235), -8, 0)
+    arc = sector(70, 50, 70, 46, 125, 235)
     return [('A', half(arc, 'T', 50)), ('B', half(arc, 'B', 50))]
 
 
 @glyph('(', ink=(-20, 120))
 def _parenleft():
-    return 40, _paren()
+    return 44, _paren()
 
 
 @glyph(')', ink=(-20, 120))
 def _parenright():
-    return 40, [(tone, mirrored(p, 40)) for tone, p in _paren()]
+    return 44, [(tone, mirrored(p, 44)) for tone, p in _paren()]
