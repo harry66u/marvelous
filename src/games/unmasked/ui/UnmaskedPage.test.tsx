@@ -197,6 +197,22 @@ describe('UnmaskedPage', () => {
     expect(screen.getByRole('heading', { name: 'Identity confirmed in 2 of 6 attempts.' })).toBeInTheDocument()
   })
 
+  it('a reload after midnight resumes the unfinished case from the day before', () => {
+    vi.useFakeTimers({ toFake: ['Date', 'setTimeout', 'clearTimeout', 'setInterval', 'clearInterval'] })
+    vi.setSystemTime(new Date('2026-11-07T04:58:00Z')) // 23:58 Eastern on 6 Nov
+    h.day = readyDays({ '2026-11-07': 'galactus' })
+    const first = renderPage()
+    fireEvent.change(searchBox(), { target: { value: 'rogue' } })
+    fireEvent.keyDown(searchBox(), { key: 'Enter' })
+    first.unmount()
+    vi.setSystemTime(new Date('2026-11-07T05:03:00Z')) // 00:03 Eastern on 7 Nov, fresh mount
+    renderPage()
+    fireEvent.change(searchBox(), { target: { value: 'storm' } })
+    fireEvent.keyDown(searchBox(), { key: 'Enter' })
+    expect(stored('2026-11-06')).toMatchObject({ status: 'filed', result: { attempts: 2, solved: true } })
+    expect(stored('2026-11-07')).toBeUndefined()
+  })
+
   it('Copy report writes the buildReport text to the clipboard', async () => {
     const user = userEvent.setup()
     const writeText = vi.fn().mockResolvedValue(undefined)

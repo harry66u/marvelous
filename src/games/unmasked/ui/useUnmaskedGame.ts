@@ -6,6 +6,7 @@ import { useDay } from '../../../data/useDay'
 import { useToday } from '../../../data/useToday'
 import type { UnmaskedResult } from '../../../lib/marks'
 import { getRecord, noteRequired, withRecord, type GameRecord, type Store } from '../../../lib/progress'
+import { addDays } from '../../../lib/time'
 import { decodeAnswer } from '../../../server/dayBundle'
 import { applyGuess, newUnmasked, type UnmaskedState } from '../logic/game'
 import { buildSearchIndex, type SearchEntry } from '../logic/search'
@@ -63,11 +64,16 @@ const sameList = (a: readonly string[] | undefined, b: readonly string[]) =>
 /** Today's Unmasked case: data loading, the stored game, and filing attempts. */
 export function useUnmaskedGame(): UnmaskedGame {
   const today = useToday()
-  const [pinned, setPinned] = useState<string | null>(null)
+  const { store, update } = useProgress()
+  // A case started before midnight stays open: with nothing filed for today yet, an unfinished
+  // case from yesterday is resumed and still counts for its own date (spec section 5).
+  const [pinned, setPinned] = useState<string | null>(() => {
+    const yesterday = addDays(today, -1)
+    return !readUnmasked(store, today) && readUnmasked(store, yesterday)?.status === 'in_progress' ? yesterday : null
+  })
   const date = pinned ?? today
   const day = useDay(date)
   const chars = useCharacters()
-  const { store, update } = useProgress()
   const record = readUnmasked(store, date)
   const started = record !== undefined
 

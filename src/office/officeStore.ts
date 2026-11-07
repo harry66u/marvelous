@@ -30,6 +30,7 @@ export function conflictMessage(e: unknown): string {
     return 'Someone else changed this file since you loaded it. Reload to get their version, then redo your edit.'
   }
   if (e instanceof GitHubError && (e.status === 401 || e.status === 403)) {
+    if (!loadToken()) return 'GitHub would not serve the file without a token (rate limit or private repository). Add a token under Access, then reload.'
     return 'GitHub refused the token. Check that it has Contents: Read and write on harry66u/marvelous, and has not expired.'
   }
   return e instanceof Error ? e.message : 'Something went wrong.'
@@ -133,6 +134,12 @@ export function useOfficeStore() {
     const shas = { ...load.shas }
     const done: SavedCommit[] = []
     try {
+      if (charsDirty) {
+        const r = await writeJsonFile(ref, CHARACTERS_PATH, chars, shas.characters, 'office: update characters', token)
+        done.push({ file: CHARACTERS_PATH, url: r.commitUrl })
+        setOriginal((o) => ({ ...o, chars: JSON.stringify(chars) }))
+        setLoad((l) => (l.status === 'ready' ? { ...l, shas: { ...l.shas, characters: r.sha } } : l))
+      }
       if (scheduleDirty) {
         const out = sortDays(schedule)
         const r = await writeJsonFile(ref, SCHEDULE_PATH, out, shas.schedule, 'office: update schedule', token)
@@ -140,12 +147,6 @@ export function useOfficeStore() {
         done.push({ file: SCHEDULE_PATH, url: r.commitUrl })
         setOriginal((o) => ({ ...o, schedule: JSON.stringify(out) }))
         setLoad((l) => (l.status === 'ready' ? { ...l, shas: { ...l.shas, schedule: r.sha } } : l))
-      }
-      if (charsDirty) {
-        const r = await writeJsonFile(ref, CHARACTERS_PATH, chars, shas.characters, 'office: update characters', token)
-        done.push({ file: CHARACTERS_PATH, url: r.commitUrl })
-        setOriginal((o) => ({ ...o, chars: JSON.stringify(chars) }))
-        setLoad((l) => (l.status === 'ready' ? { ...l, shas: { ...l.shas, characters: r.sha } } : l))
       }
     } catch (e) {
       setSaveError(conflictMessage(e))

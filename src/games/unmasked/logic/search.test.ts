@@ -35,3 +35,13 @@ describe('searchCharacters', () => {
     expect(ids('  ')).toEqual([])
   })
 })
+
+describe('exact names win (real character file)', () => {
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const real = buildSearchIndex(JSON.parse(require('node:fs').readFileSync('content/characters.json', 'utf8')))
+  const top = (q: string) => searchCharacters(real, q)[0]?.name
+  it('"spiderman" puts Peter Parker first, not Spider-Man 2099', () => expect(top('spiderman')).toBe('Spider-Man (Peter Parker)'))
+  it('an exact alias beats a codename prefix: "rocket" is Rocket Raccoon', () => expect(top('rocket')).toBe('Rocket Raccoon'))
+  it('"nat" is Black Widow', () => expect(top('nat')).toBe('Black Widow'))
+  it('"xavier" is Professor X', () => expect(top('xavier')).toBe('Professor X'))
+})

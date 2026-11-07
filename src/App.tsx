@@ -2,6 +2,7 @@ import { lazy, Suspense } from 'react'
 import { Route, Routes } from 'react-router'
 import HomePage from './pages/Home/HomePage'
 import { ProgressProvider } from './data/progress'
+import RouteErrorBoundary from './ui/RouteErrorBoundary'
 
 const UnmaskedPage = lazy(() => import('./games/unmasked/ui/UnmaskedPage'))
 const ManualPage = lazy(() => import('./pages/Manual/ManualPage'))
@@ -20,6 +21,7 @@ function Loading() {
 export default function App() {
   return (
     <ProgressProvider>
+      <RouteErrorBoundary>
       <Suspense fallback={<Loading />}>
         <Routes>
           <Route path="/" element={<HomePage />} />
@@ -30,6 +32,7 @@ export default function App() {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Suspense>
+      </RouteErrorBoundary>
     </ProgressProvider>
   )
 }

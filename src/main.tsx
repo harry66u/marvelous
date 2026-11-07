@@ -11,6 +11,17 @@ import './ui/base.css'
 import './ui/effects.css'
 import App from './App'
 
+window.addEventListener('vite:preloadError', (event) => {
+  try {
+    if (sessionStorage.getItem('marvelous:reloaded')) return
+    sessionStorage.setItem('marvelous:reloaded', '1')
+  } catch {
+    return
+  }
+  event.preventDefault()
+  window.location.reload()
+})
+
 const root = document.getElementById('root')
 if (!root) throw new Error('Missing #root element')
 

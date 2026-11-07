@@ -179,3 +179,9 @@ describe('toPublic', () => {
     expect(p.name).toBe('Storm')
   })
 })
+
+describe('debutIssue', () => {
+  it('is required', () => {
+    expectIssue(issues({ debutIssue: '  ' }), 'characters[0].debutIssue')
+  })
+})

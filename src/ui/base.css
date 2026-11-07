@@ -13,7 +13,7 @@ img, svg { display: block; max-width: 100%; }
 button, input, select, textarea { font: inherit; color: inherit; }
 button { cursor: pointer; }
 a { color: inherit; }
-:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; box-shadow: 0 0 0 3px var(--void); }
 ::selection { background: var(--orange); color: var(--ink); }
 h1, h2, h3 { text-wrap: balance; }
 .sr-only {

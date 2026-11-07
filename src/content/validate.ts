@@ -30,6 +30,7 @@ export function validateCharacters(chars: Character[], teams: Team[]): Issue[] {
     if (!nameKey) add('error', `${p}.name`, 'Name is empty.')
     else if (seenNames.has(nameKey)) add('error', `${p}.name`, `Duplicate name "${c.name}".`)
     seenNames.add(nameKey)
+    if (!c.debutIssue || !c.debutIssue.trim()) add('error', `${p}.debutIssue`, 'Debut issue is empty.')
 
     if (c.aliases.length > 8) add('error', `${p}.aliases`, `${c.aliases.length} aliases; at most 8.`)
     c.aliases.forEach((a, j) => {

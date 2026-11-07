@@ -77,3 +77,20 @@ describe('shifts', () => {
     expect(bestShifts(emptyStore())).toBe(0)
   })
 })
+
+describe('loadStore sanitizes damaged day records', () => {
+  it('drops broken entries instead of crashing later', () => {
+    const storage = {
+      getItem: () => JSON.stringify({
+        version: 1,
+        days: { '2026-11-05': null, '2026-11-06': { games: 5 }, '2026-11-07': { required: ['unmasked', 7], games: { unmasked: { status: 'weird' }, retcon: { status: 'filed', state: {} } } } },
+        settings: {},
+      }),
+    } as unknown as Storage
+    const s = loadStore(storage)
+    expect(s.days['2026-11-05']).toBeUndefined()
+    expect(s.days['2026-11-06']).toEqual({ required: [], games: {} })
+    expect(s.days['2026-11-07']?.required).toEqual(['unmasked'])
+    expect(Object.keys(s.days['2026-11-07']?.games ?? {})).toEqual(['retcon'])
+  })
+})

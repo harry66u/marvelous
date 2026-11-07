@@ -37,7 +37,7 @@ function headers(token?: string | null): Record<string, string> {
 }
 
 async function request<T>(url: string, init: RequestInit): Promise<T> {
-  const res = await fetch(url, init)
+  const res = await fetch(url, { cache: 'no-store', ...init })
   const body = (await res.json().catch(() => ({}))) as { message?: string }
   if (!res.ok) throw new GitHubError(res.status, body.message ?? `GitHub returned ${res.status}`)
   return body as T

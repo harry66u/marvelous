@@ -38,6 +38,27 @@ function defaultStorage(): Storage | null {
 const isObject = (v: unknown): v is Record<string, unknown> =>
   typeof v === 'object' && v !== null && !Array.isArray(v)
 
+const GAME_STATUSES = new Set(['in_progress', 'filed'])
+
+/** Keep only well-formed day records, so a damaged store can never crash rendering. */
+function sanitizeDays(days: Record<string, unknown>): Store['days'] {
+  const out: Store['days'] = {}
+  for (const [date, rec] of Object.entries(days)) {
+    if (!isObject(rec)) continue
+    const required = Array.isArray(rec.required)
+      ? (rec.required.filter((g) => typeof g === 'string') as DayRecord['required'])
+      : []
+    const games: DayRecord['games'] = {}
+    if (isObject(rec.games)) {
+      for (const [game, g] of Object.entries(rec.games)) {
+        if (isObject(g) && GAME_STATUSES.has(g.status as string)) games[game as keyof DayRecord['games']] = g as unknown as GameRecord
+      }
+    }
+    out[date] = { required, games }
+  }
+  return out
+}
+
 export function loadStore(storage: Storage | null = defaultStorage()): Store {
   try {
     const raw = storage?.getItem(STORE_KEY)
@@ -47,7 +68,7 @@ export function loadStore(storage: Storage | null = defaultStorage()): Store {
     const settings = isObject(data.settings) ? data.settings : {}
     return {
       version: 1,
-      days: data.days as Store['days'],
+      days: sanitizeDays(data.days),
       settings: {
         ...DEFAULT_SETTINGS,
         ...settings,

@@ -11,8 +11,9 @@ export interface CharactersState {
 
 let request: Promise<PublicCharacter[]> | null = null
 
-function loadCharacters(): Promise<PublicCharacter[]> {
-  request ??= fetch(charactersUrl()).then((res) => {
+function loadCharacters(force = false): Promise<PublicCharacter[]> {
+  if (force) request = null
+  request ??= fetch(charactersUrl(), force ? { cache: 'no-cache' } : undefined).then((res) => {
     if (!res.ok) throw new Error(`characters: HTTP ${res.status}`)
     return res.json() as Promise<PublicCharacter[]>
   })
@@ -30,7 +31,7 @@ export function useCharacters(): CharactersState {
   const [state, setState] = useState<Omit<CharactersState, 'retry'>>({ status: 'loading', characters: [], byId: EMPTY })
   useEffect(() => {
     let cancelled = false
-    loadCharacters().then(
+    loadCharacters(attempt > 0).then(
       (characters) => {
         if (!cancelled) setState({ status: 'ready', characters, byId: new Map(characters.map((c) => [c.id, c])) })
       },

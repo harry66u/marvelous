@@ -22,3 +22,15 @@ describe('ProgressProvider', () => {
     expect(document.documentElement.dataset.motion).toBe('reduce')
   })
 })
+
+describe('several open tabs', () => {
+  it('a stale tab never erases progress another tab saved', () => {
+    const a = renderHook(() => useProgress(), { wrapper })
+    const b = renderHook(() => useProgress(), { wrapper }) // loaded before A files anything
+    act(() => a.result.current.update((s) => ({ ...s, days: { '2026-11-06': { required: ['unmasked'], games: {} } } })))
+    act(() => b.result.current.update((s) => ({ ...s, settings: { ...s.settings, sound: true } })))
+    const disk = JSON.parse(localStorage.getItem(STORE_KEY) ?? '{}')
+    expect(disk.days['2026-11-06']).toBeDefined()
+    expect(disk.settings.sound).toBe(true)
+  })
+})
