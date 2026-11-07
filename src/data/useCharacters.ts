@@ -1,4 +1,4 @@
-import { charactersUrl } from '../config'
+import { fetchCharacters } from '../config'
 import { useEffect, useState } from 'react'
 import type { PublicCharacter } from '../content/types'
 
@@ -13,7 +13,7 @@ let request: Promise<PublicCharacter[]> | null = null
 
 function loadCharacters(force = false): Promise<PublicCharacter[]> {
   if (force) request = null
-  request ??= fetch(charactersUrl(), force ? { cache: 'no-cache' } : undefined).then((res) => {
+  request ??= fetchCharacters(force ? { cache: 'no-cache' } : undefined).then((res) => {
     if (!res.ok) throw new Error(`characters: HTTP ${res.status}`)
     return res.json() as Promise<PublicCharacter[]>
   })

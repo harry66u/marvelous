@@ -29,7 +29,7 @@ npm run e2e        # end-to-end tests (Playwright, Chromium)
 npm run build      # validates content, type-checks, builds dist/
 ```
 
-`npm run build:preview` builds a static copy in `dist-preview/` for hosts without serverless functions. It uses relative paths, in-app routing, and pre-built daily files for the next week.
+`npm run build:preview` builds a static copy in `dist-preview/` for hosts without serverless functions. It uses relative paths and in-app routing, and bakes the characters and the next week of daily cases into the bundle, so it makes no data requests.
 
 ## Deploy (Vercel)
 

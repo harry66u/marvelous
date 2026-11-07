@@ -32,7 +32,9 @@
 .day:hover, .result:hover:not(:disabled) { background: rgba(242, 103, 15, 0.12); }
 .result:disabled { opacity: 0.5; cursor: not-allowed; }
 .sel { background: rgba(242, 103, 15, 0.22); outline: 1px solid var(--orange); outline-offset: -1px; }
-.past { opacity: 0.6; }
+/* Past days recede without opacity, which would drop the muted date below 4.5:1. */
+.past { background: rgba(0, 0, 0, 0.28); }
+.past .who { color: var(--muted); }
 .missing .who { color: var(--mustard); font-family: var(--f-hud); letter-spacing: 0.12em; }
 .date { font-family: var(--f-hud); letter-spacing: 0.06em; color: var(--muted); }
 .who { overflow-wrap: anywhere; }

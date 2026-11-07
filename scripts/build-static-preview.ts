@@ -1,23 +1,23 @@
 /**
- * Static preview: `npm run build:preview` builds dist-preview/ with relative assets and
- * pre-built day bundles in dist-preview/days/, for hosts without serverless functions.
- * Day files are written from the launch date through 7 days after today (Eastern).
+ * Static preview data: `npm run build:preview` runs this before `vite build --mode static`.
+ * It writes src/generated/preview-data.json with the public characters and the day bundles from the
+ * launch date through 7 days after today (Eastern). The preview bundles this file instead of
+ * fetching, because some static hosts serve the page's scripts but refuse its data requests.
  */
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import schedule from '../content/schedule.json' with { type: 'json' }
-import { buildDayBundle } from '../src/server/dayBundle'
+import { buildDayBundle, type DayBundle } from '../src/server/dayBundle'
 import { addDays, daysBetween, etDateOf } from '../src/lib/time'
 import type { Schedule } from '../src/content/types'
 
 const s = schedule as Schedule
 const last = addDays(etDateOf(new Date()), 7)
-mkdirSync('dist-preview/days', { recursive: true })
-let written = 0
+const days: Record<string, DayBundle> = {}
 for (let d = s.launchDate; daysBetween(d, last) >= 0; d = addDays(d, 1)) {
   const result = buildDayBundle(s, d, new Date(`${d}T17:00:00Z`))
-  if (result.ok) {
-    writeFileSync(`dist-preview/days/${d}.json`, JSON.stringify(result.bundle))
-    written++
-  }
+  if (result.ok) days[d] = result.bundle
 }
-console.log(`static preview: ${written} day bundles written to dist-preview/days/`)
+const characters = JSON.parse(readFileSync('public/data/characters.json', 'utf8'))
+mkdirSync('src/generated', { recursive: true })
+writeFileSync('src/generated/preview-data.json', JSON.stringify({ days, characters }))
+console.log(`static preview: ${Object.keys(days).length} day bundles and ${characters.length} characters baked in`)

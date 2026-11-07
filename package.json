@@ -14,7 +14,7 @@
     "typecheck": "tsc --noEmit -p tsconfig.json",
     "e2e": "playwright test --trace off",
     "font": "python3 tools/font/build_font.py",
-    "build:preview": "npm run content && vite build --mode static && tsx scripts/build-static-preview.ts"
+    "build:preview": "npm run content && tsx scripts/build-static-preview.ts && vite build --mode static"
   },
   "dependencies": {
     "@fontsource/ibm-plex-mono": "5.3.0",

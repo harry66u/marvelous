@@ -1,4 +1,4 @@
-import { dayUrl } from '../config'
+import { fetchDay } from '../config'
 import { useCallback, useEffect, useState } from 'react'
 import type { DayBundle } from '../server/dayBundle'
 
@@ -49,7 +49,7 @@ export function useDay(date: string): DayState {
 
     const load = async (skewRetries: number) => {
       try {
-        const res = await fetch(dayUrl(date))
+        const res = await fetchDay(date)
         if (cancelled) return
         if (res.ok) {
           const bundle = (await res.json()) as DayBundle
