@@ -6,7 +6,7 @@ import { addDays, etDateOf } from '../lib/time'
 import { autofillSchedule } from './autofill'
 import {
   BRANCH_KEY, GitHubError, OWNER, REPO, clearToken, getDefaultBranch, loadToken, readJsonFile, saveToken,
-  writeJsonFile, type RepoRef,
+  commitJsonFiles, type FileWrite, type RepoRef,
 } from './github'
 
 export const SCHEDULE_PATH = 'content/schedule.json'
@@ -134,20 +134,18 @@ export function useOfficeStore() {
     const shas = { ...load.shas }
     const done: SavedCommit[] = []
     try {
-      if (charsDirty) {
-        const r = await writeJsonFile(ref, CHARACTERS_PATH, chars, shas.characters, 'office: update characters', token)
-        done.push({ file: CHARACTERS_PATH, url: r.commitUrl })
-        setOriginal((o) => ({ ...o, chars: JSON.stringify(chars) }))
-        setLoad((l) => (l.status === 'ready' ? { ...l, shas: { ...l.shas, characters: r.sha } } : l))
-      }
-      if (scheduleDirty) {
-        const out = sortDays(schedule)
-        const r = await writeJsonFile(ref, SCHEDULE_PATH, out, shas.schedule, 'office: update schedule', token)
-        shas.schedule = r.sha
-        done.push({ file: SCHEDULE_PATH, url: r.commitUrl })
-        setOriginal((o) => ({ ...o, schedule: JSON.stringify(out) }))
-        setLoad((l) => (l.status === 'ready' ? { ...l, shas: { ...l.shas, schedule: r.sha } } : l))
-      }
+      const files: FileWrite[] = []
+      const out = sortDays(schedule)
+      if (charsDirty) files.push({ path: CHARACTERS_PATH, data: chars, sha: shas.characters })
+      if (scheduleDirty) files.push({ path: SCHEDULE_PATH, data: out, sha: shas.schedule })
+      const r = await commitJsonFiles(ref, files, `office: update ${files.map((f) => f.path.replace('content/', '')).join(' and ')}`, token)
+      for (const f of files) done.push({ file: f.path, url: r.commitUrl })
+      if (charsDirty) setOriginal((o) => ({ ...o, chars: JSON.stringify(chars) }))
+      if (scheduleDirty) setOriginal((o) => ({ ...o, schedule: JSON.stringify(out) }))
+      setLoad((l) => (l.status === 'ready' ? {
+        ...l,
+        shas: { characters: r.shas[CHARACTERS_PATH] ?? l.shas.characters, schedule: r.shas[SCHEDULE_PATH] ?? l.shas.schedule },
+      } : l))
     } catch (e) {
       setSaveError(conflictMessage(e))
     } finally {

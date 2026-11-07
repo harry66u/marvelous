@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import Button from '../ui/Button'
 import { buildSearchIndex, searchCharacters } from '../games/unmasked/logic/search'
 import { toPublic, UNMASKED_COOLDOWN_DAYS } from '../content/validate'
-import { daysBetween } from '../lib/time'
+import { daysBetween, etDateOf } from '../lib/time'
 import type { Character, Issue, Schedule } from '../content/types'
 import s from './Office.module.css'
 
@@ -17,6 +17,10 @@ interface Props {
 
 export default function DayEditor({ date, schedule, chars, issues, onPick, onClear }: Props) {
   const [query, setQuery] = useState('')
+  const [unlocked, setUnlocked] = useState<string | null>(null)
+  // Today and earlier have already been issued: players may be mid-case with the current answer.
+  const issued = daysBetween(etDateOf(new Date()), date) <= 0
+  const locked = issued && unlocked !== date
   const pool = useMemo(() => chars.filter((c) => c.answerOk), [chars])
   const index = useMemo(() => buildSearchIndex(pool.map(toPublic)), [pool])
   const byId = useMemo(() => new Map(chars.map((c) => [c.id, c])), [chars])
@@ -40,8 +44,14 @@ export default function DayEditor({ date, schedule, chars, issues, onPick, onCle
       <h2 id="day-h" className={s.h}>Day {date}</h2>
       <p className={s.row}>
         <span>Answer: <strong>{current ? (byId.get(current)?.name ?? `unknown (${current})`) : 'none'}</strong></span>
-        {current ? <Button onClick={onClear}>Clear day</Button> : null}
+        {current ? <Button onClick={onClear} disabled={locked}>Clear day</Button> : null}
       </p>
+      {issued ? (
+        <label className={s.warn}>
+          <input type="checkbox" checked={!locked} onChange={(e) => setUnlocked(e.target.checked ? date : null)} />{' '}
+          This day has already been issued. Changing it affects agents who are mid-case; I understand.
+        </label>
+      ) : null}
       {mine.map((i) => <p key={i.path + i.message} className={i.level === 'error' ? s.err : s.warn} role="alert">{i.message}</p>)}
       <label className={s.field}>
         <span className={s.lbl}>Search answer pool ({pool.length})</span>
@@ -54,7 +64,7 @@ export default function DayEditor({ date, schedule, chars, issues, onPick, onCle
           const blocked = last !== null && Math.abs(daysBetween(last, date)) < UNMASKED_COOLDOWN_DAYS
           return (
             <li key={c.id}>
-              <button type="button" className={s.result} disabled={blocked} onClick={() => { onPick(c.id); setQuery('') }}>
+              <button type="button" className={s.result} disabled={blocked || locked} onClick={() => { onPick(c.id); setQuery('') }}>
                 <span className={s.who}>{c.name}</span>
                 <span className={s.tag}>D{c.difficulty}</span>
                 <span className={s.sub}>

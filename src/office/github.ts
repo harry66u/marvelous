@@ -82,3 +82,46 @@ export async function writeJsonFile(
   })
   return { sha: r.content.sha, commitUrl: r.commit.html_url }
 }
+
+export interface FileWrite {
+  path: string
+  data: unknown
+  /** blob sha the editor loaded; the commit is refused if the file changed since */
+  sha: string
+}
+
+/**
+ * Commit several JSON files as ONE commit (Git Data API), so the schedule and the character
+ * file can never land half-saved. Refuses with GitHubError(409) when a file changed since it
+ * was loaded; a branch that moves mid-save fails the fast-forward update (GitHubError 422).
+ */
+export async function commitJsonFiles(
+  ref: RepoRef, files: FileWrite[], message: string, token: string,
+): Promise<{ commitUrl: string; shas: Record<string, string> }> {
+  const base = `${API}/repos/${ref.owner}/${ref.repo}`
+  const auth = { headers: headers(token) }
+  const json = (method: string, body: unknown): RequestInit => ({
+    method, headers: { ...headers(token), 'Content-Type': 'application/json' }, body: JSON.stringify(body),
+  })
+  const shaAt = async (path: string, at: string) =>
+    (await request<{ sha: string }>(`${base}/contents/${path}?ref=${encodeURIComponent(at)}`, auth)).sha
+
+  const head = (await request<{ object: { sha: string } }>(`${base}/git/ref/heads/${encodeURIComponent(ref.branch)}`, auth)).object.sha
+  for (const f of files) {
+    if ((await shaAt(f.path, head)) !== f.sha) {
+      throw new GitHubError(409, `${f.path} changed on GitHub since you loaded it.`)
+    }
+  }
+  const baseTree = (await request<{ tree: { sha: string } }>(`${base}/git/commits/${head}`, auth)).tree.sha
+  const tree = await request<{ sha: string }>(`${base}/git/trees`, json('POST', {
+    base_tree: baseTree,
+    tree: files.map((f) => ({ path: f.path, mode: '100644', type: 'blob', content: JSON.stringify(f.data, null, 2) + '\n' })),
+  }))
+  const commit = await request<{ sha: string; html_url: string }>(`${base}/git/commits`, json('POST', {
+    message, tree: tree.sha, parents: [head],
+  }))
+  await request(`${base}/git/refs/heads/${encodeURIComponent(ref.branch)}`, json('PATCH', { sha: commit.sha, force: false }))
+  const shas: Record<string, string> = {}
+  for (const f of files) shas[f.path] = await shaAt(f.path, commit.sha)
+  return { commitUrl: commit.html_url, shas }
+}

@@ -3,6 +3,8 @@ import { Route, Routes } from 'react-router'
 import HomePage from './pages/Home/HomePage'
 import { ProgressProvider } from './data/progress'
 import RouteErrorBoundary from './ui/RouteErrorBoundary'
+import RouteFocus from './ui/RouteFocus'
+import { useEffect } from 'react'
 
 const UnmaskedPage = lazy(() => import('./games/unmasked/ui/UnmaskedPage'))
 const ManualPage = lazy(() => import('./pages/Manual/ManualPage'))
@@ -19,8 +21,16 @@ function Loading() {
 }
 
 export default function App() {
+  // Fetch the game page in the background so it still opens if the connection drops later.
+  useEffect(() => {
+    const prefetch = () => void import('./games/unmasked/ui/UnmaskedPage').catch(() => {})
+    const w = window as Window & { requestIdleCallback?: (cb: () => void) => number }
+    if (w.requestIdleCallback) w.requestIdleCallback(prefetch)
+    else setTimeout(prefetch, 1500)
+  }, [])
   return (
     <ProgressProvider>
+      <RouteFocus />
       <RouteErrorBoundary>
       <Suspense fallback={<Loading />}>
         <Routes>
