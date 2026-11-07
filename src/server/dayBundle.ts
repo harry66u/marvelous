@@ -1,5 +1,5 @@
-import type { GameId, Schedule } from '../content/types'
-import { etDateOf, isIsoDate, puzzleNumber } from '../lib/time'
+import type { GameId, Schedule } from '../content/types.js'
+import { etDateOf, isIsoDate, puzzleNumber } from '../lib/time.js'
 
 export interface DayBundle {
   date: string

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { handleDay } from './day'
-import schedule from '../content/schedule.json'
+import { handleDay } from '../../api/day'
+import schedule from '../../content/schedule.json'
 
 const get = (q: string) => handleDay(new Request(`http://x/api/day${q}`))
 
