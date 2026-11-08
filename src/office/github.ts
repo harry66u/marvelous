@@ -62,8 +62,11 @@ export async function getDefaultBranch(owner: string, repo: string, token?: stri
 export async function readJsonFile<T>(ref: RepoRef, path: string, token?: string | null): Promise<{ data: T; sha: string }> {
   const url = `${API}/repos/${ref.owner}/${ref.repo}/contents/${path}?ref=${encodeURIComponent(ref.branch)}`
   const r = await request<{ content?: string; sha: string }>(url, { headers: headers(token) })
-  if (!r.content) throw new GitHubError(0, `${path} came back empty (files over 1 MB are not supported).`)
-  return { data: JSON.parse(fromBase64(r.content)) as T, sha: r.sha }
+  if (r.content) return { data: JSON.parse(fromBase64(r.content)) as T, sha: r.sha }
+  // Files over 1 MB come back without content; ask for the raw bytes instead (up to 100 MB).
+  const res = await fetch(url, { cache: 'no-store', headers: { ...headers(token), Accept: 'application/vnd.github.raw+json' } })
+  if (!res.ok) throw new GitHubError(res.status, `${path}: GitHub returned ${res.status}`)
+  return { data: (await res.json()) as T, sha: r.sha }
 }
 
 export async function writeJsonFile(

@@ -7,6 +7,10 @@ import RouteFocus from './ui/RouteFocus'
 import { useEffect } from 'react'
 
 const UnmaskedPage = lazy(() => import('./games/unmasked/ui/UnmaskedPage'))
+const BlistPage = lazy(() => import('./games/blist/ui/BlistPage'))
+const RetconPage = lazy(() => import('./games/retcon/ui/RetconPage'))
+const ShiftPage = lazy(() => import('./pages/Shift/ShiftPage'))
+const AgentPage = lazy(() => import('./pages/Agent/AgentPage'))
 const ManualPage = lazy(() => import('./pages/Manual/ManualPage'))
 const OfficePage = lazy(() => import('./office/OfficePage'))
 const KitPage = lazy(() => import('./pages/Kit/KitPage'))
@@ -21,9 +25,13 @@ function Loading() {
 }
 
 export default function App() {
-  // Fetch the game page in the background so it still opens if the connection drops later.
+  // Fetch the game pages in the background so they still open if the connection drops later.
   useEffect(() => {
-    const prefetch = () => void import('./games/unmasked/ui/UnmaskedPage').catch(() => {})
+    const prefetch = () => {
+      void import('./games/unmasked/ui/UnmaskedPage').catch(() => {})
+      void import('./games/blist/ui/BlistPage').catch(() => {})
+      void import('./games/retcon/ui/RetconPage').catch(() => {})
+    }
     const w = window as Window & { requestIdleCallback?: (cb: () => void) => number }
     if (w.requestIdleCallback) w.requestIdleCallback(prefetch)
     else setTimeout(prefetch, 1500)
@@ -36,6 +44,10 @@ export default function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/unmasked" element={<UnmaskedPage />} />
+          <Route path="/b-list" element={<BlistPage />} />
+          <Route path="/retcon" element={<RetconPage />} />
+          <Route path="/shift" element={<ShiftPage />} />
+          <Route path="/agent" element={<AgentPage />} />
           <Route path="/manual" element={<ManualPage />} />
           <Route path="/office/*" element={<OfficePage />} />
           <Route path="/kit" element={<KitPage />} />

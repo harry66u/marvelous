@@ -1,0 +1,51 @@
+/* The drawer face stays put; the index card slides out from behind it, then the tier stamp lands. */
+.drawer { display: grid; gap: 0; min-width: 0; max-width: 560px; }
+.face {
+  position: relative; z-index: 1; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 10px;
+  padding: 10px 14px; border: 1px solid var(--line); background: linear-gradient(180deg, var(--chocolate), #2a190f);
+  font: 11px/1.2 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase; color: var(--cream);
+}
+.handle {
+  flex: none; width: 56px; height: 10px; border: 1px solid var(--muted); border-radius: 0 0 6px 6px;
+  border-top: 0; background: color-mix(in srgb, var(--muted) 18%, transparent);
+}
+.track { overflow: hidden; padding: 0 10px 14px; }
+div.card { padding: 16px 18px 18px; border-radius: 0 0 var(--radius-paper) var(--radius-paper); animation: slide-out 0.42s var(--ease-out) both; }
+@keyframes slide-out {
+  from { transform: translateY(-100%); }
+}
+
+.request {
+  margin: 0 0 6px; font: 11px/1.5 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--rust);
+}
+.name { margin: 0 0 14px; font: 400 clamp(20px, 5vw, 26px)/1.2 var(--f-memo); color: var(--ink); overflow-wrap: anywhere; }
+
+.stamp {
+  justify-self: start; display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 0;
+  padding: 8px 12px; border: 3px double currentColor; transform: rotate(-3deg);
+  background: var(--t-bg, var(--chocolate)); color: var(--t-fg, var(--cream));
+  animation: stamp-in 0.4s 0.3s var(--ease-slam) both;
+}
+@keyframes stamp-in {
+  0% { transform: rotate(-10deg) scale(1.9); opacity: 0; }
+  70% { transform: rotate(-3deg) scale(0.96); opacity: 1; }
+  100% { transform: rotate(-3deg) scale(1); opacity: 1; }
+}
+.stamp[data-rank='1'] { --t-bg: var(--tier-1-bg); --t-fg: var(--tier-1-fg); }
+.stamp[data-rank='2'] { --t-bg: var(--tier-2-bg); --t-fg: var(--tier-2-fg); }
+.stamp[data-rank='3'] { --t-bg: var(--tier-3-bg); --t-fg: var(--tier-3-fg); }
+.stamp[data-rank='4'] { --t-bg: var(--tier-4-bg); --t-fg: var(--tier-4-fg); }
+.stamp[data-rank='5'] { --t-bg: var(--tier-5-bg); --t-fg: var(--tier-5-fg); }
+.void { --t-bg: transparent; --t-fg: var(--ink); border-style: dashed; }
+.tier { font: 400 15px/1.1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; }
+.points { font: 400 22px/1 var(--f-hud); letter-spacing: 0.04em; font-variant-numeric: tabular-nums; }
+
+.actions { display: flex; margin-top: 4px; }
+
+@media (max-width: 420px) {
+  .handle { display: none; }
+}
+
+/* reduced motion: no slide, no slam; the card and stamp are simply there */
+:global([data-motion='reduce']) div.card, :global([data-motion='reduce']) .stamp { animation: none; }

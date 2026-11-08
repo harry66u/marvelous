@@ -70,19 +70,45 @@ describe('HomePage', () => {
     expect(unmasked).toHaveTextContent('Unmasked')
     expect(unmasked).toHaveTextContent(unmaskedStatus)
     expect(blist).toHaveTextContent('B-List')
-    expect(blist).toHaveTextContent('Awaiting clearance')
+    expect(blist).toHaveTextContent('Not issued today')
     expect(retcon).toHaveTextContent('Retcon')
-    expect(retcon).toHaveTextContent('Awaiting clearance')
+    expect(retcon).toHaveTextContent('Not issued today')
     expect(within(monitor()).getByRole('link')).toHaveTextContent(unmaskedStatus)
   })
 
-  it('links only Unmasked from the branch monitor', () => {
+  it('links only the games issued today from the branch monitor', () => {
     renderHome()
     const links = within(monitor()).getAllByRole('link')
     expect(links).toHaveLength(1)
     expect(links[0]).toHaveAttribute('href', '/unmasked')
     expect(links[0]).toHaveAccessibleName(/Unmasked/)
-    expect(within(monitor()).getAllByText('Awaiting clearance')).toHaveLength(2)
+    expect(within(monitor()).getAllByText('Not issued today')).toHaveLength(2)
+  })
+
+  it('opens all three games on a full shift, with each filed result and an end-of-shift link', () => {
+    useDayMock.mockReturnValue({ status: 'ready', bundle: { ...bundleFor('2026-11-07'), games: ['unmasked', 'blist', 'retcon'] }, retry: () => {} })
+    let store = noteRequired(emptyStore(), '2026-11-07', ['unmasked', 'blist', 'retcon'])
+    store = withRecord(store, '2026-11-07', 'unmasked', filed(3, true))
+    store = withRecord(store, '2026-11-07', 'blist', { ...filed(0, true), result: { score: 370, extended: false, tiers: [] } })
+    seed(store)
+    renderHome()
+    const [, blist, retcon] = tickets()
+    expect(blist).toHaveTextContent('Filed 370/700')
+    expect(retcon).toHaveTextContent('Pending')
+    expect(within(monitor()).getAllByRole('link').map((l) => l.getAttribute('href'))).toEqual(['/unmasked', '/b-list', '/retcon'])
+    expect(screen.queryByText('Review the shift report')).not.toBeInTheDocument()
+  })
+
+  it('shows the end-of-shift banner when every assignment is filed', () => {
+    useDayMock.mockReturnValue({ status: 'ready', bundle: { ...bundleFor('2026-11-07'), games: ['unmasked', 'blist', 'retcon'] }, retry: () => {} })
+    let store = noteRequired(emptyStore(), '2026-11-07', ['unmasked', 'blist', 'retcon'])
+    store = withRecord(store, '2026-11-07', 'unmasked', filed(3, true))
+    store = withRecord(store, '2026-11-07', 'blist', { ...filed(0, true), result: { score: 370, extended: false, tiers: [] } })
+    store = withRecord(store, '2026-11-07', 'retcon', { ...filed(0, true), result: { correct: 4, placements: [] } })
+    seed(store)
+    renderHome()
+    expect(tickets()[2]).toHaveTextContent('Filed 4/5')
+    expect(screen.getByRole('link', { name: 'Review the shift report' })).toHaveAttribute('href', '/shift')
   })
 
   it('shows the shift number and date', () => {

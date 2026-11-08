@@ -1,0 +1,16 @@
+/* Tier markers use the --tier-N tokens; the name always rides alongside the color. */
+.chip {
+  display: inline-flex; align-items: center; gap: 7px; min-width: 0;
+  font: 11px/1.2 var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; color: inherit;
+}
+.swatch {
+  flex: none; display: inline-grid; place-items: center; width: 14px; height: 14px;
+  border: 1px solid currentColor; font: normal 11px/1 var(--f-hud);
+  background: var(--sw-bg, transparent); color: var(--sw-fg, inherit);
+}
+
+[data-tier='common'] .swatch { --sw-bg: var(--tier-1-bg); --sw-fg: var(--tier-1-fg); }
+[data-tier='filed'] .swatch { --sw-bg: var(--tier-2-bg); --sw-fg: var(--tier-2-fg); }
+[data-tier='restricted'] .swatch { --sw-bg: var(--tier-3-bg); --sw-fg: var(--tier-3-fg); }
+[data-tier='classified'] .swatch { --sw-bg: var(--tier-4-bg); --sw-fg: var(--tier-4-fg); }
+[data-tier='sealed'] .swatch { --sw-bg: var(--tier-5-bg); --sw-fg: var(--tier-5-fg); border-color: var(--teal); }

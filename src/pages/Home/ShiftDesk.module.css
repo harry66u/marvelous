@@ -139,3 +139,36 @@
   .clock svg { width: clamp(88px, 28vw, 112px); }
   .caption { justify-items: start; text-align: left; }
 }
+
+/* End of shift: every assignment filed. A paper slip in stamp red, linking to the shift report. */
+.endShift {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-bottom: 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--orange);
+  background: color-mix(in srgb, var(--void) 92%, transparent);
+}
+.endText {
+  margin: 0;
+  font: 400 13px/1.4 var(--f-hud);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cream);
+}
+.endLink {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 8px 14px;
+  border: 1px solid var(--orange);
+  color: var(--orange);
+  font: 400 12px/1 var(--f-hud);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.endLink:hover { background: color-mix(in srgb, var(--orange) 14%, transparent); }

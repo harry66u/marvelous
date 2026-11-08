@@ -45,6 +45,11 @@ const MOTION_NOTE: Record<Settings['motion'], string> = {
   full: 'Motion: Full. Stamps will be applied with ceremony.',
 }
 
+const TIMER_NOTE = {
+  standard: 'B-List timer: 25 seconds per request.',
+  extended: 'B-List timer: 50 seconds per request. Applies from your next B-List shift and is noted on the report.',
+}
+
 export default function SettingsDialog({ open, onClose }: Props) {
   const [settings, patch] = useSettings()
   return (
@@ -69,6 +74,14 @@ export default function SettingsDialog({ open, onClose }: Props) {
           value={settings.motion}
           onChange={(v) => patch({ motion: v })}
           note={MOTION_NOTE[settings.motion]}
+        />
+        <Group
+          legend="B-List timer"
+          name="extended-timer"
+          choices={[{ value: 'standard', label: 'Standard' }, { value: 'extended', label: 'Extended' }]}
+          value={settings.extendedTimer ? 'extended' : 'standard'}
+          onChange={(v) => patch({ extendedTimer: v === 'extended' })}
+          note={settings.extendedTimer ? TIMER_NOTE.extended : TIMER_NOTE.standard}
         />
       </div>
     </Dialog>

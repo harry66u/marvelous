@@ -1,0 +1,27 @@
+/* Sticky, so the record stays in view while the agent scrolls the line on a phone. */
+.incoming {
+  position: sticky; top: 8px; z-index: 3; display: grid; gap: 8px; padding: 12px;
+  border: 1px solid var(--line); background: var(--panel);
+  box-shadow: 0 0 0 4px var(--void), 0 10px 24px color-mix(in srgb, var(--void) 80%, transparent);
+}
+.kicker {
+  display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; margin: 0;
+  font: 12px/1.4 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; color: var(--orange); text-shadow: var(--glow);
+}
+.card {
+  display: grid; gap: 4px; min-width: 0; padding: 10px 12px; border: 1px dashed var(--line);
+  background: color-mix(in srgb, var(--orange) 6%, var(--void));
+  animation: arrive var(--dur-med) var(--ease-out) both;
+}
+@keyframes arrive {
+  from { clip-path: inset(0 0 100% 0); transform: translateY(-8px); }
+  to { clip-path: inset(0 0 0 0); transform: none; }
+}
+.meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; margin: 0;
+  font: 11px/1.3 var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted);
+}
+.year { font: 22px/1 var(--f-hud); letter-spacing: 0.06em; color: var(--muted); }
+.kind { color: var(--cream); }
+.text { margin: 0; font: 600 16px/1.4 var(--f-body); color: var(--cream); overflow-wrap: anywhere; }
+.detail { margin: 0; font: 13px/1.45 var(--f-body); color: var(--muted); overflow-wrap: anywhere; }

@@ -1,0 +1,18 @@
+.clock { display: grid; gap: 8px; min-width: 0; }
+.readout { display: flex; align-items: baseline; gap: 8px; margin: 0; }
+.num {
+  min-width: 2ch; font: 400 clamp(44px, 13vw, 64px)/0.9 var(--f-hud); color: var(--cream);
+  font-variant-numeric: tabular-nums; text-shadow: var(--glow-strong);
+}
+.unit { font: 12px/1 var(--f-hud); letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); }
+
+.bar { height: 10px; border: 1px solid var(--line); padding: 1px; }
+.bar i {
+  display: block; height: 100%; transform-origin: left; transform: scaleX(var(--f, 1));
+  background: var(--orange); box-shadow: var(--glow); transition: transform 0.1s linear;
+}
+
+.clock[data-level='low'] .num { color: var(--mustard); }
+.clock[data-level='low'] .bar i { background: var(--mustard); }
+.clock[data-level='critical'] .num { color: var(--phosphor); }
+.clock[data-level='critical'] .bar i { background: var(--stamp); }

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import type { Schedule } from '../content/types'
-import { buildDayBundle, decodeAnswer, encodeAnswer } from './dayBundle'
+import { buildDayBundle, decodeAnswer, encodeAnswer, decodePayload, encodePayload } from './dayBundle'
 
 const schedule: Schedule = {
   launchDate: '2026-11-06',
@@ -50,5 +50,44 @@ describe('answer encoding', () => {
   })
   it('is base64url', () => {
     expect(encodeAnswer('storm', '2026-11-06')).toMatch(/^[A-Za-z0-9_-]+$/)
+  })
+})
+
+describe('B-List and Retcon payloads', () => {
+  const prompts = new Map([
+    ['ff', { id: 'ff', text: 'Name a member of the Fantastic Four', category: 'team', difficulty: 1 as const, sources: [],
+      answers: [{ name: 'Mister Fantastic', aliases: ['Reed Richards'], tier: 'common' as const, share: 0.4 }] }],
+  ])
+  const records = new Map([
+    ['spidey', { id: 'spidey', text: 'Spider-Man debuts', date: '1962-08', kind: 'debut' as const, sources: [] }],
+  ])
+  const sched = {
+    launchDate: '2026-11-06',
+    days: { '2026-11-07': { unmasked: 'wolverine', blist: ['ff'], retcon: ['spidey'] }, '2026-11-08': { unmasked: 'x', blist: ['missing'] } },
+  }
+  const now = new Date('2026-11-08T15:00:00Z')
+
+  it('ships each scheduled game and decodes back to the prompts and records', () => {
+    const r = buildDayBundle(sched, '2026-11-07', now, { prompts, records })
+    if (!r.ok) throw new Error('expected a bundle')
+    expect(r.bundle.games).toEqual(['unmasked', 'blist', 'retcon'])
+    expect(JSON.stringify(r.bundle)).not.toContain('Fantastic')
+    expect(decodePayload(r.bundle.blist!.key, '2026-11-07')).toEqual([
+      { id: 'ff', text: 'Name a member of the Fantastic Four', answers: [['Mister Fantastic', ['Reed Richards'], 'common']] },
+    ])
+    expect(decodePayload(r.bundle.retcon!.key, '2026-11-07')).toEqual([
+      { id: 'spidey', text: 'Spider-Man debuts', date: '1962-08', kind: 'debut' },
+    ])
+  })
+
+  it('leaves a game out when its content is missing', () => {
+    const r = buildDayBundle(sched, '2026-11-08', now, { prompts, records })
+    if (!r.ok) throw new Error('expected a bundle')
+    expect(r.bundle.games).toEqual(['unmasked'])
+  })
+
+  it('round-trips a large payload with non-ASCII text', () => {
+    const big = Array.from({ length: 5000 }, (_, i) => `Ñamor ${i} — Wakanda`)
+    expect(decodePayload(encodePayload(big, '2026-11-07'), '2026-11-07')).toEqual(big)
   })
 })

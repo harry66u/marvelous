@@ -64,7 +64,7 @@ export default function OfficePage() {
                   <section className={s.panel} aria-labelledby="cal-h">
                     <h2 id="cal-h" className={s.h}>Calendar</h2>
                     <p className={s.row}>
-                      <span className={s.note}>Empty days from today are filled with unused answer-pool characters.</span>
+                      <span className={s.note}>Empty days from today get an unused Unmasked answer, seven unused B-List requests and six unused Retcon records.</span>
                       <Button onClick={store.autofill}>Auto-fill</Button>
                     </p>
                     <Calendar schedule={schedule} chars={chars} issues={store.scheduleIssues} selected={date} onSelect={setDate} />
@@ -73,6 +73,8 @@ export default function OfficePage() {
                     <DayEditor
                       key={date} date={date} schedule={schedule} chars={chars} issues={store.scheduleIssues}
                       onPick={(id) => store.setDay(date, id)} onClear={() => store.setDay(date, undefined)}
+                      prompts={store.prompts} records={store.records}
+                      onGame={(game, reroll) => store.setDayGame(date, game, reroll)}
                     />
                   ) : <p className={s.note}>Pick a day to edit its answer.</p>}
                 </div>

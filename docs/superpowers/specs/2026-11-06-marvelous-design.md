@@ -489,4 +489,9 @@ Answered 2026-11-06:
 4. **Domain:** **None.** Share links use the Vercel address.
 5. **Design direction:** **Approved.**
 
+Decided 2026-11-08, building M2 and M3:
+
+6. **B-List rarity:** **preset tiers, no backend.** Tiers come from each answer's estimated share (fame from Wikidata sitelinks, MCU and core-member boosts; see content/FACTCHECK.md). Live pick rates and "rarest answers other agents found" wait for the shared backend; until then the end screen shows "Unclaimed records".
+7. **Launch volumes:** B-List 421 prompts (60 days); Retcon 549 records (88 days). Comic events and non-MCU screen releases are not in Retcon yet.
+
 Open: the repository is public. Making it private keeps future answers off GitHub.

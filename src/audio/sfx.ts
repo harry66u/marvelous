@@ -1,4 +1,4 @@
-export type Sfx = 'key' | 'submit' | 'miss' | 'flip' | 'stamp' | 'win' | 'lose'
+export type Sfx = 'key' | 'submit' | 'miss' | 'flip' | 'stamp' | 'win' | 'lose' | 'tick' | 'drop' | 'place' | 'incoming'
 
 let enabled = false
 let ctx: AudioContext | null = null
@@ -68,6 +68,10 @@ export function playSfx(name: Sfx): void {
       case 'stamp': tone(c, 'sine', 140, t, 0.09, 0.2, 50); noise(c, t, 0.05, 0.1); break
       case 'win': [523, 659, 784].forEach((f, i) => tone(c, 'square', f, t + i * 0.09, 0.09)); break
       case 'lose': [330, 220].forEach((f, i) => tone(c, 'square', f, t + i * 0.14, 0.14)); break
+      case 'tick': tone(c, 'square', 1760, t, 0.03); break
+      case 'drop': tone(c, 'sine', 300, t, 0.25, 0.2, 90); break
+      case 'place': tone(c, 'triangle', 660, t, 0.05); noise(c, t, 0.02, 0.15, 1800); break
+      case 'incoming': [988, 1319].forEach((f, i) => tone(c, 'square', f, t + i * 0.08, 0.06)); break
     }
   } catch {
     // audio is decoration; never break the game

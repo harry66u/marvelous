@@ -1,0 +1,55 @@
+/* The Retcon terminal: same frame as the other games, with the allowance meter in the header. */
+.page { padding-block: 28px 0; }
+
+.head { display: grid; gap: 10px; justify-items: start; margin-bottom: 20px; }
+.title { margin: 0; font-size: clamp(34px, 12vw, 50px); }
+.form {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.meter { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
+.meterLabel { font: 11px/1.4 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); }
+.pips { display: flex; gap: 6px; }
+.pips i { position: relative; width: 34px; height: 12px; border: 1px solid var(--line); }
+.pips .lit { background: var(--orange); box-shadow: var(--glow); }
+/* a spent allowance is struck through, so the meter never relies on color alone */
+.pips .spent {
+  border-color: var(--muted);
+  background: linear-gradient(to top right, transparent calc(50% - 1px), var(--muted) calc(50% - 1px) calc(50% + 1px), transparent calc(50% + 1px));
+}
+.pips .lost { animation: pip-out 600ms ease-out; }
+@keyframes pip-out {
+  0%, 40% { background-color: var(--mustard); transform: translateX(0); }
+  10% { transform: translateX(-3px); }
+  20% { transform: translateX(3px); }
+  30% { transform: translateX(-2px); }
+  100% { background-color: transparent; }
+}
+
+.body { display: grid; grid-template-columns: minmax(0, 1fr) 236px; gap: 22px; align-items: start; }
+.play { display: grid; gap: 18px; min-width: 0; }
+.aside { padding: 14px; border: 1px solid var(--line-soft); }
+
+.loading {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted);
+}
+.notice {
+  display: grid; gap: 16px; justify-items: start; padding: 18px; border: 1px dashed var(--line);
+  background: color-mix(in srgb, var(--orange) 5%, transparent);
+}
+.notice p { margin: 0; max-width: 52ch; font: 16px/1.6 var(--f-memo); color: var(--paper); }
+.rollover {
+  margin: 0; padding: 10px 12px; border-left: 3px solid var(--mustard);
+  background: color-mix(in srgb, var(--mustard) 8%, transparent);
+  font: 14px/1.5 var(--f-memo); color: var(--paper);
+}
+.link {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px;
+  border: 1px solid var(--line); color: var(--orange); text-decoration: none; text-shadow: var(--glow);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+}
+.link:hover { background: color-mix(in srgb, var(--orange) 12%, transparent); }
+
+@media (max-width: 860px) {
+  .body { grid-template-columns: minmax(0, 1fr); }
+}

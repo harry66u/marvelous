@@ -1,0 +1,22 @@
+.request { display: grid; gap: 14px; min-width: 0; max-width: 560px; }
+.kicker {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.prompt {
+  margin: 0; padding: 12px 14px; border-left: 3px solid var(--orange);
+  background: color-mix(in srgb, var(--orange) 6%, transparent);
+  font: 400 clamp(19px, 4.6vw, 24px)/1.35 var(--f-memo); color: var(--paper); overflow-wrap: anywhere;
+}
+
+.incoming { display: grid; gap: 10px; min-height: 180px; align-content: center; }
+.teletype {
+  margin: 0; font: 400 clamp(18px, 5vw, 24px)/1.2 var(--f-hud); letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--cream); text-shadow: var(--glow);
+}
+.cursor {
+  display: inline-block; width: 0.6em; height: 1em; margin-left: 6px; vertical-align: -0.12em;
+  background: var(--orange); box-shadow: var(--glow); animation: blink 0.8s steps(1) infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+:global([data-motion='reduce']) .cursor { animation: none; }

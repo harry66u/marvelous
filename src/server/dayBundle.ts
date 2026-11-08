@@ -1,4 +1,4 @@
-import type { GameId, Schedule } from '../content/types.js'
+import type { BlistPrompt, GameId, RetconKind, RetconRecord, Schedule, Tier } from '../content/types.js'
 import { etDateOf, isIsoDate, puzzleNumber } from '../lib/time.js'
 
 export interface DayBundle {
@@ -7,6 +7,34 @@ export interface DayBundle {
   launchDate: string
   games: GameId[]
   unmasked?: { key: string }
+  /** encoded BlistDay */
+  blist?: { key: string }
+  /** encoded RetconDay */
+  retcon?: { key: string }
+}
+
+/** One B-List prompt as shipped: the text and every accepted answer with its tier. */
+export interface BlistDayPrompt {
+  id: string
+  text: string
+  /** [display name, aliases, tier] */
+  answers: [string, string[], Tier][]
+}
+export type BlistDay = BlistDayPrompt[]
+
+export interface RetconDayRecord {
+  id: string
+  text: string
+  detail?: string
+  date: string
+  kind: RetconKind
+}
+/** The anchor first, then arrival order. */
+export type RetconDay = RetconDayRecord[]
+
+export interface GameContent {
+  prompts: ReadonlyMap<string, BlistPrompt>
+  records: ReadonlyMap<string, RetconRecord>
 }
 
 export type DayResult =
@@ -38,21 +66,63 @@ export function decodeAnswer(key: string, date: string): string {
   return new TextDecoder().decode(xor(Uint8Array.from(bin, (c) => c.charCodeAt(0)), date))
 }
 
-export function buildDayBundle(schedule: Schedule, date: string | null, now: Date): DayResult {
+/** Same scrambling for a JSON payload, converted in chunks so large days never overflow the stack. */
+export function encodePayload(value: unknown, date: string): string {
+  const bytes = xor(new TextEncoder().encode(JSON.stringify(value)), date)
+  let bin = ''
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000))
+  return btoa(bin)
+}
+
+export function decodePayload<T>(key: string, date: string): T {
+  return JSON.parse(decodeAnswer(key, date)) as T
+}
+
+const blistDay = (ids: string[], content: GameContent): BlistDay | null => {
+  const out: BlistDay = []
+  for (const id of ids) {
+    const p = content.prompts.get(id)
+    if (!p) return null
+    out.push({ id, text: p.text, answers: p.answers.map((a) => [a.name, a.aliases, a.tier]) })
+  }
+  return out
+}
+
+const retconDay = (ids: string[], content: GameContent): RetconDay | null => {
+  const out: RetconDay = []
+  for (const id of ids) {
+    const r = content.records.get(id)
+    if (!r) return null
+    out.push({ id, text: r.text, ...(r.detail ? { detail: r.detail } : {}), date: r.date, kind: r.kind })
+  }
+  return out
+}
+
+const EMPTY: GameContent = { prompts: new Map(), records: new Map() }
+
+export function buildDayBundle(schedule: Schedule, date: string | null, now: Date, content: GameContent = EMPTY): DayResult {
   const today = etDateOf(now)
   const day = date ?? today
   if (!isIsoDate(day)) return fail(400)
   if (day > today) return fail(403)
   const entry = day < schedule.launchDate ? undefined : schedule.days[day]
   if (!entry?.unmasked) return fail(404)
-  return {
-    ok: true,
-    bundle: {
-      date: day,
-      number: puzzleNumber(schedule.launchDate, day),
-      launchDate: schedule.launchDate,
-      games: ['unmasked'],
-      unmasked: { key: encodeAnswer(entry.unmasked, day) },
-    },
+  const bundle: DayBundle = {
+    date: day,
+    number: puzzleNumber(schedule.launchDate, day),
+    launchDate: schedule.launchDate,
+    games: ['unmasked'],
+    unmasked: { key: encodeAnswer(entry.unmasked, day) },
   }
+  const b = entry.blist ? blistDay(entry.blist, content) : null
+  if (b) {
+    bundle.games.push('blist')
+    bundle.blist = { key: encodePayload(b, day) }
+  }
+  const r = entry.retcon ? retconDay(entry.retcon, content) : null
+  if (r) {
+    bundle.games.push('retcon')
+    bundle.retcon = { key: encodePayload(r, day) }
+  }
+  return { ok: true, bundle }
 }

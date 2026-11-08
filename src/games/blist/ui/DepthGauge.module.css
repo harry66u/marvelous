@@ -1,0 +1,58 @@
+/* Depth gauge (board components): a lift shaft with sublevel marks every 100 points. The fill and
+   the car move with transforms only, after the tier stamp has landed. */
+.gauge { --drop: 0.7s; --drop-delay: 0.45s; margin: 0; display: grid; gap: 12px; align-content: start; min-width: 0; }
+
+.readout {
+  display: grid; gap: 2px; font: 11px/1.4 var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--muted);
+}
+.label { color: var(--orange); text-shadow: var(--glow); }
+.feet { font: 400 20px/1.1 var(--f-hud); letter-spacing: 0.04em; color: var(--cream); font-variant-numeric: tabular-nums; }
+.sep { display: none; }
+.level { color: var(--cream); }
+
+.shaft {
+  --h: 300px; position: relative; justify-self: start; width: 14px; height: var(--h); margin-right: 34px;
+  border: 1px solid var(--line); background: repeating-linear-gradient(180deg, transparent 0 9px, var(--line-soft) 9px 10px);
+}
+.fill {
+  position: absolute; inset: 0; transform-origin: top; transform: scaleY(var(--d, 0));
+  background: linear-gradient(180deg, var(--kiln), var(--orange)); box-shadow: var(--glow);
+  transition: transform var(--drop) var(--drop-delay) var(--ease-out);
+}
+.car {
+  position: absolute; left: -5px; right: -5px; top: 0; height: 3px; margin-top: -1px;
+  background: var(--cream); box-shadow: 0 0 6px var(--phosphor);
+  transform: translateY(calc(var(--d, 0) * var(--h)));
+  transition: transform var(--drop) var(--drop-delay) var(--ease-out);
+}
+.mark {
+  position: absolute; left: calc(100% + 8px); top: calc(var(--at) * 100%); transform: translateY(-50%);
+  font: 10px/1 var(--f-hud); letter-spacing: 0.1em; color: var(--muted); white-space: nowrap;
+}
+.mark::before {
+  content: ''; position: absolute; right: calc(100% + 2px); top: 50%; width: 6px; border-top: 1px solid var(--line);
+}
+
+:global([data-motion='reduce']) .fill, :global([data-motion='reduce']) .car { transition: none; }
+
+/* phones: a horizontal strip above the play area */
+@media (max-width: 600px) {
+  .gauge { gap: 8px; }
+  .readout { display: block; }
+  .readout > * { display: inline; }
+  .sep { display: inline; }
+  .feet { font-size: 15px; }
+  .shaft {
+    justify-self: stretch; width: auto; height: 12px; margin: 0 12px 16px;
+    background: repeating-linear-gradient(90deg, transparent 0 9px, var(--line-soft) 9px 10px);
+  }
+  .fill { transform-origin: left; transform: scaleX(var(--d, 0)); background: linear-gradient(90deg, var(--kiln), var(--orange)); }
+  .car {
+    left: calc(var(--d, 0) * 100%); right: auto; top: -5px; bottom: -5px; width: 3px; height: auto;
+    margin: 0 0 0 -1px; transform: none;
+    transition: left var(--drop) var(--drop-delay) var(--ease-out);
+  }
+  .mark { left: calc(var(--at) * 100%); top: calc(100% + 5px); transform: translateX(-50%); }
+  .mark::before { display: none; }
+}

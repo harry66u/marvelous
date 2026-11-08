@@ -432,3 +432,40 @@ Characters: 499. Answer pool: 235. With notes: 425.
 | Yelena Belova | Wikipedia's infobox dates Inhumans #5 to January 1999, its on-sale month; the cover date is March 1999. A design sketch appeared earlier in Marvel Knights: Wave 2 Sketchbook #1 (January 1998). | yes |
 | Yondu | Comics Yondu is a hero; MCU version is an antihero. | yes |
 | Zeus | Infobox debut is as Jupiter in Venus #5 (Jun 1949); he first appears as Zeus in Journey into Mystery Annual #1 (1965). Alignment is a judgment call: a morally gray ruler who alternates between ally and antagonist, including a comic antagonist in Thor: Love and Thunder. | no |
+
+
+## B-List and Retcon (added 2026-11-08)
+
+### B-List answer lists
+
+- **Sources:** every prompt's answers come from public, citable data, and each prompt lists its sources.
+  - Wikidata, Earth-616 and MCU items: team memberships (P463), creators (P170), enemies (P7047), abilities (P2563), species (P31), occupations (P106), first appearances (P4584), English aliases.
+  - English Wikipedia main-cast sections of every MCU title (`content/research/mcu_casts.json`).
+  - The fact-checked Unmasked characters, merged into team prompts and debut dates (Unmasked wins where they disagree).
+- **Coverage over trivia:** a valid answer missing from our list costs the player 3 seconds, so families with thin source coverage were left out or reworded:
+  - Superhuman strength, flight and speed: Wikidata tags only a fraction of the characters who have them.
+  - Debut decades after 1989 and the 1940s.
+  - Birthplaces and screen performers.
+  - MCU prompts say "main cast", because the cast sections list only the main cast.
+- **Never corrected into a different character:** a typed name that exactly matches another Marvel name on file is rejected, not fuzzed into a valid answer.
+- **Aliases:** an alias is dropped when a more famous character owns that name. "Captain Britain" no longer counts as Psylocke, for example.
+
+### Preset tiers
+
+Tiers estimate the share of agents who would give each answer (spec section 8):
+
+- **Fame:** `(1 + sitelinks)^1.7`, where sitelinks is the number of language Wikipedias covering the character.
+- **MCU boost:** characters with an MCU counterpart weigh three times as much.
+- **Team prompts:** core members (the Unmasked primary team) weigh twelve times as much, and other members of that team three times.
+- **Ability prompts:** weight is divided by how many powers a character has on file. Professor X counts for more than Galactus on "Name a telepath".
+- **MCU casts:** weighted by billing order.
+- **Wordplay:** an answer that only matches through an alias weighs a thirtieth of the character's main name.
+- **Thresholds:** shares map to tiers at Common ≥ 10%, Filed 3–10%, Restricted 1–3%, Classified 0.2–1%, Sealed < 0.2%.
+
+When live rarity is switched on, these presets become the prior in the blend.
+
+### Retcon dates
+
+- **Comic first appearances:** the cover month from the fact-checked Unmasked data. The record names the issue, and the real name when it differs. A legacy codename's record dates the person's first appearance; for example, Agent Venom's record dates Flash Thompson in Amazing Fantasy #15. Unmasked uses the same definition.
+- **MCU titles:** first U.S. release (films) or Disney+ premiere (series and specials), from each title's Wikipedia page.
+- **Validation:** no two records on a day share a year, and no record repeats within 180 days.

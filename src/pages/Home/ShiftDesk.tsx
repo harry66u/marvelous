@@ -25,6 +25,8 @@ export interface ShiftDeskProps {
   msRemaining: number
   /** shown beside the heading, e.g. after the midnight rollover */
   notice?: string
+  /** every assignment today is filed */
+  shiftDone?: boolean
 }
 
 function Tickets({ assignments }: { assignments: Assignment[] }) {
@@ -58,7 +60,7 @@ function DayNotice({ status, onRetry }: { status: 'none' | 'error'; onRetry: () 
 }
 
 /** Below the monitor: today's tickets, consecutive shifts and the wall clock. */
-export default function ShiftDesk({ heading, status, assignments, onRetry, consecutive, msRemaining, notice }: ShiftDeskProps) {
+export default function ShiftDesk({ heading, status, assignments, onRetry, consecutive, msRemaining, notice, shiftDone }: ShiftDeskProps) {
   const [settingsOpen, setSettingsOpen] = useState(false)
   const headingId = useId()
   const shiftsId = useId()
@@ -69,6 +71,9 @@ export default function ShiftDesk({ heading, status, assignments, onRetry, conse
         <h2 id={headingId} className={s.heading}>{heading}</h2>
         {notice ? <p className={s.notice}>{notice}</p> : null}
         <div className={s.tools}>
+          <Link to="/agent" className={s.tool}>
+            <Icon name="stats" className={s.icon} />Agent file
+          </Link>
           <Link to="/manual" className={s.tool}>
             <Icon name="manual" className={s.icon} />Field manual
           </Link>
@@ -77,6 +82,13 @@ export default function ShiftDesk({ heading, status, assignments, onRetry, conse
           </button>
         </div>
       </header>
+
+      {shiftDone ? (
+        <div className={s.endShift} role="status">
+          <p className={s.endText}>End of shift. Every assignment is filed.</p>
+          <Link to="/shift" className={s.endLink}>Review the shift report</Link>
+        </div>
+      ) : null}
 
       <div className={s.grid}>
         {status === 'none' || status === 'error' ? (

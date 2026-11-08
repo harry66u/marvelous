@@ -4,9 +4,11 @@ export interface Settings {
   sound: boolean
   motion: 'system' | 'reduce' | 'full'
   seenManual: Partial<Record<GameId, boolean>>
+  /** B-List accessibility option: 50-second prompts, labelled on the share report */
+  extendedTimer: boolean
 }
 
-export const DEFAULT_SETTINGS: Settings = { sound: false, motion: 'system', seenManual: {} }
+export const DEFAULT_SETTINGS: Settings = { sound: false, motion: 'system', seenManual: {}, extendedTimer: false }
 
 export function effectiveReducedMotion(s: Settings, prefersReduced: boolean): boolean {
   if (s.motion === 'reduce') return true

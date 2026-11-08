@@ -6,14 +6,15 @@ Marvelous is an unofficial fan game. It is not affiliated with, endorsed by, or 
 
 ## Status
 
-Milestone 1 is complete:
+All three games are live:
 
-- the branch-monitor home page
-- **Unmasked**, the daily character game, with 499 fact-checked characters (235 can be daily answers) and 90 days scheduled from 2026-11-06
-- the Field Manual
-- the Git-backed Scheduling Office
+- **Unmasked**, identify the variant: 499 fact-checked characters (235 can be daily answers), 90 days scheduled from 2026-11-06.
+- **B-List**, records search: 421 prompts with 10,800 accepted answers in five rarity tiers, 60 days scheduled from 2026-11-08.
+- **Retcon**, timeline repair: 549 dated records (first appearances and MCU releases), 88 days scheduled from 2026-11-08.
 
-B-List (M2) and Retcon (M3) are next.
+Also built: the branch-monitor home page, End of shift (`/shift`), the Agent file (`/agent`), the combined share report, the Field Manual and the Git-backed Scheduling Office.
+
+Not built yet, because each needs a shared backend: B-List rarity from real pick rates (tiers are preset for now), "rarest answers other agents found", and Google clock-in.
 
 - Design spec: [`docs/superpowers/specs/2026-11-06-marvelous-design.md`](docs/superpowers/specs/2026-11-06-marvelous-design.md)
 - M1 plan: [`docs/superpowers/plans/2026-11-06-m1-home-unmasked.md`](docs/superpowers/plans/2026-11-06-m1-home-unmasked.md)
@@ -48,25 +49,38 @@ Open `/office` on the live site.
   3. Under Permissions, set Contents to Read and write.
   4. Paste the token under **Access** in the Office. It stays in your browser.
 
-Edits are validated before saving, become commits, and go live after Vercel redeploys (about a minute). **Auto-fill** fills empty days using the same rules as the launch schedule:
+Edits are validated before saving, become commits, and go live after Vercel redeploys (about a minute). **Auto-fill** fills empty days in the next 90 using the same rules as the launch schedule:
 
-- easier answers Monday to Thursday, harder Friday to Sunday
-- no answer repeated within 120 days
-- no team on two days in a row
+- Unmasked: easier answers Monday to Thursday, harder Friday to Sunday; no answer repeated within 120 days; no team on two days in a row.
+- B-List: seven unused prompts (none repeated within 180 days), at most two from one family (three for MCU), no two on the same subject, two harder prompts on weekdays and three at weekends.
+- Retcon: six unused records with six different years, a well-known anchor first, a mix of decades and kinds.
 
-From the command line, run `npx tsx scripts/autofill-schedule.ts from=YYYY-MM-DD days=90`.
+The day editor shows each day's B-List requests and Retcon records, and can re-roll or clear them.
+
+From the command line:
+
+```bash
+npx tsx scripts/autofill-schedule.ts from=YYYY-MM-DD days=90   # Unmasked
+npx tsx scripts/autofill-games.ts from=YYYY-MM-DD days=90      # B-List and Retcon
+```
+
+B-List needs new prompts after 2027-01-06 and Retcon new records after 2027-02-03 (see Content).
 
 ## Content
 
 | File | Contents |
 |---|---|
 | `content/characters.json` | Unmasked characters. Rules: `content/research/RUBRIC.md` |
-| `content/schedule.json` | launch date and daily answers |
+| `content/schedule.json` | launch date; each day's Unmasked answer, B-List prompt ids and Retcon record ids |
+| `content/blist.json` | B-List prompts with every accepted answer, its aliases and its tier. Built by `scripts/research/blist/` |
+| `content/retcon.json` | Retcon records with cover month or U.S. release date. Built by `scripts/research/retcon/build_records.py` |
 | `content/teams.json` | team and affiliation vocabulary |
 | `content/FACTCHECK.md` | every contested call and how it was decided |
 | `content/research/` | how the data was built: Wikipedia infobox and MCU cast fetchers, a cross-check, adjudication decisions, and `merge-research.ts` |
 
 Every build validates the content. A bad edit fails the build, and the live site keeps the last good version.
+
+**Rebuilding B-List prompts:** `python3 scripts/research/blist/fetch_wikidata.py` downloads the Marvel slice of Wikidata (slowly; the query service allows about one query a minute), then `python3 scripts/research/blist/build_prompts.py` writes `content/blist.json`. Each answer's tier comes from its estimated share of agents: fame (how many language Wikipedias cover the character), boosted for MCU characters and a team's core members, mapped to the spec's pick-rate thresholds. See `content/FACTCHECK.md`.
 
 ## Fonts and licenses
 
@@ -74,3 +88,4 @@ Every build validates the content. A bad edit fails the build, and the live site
 - **Share Tech Mono and IBM Plex Mono:** SIL Open Font License.
 - **Special Elite:** Apache 2.0.
 - **Character facts:** checked against English Wikipedia.
+- **B-List answer lists:** Wikidata (CC0), English Wikipedia MCU cast lists, and the fact-checked Unmasked data.

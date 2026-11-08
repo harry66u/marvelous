@@ -1,0 +1,60 @@
+.end {
+  display: grid; gap: 14px; justify-items: start; min-width: 0;
+  padding-top: 22px; border-top: 1px dashed var(--line-soft);
+}
+.kicker {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.verdict { margin: -6px 0 0; font: 600 clamp(18px, 2.4vw, 22px)/1.35 var(--f-body); color: var(--cream); }
+/* focused by script when the case closes; it is not a control, so no ring */
+.verdict:focus { outline: none; }
+.memo { margin: 0; max-width: 56ch; font: 15px/1.6 var(--f-memo); color: var(--paper); }
+
+/* The repair slip: the five placements, in the order they arrived, under the stamp. */
+.slip { width: 100%; max-width: 560px; padding: 16px 16px 20px; overflow: hidden; }
+.slipHead {
+  display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2px 12px; margin: 0 0 10px;
+  padding-bottom: 6px; border-bottom: 2px solid var(--ink);
+  font: 11px/1.4 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase; color: var(--rust);
+}
+.outcomes { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.outcomes li {
+  display: grid; grid-template-columns: 8.5em minmax(0, 1fr) auto; gap: 4px 10px; align-items: baseline;
+  padding-bottom: 6px; border-bottom: 1px dotted color-mix(in srgb, var(--ink) 45%, transparent);
+}
+.chip {
+  justify-self: start; padding: 2px 6px; border: 1px solid var(--ink); white-space: nowrap;
+  font: 10px/1.4 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink);
+}
+li[data-outcome='correct'] .chip { background: var(--orange); border-color: var(--orange); }
+li[data-outcome='wrong'] .chip { background: var(--chocolate); border-color: var(--chocolate); color: var(--cream); }
+li[data-outcome='auto'] .chip { border-style: dashed; }
+.what { min-width: 0; font: 14px/1.4 var(--f-memo); color: var(--ink); overflow-wrap: anywhere; }
+.year { font: 15px/1 var(--f-hud); color: var(--ink); font-variant-numeric: tabular-nums; }
+
+.slip .stamp { left: 66%; top: 60%; }
+.slip .settled { animation: none; opacity: 0.9; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.link {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px;
+  border: 1px solid var(--line); color: var(--orange); text-decoration: none; text-shadow: var(--glow);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+}
+.link:hover { background: color-mix(in srgb, var(--orange) 12%, transparent); }
+
+/* stays mounted (empty) so screen readers hear it when it fills */
+.copied {
+  align-self: center; margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted);
+}
+.manual {
+  width: 100%; max-width: 560px; padding: 12px; resize: none; border: 1px solid var(--line); border-radius: 0;
+  background: var(--void); color: var(--cream); font: 14px/1.5 var(--f-hud); letter-spacing: 0.06em;
+}
+
+@media (max-width: 480px) {
+  .outcomes li { grid-template-columns: minmax(0, 1fr) auto; }
+  .chip { grid-column: 1 / -1; }
+}

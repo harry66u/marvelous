@@ -1,0 +1,95 @@
+.end { display: grid; gap: 14px; justify-items: start; min-width: 0; padding-bottom: 22px; }
+.kicker {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.verdict { margin: -6px 0 4px; font: 600 clamp(18px, 2.4vw, 22px)/1.35 var(--f-body); color: var(--cream); }
+/* focused by script when the search closes; it is not a control, so no ring */
+.verdict:focus { outline: none; }
+
+/* the ledger: a paper slip like the Unmasked ID card */
+.ledger { container-type: inline-size; width: 100%; max-width: 620px; }
+.enter { animation: ledger-in 0.45s var(--ease-out) both; }
+@keyframes ledger-in {
+  from { opacity: 0; transform: translateY(10px); }
+}
+div.paper { padding: 0; border-radius: 6px; overflow: hidden; }
+.band {
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 6px 10px;
+  padding: 8px 14px; background: var(--orange); color: var(--ink);
+  font: 13px/1 var(--f-hud); letter-spacing: 0.2em; text-transform: uppercase;
+}
+.bandTitle { margin: 0; font: inherit; }
+.code { font-weight: 400; padding: 4px 6px; background: var(--ink); color: var(--orange); white-space: nowrap; }
+
+.summary { position: relative; min-height: 132px; padding: 14px 16px; border-bottom: 1px dashed color-mix(in srgb, var(--ink) 40%, transparent); }
+.totals { display: grid; gap: 6px; margin: 0; max-width: 55%; }
+.totals div { display: grid; gap: 1px; }
+.totals dt { font: 10px/1.2 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase; color: var(--rust); }
+.totals dd { margin: 0; font: 15px/1.3 var(--f-memo); color: var(--ink); }
+.score { --display-a: var(--ink); --display-b: var(--rust); font-size: clamp(22px, 7vw, 36px); white-space: nowrap; }
+/* the stamp sits in the summary's empty right half, never over the ledger rows */
+.summary .stamp { left: 74%; top: 52%; width: min(230px, 46%); }
+.summary .settled { animation: none; opacity: 0.9; }
+
+.rows { margin: 0; padding: 6px 16px 12px; list-style: none; display: grid; }
+.row {
+  display: grid; grid-template-columns: 2.2ch minmax(0, 1fr) auto; gap: 4px 12px; align-items: start;
+  padding: 9px 0; border-bottom: 1px dotted color-mix(in srgb, var(--ink) 40%, transparent);
+}
+.row:last-child { border-bottom: 0; }
+.num { font: 13px/1.4 var(--f-hud); color: var(--rust); font-variant-numeric: tabular-nums; }
+.rowBody { min-width: 0; }
+.prompt { margin: 0; font: 12px/1.45 var(--f-body); color: color-mix(in srgb, var(--walnut) 55%, var(--ink)); }
+.answer { margin: 2px 0 0; font: 16px/1.3 var(--f-memo); color: var(--ink); overflow-wrap: anywhere; }
+.expired { font-style: italic; color: var(--rust); }
+.rowScore { display: grid; justify-items: end; gap: 4px; color: var(--ink); }
+.points { font: 400 14px/1 var(--f-hud); letter-spacing: 0.06em; font-variant-numeric: tabular-nums; }
+
+@container (max-width: 459px) {
+  .row { grid-template-columns: 2.2ch minmax(0, 1fr); }
+  .rowScore { grid-column: 2; justify-items: start; grid-auto-flow: column; align-items: center; gap: 10px; }
+  /* narrow slips: the stamp gets its own strip under the totals */
+  .summary { padding-bottom: 104px; }
+  .totals { max-width: none; }
+  .summary .stamp { left: 50%; top: calc(100% - 54px); width: min(240px, 78%); }
+}
+
+/* unclaimed records, back on the terminal ground */
+.unclaimed { display: grid; gap: 8px; width: 100%; max-width: 620px; margin-top: 6px; }
+.subhead {
+  margin: 0; font: 12px/1.4 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.note { margin: 0; font: 13px/1.6 var(--f-memo); color: var(--muted); }
+.leftovers { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+.leftovers > li {
+  display: grid; grid-template-columns: 9.5em minmax(0, 1fr); gap: 4px 12px; align-items: start;
+  padding: 8px 0; border-top: 1px solid var(--line-soft);
+}
+.leftReq { font: 11px/1.6 var(--f-hud); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.names { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; }
+.names li { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; color: var(--cream); }
+.leftName { font: 15px/1.4 var(--f-body); overflow-wrap: anywhere; }
+.none { font: 13px/1.6 var(--f-memo); color: var(--muted); }
+
+@media (max-width: 480px) {
+  .leftovers > li { grid-template-columns: minmax(0, 1fr); }
+}
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.link {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px;
+  border: 1px solid var(--line); color: var(--orange); text-decoration: none; text-shadow: var(--glow);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+}
+.link:hover { background: color-mix(in srgb, var(--orange) 12%, transparent); }
+/* stays mounted (empty) so screen readers hear it when it fills */
+.copied {
+  align-self: center; margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted);
+}
+.manual {
+  width: 100%; max-width: 560px; padding: 12px; resize: none; border: 1px solid var(--line); border-radius: 0;
+  background: var(--void); color: var(--cream); font: 14px/1.5 var(--f-hud); letter-spacing: 0.06em;
+}

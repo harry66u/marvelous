@@ -43,6 +43,8 @@ export default function Calendar({ schedule, chars, issues, selected, onSelect }
               <span className={s.tag}>
                 {bad.has(d) ? <b className={s.err}>ERROR</b> : null}
                 {c ? `D${c.difficulty}` : ''}
+                {schedule.days[d]?.blist ? ' · B' : ''}
+                {schedule.days[d]?.retcon ? ' · R' : ''}
               </span>
             </button>
           </li>

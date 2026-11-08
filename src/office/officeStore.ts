@@ -1,9 +1,11 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import type { Character, Issue, Schedule } from '../content/types'
+import type { BlistPrompt, Character, Issue, RetconRecord, Schedule } from '../content/types'
 import { TEAMS } from '../content/teams'
 import { validateCharacters, validateSchedule } from '../content/validate'
+import { validateGameSchedule } from '../content/validateGames'
 import { addDays, etDateOf } from '../lib/time'
 import { autofillSchedule } from './autofill'
+import { autofillBlist, autofillRetcon } from './autofillGames'
 import {
   BRANCH_KEY, GitHubError, OWNER, REPO, clearToken, getDefaultBranch, loadToken, readJsonFile, saveToken,
   commitJsonFiles, type FileWrite, type RepoRef,
@@ -11,6 +13,8 @@ import {
 
 export const SCHEDULE_PATH = 'content/schedule.json'
 export const CHARACTERS_PATH = 'content/characters.json'
+export const BLIST_PATH = 'content/blist.json'
+export const RETCON_PATH = 'content/retcon.json'
 export const PAST_DAYS = 14
 export const FUTURE_DAYS = 90
 
@@ -45,6 +49,9 @@ export function useOfficeStore() {
   const [original, setOriginal] = useState<{ schedule: string; chars: string }>({ schedule: '', chars: '' })
   const [schedule, setSchedule] = useState<Schedule | null>(null)
   const [chars, setChars] = useState<Character[] | null>(null)
+  // Prompts and records are read-only here; they are built by the research scripts.
+  const [prompts, setPrompts] = useState<BlistPrompt[]>([])
+  const [records, setRecords] = useState<RetconRecord[]>([])
   const [saving, setSaving] = useState(false)
   const [saveError, setSaveError] = useState<string | null>(null)
   const [commits, setCommits] = useState<SavedCommit[]>([])
@@ -60,13 +67,17 @@ export function useOfficeStore() {
         if (!live) return
         setDefaultBranch((d) => d ?? b)
         const ref: RepoRef = { owner: OWNER, repo: REPO, branch: b }
-        const [s, c] = await Promise.all([
+        const [s, c, bl, rc] = await Promise.all([
           readJsonFile<Schedule>(ref, SCHEDULE_PATH, token),
           readJsonFile<Character[]>(ref, CHARACTERS_PATH, token),
+          readJsonFile<BlistPrompt[]>(ref, BLIST_PATH, token).catch(() => ({ data: [] as BlistPrompt[], sha: '' })),
+          readJsonFile<RetconRecord[]>(ref, RETCON_PATH, token).catch(() => ({ data: [] as RetconRecord[], sha: '' })),
         ])
         if (!live) return
         setSchedule(s.data)
         setChars(c.data)
+        setPrompts(bl.data)
+        setRecords(rc.data)
         setOriginal({ schedule: JSON.stringify(sortDays(s.data)), chars: JSON.stringify(c.data) })
         setCommits([])
         setSaveError(null)
@@ -87,8 +98,8 @@ export function useOfficeStore() {
   )
 
   const scheduleIssues: Issue[] = useMemo(
-    () => (schedule && chars ? validateSchedule(schedule, chars) : []),
-    [schedule, chars],
+    () => (schedule && chars ? [...validateSchedule(schedule, chars), ...validateGameSchedule(schedule, prompts, records)] : []),
+    [schedule, chars, prompts, records],
   )
   const characterIssues: Issue[] = useMemo(() => (chars ? validateCharacters(chars, TEAMS) : []), [chars])
   const errorCount = [...scheduleIssues, ...characterIssues].filter((i) => i.level === 'error').length
@@ -107,9 +118,25 @@ export function useOfficeStore() {
     setSchedule((s) => {
       if (!s || !chars) return s
       const from = etDateOf(new Date())
-      return autofillSchedule(s, chars, from, addDays(from, FUTURE_DAYS - 1))
+      const to = addDays(from, FUTURE_DAYS - 1)
+      return autofillRetcon(autofillBlist(autofillSchedule(s, chars, from, to), prompts, from, to), records, from, to)
     })
-  }, [chars])
+  }, [chars, prompts, records])
+
+  /** Clear one day's B-List or Retcon set; `reroll` fills it again with a fresh pick. */
+  const setDayGame = useCallback((date: string, game: 'blist' | 'retcon', reroll: boolean) => {
+    setSchedule((s) => {
+      if (!s?.days[date]) return s
+      const { [game]: _drop, ...rest } = s.days[date]!
+      let next: Schedule = { ...s, days: { ...s.days, [date]: rest } }
+      if (reroll) {
+        // A different seed than the original fill, so a re-roll actually changes the day.
+        const salted = { ...next, days: { ...next.days } }
+        next = game === 'blist' ? autofillBlist(salted, prompts, date, date, `reroll:${Date.now()}`) : autofillRetcon(salted, records, date, date, `reroll:${Date.now()}`)
+      }
+      return next
+    })
+  }, [prompts, records])
 
   const updateChar = useCallback((index: number, next: Character) => {
     setChars((cs) => (cs ? cs.map((c, i) => (i === index ? next : c)) : cs))
@@ -156,7 +183,7 @@ export function useOfficeStore() {
 
   return {
     load, token, setToken, forgetToken, branch: effectiveBranch, setBranch, defaultBranch, reload,
-    schedule, chars, setDay, autofill, updateChar, addChar,
+    schedule, chars, prompts, records, setDay, setDayGame, autofill, updateChar, addChar,
     scheduleIssues, characterIssues, errorCount, changedFiles, canSave, saving, save, saveError, commits,
   }
 }

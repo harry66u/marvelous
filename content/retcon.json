@@ -1,0 +1,6041 @@
+[
+ {
+  "id": "debut-human-torch-jim-hammond",
+  "text": "First appearance: Human Torch (Jim Hammond)",
+  "detail": "Marvel Comics #1",
+  "date": "1939-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Human_Torch_(android)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-namor",
+  "text": "First appearance: Namor",
+  "detail": "Marvel Comics #1 · Namor McKenzie",
+  "date": "1939-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Namor"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-the-angel-thomas-halloway",
+  "text": "First appearance: The Angel (Thomas Halloway)",
+  "detail": "Marvel Comics #1",
+  "date": "1939-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angel_(Thomas_Halloway)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-toro",
+  "text": "First appearance: Toro",
+  "detail": "Human Torch Comics #2 · Thomas Raymond",
+  "date": "1940-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toro_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-captain-america",
+  "text": "First appearance: Captain America",
+  "detail": "Captain America Comics #1 · Steve Rogers",
+  "date": "1941-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_America"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-red-skull",
+  "text": "First appearance: Red Skull",
+  "detail": "Captain America Comics #1 · Johann Shmidt",
+  "date": "1941-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_Skull"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-winter-soldier",
+  "text": "First appearance: Winter Soldier",
+  "detail": "Captain America Comics #1 · James Buchanan Barnes",
+  "date": "1941-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bucky_Barnes"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-hercules",
+  "text": "First appearance: Hercules",
+  "detail": "U.S.A. Comics #7 · Hercules Panhellenios",
+  "date": "1943-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hellcat",
+  "text": "First appearance: Hellcat",
+  "detail": "Miss America Magazine #2 · Patricia Walker",
+  "date": "1944-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patsy_Walker"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-namora",
+  "text": "First appearance: Namora",
+  "detail": "Marvel Mystery Comics #82",
+  "date": "1947-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Namora"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-venus",
+  "text": "First appearance: Venus",
+  "detail": "Venus #1",
+  "date": "1948-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-zeus",
+  "text": "First appearance: Zeus",
+  "detail": "Venus #5 · Zeus Panhellenios",
+  "date": "1949-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeus_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-morgan-le-fay",
+  "text": "First appearance: Morgan le Fay",
+  "detail": "Black Knight #1",
+  "date": "1955-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_le_Fay_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-groot",
+  "text": "First appearance: Groot",
+  "detail": "Tales to Astonish #13",
+  "date": "1960-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Groot"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-night-nurse",
+  "text": "First appearance: Night Nurse",
+  "detail": "Linda Carter, Student Nurse #1 · Linda Carter",
+  "date": "1961-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Night_Nurse_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-human-torch-johnny-storm",
+  "text": "First appearance: Human Torch (Johnny Storm)",
+  "detail": "Fantastic Four #1",
+  "date": "1961-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Human_Torch"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-invisible-woman",
+  "text": "First appearance: Invisible Woman",
+  "detail": "Fantastic Four #1 · Susan Storm",
+  "date": "1961-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Invisible_Woman"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-mister-fantastic",
+  "text": "First appearance: Mister Fantastic",
+  "detail": "Fantastic Four #1 · Reed Richards",
+  "date": "1961-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mister_Fantastic"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-mole-man",
+  "text": "First appearance: Mole Man",
+  "detail": "Fantastic Four #1 · Harvey Elder",
+  "date": "1961-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mole_Man"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-thing",
+  "text": "First appearance: Thing",
+  "detail": "Fantastic Four #1 · Ben Grimm",
+  "date": "1961-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-ant-man-hank-pym",
+  "text": "First appearance: Ant-Man (Hank Pym)",
+  "detail": "Tales to Astonish #27",
+  "date": "1962-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hank_Pym"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hulk",
+  "text": "First appearance: Hulk",
+  "detail": "The Incredible Hulk #1 · Bruce Banner",
+  "date": "1962-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hulk"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-red-hulk",
+  "text": "First appearance: Red Hulk",
+  "detail": "The Incredible Hulk #1 · Thaddeus Ross",
+  "date": "1962-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_Hulk"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-red-she-hulk",
+  "text": "First appearance: Red She-Hulk",
+  "detail": "The Incredible Hulk #1 · Betty Ross",
+  "date": "1962-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_She-Hulk"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rick-jones",
+  "text": "First appearance: Rick Jones",
+  "detail": "The Incredible Hulk #1 · Richard Jones",
+  "date": "1962-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rick_Jones_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-doctor-doom",
+  "text": "First appearance: Doctor Doom",
+  "detail": "Fantastic Four #5 · Victor von Doom",
+  "date": "1962-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doctor_Doom"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-agent-venom",
+  "text": "First appearance: Agent Venom",
+  "detail": "Amazing Fantasy #15 · Eugene \"Flash\" Thompson",
+  "date": "1962-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flash_Thompson"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spider-man-peter-parker",
+  "text": "First appearance: Spider-Man (Peter Parker)",
+  "detail": "Amazing Fantasy #15",
+  "date": "1962-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-thor",
+  "text": "First appearance: Thor",
+  "detail": "Journey into Mystery #83 · Thor Odinson",
+  "date": "1962-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-jane-foster",
+  "text": "First appearance: Jane Foster",
+  "detail": "Journey into Mystery #84",
+  "date": "1962-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jane_Foster"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-balder",
+  "text": "First appearance: Balder",
+  "detail": "Journey into Mystery #85 · Balder Odinson",
+  "date": "1962-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Balder_the_Brave"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-heimdall",
+  "text": "First appearance: Heimdall",
+  "detail": "Journey into Mystery #85",
+  "date": "1962-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heimdall_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-loki",
+  "text": "First appearance: Loki",
+  "detail": "Journey into Mystery #85 · Loki Laufeyson",
+  "date": "1962-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-tyr",
+  "text": "First appearance: Tyr",
+  "detail": "Journey into Mystery #85",
+  "date": "1962-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyr_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-alicia-masters",
+  "text": "First appearance: Alicia Masters",
+  "detail": "Fantastic Four #8",
+  "date": "1962-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alicia_Masters"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-odin",
+  "text": "First appearance: Odin",
+  "detail": "Journey into Mystery #86 · Odin Borson",
+  "date": "1962-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Odin_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-puppet-master",
+  "text": "First appearance: Puppet Master",
+  "detail": "Fantastic Four #8 · Phillip Masters",
+  "date": "1962-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puppet_Master_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-wizard",
+  "text": "First appearance: Wizard",
+  "detail": "Strange Tales #102 · Bentley Wittman",
+  "date": "1962-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-egghead",
+  "text": "First appearance: Egghead",
+  "detail": "Tales to Astonish #38 · Elihas Starr",
+  "date": "1962-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-trapster",
+  "text": "First appearance: Trapster",
+  "detail": "Strange Tales #104 · Peter Petruccelli",
+  "date": "1963-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trapster"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-impossible-man",
+  "text": "First appearance: Impossible Man",
+  "detail": "Fantastic Four #11",
+  "date": "1963-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Impossible_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-chameleon",
+  "text": "First appearance: Chameleon",
+  "detail": "The Amazing Spider-Man #1 · Dmitri Smerdyakov",
+  "date": "1963-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chameleon_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-iron-man",
+  "text": "First appearance: Iron Man",
+  "detail": "Tales of Suspense #39 · Tony Stark",
+  "date": "1963-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_Man"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-man-wolf",
+  "text": "First appearance: Man-Wolf",
+  "detail": "The Amazing Spider-Man #1 · John Jameson",
+  "date": "1963-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Man-Wolf"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-uatu-the-watcher",
+  "text": "First appearance: Uatu the Watcher",
+  "detail": "Fantastic Four #13",
+  "date": "1963-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uatu"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-dum-dum-dugan",
+  "text": "First appearance: Dum Dum Dugan",
+  "detail": "Sgt. Fury and His Howling Commandos #1 · Timothy Dugan",
+  "date": "1963-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dum_Dum_Dugan"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-frigga",
+  "text": "First appearance: Frigga",
+  "detail": "Journey into Mystery #92 · Freyja Freyrdottir",
+  "date": "1963-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frigga_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-nick-fury",
+  "text": "First appearance: Nick Fury",
+  "detail": "Sgt. Fury and His Howling Commandos #1",
+  "date": "1963-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nick_Fury"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-tinkerer",
+  "text": "First appearance: Tinkerer",
+  "detail": "The Amazing Spider-Man #2 · Phineas Mason",
+  "date": "1963-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tinkerer_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-vulture",
+  "text": "First appearance: Vulture",
+  "detail": "The Amazing Spider-Man #2 · Adrian Toomes",
+  "date": "1963-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vulture_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mad-thinker",
+  "text": "First appearance: Mad Thinker",
+  "detail": "Fantastic Four #15",
+  "date": "1963-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mad_Thinker"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-radioactive-man",
+  "text": "First appearance: Radioactive Man",
+  "detail": "Journey into Mystery #93 · Chen Lu",
+  "date": "1963-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Radioactive_Man_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-wasp-janet-van-dyne",
+  "text": "First appearance: Wasp (Janet van Dyne)",
+  "detail": "Tales to Astonish #44",
+  "date": "1963-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janet_van_Dyne"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-doctor-octopus",
+  "text": "First appearance: Doctor Octopus",
+  "detail": "The Amazing Spider-Man #3 · Otto Octavius",
+  "date": "1963-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doctor_Octopus"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-doctor-strange",
+  "text": "First appearance: Doctor Strange",
+  "detail": "Strange Tales #110 · Stephen Strange",
+  "date": "1963-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doctor_Strange"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-nightmare",
+  "text": "First appearance: Nightmare",
+  "detail": "Strange Tales #110",
+  "date": "1963-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nightmare_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-the-ancient-one",
+  "text": "First appearance: The Ancient One",
+  "detail": "Strange Tales #110 · Yao",
+  "date": "1963-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ancient_One"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-wong",
+  "text": "First appearance: Wong",
+  "detail": "Strange Tales #110",
+  "date": "1963-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wong_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-baron-mordo",
+  "text": "First appearance: Baron Mordo",
+  "detail": "Strange Tales #111 · Karl Mordo",
+  "date": "1963-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baron_Mordo"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-kraglin",
+  "text": "First appearance: Kraglin",
+  "detail": "Tales to Astonish #46",
+  "date": "1963-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kraglin"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-archangel",
+  "text": "First appearance: Archangel",
+  "detail": "The X-Men #1 · Warren Worthington III",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angel_(Warren_Worthington_III)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-beast",
+  "text": "First appearance: Beast",
+  "detail": "The X-Men #1 · Henry McCoy",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beast_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-cyclops",
+  "text": "First appearance: Cyclops",
+  "detail": "The X-Men #1 · Scott Summers",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-iceman",
+  "text": "First appearance: Iceman",
+  "detail": "The X-Men #1 · Robert Drake",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iceman_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-jean-grey",
+  "text": "First appearance: Jean Grey",
+  "detail": "The X-Men #1",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jean_Grey"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-magneto",
+  "text": "First appearance: Magneto",
+  "detail": "The X-Men #1 · Max Eisenhardt",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Magneto_%28Marvel_Comics%29"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-pepper-potts",
+  "text": "First appearance: Pepper Potts",
+  "detail": "Tales of Suspense #45 · Virginia Potts",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pepper_Potts"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-professor-x",
+  "text": "First appearance: Professor X",
+  "detail": "The X-Men #1 · Charles Xavier",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Professor_X"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-sandman",
+  "text": "First appearance: Sandman",
+  "detail": "The Amazing Spider-Man #4 · William Baker",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-super-skrull",
+  "text": "First appearance: Super-Skrull",
+  "detail": "Fantastic Four #18 · Kl'rt",
+  "date": "1963-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Super-Skrull"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-crimson-dynamo",
+  "text": "First appearance: Crimson Dynamo",
+  "detail": "Tales of Suspense #46 · Anton Vanko",
+  "date": "1963-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-kang-the-conqueror",
+  "text": "First appearance: Kang the Conqueror",
+  "detail": "Fantastic Four #19 · Nathaniel Richards",
+  "date": "1963-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-surtur",
+  "text": "First appearance: Surtur",
+  "detail": "Journey into Mystery #97",
+  "date": "1963-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Surtur_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-lizard",
+  "text": "First appearance: Lizard",
+  "detail": "The Amazing Spider-Man #6 · Curt Connors",
+  "date": "1963-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lizard_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-molecule-man",
+  "text": "First appearance: Molecule Man",
+  "detail": "Fantastic Four #20 · Owen Reece",
+  "date": "1963-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Molecule_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mister-hyde",
+  "text": "First appearance: Mister Hyde",
+  "detail": "Journey into Mystery #99 · Calvin Zabo",
+  "date": "1963-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mister_Hyde_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-whirlwind",
+  "text": "First appearance: Whirlwind",
+  "detail": "Tales to Astonish #50 · David Cannon",
+  "date": "1963-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Whirlwind_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-baron-strucker",
+  "text": "First appearance: Baron Strucker",
+  "detail": "Sgt. Fury and His Howling Commandos #5 · Wolfgang von Strucker",
+  "date": "1964-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baron_Strucker"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-blob",
+  "text": "First appearance: Blob",
+  "detail": "The X-Men #3 · Fred Dukes",
+  "date": "1964-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blob_%28Marvel_Comics%29"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-living-brain",
+  "text": "First appearance: Living Brain",
+  "detail": "The Amazing Spider-Man #8",
+  "date": "1964-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Living_Brain"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-electro",
+  "text": "First appearance: Electro",
+  "detail": "The Amazing Spider-Man #9 · Max Dillon",
+  "date": "1964-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Electro_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mandarin",
+  "text": "First appearance: Mandarin",
+  "detail": "Tales of Suspense #50",
+  "date": "1964-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mandarin_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hela",
+  "text": "First appearance: Hela",
+  "detail": "Journey into Mystery #102",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hela_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mastermind-jason-wyngarde",
+  "text": "First appearance: Mastermind (Jason Wyngarde)",
+  "detail": "The X-Men #4",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mastermind_%28Jason_Wyngarde%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-montana",
+  "text": "First appearance: Montana",
+  "detail": "The Amazing Spider-Man #10 · Jackson Brice",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Montana_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-quicksilver",
+  "text": "First appearance: Quicksilver",
+  "detail": "The X-Men #4 · Pietro Maximoff",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-scarlet-witch",
+  "text": "First appearance: Scarlet Witch",
+  "detail": "The X-Men #4 · Wanda Maximoff",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scarlet_Witch"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-sif",
+  "text": "First appearance: Sif",
+  "detail": "Journey into Mystery #102",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sif_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-toad",
+  "text": "First appearance: Toad",
+  "detail": "The X-Men #4 · Mortimer Toynbee",
+  "date": "1964-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toad_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-black-widow",
+  "text": "First appearance: Black Widow",
+  "detail": "Tales of Suspense #52 · Natasha Romanova",
+  "date": "1964-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-daredevil",
+  "text": "First appearance: Daredevil",
+  "detail": "Daredevil #1 · Matt Murdock",
+  "date": "1964-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-enchantress",
+  "text": "First appearance: Enchantress",
+  "detail": "Journey into Mystery #103 · Amora",
+  "date": "1964-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-executioner",
+  "text": "First appearance: Executioner",
+  "detail": "Journey into Mystery #103 · Skurge",
+  "date": "1964-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Executioner_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mysterio",
+  "text": "First appearance: Mysterio",
+  "detail": "The Amazing Spider-Man #13 · Quentin Beck",
+  "date": "1964-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mysterio"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-green-goblin",
+  "text": "First appearance: Green Goblin",
+  "detail": "The Amazing Spider-Man #14 · Norman Osborn",
+  "date": "1964-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_Goblin"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-beetle-abner-jenkins",
+  "text": "First appearance: Beetle (Abner Jenkins)",
+  "detail": "Strange Tales #123",
+  "date": "1964-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abner_Jenkins"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-karnilla",
+  "text": "First appearance: Karnilla",
+  "detail": "Journey into Mystery #107",
+  "date": "1964-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_K"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-kraven-the-hunter",
+  "text": "First appearance: Kraven the Hunter",
+  "detail": "The Amazing Spider-Man #15 · Sergei Kravinoff",
+  "date": "1964-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-the-owl",
+  "text": "First appearance: The Owl",
+  "detail": "Daredevil #3 · Leland Owlsley",
+  "date": "1964-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Owl_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-diablo",
+  "text": "First appearance: Diablo",
+  "detail": "Fantastic Four #30 · Esteban Corazon de Ablo",
+  "date": "1964-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diablo_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-hawkeye-clint-barton",
+  "text": "First appearance: Hawkeye (Clint Barton)",
+  "detail": "Tales of Suspense #57",
+  "date": "1964-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clint_Barton"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-wonder-man",
+  "text": "First appearance: Wonder Man",
+  "detail": "The Avengers #9 · Simon Williams",
+  "date": "1964-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wonder_Man"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-clea",
+  "text": "First appearance: Clea",
+  "detail": "Strange Tales #126",
+  "date": "1964-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clea_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-dormammu",
+  "text": "First appearance: Dormammu",
+  "detail": "Strange Tales #126",
+  "date": "1964-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dormammu"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-purple-man",
+  "text": "First appearance: Purple Man",
+  "detail": "Daredevil #4 · Zebediah Killgrave",
+  "date": "1964-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Purple_Man"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-attuma",
+  "text": "First appearance: Attuma",
+  "detail": "Fantastic Four #33",
+  "date": "1964-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Attuma"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-scorpion",
+  "text": "First appearance: Scorpion",
+  "detail": "The Amazing Spider-Man #19 · Mac Gargan",
+  "date": "1964-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scorpion_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-the-leader",
+  "text": "First appearance: The Leader",
+  "detail": "Tales to Astonish #62 · Samuel Sterns",
+  "date": "1964-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leader_(comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-laufey",
+  "text": "First appearance: Laufey",
+  "detail": "Journey into Mystery #112",
+  "date": "1965-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_L"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-count-nefaria",
+  "text": "First appearance: Count Nefaria",
+  "detail": "The Avengers #13 · Luchino Nefaria",
+  "date": "1965-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Count_Nefaria"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-dragon-man",
+  "text": "First appearance: Dragon Man",
+  "detail": "Fantastic Four #35",
+  "date": "1965-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_D"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-absorbing-man",
+  "text": "First appearance: Absorbing Man",
+  "detail": "Journey into Mystery #114 · Carl Creel",
+  "date": "1965-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Absorbing_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ka-zar",
+  "text": "First appearance: Ka-Zar",
+  "detail": "The X-Men #10 · Kevin Plunder",
+  "date": "1965-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ka-Zar_(Kevin_Plunder)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-medusa",
+  "text": "First appearance: Medusa",
+  "detail": "Fantastic Four #36 · Medusalith Amaquelin-Boltagon",
+  "date": "1965-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Medusa_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-the-stranger",
+  "text": "First appearance: The Stranger",
+  "detail": "The X-Men #11",
+  "date": "1965-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stranger_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-juggernaut",
+  "text": "First appearance: Juggernaut",
+  "detail": "The X-Men #12 · Cain Marko",
+  "date": "1965-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juggernaut_%28character%29"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-fandral",
+  "text": "First appearance: Fandral",
+  "detail": "Journey into Mystery #119",
+  "date": "1965-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fandral"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-hogun",
+  "text": "First appearance: Hogun",
+  "detail": "Journey into Mystery #119",
+  "date": "1965-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hogun"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-swordsman",
+  "text": "First appearance: Swordsman",
+  "detail": "The Avengers #19 · Jacques Duquesne",
+  "date": "1965-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swordsman_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-volstagg",
+  "text": "First appearance: Volstagg",
+  "detail": "Journey into Mystery #119",
+  "date": "1965-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warriors_Three"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-molten-man",
+  "text": "First appearance: Molten Man",
+  "detail": "The Amazing Spider-Man #28 · Mark Raxton",
+  "date": "1965-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Molten_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-titanium-man",
+  "text": "First appearance: Titanium Man",
+  "detail": "Tales of Suspense #69 · Boris Bullski",
+  "date": "1965-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Titanium_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-atlas-erik-josten",
+  "text": "First appearance: Atlas (Erik Josten)",
+  "detail": "The Avengers #21",
+  "date": "1965-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erik_Josten"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-bolivar-trask",
+  "text": "First appearance: Bolivar Trask",
+  "detail": "The X-Men #14",
+  "date": "1965-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolivar_Trask"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-eternity",
+  "text": "First appearance: Eternity",
+  "detail": "Strange Tales #138",
+  "date": "1965-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eternity_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-gorgon",
+  "text": "First appearance: Gorgon",
+  "detail": "Fantastic Four #44 · Gorgon Petragon",
+  "date": "1965-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gorgon_(Inhuman)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-black-bolt",
+  "text": "First appearance: Black Bolt",
+  "detail": "Fantastic Four #45 · Blackagar Boltagon",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Bolt"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-crystal",
+  "text": "First appearance: Crystal",
+  "detail": "Fantastic Four #45 · Crystalia Amaquelin",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crystal_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-harry-osborn",
+  "text": "First appearance: Harry Osborn",
+  "detail": "The Amazing Spider-Man #31",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Osborn"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-jackal",
+  "text": "First appearance: Jackal",
+  "detail": "The Amazing Spider-Man #31 · Miles Warren",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackal_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-karnak",
+  "text": "First appearance: Karnak",
+  "detail": "Fantastic Four #45 · Karnak Mander-Azur",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karnak_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-lockjaw",
+  "text": "First appearance: Lockjaw",
+  "detail": "Fantastic Four #45",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lockjaw_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ravonna-renslayer",
+  "text": "First appearance: Ravonna Renslayer",
+  "detail": "The Avengers #23",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ravonna"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-triton",
+  "text": "First appearance: Triton",
+  "detail": "Fantastic Four #45",
+  "date": "1965-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Triton_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-maximus",
+  "text": "First appearance: Maximus",
+  "detail": "Fantastic Four #47 · Maximus Boltagon",
+  "date": "1966-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximus_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-batroc-the-leaper",
+  "text": "First appearance: Batroc the Leaper",
+  "detail": "Tales of Suspense #75 · Georges Batroc",
+  "date": "1966-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Batroc_the_Leaper"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-galactus",
+  "text": "First appearance: Galactus",
+  "detail": "Fantastic Four #48 · Galan",
+  "date": "1966-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Galactus"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-peggy-carter",
+  "text": "First appearance: Peggy Carter",
+  "detail": "Tales of Suspense #75 · Margaret Carter",
+  "date": "1966-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peggy_Carter"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-sharon-carter",
+  "text": "First appearance: Sharon Carter",
+  "detail": "Tales of Suspense #75",
+  "date": "1966-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sharon_Carter"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-silver-surfer",
+  "text": "First appearance: Silver Surfer",
+  "detail": "Fantastic Four #48 · Norrin Radd",
+  "date": "1966-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silver_Surfer"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-the-collector",
+  "text": "First appearance: The Collector",
+  "detail": "The Avengers #28 · Taneleer Tivan",
+  "date": "1966-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Collector_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-wyatt-wingfoot",
+  "text": "First appearance: Wyatt Wingfoot",
+  "detail": "Fantastic Four #50",
+  "date": "1966-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wyatt_Wingfoot"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-ares",
+  "text": "First appearance: Ares",
+  "detail": "Thor #129",
+  "date": "1966-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-black-panther",
+  "text": "First appearance: Black Panther",
+  "detail": "Fantastic Four #52 · T'Challa",
+  "date": "1966-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-boomerang",
+  "text": "First appearance: Boomerang",
+  "detail": "Tales to Astonish #81 · Fred Myers",
+  "date": "1966-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-gladiator-melvin-potter",
+  "text": "First appearance: Gladiator (Melvin Potter)",
+  "detail": "Daredevil #18",
+  "date": "1966-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gladiator_(Melvin_Potter)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-klaw",
+  "text": "First appearance: Klaw",
+  "detail": "Fantastic Four #53 · Ulysses Klaue",
+  "date": "1966-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Klaw_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-ego-the-living-planet",
+  "text": "First appearance: Ego the Living Planet",
+  "detail": "The Mighty Thor #132 · Egros",
+  "date": "1966-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ego_the_Living_Planet"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-rhino",
+  "text": "First appearance: Rhino",
+  "detail": "The Amazing Spider-Man #41 · Aleksei Sytsevich",
+  "date": "1966-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhino_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-super-adaptoid",
+  "text": "First appearance: Super-Adaptoid",
+  "detail": "Tales of Suspense #82",
+  "date": "1966-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Super-Adaptoid"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-valkyrie-brunnhilde",
+  "text": "First appearance: Valkyrie (Brunnhilde)",
+  "detail": "Thor #133",
+  "date": "1966-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-high-evolutionary",
+  "text": "First appearance: High Evolutionary",
+  "detail": "The Mighty Thor #134 · Herbert Edgar Wyndham",
+  "date": "1966-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/High_Evolutionary"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-living-laser",
+  "text": "First appearance: Living Laser",
+  "detail": "The Avengers #34 · Arthur Parks",
+  "date": "1966-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Living_Laser"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-banshee",
+  "text": "First appearance: Banshee",
+  "detail": "The X-Men #28 · Sean Cassidy",
+  "date": "1967-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Banshee_(Sean_Cassidy)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ulik",
+  "text": "First appearance: Ulik",
+  "detail": "Thor #137",
+  "date": "1967-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ulik"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-shocker",
+  "text": "First appearance: Shocker",
+  "detail": "The Amazing Spider-Man #46 · Herman Schultz",
+  "date": "1967-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shocker_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-abomination",
+  "text": "First appearance: Abomination",
+  "detail": "Tales to Astonish #90 · Emil Blonsky",
+  "date": "1967-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abomination_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-blastaar",
+  "text": "First appearance: Blastaar",
+  "detail": "Fantastic Four #62",
+  "date": "1967-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blastaar"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-living-tribunal",
+  "text": "First appearance: Living Tribunal",
+  "detail": "Strange Tales #157",
+  "date": "1967-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Living_Tribunal"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-kingpin",
+  "text": "First appearance: Kingpin",
+  "detail": "The Amazing Spider-Man #50 · Wilson Fisk",
+  "date": "1967-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kingpin_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-red-guardian",
+  "text": "First appearance: Red Guardian",
+  "detail": "The Avengers #43 · Alexei Shostakov",
+  "date": "1967-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_Guardian"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-ronan-the-accuser",
+  "text": "First appearance: Ronan the Accuser",
+  "detail": "Fantastic Four #65",
+  "date": "1967-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-supreme-intelligence",
+  "text": "First appearance: Supreme Intelligence",
+  "detail": "Fantastic Four #65",
+  "date": "1967-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Supreme_Intelligence"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-adam-warlock",
+  "text": "First appearance: Adam Warlock",
+  "detail": "Fantastic Four #66",
+  "date": "1967-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Warlock"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-modok",
+  "text": "First appearance: M.O.D.O.K.",
+  "detail": "Tales of Suspense #93 · George Tarleton",
+  "date": "1967-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/MODOK"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-madame-masque",
+  "text": "First appearance: Madame Masque",
+  "detail": "Tales of Suspense #97 · Giulietta Nefaria",
+  "date": "1967-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Madame_Masque"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-psycho-man",
+  "text": "First appearance: Psycho-Man",
+  "detail": "Fantastic Four Annual #5",
+  "date": "1967-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Psycho-Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-black-knight-dane-whitman",
+  "text": "First appearance: Black Knight (Dane Whitman)",
+  "detail": "The Avengers #47",
+  "date": "1967-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dane_Whitman"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-captain-mar-vell",
+  "text": "First appearance: Captain Mar-Vell",
+  "detail": "Marvel Super-Heroes #12",
+  "date": "1967-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_Marvel_(Mar-Vell)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-yon-rogg",
+  "text": "First appearance: Yon-Rogg",
+  "detail": "Marvel Super-Heroes #12",
+  "date": "1967-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yon-Rogg"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-whiplash",
+  "text": "First appearance: Whiplash",
+  "detail": "Tales of Suspense #97 · Mark Scarlotti",
+  "date": "1968-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Whiplash_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-wrecker",
+  "text": "First appearance: Wrecker",
+  "detail": "The Mighty Thor #148 · Dirk Garthwaite",
+  "date": "1968-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wrecker_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-captain-marvel-carol-danvers",
+  "text": "First appearance: Captain Marvel (Carol Danvers)",
+  "detail": "Marvel Super-Heroes #13",
+  "date": "1968-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carol_Danvers"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-grim-reaper",
+  "text": "First appearance: Grim Reaper",
+  "detail": "The Avengers #52 · Eric Williams",
+  "date": "1968-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grim_Reaper_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mangog",
+  "text": "First appearance: Mangog",
+  "detail": "Thor #154",
+  "date": "1968-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mangog"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ultron",
+  "text": "First appearance: Ultron",
+  "detail": "The Avengers #54",
+  "date": "1968-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ultron"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-tiger-shark",
+  "text": "First appearance: Tiger Shark",
+  "detail": "Prince Namor, the Sub-Mariner #5 · Todd Arliss",
+  "date": "1968-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tiger_Shark_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-polaris",
+  "text": "First appearance: Polaris",
+  "detail": "The X-Men #49 · Lorna Dane",
+  "date": "1968-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Polaris_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-vision",
+  "text": "First appearance: Vision",
+  "detail": "The Avengers #57",
+  "date": "1968-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-annihilus",
+  "text": "First appearance: Annihilus",
+  "detail": "Fantastic Four Annual #6",
+  "date": "1968-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Annihilus"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-franklin-richards",
+  "text": "First appearance: Franklin Richards",
+  "detail": "Fantastic Four Annual #6",
+  "date": "1968-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franklin_Richards_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mephisto",
+  "text": "First appearance: Mephisto",
+  "detail": "Silver Surfer #3",
+  "date": "1968-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mephisto_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-charlie-27",
+  "text": "First appearance: Charlie-27",
+  "detail": "Marvel Super-Heroes #18",
+  "date": "1969-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlie-27"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-major-victory",
+  "text": "First appearance: Major Victory",
+  "detail": "Marvel Super-Heroes #18 · Vance Astrovik",
+  "date": "1969-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vance_Astro"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-martinex",
+  "text": "First appearance: Martinex",
+  "detail": "Marvel Super-Heroes #18 · Martinex T'Naga",
+  "date": "1969-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martinex"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-yondu",
+  "text": "First appearance: Yondu",
+  "detail": "Marvel Super-Heroes #18",
+  "date": "1969-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yondu"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-viper-ophelia-sarkissian",
+  "text": "First appearance: Viper (Ophelia Sarkissian)",
+  "detail": "Captain America #110",
+  "date": "1969-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viper_(Ophelia_Sarkissian)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-havok",
+  "text": "First appearance: Havok",
+  "detail": "The X-Men #54 · Alex Summers",
+  "date": "1969-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Havok_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mbaku",
+  "text": "First appearance: M'Baku",
+  "detail": "The Avengers #62",
+  "date": "1969-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/M%27Baku"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-silvermane",
+  "text": "First appearance: Silvermane",
+  "detail": "The Amazing Spider-Man #73 · Silvio Manfredi",
+  "date": "1969-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silvermane"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-sauron",
+  "text": "First appearance: Sauron",
+  "detail": "The X-Men #59 · Karl Lykos",
+  "date": "1969-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauron_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-falcon-sam-wilson",
+  "text": "First appearance: Falcon (Sam Wilson)",
+  "detail": "Captain America #117",
+  "date": "1969-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Falcon_(comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-nighthawk-kyle-richmond",
+  "text": "First appearance: Nighthawk (Kyle Richmond)",
+  "detail": "The Avengers #69",
+  "date": "1969-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nighthawk_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-the-grandmaster",
+  "text": "First appearance: The Grandmaster",
+  "detail": "The Avengers #69 · En Dwi Gast",
+  "date": "1969-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grandmaster_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-prowler-hobie-brown",
+  "text": "First appearance: Prowler (Hobie Brown)",
+  "detail": "The Amazing Spider-Man #78",
+  "date": "1969-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-agatha-harkness",
+  "text": "First appearance: Agatha Harkness",
+  "detail": "Fantastic Four #94",
+  "date": "1970-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agatha_Harkness"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-sunfire",
+  "text": "First appearance: Sunfire",
+  "detail": "X-Men #64 · Shiro Yoshida",
+  "date": "1970-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunfire_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-man-thing",
+  "text": "First appearance: Man-Thing",
+  "detail": "Savage Tales #1 · Ted Sallis",
+  "date": "1971-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Man-Thing"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mockingbird",
+  "text": "First appearance: Mockingbird",
+  "detail": "Astonishing Tales #6 · Barbara Morse",
+  "date": "1971-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-morbius",
+  "text": "First appearance: Morbius",
+  "detail": "The Amazing Spider-Man #101 · Michael Morbius",
+  "date": "1971-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morbius,_the_Living_Vampire"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-werewolf-by-night",
+  "text": "First appearance: Werewolf by Night",
+  "detail": "Marvel Spotlight #2 · Jack Russell",
+  "date": "1972-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Werewolf_by_Night_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-dracula",
+  "text": "First appearance: Dracula",
+  "detail": "The Tomb of Dracula #1 · Vlad Tepes",
+  "date": "1972-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-diamondback-willis-stryker",
+  "text": "First appearance: Diamondback (Willis Stryker)",
+  "detail": "Luke Cage, Hero for Hire #1",
+  "date": "1972-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diamondback_(Willis_Stryker)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-luke-cage",
+  "text": "First appearance: Luke Cage",
+  "detail": "Luke Cage, Hero for Hire #1",
+  "date": "1972-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Cage"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-ghost-rider-johnny-blaze",
+  "text": "First appearance: Ghost Rider (Johnny Blaze)",
+  "detail": "Marvel Spotlight #5",
+  "date": "1972-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ghost_Rider"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-zarathos",
+  "text": "First appearance: Zarathos",
+  "detail": "Marvel Spotlight #5",
+  "date": "1972-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zarathos"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-hammerhead",
+  "text": "First appearance: Hammerhead",
+  "detail": "The Amazing Spider-Man #113 · Joseph",
+  "date": "1972-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hammerhead_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-tigra",
+  "text": "First appearance: Tigra",
+  "detail": "The Claws of the Cat #1 · Greer Grant Nelson",
+  "date": "1972-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tigra"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jennifer-kale",
+  "text": "First appearance: Jennifer Kale",
+  "detail": "Adventure into Fear #11",
+  "date": "1972-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jennifer_Kale"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-shanna-the-she-devil",
+  "text": "First appearance: Shanna the She-Devil",
+  "detail": "Shanna the She-Devil #1 · Shanna O'Hara",
+  "date": "1972-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanna_the_She-Devil"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-thundra",
+  "text": "First appearance: Thundra",
+  "detail": "Fantastic Four #129",
+  "date": "1972-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thundra"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-black-mariah",
+  "text": "First appearance: Black Mariah",
+  "detail": "Luke Cage, Hero for Hire #5 · Mariah Dillard",
+  "date": "1973-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Mariah"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-moondragon",
+  "text": "First appearance: Moondragon",
+  "detail": "Iron Man #54 · Heather Douglas",
+  "date": "1973-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moondragon"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-drax-the-destroyer",
+  "text": "First appearance: Drax the Destroyer",
+  "detail": "The Invincible Iron Man #55 · Arthur Douglas",
+  "date": "1973-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Drax_the_Destroyer"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-starfox",
+  "text": "First appearance: Starfox",
+  "detail": "The Invincible Iron Man #55",
+  "date": "1973-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Starfox_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-thanos",
+  "text": "First appearance: Thanos",
+  "detail": "The Invincible Iron Man #55",
+  "date": "1973-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thanos"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-wendigo",
+  "text": "First appearance: Wendigo",
+  "detail": "The Incredible Hulk (vol. 2) #162 · Paul Cartier",
+  "date": "1973-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wendigo_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-death",
+  "text": "First appearance: Death",
+  "detail": "Captain Marvel #26",
+  "date": "1973-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Death_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mantis",
+  "text": "First appearance: Mantis",
+  "detail": "The Avengers #112",
+  "date": "1973-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mantis_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-blade",
+  "text": "First appearance: Blade",
+  "detail": "The Tomb of Dracula #10 · Eric Brooks",
+  "date": "1973-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blade_(character)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-daimon-hellstrom",
+  "text": "First appearance: Daimon Hellstrom",
+  "detail": "Ghost Rider #1",
+  "date": "1973-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daimon_Hellstrom"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-doctor-voodoo",
+  "text": "First appearance: Doctor Voodoo",
+  "detail": "Strange Tales #169 · Jericho Drumm",
+  "date": "1973-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jericho_Drumm"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-killmonger",
+  "text": "First appearance: Killmonger",
+  "detail": "Jungle Action #6 · N'Jadaka",
+  "date": "1973-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erik_Killmonger"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-shuma-gorath",
+  "text": "First appearance: Shuma-Gorath",
+  "detail": "Marvel Premiere #10",
+  "date": "1973-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shuma-Gorath"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-deacon-frost",
+  "text": "First appearance: Deacon Frost",
+  "detail": "The Tomb of Dracula #13",
+  "date": "1973-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deacon_Frost"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-satana",
+  "text": "First appearance: Satana",
+  "detail": "Vampire Tales #2 · Satana Hellstrom",
+  "date": "1973-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Satana_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-baron-zemo",
+  "text": "First appearance: Baron Zemo",
+  "detail": "Captain America #168 · Helmut Zemo",
+  "date": "1973-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baron_Zemo"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-howard-the-duck",
+  "text": "First appearance: Howard the Duck",
+  "detail": "Adventure into Fear #19",
+  "date": "1973-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Howard_the_Duck"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-shang-chi",
+  "text": "First appearance: Shang-Chi",
+  "detail": "Special Marvel Edition #15",
+  "date": "1973-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shang-Chi"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-punisher",
+  "text": "First appearance: Punisher",
+  "detail": "The Amazing Spider-Man #129 · Frank Castle",
+  "date": "1974-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Punisher"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-stegron",
+  "text": "First appearance: Stegron",
+  "detail": "Marvel Team-Up #19 · Vincent Stegron",
+  "date": "1974-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stegron"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-iron-fist",
+  "text": "First appearance: Iron Fist",
+  "detail": "Marvel Premiere #15 · Daniel Rand",
+  "date": "1974-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_Fist_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-cottonmouth",
+  "text": "First appearance: Cottonmouth",
+  "detail": "Luke Cage, Power Man #18 · Cornell Stokes",
+  "date": "1974-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cottonmouth_(Cornell_Stokes)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-lilith",
+  "text": "First appearance: Lilith",
+  "detail": "Giant-Size Chillers #1",
+  "date": "1974-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilith_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-firelord",
+  "text": "First appearance: Firelord",
+  "detail": "Thor #225 · Pyreus Kril",
+  "date": "1974-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Firelord_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-silver-samurai",
+  "text": "First appearance: Silver Samurai",
+  "detail": "Daredevil #111 · Kenuichio Harada",
+  "date": "1974-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silver_Samurai"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-tarantula",
+  "text": "First appearance: Tarantula",
+  "detail": "The Amazing Spider-Man #134 · Anton Miguel Rodriquez",
+  "date": "1974-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-hannibal-king",
+  "text": "First appearance: Hannibal King",
+  "detail": "The Tomb of Dracula #25",
+  "date": "1974-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannibal_King"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-wolverine",
+  "text": "First appearance: Wolverine",
+  "detail": "The Incredible Hulk #180 · James Howlett",
+  "date": "1974-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolverine_(character)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-colleen-wing",
+  "text": "First appearance: Colleen Wing",
+  "detail": "Marvel Premiere #19",
+  "date": "1974-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colleen_Wing"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-thunderball",
+  "text": "First appearance: Thunderball",
+  "detail": "The Defenders #17 · Eliot Franklin",
+  "date": "1974-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thunderball_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-magus",
+  "text": "First appearance: Magus",
+  "detail": "Strange Tales #178",
+  "date": "1975-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Warlock"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-multiple-man",
+  "text": "First appearance: Multiple Man",
+  "detail": "Giant-Size Fantastic Four #4 · Jamie Madrox",
+  "date": "1975-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Madrox"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-misty-knight",
+  "text": "First appearance: Misty Knight",
+  "detail": "Marvel Premiere #21 · Mercedes Knight",
+  "date": "1975-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Misty_Knight"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-pip-the-troll",
+  "text": "First appearance: Pip the Troll",
+  "detail": "Strange Tales #179 · Pip Gofern",
+  "date": "1975-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pip_the_Troll"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-colossus",
+  "text": "First appearance: Colossus",
+  "detail": "Giant-Size X-Men #1 · Piotr Rasputin",
+  "date": "1975-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colossus_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-magik",
+  "text": "First appearance: Magik",
+  "detail": "Giant-Size X-Men #1 · Illyana Rasputina",
+  "date": "1975-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Magik_(Illyana_Rasputina)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-nightcrawler",
+  "text": "First appearance: Nightcrawler",
+  "detail": "Giant-Size X-Men #1 · Kurt Wagner",
+  "date": "1975-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nightcrawler_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-storm",
+  "text": "First appearance: Storm",
+  "detail": "Giant-Size X-Men #1 · Ororo Munroe",
+  "date": "1975-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-gamora",
+  "text": "First appearance: Gamora",
+  "detail": "Strange Tales #180",
+  "date": "1975-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gamora"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-moon-knight",
+  "text": "First appearance: Moon Knight",
+  "detail": "Werewolf by Night #32 · Marc Spector",
+  "date": "1975-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moon_Knight"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-starhawk",
+  "text": "First appearance: Starhawk",
+  "detail": "The Defenders #27 · Stakar Ogord",
+  "date": "1975-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Starhawk_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-chthon",
+  "text": "First appearance: Chthon",
+  "detail": "Marvel Chillers #1",
+  "date": "1975-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-scarlet-spider-ben-reilly",
+  "text": "First appearance: Scarlet Spider (Ben Reilly)",
+  "detail": "The Amazing Spider-Man #149",
+  "date": "1975-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Reilly"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-aleta-ogord",
+  "text": "First appearance: Aleta Ogord",
+  "detail": "The Defenders #29",
+  "date": "1975-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleta_Ogord"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-nova-frankie-raye",
+  "text": "First appearance: Nova (Frankie Raye)",
+  "detail": "Fantastic Four #164",
+  "date": "1975-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nova_(Frankie_Raye)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-moira-mactaggert",
+  "text": "First appearance: Moira MacTaggert",
+  "detail": "The Uncanny X-Men #96 · Moira Kinross MacTaggert",
+  "date": "1975-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moira_MacTaggert"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-moonstone",
+  "text": "First appearance: Moonstone",
+  "detail": "Captain America #192 · Karla Sofen",
+  "date": "1975-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karla_Sofen"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-white-tiger-hector-ayala",
+  "text": "First appearance: White Tiger (Hector Ayala)",
+  "detail": "Deadly Hands of Kung Fu #19",
+  "date": "1975-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/White_Tiger_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-star-lord",
+  "text": "First appearance: Star-Lord",
+  "detail": "Marvel Preview #4 · Peter Quill",
+  "date": "1976-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Star-Lord"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-lilandra",
+  "text": "First appearance: Lilandra",
+  "detail": "The Uncanny X-Men #97",
+  "date": "1976-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilandra_Neramani"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-bullseye",
+  "text": "First appearance: Bullseye",
+  "detail": "Daredevil #131 · Benjamin Poindexter",
+  "date": "1976-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bullseye_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-nikki-gold",
+  "text": "First appearance: Nikki Gold",
+  "detail": "Marvel Presents #4 · Nicholette Gold",
+  "date": "1976-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikki_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-black-tom-cassidy",
+  "text": "First appearance: Black Tom Cassidy",
+  "detail": "X-Men #99 · Thomas Cassidy",
+  "date": "1976-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ikaris",
+  "text": "First appearance: Ikaris",
+  "detail": "The Eternals #1",
+  "date": "1976-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ikaris"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-kro",
+  "text": "First appearance: Kro",
+  "detail": "The Eternals #1",
+  "date": "1976-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kro_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rocket-raccoon",
+  "text": "First appearance: Rocket Raccoon",
+  "detail": "Marvel Preview #7",
+  "date": "1976-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-ajak",
+  "text": "First appearance: Ajak",
+  "detail": "The Eternals #2",
+  "date": "1976-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ajak"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-arishem",
+  "text": "First appearance: Arishem",
+  "detail": "The Eternals #2",
+  "date": "1976-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arishem_the_Judge"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-nova-richard-rider",
+  "text": "First appearance: Nova (Richard Rider)",
+  "detail": "The Man Called Nova #1",
+  "date": "1976-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-sersi",
+  "text": "First appearance: Sersi",
+  "detail": "The Eternals #3",
+  "date": "1976-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sersi"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-captain-britain-brian-braddock",
+  "text": "First appearance: Captain Britain (Brian Braddock)",
+  "detail": "Captain Britain #1",
+  "date": "1976-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Braddock"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jigsaw",
+  "text": "First appearance: Jigsaw",
+  "detail": "The Amazing Spider-Man #161 · William Russo",
+  "date": "1976-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jigsaw_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-makkari",
+  "text": "First appearance: Makkari",
+  "detail": "The Eternals #5",
+  "date": "1976-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makkari_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-thena",
+  "text": "First appearance: Thena",
+  "detail": "The Eternals #5",
+  "date": "1976-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thena"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-psylocke-betsy-braddock",
+  "text": "First appearance: Psylocke (Betsy Braddock)",
+  "detail": "Captain Britain #8 · Elizabeth Braddock",
+  "date": "1976-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Betsy_Braddock"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-spider-woman-jessica-drew",
+  "text": "First appearance: Spider-Woman (Jessica Drew)",
+  "detail": "Marvel Spotlight #32",
+  "date": "1977-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jessica_Drew"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-sprite",
+  "text": "First appearance: Sprite",
+  "detail": "The Eternals #9",
+  "date": "1977-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sprite_(Eternal)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-arnim-zola",
+  "text": "First appearance: Arnim Zola",
+  "detail": "Captain America and the Falcon #208",
+  "date": "1977-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arnim_Zola"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-corsair",
+  "text": "First appearance: Corsair",
+  "detail": "The Uncanny X-Men #104 · Christopher Summers",
+  "date": "1977-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Corsair_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-graviton",
+  "text": "First appearance: Graviton",
+  "detail": "The Avengers #158 · Franklin Hall",
+  "date": "1977-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graviton_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-druig",
+  "text": "First appearance: Druig",
+  "detail": "The Eternals #11",
+  "date": "1977-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Druig"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-kingo",
+  "text": "First appearance: Kingo",
+  "detail": "The Eternals #11 · Kingo Sunen",
+  "date": "1977-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kingo_Sunen"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-constrictor",
+  "text": "First appearance: Constrictor",
+  "detail": "The Incredible Hulk #212 · Frank Payne",
+  "date": "1977-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Constrictor_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-gilgamesh",
+  "text": "First appearance: Gilgamesh",
+  "detail": "The Eternals #13",
+  "date": "1977-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forgotten_One_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-machine-man",
+  "text": "First appearance: Machine Man",
+  "detail": "2001: A Space Odyssey #8 · Aaron Stack",
+  "date": "1977-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Machine_Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-swarm",
+  "text": "First appearance: Swarm",
+  "detail": "The Champions #14 · Fritz von Meyer",
+  "date": "1977-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swarm_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-jocasta",
+  "text": "First appearance: Jocasta",
+  "detail": "The Avengers #162",
+  "date": "1977-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jocasta_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-sabretooth",
+  "text": "First appearance: Sabretooth",
+  "detail": "Iron Fist #14 · Victor Creed",
+  "date": "1977-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sabretooth_%28character%29"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-bushmaster",
+  "text": "First appearance: Bushmaster",
+  "detail": "Iron Fist #15 · John McIver",
+  "date": "1977-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-deathbird",
+  "text": "First appearance: Deathbird",
+  "detail": "Ms. Marvel #9 · Cal'syee Neramani",
+  "date": "1977-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deathbird"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rocket-racer",
+  "text": "First appearance: Rocket Racer",
+  "detail": "The Amazing Spider-Man #172 · Robert Farrell",
+  "date": "1977-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_R"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-gladiator-kallark",
+  "text": "First appearance: Gladiator (Kallark)",
+  "detail": "The X-Men #107",
+  "date": "1977-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gladiator_(Kallark)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-arcade",
+  "text": "First appearance: Arcade",
+  "detail": "Marvel Team-Up #65",
+  "date": "1978-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arcade_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mystique",
+  "text": "First appearance: Mystique",
+  "detail": "Ms. Marvel #16 · Raven Darkholme",
+  "date": "1978-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mystique_%28character%29"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-paladin",
+  "text": "First appearance: Paladin",
+  "detail": "Daredevil #150 · Paul Denning",
+  "date": "1978-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paladin_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-devil-dinosaur",
+  "text": "First appearance: Devil Dinosaur",
+  "detail": "Devil Dinosaur #1",
+  "date": "1978-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Devil_Dinosaur"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-big-wheel",
+  "text": "First appearance: Big Wheel",
+  "detail": "The Amazing Spider-Man #183 · Jackson Weele",
+  "date": "1978-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Big_Wheel_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-herbie",
+  "text": "First appearance: H.E.R.B.I.E.",
+  "detail": "The New Fantastic Four (\"A Monster Among Us\")",
+  "date": "1978-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/H.E.R.B.I.E."
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-war-machine",
+  "text": "First appearance: War Machine",
+  "detail": "Iron Man #118 · James Rhodes",
+  "date": "1979-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/War_Machine"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-ant-man-scott-lang",
+  "text": "First appearance: Ant-Man (Scott Lang)",
+  "detail": "The Avengers #181",
+  "date": "1979-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scott_Lang"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-justin-hammer",
+  "text": "First appearance: Justin Hammer",
+  "detail": "Iron Man #120",
+  "date": "1979-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Hammer"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-aurora",
+  "text": "First appearance: Aurora",
+  "detail": "The Uncanny X-Men #120 · Jeanne-Marie Beaubier",
+  "date": "1979-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aurora_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-northstar",
+  "text": "First appearance: Northstar",
+  "detail": "The Uncanny X-Men #120 · Jean-Paul Beaubier",
+  "date": "1979-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Northstar_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-quasar",
+  "text": "First appearance: Quasar",
+  "detail": "The Incredible Hulk vol. 2 #234 · Wendell Vaughn",
+  "date": "1979-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quasar_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-stature",
+  "text": "First appearance: Stature",
+  "detail": "Marvel Premiere #47 · Cassie Lang",
+  "date": "1979-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cassie_Lang"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-black-cat",
+  "text": "First appearance: Black Cat",
+  "detail": "The Amazing Spider-Man #194 · Felicia Hardy",
+  "date": "1979-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Cat_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-songbird",
+  "text": "First appearance: Songbird",
+  "detail": "Marvel Two-in-One #54 · Melissa Gold",
+  "date": "1979-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Songbird_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-proteus",
+  "text": "First appearance: Proteus",
+  "detail": "The Uncanny X-Men #125 · Kevin MacTaggert",
+  "date": "1979-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Proteus_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-terrax",
+  "text": "First appearance: Terrax",
+  "detail": "Fantastic Four #211 · Tyros",
+  "date": "1979-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Terrax"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-emma-frost",
+  "text": "First appearance: Emma Frost",
+  "detail": "The Uncanny X-Men #129",
+  "date": "1980-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emma_Frost"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-kitty-pryde",
+  "text": "First appearance: Kitty Pryde",
+  "detail": "The Uncanny X-Men #129 · Katherine Pryde",
+  "date": "1980-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kitty_Pryde"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-sebastian-shaw",
+  "text": "First appearance: Sebastian Shaw",
+  "detail": "The Uncanny X-Men #129",
+  "date": "1980-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Shaw_%28character%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-dazzler",
+  "text": "First appearance: Dazzler",
+  "detail": "The Uncanny X-Men #130 · Alison Blaire",
+  "date": "1980-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dazzler_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-she-hulk",
+  "text": "First appearance: She-Hulk",
+  "detail": "The Savage She-Hulk #1 · Jennifer Walters",
+  "date": "1980-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/She-Hulk"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-donald-pierce",
+  "text": "First appearance: Donald Pierce",
+  "detail": "The Uncanny X-Men #132",
+  "date": "1980-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Donald_Pierce"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-taskmaster",
+  "text": "First appearance: Taskmaster",
+  "detail": "The Avengers #195 · Anthony Masters",
+  "date": "1980-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taskmaster_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-calypso",
+  "text": "First appearance: Calypso",
+  "detail": "The Amazing Spider-Man #209 · Calypso Ezili",
+  "date": "1980-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calypso_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-khonshu",
+  "text": "First appearance: Khonshu",
+  "detail": "Moon Knight #1",
+  "date": "1980-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Khonshu_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-madame-web",
+  "text": "First appearance: Madame Web",
+  "detail": "The Amazing Spider-Man #210 · Cassandra Webb",
+  "date": "1980-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Madame_Web"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-karma",
+  "text": "First appearance: Karma",
+  "detail": "Marvel Team-Up #100 · Xi'an Coy Manh",
+  "date": "1980-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karma_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-avalanche",
+  "text": "First appearance: Avalanche",
+  "detail": "The Uncanny X-Men #141 · Dominic Petros",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avalanche_%28character%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-destiny",
+  "text": "First appearance: Destiny",
+  "detail": "The Uncanny X-Men #141 · Irene Adler",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Destiny_%28Irene_Adler%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-elektra",
+  "text": "First appearance: Elektra",
+  "detail": "Daredevil #168 · Elektra Natchios",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elektra_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hydro-man",
+  "text": "First appearance: Hydro-Man",
+  "detail": "The Amazing Spider-Man #212 · Morris Bench",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hydro-Man"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-pyro",
+  "text": "First appearance: Pyro",
+  "detail": "The Uncanny X-Men #141 · St. John Allerdyce",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pyro_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rachel-summers",
+  "text": "First appearance: Rachel Summers",
+  "detail": "The Uncanny X-Men #141",
+  "date": "1981-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rachel_Summers"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jack-olantern",
+  "text": "First appearance: Jack O'Lantern",
+  "detail": "Machine Man #19 · Jason Macendale",
+  "date": "1981-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_O%27Lantern_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-siryn",
+  "text": "First appearance: Siryn",
+  "detail": "Spider-Woman #37 · Theresa Cassidy",
+  "date": "1981-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Siryn"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-firestar",
+  "text": "First appearance: Firestar",
+  "detail": "Spider-Man and His Amazing Friends: \"The Triumph of the Green Goblin\" · Angelica Jones",
+  "date": "1981-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Firestar_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rogue",
+  "text": "First appearance: Rogue",
+  "detail": "The Avengers Annual #10 · Anna Marie",
+  "date": "1981-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rogue_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-stick",
+  "text": "First appearance: Stick",
+  "detail": "Daredevil #176",
+  "date": "1981-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stick_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-cloak",
+  "text": "First appearance: Cloak",
+  "detail": "Peter Parker, the Spectacular Spider-Man #64 · Tyrone Johnson",
+  "date": "1982-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-dagger",
+  "text": "First appearance: Dagger",
+  "detail": "Peter Parker, the Spectacular Spider-Man #64 · Tandy Bowen",
+  "date": "1982-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(characters)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-cannonball",
+  "text": "First appearance: Cannonball",
+  "detail": "Marvel Graphic Novel #4: The New Mutants · Samuel Guthrie",
+  "date": "1982-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cannonball_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mirage",
+  "text": "First appearance: Mirage",
+  "detail": "Marvel Graphic Novel #4: The New Mutants · Danielle Moonstar",
+  "date": "1982-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danielle_Moonstar"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-sunspot",
+  "text": "First appearance: Sunspot",
+  "detail": "Marvel Graphic Novel #4: The New Mutants · Roberto da Costa",
+  "date": "1982-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunspot_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-wolfsbane",
+  "text": "First appearance: Wolfsbane",
+  "detail": "Marvel Graphic Novel #4: The New Mutants · Rahne Sinclair",
+  "date": "1982-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolfsbane_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-iron-monger",
+  "text": "First appearance: Iron Monger",
+  "detail": "Iron Man #163 · Obadiah Stane",
+  "date": "1982-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Obadiah_Stane"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hobgoblin-roderick-kingsley",
+  "text": "First appearance: Hobgoblin (Roderick Kingsley)",
+  "detail": "The Amazing Spider-Man #238",
+  "date": "1983-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roderick_Kingsley"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-callisto",
+  "text": "First appearance: Callisto",
+  "detail": "The Uncanny X-Men #169",
+  "date": "1983-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Callisto_%28comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-white-rabbit",
+  "text": "First appearance: White Rabbit",
+  "detail": "Marvel Team-Up #131 · Lorina Dodson",
+  "date": "1983-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/White_Rabbit_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-lady-deathstrike",
+  "text": "First appearance: Lady Deathstrike",
+  "detail": "Daredevil #197 · Yuriko Oyama",
+  "date": "1983-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lady_Deathstrike"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-magma",
+  "text": "First appearance: Magma",
+  "detail": "The New Mutants #8 · Amara Aquilla",
+  "date": "1983-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Magma_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-beta-ray-bill",
+  "text": "First appearance: Beta Ray Bill",
+  "detail": "The Mighty Thor #337",
+  "date": "1983-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beta_Ray_Bill"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-lorelei",
+  "text": "First appearance: Lorelei",
+  "detail": "The Mighty Thor #337",
+  "date": "1983-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lorelei_(Asgardian)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-selene",
+  "text": "First appearance: Selene",
+  "detail": "The New Mutants #9 · Selene Gallio",
+  "date": "1983-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Selene_%28comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spider-ham",
+  "text": "First appearance: Spider-Ham",
+  "detail": "Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham #1 · Peter Porker",
+  "date": "1983-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Ham"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-meggan",
+  "text": "First appearance: Meggan",
+  "detail": "Mighty World of Marvel #7 · Meggan Puceanu",
+  "date": "1983-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Meggan_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-sin",
+  "text": "First appearance: Sin",
+  "detail": "Captain America #290 · Sinthea Schmidt",
+  "date": "1984-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sin_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-cypher",
+  "text": "First appearance: Cypher",
+  "detail": "The New Mutants #13 · Douglas Ramsey",
+  "date": "1984-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-lyja",
+  "text": "First appearance: Lyja",
+  "detail": "Fantastic Four #265",
+  "date": "1984-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lyja"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-beyonder",
+  "text": "First appearance: Beyonder",
+  "detail": "Secret Wars #1",
+  "date": "1984-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beyonder"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-venom",
+  "text": "First appearance: Venom",
+  "detail": "The Amazing Spider-Man #252 · Eddie Brock",
+  "date": "1984-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venom_(character)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-malekith",
+  "text": "First appearance: Malekith",
+  "detail": "Thor #344",
+  "date": "1984-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malekith_the_Accursed"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-warpath",
+  "text": "First appearance: Warpath",
+  "detail": "New Mutants #16 · James Proudstar",
+  "date": "1984-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warpath_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-titania",
+  "text": "First appearance: Titania",
+  "detail": "Secret Wars #3 · Mary MacPherran",
+  "date": "1984-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Titania_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-alex-power",
+  "text": "First appearance: Alex Power",
+  "detail": "Power Pack #1",
+  "date": "1984-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Power_Pack"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-forge",
+  "text": "First appearance: Forge",
+  "detail": "The Uncanny X-Men #184",
+  "date": "1984-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forge_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-katie-power",
+  "text": "First appearance: Katie Power",
+  "detail": "Power Pack #1",
+  "date": "1984-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Power_Pack"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-warlock-technarch",
+  "text": "First appearance: Warlock (Technarch)",
+  "detail": "The New Mutants #18",
+  "date": "1984-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-kurse",
+  "text": "First appearance: Kurse",
+  "detail": "Thor #347 · Algrim",
+  "date": "1984-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kurse_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-puma",
+  "text": "First appearance: Puma",
+  "detail": "The Amazing Spider-Man #256 · Thomas Fireheart",
+  "date": "1984-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puma_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-husk",
+  "text": "First appearance: Husk",
+  "detail": "Rom Annual #3 · Paige Guthrie",
+  "date": "1984-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Husk_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spot",
+  "text": "First appearance: Spot",
+  "detail": "Peter Parker, the Spectacular Spider-Man #97 · Jonathan Ohnn",
+  "date": "1984-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spot_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-silver-sable",
+  "text": "First appearance: Silver Sable",
+  "detail": "The Amazing Spider-Man #265 · Silvija Sablinova",
+  "date": "1985-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silver_Sable"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-apocalypse",
+  "text": "First appearance: Apocalypse",
+  "detail": "Marvel Graphic Novel #17 · En Sabah Nur",
+  "date": "1985-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Apocalypse_%28character%29"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-nebula",
+  "text": "First appearance: Nebula",
+  "detail": "The Avengers #257",
+  "date": "1985-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nebula_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-strong-guy",
+  "text": "First appearance: Strong Guy",
+  "detail": "The New Mutants #29 · Guido Carosella",
+  "date": "1985-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Strong_Guy"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-longshot",
+  "text": "First appearance: Longshot",
+  "detail": "Longshot #1",
+  "date": "1985-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Longshot_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spiral",
+  "text": "First appearance: Spiral",
+  "detail": "Longshot #1 · Rita Wayword",
+  "date": "1985-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spiral_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-phastos",
+  "text": "First appearance: Phastos",
+  "detail": "The Eternals (vol. 2) #1",
+  "date": "1985-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phastos"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-boom-boom",
+  "text": "First appearance: Boom-Boom",
+  "detail": "Secret Wars II #5 · Tabitha Smith",
+  "date": "1985-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tabitha_Smith"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mojo",
+  "text": "First appearance: Mojo",
+  "detail": "Longshot #3",
+  "date": "1985-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mojo_%28comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spider-slayer-alistair-smythe",
+  "text": "First appearance: Spider-Slayer (Alistair Smythe)",
+  "detail": "The Amazing Spider-Man Annual #19",
+  "date": "1985-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alistair_Smythe"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-cable",
+  "text": "First appearance: Cable",
+  "detail": "The Uncanny X-Men #201 · Nathan Summers",
+  "date": "1986-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cable_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-throg",
+  "text": "First appearance: Throg",
+  "detail": "Thor #364 · Simon Walterson",
+  "date": "1986-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Thor_(Marvel_Comics)_supporting_characters"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-speed",
+  "text": "First appearance: Speed",
+  "detail": "The Vision and the Scarlet Witch vol. 2 #12 · Tommy Shepherd",
+  "date": "1986-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Speed_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-wiccan",
+  "text": "First appearance: Wiccan",
+  "detail": "The Vision and the Scarlet Witch vol. 2 #12 · Billy Kaplan",
+  "date": "1986-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiccan_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-battlestar",
+  "text": "First appearance: Battlestar",
+  "detail": "Captain America #323 · Lemar Hoskins",
+  "date": "1986-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Battlestar_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-us-agent",
+  "text": "First appearance: U.S. Agent",
+  "detail": "Captain America #323 · John Walker",
+  "date": "1986-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/U.S._Agent"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mister-sinister",
+  "text": "First appearance: Mister Sinister",
+  "detail": "The Uncanny X-Men #213 · Nathaniel Essex",
+  "date": "1987-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mister_Sinister"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ghost-iron-man-villain",
+  "text": "First appearance: Ghost (Iron Man villain)",
+  "detail": "Iron Man #219",
+  "date": "1987-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-rictor",
+  "text": "First appearance: Rictor",
+  "detail": "X-Factor #17 · Julio Richter",
+  "date": "1987-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rictor"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-tombstone",
+  "text": "First appearance: Tombstone",
+  "detail": "Web of Spider-Man #36 · Lonnie Thompson Lincoln",
+  "date": "1988-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tombstone_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-thunderstrike",
+  "text": "First appearance: Thunderstrike",
+  "detail": "Thor #391 · Eric Masterson",
+  "date": "1988-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thunderstrike_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-typhoid-mary",
+  "text": "First appearance: Typhoid Mary",
+  "detail": "Daredevil #254 · Mary Walker",
+  "date": "1988-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Typhoid_Mary_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jubilee",
+  "text": "First appearance: Jubilee",
+  "detail": "The Uncanny X-Men #244 · Jubilation Lee",
+  "date": "1989-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jubilee_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-blackheart",
+  "text": "First appearance: Blackheart",
+  "detail": "Daredevil #270",
+  "date": "1989-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blackheart_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-crossbones",
+  "text": "First appearance: Crossbones",
+  "detail": "Captain America #359 · Brock Rumlow",
+  "date": "1989-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crossbones_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-night-thrasher",
+  "text": "First appearance: Night Thrasher",
+  "detail": "Thor #411 · Dwayne Taylor",
+  "date": "1989-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Night_Thrasher"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-stryfe",
+  "text": "First appearance: Stryfe",
+  "detail": "The New Mutants #86",
+  "date": "1990-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stryfe"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-ghost-rider-danny-ketch",
+  "text": "First appearance: Ghost Rider (Danny Ketch)",
+  "detail": "Ghost Rider vol. 3 #1",
+  "date": "1990-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ghost_Rider"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-gambit",
+  "text": "First appearance: Gambit",
+  "detail": "The Uncanny X-Men Annual #14 · Remy LeBeau",
+  "date": "1990-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gambit_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-mobius-m-mobius",
+  "text": "First appearance: Mobius M. Mobius",
+  "detail": "Fantastic Four #346",
+  "date": "1990-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mobius_M._Mobius"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-cardiac",
+  "text": "First appearance: Cardiac",
+  "detail": "The Amazing Spider-Man #342 · Elias Wirtham",
+  "date": "1990-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cardiac_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-deadpool",
+  "text": "First appearance: Deadpool",
+  "detail": "The New Mutants #98 · Wade Wilson",
+  "date": "1991-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deadpool"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-carnage",
+  "text": "First appearance: Carnage",
+  "detail": "The Amazing Spider-Man #345 · Cletus Kasady",
+  "date": "1991-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carnage_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-shatterstar",
+  "text": "First appearance: Shatterstar",
+  "detail": "The New Mutants #99 · Gaveedra Seven",
+  "date": "1991-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shatterstar"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-bishop",
+  "text": "First appearance: Bishop",
+  "detail": "The Uncanny X-Men #282 · Lucas Bishop",
+  "date": "1991-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bishop_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-omega-red",
+  "text": "First appearance: Omega Red",
+  "detail": "X-Men (vol. 2) #4 · Arkady Rossovich",
+  "date": "1992-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omega_Red"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-domino",
+  "text": "First appearance: Domino",
+  "detail": "X-Force #8 · Neena Thurman",
+  "date": "1992-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Domino_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-korath-the-pursuer",
+  "text": "First appearance: Korath the Pursuer",
+  "detail": "Quasar #32",
+  "date": "1992-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-morg",
+  "text": "First appearance: Morg",
+  "detail": "Silver Surfer (vol. 3) #69",
+  "date": "1992-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morg"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-spider-man-2099",
+  "text": "First appearance: Spider-Man 2099",
+  "detail": "The Amazing Spider-Man #365 · Miguel O'Hara",
+  "date": "1992-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man_2099"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-angela",
+  "text": "First appearance: Angela",
+  "detail": "Spawn #9",
+  "date": "1993-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angela_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-scream",
+  "text": "First appearance: Scream",
+  "detail": "Venom: Lethal Protector #4 · Donna Diego",
+  "date": "1993-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scream_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-shriek",
+  "text": "First appearance: Shriek",
+  "detail": "Spider-Man Unlimited #1 · Frances Louise Barrison",
+  "date": "1993-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shriek_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-exodus",
+  "text": "First appearance: Exodus",
+  "detail": "X-Factor #92 · Bennet du Paris",
+  "date": "1993-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Exodus_%28character%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-genis-vell",
+  "text": "First appearance: Genis-Vell",
+  "detail": "Silver Surfer Annual #6",
+  "date": "1993-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Genis-Vell"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-talos",
+  "text": "First appearance: Talos",
+  "detail": "The Incredible Hulk vol. 1 #418",
+  "date": "1994-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Talos_the_Untamed"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-marrow",
+  "text": "First appearance: Marrow",
+  "detail": "Cable #15 · Sarah Rushman",
+  "date": "1994-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marrow_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-blink",
+  "text": "First appearance: Blink",
+  "detail": "The Uncanny X-Men #317 · Clarice Ferguson",
+  "date": "1994-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blink_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-chamber",
+  "text": "First appearance: Chamber",
+  "detail": "Generation X #1 · Jonothon Starsmore",
+  "date": "1994-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chamber_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jack-flag",
+  "text": "First appearance: Jack Flag",
+  "detail": "Captain America #434 · Jack Harrison",
+  "date": "1994-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Flag"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-bastion",
+  "text": "First appearance: Bastion",
+  "detail": "X-Men (vol. 2) #52",
+  "date": "1996-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bastion_%28comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-onslaught",
+  "text": "First appearance: Onslaught",
+  "detail": "X-Men (vol. 2) #53",
+  "date": "1996-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Onslaught_%28Marvel_Comics%29"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-jolt",
+  "text": "First appearance: Jolt",
+  "detail": "Thunderbolts #1 · Helen Takahama",
+  "date": "1997-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jolt_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-maggott",
+  "text": "First appearance: Maggott",
+  "detail": "The Uncanny X-Men #345 · Japheth",
+  "date": "1997-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggott"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-cecilia-reyes",
+  "text": "First appearance: Cecilia Reyes",
+  "detail": "X-Men (vol. 2) #65",
+  "date": "1997-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cecilia_Reyes"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-spider-girl-mayday-parker",
+  "text": "First appearance: Spider-Girl (Mayday Parker)",
+  "detail": "What If (vol. 2) #105 · May Parker",
+  "date": "1998-02",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mayday_Parker"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-nakia",
+  "text": "First appearance: Nakia",
+  "detail": "Black Panther (vol. 3) #1 · Nakia Shauku",
+  "date": "1998-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malice_(Nakia_Shauku)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-okoye",
+  "text": "First appearance: Okoye",
+  "detail": "Black Panther (vol. 3) #1",
+  "date": "1998-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Okoye_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-valeria-richards",
+  "text": "First appearance: Valeria Richards",
+  "detail": "Fantastic Four (vol. 3) #15",
+  "date": "1999-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valeria_Richards"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-yelena-belova",
+  "text": "First appearance: Yelena Belova",
+  "detail": "Inhumans vol. 2 #5",
+  "date": "1999-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yelena_Belova"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-echo",
+  "text": "First appearance: Echo",
+  "detail": "Daredevil #9 · Maya Lopez",
+  "date": "1999-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Echo_(Marvel_Comics)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-marvel-boy-noh-varr",
+  "text": "First appearance: Marvel Boy (Noh-Varr)",
+  "detail": "Marvel Boy #1",
+  "date": "2000-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noh-Varr"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-sentry",
+  "text": "First appearance: Sentry",
+  "detail": "The Sentry #1 · Robert Reynolds",
+  "date": "2000-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-morlun",
+  "text": "First appearance: Morlun",
+  "detail": "The Amazing Spider-Man vol. 2 #30",
+  "date": "2001-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morlun"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-cassandra-nova",
+  "text": "First appearance: Cassandra Nova",
+  "detail": "New X-Men #114",
+  "date": "2001-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cassandra_Nova"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-doop",
+  "text": "First appearance: Doop",
+  "detail": "X-Force #116",
+  "date": "2001-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doop_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-jessica-jones",
+  "text": "First appearance: Jessica Jones",
+  "detail": "Alias #1",
+  "date": "2001-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jessica_Jones"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-elsa-bloodstone",
+  "text": "First appearance: Elsa Bloodstone",
+  "detail": "Bloodstone #1",
+  "date": "2001-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elsa_Bloodstone"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-the-hood",
+  "text": "First appearance: The Hood",
+  "detail": "The Hood #1 · Parker Robbins",
+  "date": "2002-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hood_(comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-fantomex",
+  "text": "First appearance: Fantomex",
+  "detail": "New X-Men #128 · Jean-Phillipe Charles",
+  "date": "2002-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fantomex"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-quentin-quire",
+  "text": "First appearance: Quentin Quire",
+  "detail": "New X-Men #134",
+  "date": "2003-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quentin_Quire"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-alex-wilder",
+  "text": "First appearance: Alex Wilder",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Wilder"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-azazel",
+  "text": "First appearance: Azazel",
+  "detail": "Uncanny X-Men #428",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azazel_%28Marvel_Comics%29"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-chase-stein",
+  "text": "First appearance: Chase Stein",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chase_Stein"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-gertrude-yorkes",
+  "text": "First appearance: Gertrude Yorkes",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-karolina-dean",
+  "text": "First appearance: Karolina Dean",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karolina_Dean"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-molly-hayes",
+  "text": "First appearance: Molly Hayes",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Molly_Hayes"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-nico-minoru",
+  "text": "First appearance: Nico Minoru",
+  "detail": "Runaways #1",
+  "date": "2003-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Minoru"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-anole",
+  "text": "First appearance: Anole",
+  "detail": "New Mutants vol. 2 #2 · Victor Borkowski",
+  "date": "2003-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anole_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-hellion",
+  "text": "First appearance: Hellion",
+  "detail": "New Mutants vol. 2 #2 · Julian Keller",
+  "date": "2003-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hellion_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-mercury",
+  "text": "First appearance: Mercury",
+  "detail": "New Mutants vol. 2 #2 · Cessily Kincaid",
+  "date": "2003-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mercury_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-x-23",
+  "text": "First appearance: X-23",
+  "detail": "X-Men: Evolution, \"X23\" · Laura Kinney",
+  "date": "2003-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/X-23"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-rockslide",
+  "text": "First appearance: Rockslide",
+  "detail": "New Mutants vol. 2 #3 · Santo Vaccarro",
+  "date": "2003-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rockslide_(comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-prodigy-david-alleyne",
+  "text": "First appearance: Prodigy (David Alleyne)",
+  "detail": "New Mutants vol. 2 #4",
+  "date": "2003-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-elixir",
+  "text": "First appearance: Elixir",
+  "detail": "New Mutants vol. 2 #5 · Josh Foley",
+  "date": "2003-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elixir_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-phyla-vell",
+  "text": "First appearance: Phyla-Vell",
+  "detail": "Captain Marvel vol. 5 #16",
+  "date": "2003-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phyla-Vell"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-surge",
+  "text": "First appearance: Surge",
+  "detail": "New Mutants vol. 2 #8 · Noriko Ashida",
+  "date": "2004-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Surge_(Marvel_Comics)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-quake",
+  "text": "First appearance: Quake",
+  "detail": "Secret War #2 · Daisy Johnson",
+  "date": "2004-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daisy_Johnson"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-spider-girl-anya-corazon",
+  "text": "First appearance: Spider-Girl (Anya Corazon)",
+  "detail": "Amazing Fantasy (vol. 2) #1",
+  "date": "2004-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anya_Corazon"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-armor",
+  "text": "First appearance: Armor",
+  "detail": "Astonishing X-Men #4 · Hisako Ichiki",
+  "date": "2004-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armor_(Marvel_Comics_character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-pixie",
+  "text": "First appearance: Pixie",
+  "detail": "New X-Men: Academy X #5 · Megan Gwynn",
+  "date": "2004-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pixie_(X-Men)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-veranke",
+  "text": "First appearance: Veranke",
+  "detail": "New Avengers #1",
+  "date": "2005-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Veranke"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-hawkeye-kate-bishop",
+  "text": "First appearance: Hawkeye (Kate Bishop)",
+  "detail": "Young Avengers #1",
+  "date": "2005-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kate_Bishop"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-hulkling",
+  "text": "First appearance: Hulkling",
+  "detail": "Young Avengers #1 · Teddy Altman",
+  "date": "2005-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hulkling"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-maria-hill",
+  "text": "First appearance: Maria Hill",
+  "detail": "New Avengers #4",
+  "date": "2005-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maria_Hill"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-patriot-eli-bradley",
+  "text": "First appearance: Patriot (Eli Bradley)",
+  "detail": "Young Avengers #1",
+  "date": "2005-04",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patriot_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-shuri",
+  "text": "First appearance: Shuri",
+  "detail": "Black Panther #2",
+  "date": "2005-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shuri_(character)"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-amadeus-cho",
+  "text": "First appearance: Amadeus Cho",
+  "detail": "Amazing Fantasy vol. 2 #15",
+  "date": "2006-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amadeus_Cho"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-mister-negative",
+  "text": "First appearance: Mister Negative",
+  "detail": "Free Comic Book Day: The Amazing Spider-Man #1 · Martin Li",
+  "date": "2007-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mister_Negative"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-overdrive",
+  "text": "First appearance: Overdrive",
+  "detail": "Free Comic Book Day: The Amazing Spider-Man #1 · James Beverley",
+  "date": "2007-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Overdrive_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-hope-summers",
+  "text": "First appearance: Hope Summers",
+  "detail": "X-Men #205",
+  "date": "2007-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hope_Summers_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-skaar",
+  "text": "First appearance: Skaar",
+  "detail": "What If? Planet Hulk #1",
+  "date": "2007-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Skaar_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-cosmo-the-spacedog",
+  "text": "First appearance: Cosmo the Spacedog",
+  "detail": "Nova vol. 4 #8",
+  "date": "2008-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cosmo_the_Spacedog"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-phil-coulson",
+  "text": "First appearance: Phil Coulson",
+  "detail": "Iron Man (2008 film) · Phillip Coulson",
+  "date": "2008-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phil_Coulson"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "mcu-iron-man",
+  "text": "Iron Man opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2008-05-02",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-incredible-hulk",
+  "text": "The Incredible Hulk opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2008-06-13",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-lady-bullseye",
+  "text": "First appearance: Lady Bullseye",
+  "detail": "Daredevil (vol. 2) #111 · Maki Matsumoto",
+  "date": "2008-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lady_Bullseye"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "mcu-iron-man-2",
+  "text": "Iron Man 2 opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2010-05-07",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_Man_2"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-thor",
+  "text": "Thor opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2011-05-06",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thor_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-the-serpent",
+  "text": "First appearance: The Serpent",
+  "detail": "Fear Itself #1 · Cul Borson",
+  "date": "2011-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Serpent_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "mcu-captain-america-the-first-avenger",
+  "text": "Captain America: The First Avenger opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2011-07-22",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-spider-man-miles-morales",
+  "text": "First appearance: Spider-Man (Miles Morales)",
+  "detail": "Ultimate Fallout #4",
+  "date": "2011-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miles_Morales"
+  ],
+  "difficulty": 2
+ },
+ {
+  "id": "debut-america-chavez",
+  "text": "First appearance: America Chavez",
+  "detail": "Vengeance #1",
+  "date": "2011-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/America_Chavez"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-nova-sam-alexander",
+  "text": "First appearance: Nova (Sam Alexander)",
+  "detail": "Marvel Point One #1 · Samuel Alexander",
+  "date": "2011-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nova_(Sam_Alexander)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "mcu-the-avengers",
+  "text": "The Avengers opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2012-05-04",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-hyperion-marcus-milton",
+  "text": "First appearance: Hyperion (Marcus Milton)",
+  "detail": "Avengers (vol. 5) #1",
+  "date": "2012-12",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyperion_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-gorr-the-god-butcher",
+  "text": "First appearance: Gorr the God Butcher",
+  "detail": "Thor: God of Thunder #2",
+  "date": "2013-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gorr_the_God_Butcher"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-knull",
+  "text": "First appearance: Knull",
+  "detail": "Thor: God of Thunder #6",
+  "date": "2013-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Knull"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-corvus-glaive",
+  "text": "First appearance: Corvus Glaive",
+  "detail": "Infinity: Free Comic Book Day",
+  "date": "2013-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Corvus_Glaive"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "mcu-iron-man-3",
+  "text": "Iron Man 3 opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2013-05-03",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_Man_3"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-ms-marvel-kamala-khan",
+  "text": "First appearance: Ms. Marvel (Kamala Khan)",
+  "detail": "Captain Marvel #14",
+  "date": "2013-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kamala_Khan"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-black-dwarf",
+  "text": "First appearance: Black Dwarf",
+  "detail": "New Avengers (vol. 3) #8",
+  "date": "2013-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_B"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-ebony-maw",
+  "text": "First appearance: Ebony Maw",
+  "detail": "New Avengers (vol. 3) #8",
+  "date": "2013-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "debut-proxima-midnight",
+  "text": "First appearance: Proxima Midnight",
+  "detail": "New Avengers (vol. 3) #8",
+  "date": "2013-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_M"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-supergiant",
+  "text": "First appearance: Supergiant",
+  "detail": "Infinity #1",
+  "date": "2013-10",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_S"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-thane",
+  "text": "First appearance: Thane",
+  "detail": "New Avengers (vol. 3) #10",
+  "date": "2013-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_T"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "mcu-thor-the-dark-world",
+  "text": "Thor: The Dark World opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2013-11-08",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-ghost-rider-robbie-reyes",
+  "text": "First appearance: Ghost Rider (Robbie Reyes)",
+  "detail": "All-New Ghost Rider #1",
+  "date": "2014-03",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ghost_Rider"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "mcu-captain-america-the-winter-soldier",
+  "text": "Captain America: The Winter Soldier opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2014-04-04",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-silk",
+  "text": "First appearance: Silk",
+  "detail": "The Amazing Spider-Man (vol. 3) #1 · Cindy Moon",
+  "date": "2014-06",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silk_(character)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "mcu-guardians-of-the-galaxy",
+  "text": "Guardians of the Galaxy opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2014-08-01",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-spider-gwen",
+  "text": "First appearance: Spider-Gwen",
+  "detail": "Edge of Spider-Verse #2 · Gwen Stacy",
+  "date": "2014-11",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Woman_(Gwen_Stacy)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "mcu-avengers-age-of-ultron",
+  "text": "Avengers: Age of Ultron opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2015-05-01",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-ant-man",
+  "text": "Ant-Man opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2015-07-17",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-gwenpool",
+  "text": "First appearance: Gwenpool",
+  "detail": "Deadpool's Secret Secret Wars #2 (variant cover) · Gwen Poole",
+  "date": "2015-08",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gwenpool"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-honey-badger",
+  "text": "First appearance: Honey Badger",
+  "detail": "All-New Wolverine #2 · Gabby Kinney",
+  "date": "2016-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Honey_Badger_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-moon-girl",
+  "text": "First appearance: Moon Girl",
+  "detail": "Moon Girl and Devil Dinosaur #1 · Lunella Lafayette",
+  "date": "2016-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moon_Girl_(Marvel_Comics)"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "debut-viv-vision",
+  "text": "First appearance: Viv Vision",
+  "detail": "Vision vol. 3 #1 · Vivian Vision",
+  "date": "2016-01",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viv_Vision"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "debut-ironheart",
+  "text": "First appearance: Ironheart",
+  "detail": "Invincible Iron Man vol. 2 #7 · Riri Williams",
+  "date": "2016-05",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ironheart_(character)"
+  ],
+  "difficulty": 3
+ },
+ {
+  "id": "mcu-captain-america-civil-war",
+  "text": "Captain America: Civil War opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2016-05-06",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-muse",
+  "text": "First appearance: Muse",
+  "detail": "Daredevil (vol. 5) #11",
+  "date": "2016-09",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Muse_(character)"
+  ],
+  "difficulty": 5
+ },
+ {
+  "id": "mcu-doctor-strange",
+  "text": "Doctor Strange opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2016-11-04",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-guardians-of-the-galaxy-vol-2",
+  "text": "Guardians of the Galaxy Vol. 2 opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2017-05-05",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-spider-man-homecoming",
+  "text": "Spider-Man: Homecoming opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2017-07-07",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-thor-ragnarok",
+  "text": "Thor: Ragnarok opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2017-11-03",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-black-panther",
+  "text": "Black Panther opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2018-02-16",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-avengers-infinity-war",
+  "text": "Avengers: Infinity War opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2018-04-27",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-ant-man-and-the-wasp",
+  "text": "Ant-Man and the Wasp opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2018-07-06",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-captain-marvel",
+  "text": "Captain Marvel opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2019-03-08",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-avengers-endgame",
+  "text": "Avengers: Endgame opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2019-04-26",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-spider-man-far-from-home",
+  "text": "Spider-Man: Far From Home opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2019-07-02",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-wandavision",
+  "text": "WandaVision premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2021-01-15",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/WandaVision"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-falcon-and-the-winter-soldier",
+  "text": "The Falcon and the Winter Soldier premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2021-03-19",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-loki",
+  "text": "Loki premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2021-06-09",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "debut-he-who-remains",
+  "text": "First appearance: He Who Remains",
+  "detail": "Loki (season 1, episode 6)",
+  "date": "2021-07",
+  "kind": "debut",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+  ],
+  "difficulty": 4
+ },
+ {
+  "id": "mcu-black-widow",
+  "text": "Black Widow opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2021-07-09",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-shang-chi-and-the-legend-of-the-ten-rings",
+  "text": "Shang-Chi and the Legend of the Ten Rings opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2021-09-03",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-eternals",
+  "text": "Eternals opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2021-11-05",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eternals_(film)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-hawkeye",
+  "text": "Hawkeye premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2021-11-24",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hawkeye_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-spider-man-no-way-home",
+  "text": "Spider-Man: No Way Home opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2021-12-17",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-moon-knight",
+  "text": "Moon Knight premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2022-03-30",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moon_Knight_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-doctor-strange-in-the-multiverse-of-madness",
+  "text": "Doctor Strange in the Multiverse of Madness opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2022-05-06",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-ms-marvel",
+  "text": "Ms. Marvel premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2022-06-08",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ms._Marvel_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-thor-love-and-thunder",
+  "text": "Thor: Love and Thunder opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2022-07-08",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-she-hulk-attorney-at-law",
+  "text": "She-Hulk: Attorney at Law premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2022-08-18",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-werewolf-by-night",
+  "text": "Werewolf by Night premieres",
+  "detail": "MCU special · Disney+",
+  "date": "2022-10-07",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Werewolf_by_Night_(TV_special)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-black-panther-wakanda-forever",
+  "text": "Black Panther: Wakanda Forever opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2022-11-11",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-guardians-of-the-galaxy-holiday-special",
+  "text": "The Guardians of the Galaxy Holiday Special premieres",
+  "detail": "MCU special · Disney+",
+  "date": "2022-11-25",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-ant-man-and-the-wasp-quantumania",
+  "text": "Ant-Man and the Wasp: Quantumania opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2023-02-17",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-guardians-of-the-galaxy-vol-3",
+  "text": "Guardians of the Galaxy Vol. 3 opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2023-05-05",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-secret-invasion",
+  "text": "Secret Invasion premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2023-06-21",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Secret_Invasion_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-marvels",
+  "text": "The Marvels opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2023-11-10",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Marvels"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-echo",
+  "text": "Echo premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2024-01-09",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Echo_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-deadpool-wolverine",
+  "text": "Deadpool & Wolverine opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2024-07-26",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deadpool_&_Wolverine"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-agatha-all-along",
+  "text": "Agatha All Along premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2024-09-18",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agatha_All_Along"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-captain-america-brave-new-world",
+  "text": "Captain America: Brave New World opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2025-02-14",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-daredevil-born-again",
+  "text": "Daredevil: Born Again premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2025-03-04",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-thunderbolts",
+  "text": "Thunderbolts* opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2025-05-02",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thunderbolts*"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-ironheart",
+  "text": "Ironheart premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2025-06-24",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ironheart_(miniseries)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-fantastic-four-first-steps",
+  "text": "The Fantastic Four: First Steps opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2025-07-25",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-wonder-man",
+  "text": "Wonder Man premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2026-01-27",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wonder_Man_(TV_series)"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-the-punisher-one-last-kill",
+  "text": "The Punisher: One Last Kill premieres",
+  "detail": "MCU special · Disney+",
+  "date": "2026-05-12",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Punisher:_One_Last_Kill"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-spider-man-brand-new-day",
+  "text": "Spider-Man: Brand New Day opens in theaters",
+  "detail": "MCU film · U.S. release",
+  "date": "2026-07-31",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+  ],
+  "difficulty": 1
+ },
+ {
+  "id": "mcu-visionquest",
+  "text": "VisionQuest premieres",
+  "detail": "MCU series · Disney+",
+  "date": "2026-10-13",
+  "kind": "screen",
+  "sources": [
+   "https://en.wikipedia.org/wiki/VisionQuest"
+  ],
+  "difficulty": 1
+ }
+]

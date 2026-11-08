@@ -1,0 +1,21 @@
+.form {
+  margin: 0 0 14px; font: 11px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--muted);
+}
+.rules { --accent: var(--orange); display: grid; gap: 12px; font: 14px/1.6 var(--f-body); }
+.paper { --accent: var(--rust); }
+.rules p { margin: 0; }
+.rules h3 {
+  margin: 8px 0 0; font: 12px/1.4 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent);
+}
+.rules:not(.paper) h3 { text-shadow: var(--glow); }
+
+.list { display: grid; gap: 6px; margin: 0; padding-left: 1.2em; }
+
+.keys { display: grid; gap: 8px; margin: 0; }
+.keys div { display: flex; flex-wrap: wrap; gap: 0 14px; }
+.keys dt { flex: 0 0 9em; font-weight: 600; }
+.keys dd { flex: 1 1 16em; margin: 0; min-width: 0; }
+
+.actions { display: flex; justify-content: flex-end; margin-top: 18px; }

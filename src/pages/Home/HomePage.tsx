@@ -4,7 +4,8 @@ import { useProgress } from '../../data/progress'
 import { useDay, type DayStatus } from '../../data/useDay'
 import { useToday } from '../../data/useToday'
 import type { UnmaskedResult } from '../../lib/marks'
-import { assignmentStatus, consecutiveShifts, getRecord, noteRequired, type Store } from '../../lib/progress'
+import { assignmentStatus, consecutiveShifts, getRecord, noteRequired, shiftComplete, type Store } from '../../lib/progress'
+import type { BlistReport, RetconReport } from '../../lib/share'
 import { formatCountdown, formatMemoDate } from '../../lib/time'
 import AppShell from '../../ui/AppShell'
 import Honeycomb from '../../ui/Honeycomb'
@@ -30,25 +31,37 @@ export interface Assignment {
 
 type Standing = Pick<Assignment, 'status' | 'statusText' | 'to'>
 
-const AWAITING: Standing = { status: 'unavailable', statusText: 'Awaiting clearance' }
+const ROUTES: Record<GameId, string> = { unmasked: '/unmasked', blist: '/b-list', retcon: '/retcon' }
 
-function unmaskedStanding(store: Store, date: string, day: DayStatus): Standing {
-  if (day === 'none') return { status: 'unavailable', statusText: 'Not issued' }
-  if (day === 'error') return { status: 'unavailable', statusText: 'No signal' }
-  const status = assignmentStatus(store, date, 'unmasked')
-  const to = '/unmasked'
-  if (status === 'pending') return { status, statusText: 'Pending', to }
-  if (status === 'in_progress') return { status, statusText: 'In progress', to }
-  const result = getRecord(store, date, 'unmasked')?.result as UnmaskedResult | undefined
-  if (!result) return { status, statusText: 'Filed', to }
-  return { status, statusText: `Filed ${result.solved ? result.attempts : 'X'}/6`, to }
+/** "Filed 3/6", "Filed 370/700", "Filed 4/5"; plain "Filed" if the result is missing. */
+function filedText(store: Store, date: string, game: GameId): string {
+  const result = getRecord(store, date, game)?.result
+  if (!result) return 'Filed'
+  if (game === 'unmasked') {
+    const r = result as UnmaskedResult
+    return `Filed ${r.solved ? r.attempts : 'X'}/6`
+  }
+  if (game === 'blist') return `Filed ${(result as BlistReport).score}/700`
+  return `Filed ${(result as RetconReport).correct}/5`
 }
 
-function buildAssignments(store: Store, date: string, day: DayStatus): Assignment[] {
+function standing(store: Store, date: string, day: DayStatus, games: readonly GameId[] | undefined, game: GameId): Standing {
+  if (day === 'none') return { status: 'unavailable', statusText: 'Not issued' }
+  if (day === 'error') return { status: 'unavailable', statusText: 'No signal' }
+  // Unmasked always runs; the other two only on days that schedule them.
+  if (games && !games.includes(game)) return { status: 'unavailable', statusText: 'Not issued today' }
+  const status = assignmentStatus(store, date, game)
+  const to = ROUTES[game]
+  if (status === 'pending') return { status, statusText: 'Pending', to }
+  if (status === 'in_progress') return { status, statusText: 'In progress', to }
+  return { status, statusText: filedText(store, date, game), to }
+}
+
+function buildAssignments(store: Store, date: string, day: DayStatus, games: readonly GameId[] | undefined): Assignment[] {
   return [
-    { id: 'unmasked', no: '01', title: 'Unmasked', subtitle: 'Identify the variant', ...unmaskedStanding(store, date, day) },
-    { id: 'blist', no: '02', title: 'B-List', subtitle: 'Records search', ...AWAITING },
-    { id: 'retcon', no: '03', title: 'Retcon', subtitle: 'Timeline repair', ...AWAITING },
+    { id: 'unmasked', no: '01', title: 'Unmasked', subtitle: 'Identify the variant', ...standing(store, date, day, games, 'unmasked') },
+    { id: 'blist', no: '02', title: 'B-List', subtitle: 'Records search', ...standing(store, date, day, games, 'blist') },
+    { id: 'retcon', no: '03', title: 'Retcon', subtitle: 'Timeline repair', ...standing(store, date, day, games, 'retcon') },
   ]
 }
 
@@ -77,7 +90,8 @@ function Home() {
     announce('New assignments issued.')
   }, [today, announce])
 
-  const assignments = useMemo(() => buildAssignments(store, today, status), [store, today, status])
+  const games = status === 'ready' ? bundle?.games : undefined
+  const assignments = useMemo(() => buildAssignments(store, today, status, games), [store, today, status, games])
   const date = formatMemoDate(today)
   const heading = bundle ? `SHIFT #${String(bundle.number).padStart(3, '0')} · ${date}` : date
 
@@ -102,6 +116,7 @@ function Home() {
               consecutive={consecutiveShifts(store, today)}
               msRemaining={msRemaining}
               notice={rolledOver ? 'New assignments issued' : undefined}
+              shiftDone={shiftComplete(store, today)}
             />
           </div>
         </WalnutWall>

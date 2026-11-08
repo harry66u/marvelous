@@ -4,7 +4,7 @@ import { DEFAULT_SETTINGS, applyMotionAttribute, effectiveReducedMotion } from '
 describe('settings', () => {
   afterEach(() => { delete document.documentElement.dataset.motion })
   it('defaults', () => {
-    expect(DEFAULT_SETTINGS).toEqual({ sound: false, motion: 'system', seenManual: {} })
+    expect(DEFAULT_SETTINGS).toEqual({ sound: false, motion: 'system', seenManual: {}, extendedTimer: false })
   })
   it('effectiveReducedMotion', () => {
     expect(effectiveReducedMotion({ ...DEFAULT_SETTINGS, motion: 'system' }, true)).toBe(true)

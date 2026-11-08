@@ -3,7 +3,7 @@ import Button from '../ui/Button'
 import { buildSearchIndex, searchCharacters } from '../games/unmasked/logic/search'
 import { toPublic, UNMASKED_COOLDOWN_DAYS } from '../content/validate'
 import { daysBetween, etDateOf } from '../lib/time'
-import type { Character, Issue, Schedule } from '../content/types'
+import type { BlistPrompt, Character, Issue, RetconRecord, Schedule } from '../content/types'
 import s from './Office.module.css'
 
 interface Props {
@@ -13,9 +13,15 @@ interface Props {
   issues: Issue[]
   onPick: (id: string) => void
   onClear: () => void
+  prompts?: readonly BlistPrompt[]
+  records?: readonly RetconRecord[]
+  /** clear a day's B-List or Retcon set; `reroll` fills it again */
+  onGame?: (game: 'blist' | 'retcon', reroll: boolean) => void
 }
 
-export default function DayEditor({ date, schedule, chars, issues, onPick, onClear }: Props) {
+const TIER_ORDER = ['common', 'filed', 'restricted', 'classified', 'sealed'] as const
+
+export default function DayEditor({ date, schedule, chars, issues, onPick, onClear, prompts = [], records = [], onGame }: Props) {
   const [query, setQuery] = useState('')
   const [unlocked, setUnlocked] = useState<string | null>(null)
   // Today and earlier have already been issued: players may be mid-case with the current answer.
@@ -75,6 +81,66 @@ export default function DayEditor({ date, schedule, chars, issues, onPick, onCle
           )
         })}
       </ul>
+      <GameSets date={date} schedule={schedule} prompts={prompts} records={records} locked={locked} onGame={onGame} />
     </section>
+  )
+}
+
+function GameSets({ date, schedule, prompts, records, locked, onGame }: {
+  date: string
+  schedule: Schedule
+  prompts: readonly BlistPrompt[]
+  records: readonly RetconRecord[]
+  locked: boolean
+  onGame?: (game: 'blist' | 'retcon', reroll: boolean) => void
+}) {
+  const promptById = useMemo(() => new Map(prompts.map((p) => [p.id, p])), [prompts])
+  const recordById = useMemo(() => new Map(records.map((r) => [r.id, r])), [records])
+  const day = schedule.days[date]
+  const blist = day?.blist ?? []
+  const retcon = day?.retcon ?? []
+  const tools = (game: 'blist' | 'retcon', has: boolean) =>
+    onGame ? (
+      <span className={s.row}>
+        <Button onClick={() => onGame(game, true)} disabled={locked || !day?.unmasked}>{has ? 'Re-roll' : 'Fill'}</Button>
+        {has ? <Button onClick={() => onGame(game, false)} disabled={locked}>Clear</Button> : null}
+      </span>
+    ) : null
+  return (
+    <>
+      <h3 className={s.h}>B-List requests</h3>
+      {tools('blist', blist.length > 0)}
+      {blist.length === 0 ? <p className={s.note}>No B-List shift on this day.</p> : (
+        <ol className={s.results}>
+          {blist.map((id) => {
+            const p = promptById.get(id)
+            const counts = p ? TIER_ORDER.map((t) => p.answers.filter((a) => a.tier === t).length) : []
+            return (
+              <li key={id} className={s.result}>
+                <span className={s.who}>{p?.text ?? `unknown (${id})`}</span>
+                {p ? <span className={s.tag}>D{p.difficulty}</span> : null}
+                {p ? <span className={s.sub}>{p.answers.length} answers · {counts.join(' / ')} by tier</span> : null}
+              </li>
+            )
+          })}
+        </ol>
+      )}
+      <h3 className={s.h}>Retcon records</h3>
+      {tools('retcon', retcon.length > 0)}
+      {retcon.length === 0 ? <p className={s.note}>No Retcon case on this day.</p> : (
+        <ol className={s.results}>
+          {retcon.map((id, i) => {
+            const r = recordById.get(id)
+            return (
+              <li key={id} className={s.result}>
+                <span className={s.who}>{r?.text ?? `unknown (${id})`}{i === 0 ? ' · anchor' : ''}</span>
+                {r ? <span className={s.tag}>{r.date}</span> : null}
+                {r?.detail ? <span className={s.sub}>{r.detail}</span> : null}
+              </li>
+            )
+          })}
+        </ol>
+      )}
+    </>
   )
 }

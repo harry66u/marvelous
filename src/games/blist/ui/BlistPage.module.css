@@ -1,0 +1,63 @@
+/* The B-List terminal: same frame and rhythm as Unmasked (board Form 05). */
+.page { padding-block: 28px 0; }
+
+.head { display: grid; gap: 10px; justify-items: start; margin-bottom: 20px; }
+.title { margin: 0; font-size: clamp(34px, 12vw, 50px); }
+.form {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--orange); text-shadow: var(--glow);
+}
+.meter { display: flex; gap: 6px; width: min(240px, 100%); }
+.meter i { flex: 1; height: 8px; border: 1px solid var(--line); }
+.meter .used { background: var(--orange); box-shadow: var(--glow); }
+
+.body { display: grid; grid-template-columns: minmax(0, 1fr) 236px; gap: 22px; align-items: start; }
+.play { display: grid; gap: 18px; min-width: 0; }
+.aside { padding: 14px; border: 1px solid var(--line-soft); }
+
+/* gauge beside the request; above it on phones */
+.desk { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 22px; align-items: start; min-width: 0; }
+.slot { min-width: 0; grid-row: 1; grid-column: 1; }
+.gauge { grid-row: 1; grid-column: 2; padding-left: 18px; border-left: 1px solid var(--line-soft); }
+
+.loading {
+  margin: 0; font: 12px/1.5 var(--f-hud); letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted);
+}
+.notice {
+  display: grid; gap: 16px; justify-items: start; padding: 18px; border: 1px dashed var(--line);
+  background: color-mix(in srgb, var(--orange) 5%, transparent);
+}
+.notice p { margin: 0; max-width: 52ch; font: 16px/1.6 var(--f-memo); color: var(--paper); }
+.rollover {
+  margin: 0; padding: 10px 12px; border-left: 3px solid var(--mustard);
+  background: color-mix(in srgb, var(--mustard) 8%, transparent);
+  font: 14px/1.5 var(--f-memo); color: var(--paper);
+}
+.link {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px;
+  border: 1px solid var(--line); color: var(--orange); text-decoration: none; text-shadow: var(--glow);
+  font: 400 13px/1 var(--f-hud); letter-spacing: 0.18em; text-transform: uppercase;
+}
+.link:hover { background: color-mix(in srgb, var(--orange) 12%, transparent); }
+
+/* a miss rattles the terminal; two identical animations so each miss restarts it */
+.shakeA { animation: shake-a 0.36s ease-in-out; }
+.shakeB { animation: shake-b 0.36s ease-in-out; }
+@keyframes shake-a {
+  20% { transform: translateX(-5px); } 40% { transform: translateX(4px); }
+  60% { transform: translateX(-3px); } 80% { transform: translateX(2px); }
+}
+@keyframes shake-b {
+  20% { transform: translateX(-5px); } 40% { transform: translateX(4px); }
+  60% { transform: translateX(-3px); } 80% { transform: translateX(2px); }
+}
+:global([data-motion='reduce']) .shakeA, :global([data-motion='reduce']) .shakeB { animation: none; }
+
+@media (max-width: 860px) {
+  .body { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 600px) {
+  .desk { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .gauge { grid-column: 1; padding: 0 0 12px; border-left: 0; border-bottom: 1px solid var(--line-soft); }
+  .slot { grid-row: 2; }
+}

@@ -6,13 +6,19 @@ import { mkdirSync, writeFileSync } from 'node:fs'
 import characters from '../content/characters.json' with { type: 'json' }
 import teams from '../content/teams.json' with { type: 'json' }
 import schedule from '../content/schedule.json' with { type: 'json' }
-import type { Character, Schedule, Team } from '../src/content/types'
+import blist from '../content/blist.json' with { type: 'json' }
+import retcon from '../content/retcon.json' with { type: 'json' }
+import type { BlistPrompt, Character, RetconRecord, Schedule, Team } from '../src/content/types'
 import { toPublic, validateCharacters, validateSchedule } from '../src/content/validate'
+import { validateBlist, validateGameSchedule, validateRetcon } from '../src/content/validateGames'
 
 const chars = characters as Character[]
 const issues = [
   ...validateCharacters(chars, teams as Team[]),
   ...validateSchedule(schedule as Schedule, chars),
+  ...validateBlist(blist as BlistPrompt[]),
+  ...validateRetcon(retcon as RetconRecord[]),
+  ...validateGameSchedule(schedule as Schedule, blist as BlistPrompt[], retcon as RetconRecord[]),
 ]
 for (const i of issues) console.log(`${i.level.toUpperCase()} ${i.path}: ${i.message}`)
 const errors = issues.filter((i) => i.level === 'error').length

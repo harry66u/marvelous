@@ -1,6 +1,8 @@
 import { useEffect, useId, type ReactNode } from 'react'
 import { Link } from 'react-router'
 import { UnmaskedRules } from '../../games/unmasked/ui/FieldManual'
+import { BlistRules } from '../../games/blist/ui/FieldManual'
+import { RetconRules } from '../../games/retcon/ui/FieldManual'
 import AppShell, { FOOTER_TEXT } from '../../ui/AppShell'
 import Paper from '../../ui/Paper'
 import s from './ManualPage.module.css'
@@ -17,6 +19,8 @@ function Section({ title, children }: { title: string; children: ReactNode }) {
 
 export default function ManualPage() {
   const unmaskedId = useId()
+  const blistId = useId()
+  const retconId = useId()
   useEffect(() => {
     const previous = document.title
     document.title = 'Field manual · Marvelous'
@@ -47,9 +51,31 @@ export default function ManualPage() {
           </section>
         </Paper>
 
-        <Section title="B-List and Retcon">
-          <p>Awaiting clearance. Their rules will be filed here when the assignments open.</p>
-        </Section>
+        <Paper className={s.sheet}>
+          <section aria-labelledby={blistId}>
+            <dl className={s.memo}>
+              <div><dt>To</dt><dd>All field agents</dd></div>
+              <div><dt>From</dt><dd>Records division</dd></div>
+              <div><dt>Re</dt><dd>Assignment 02, records search</dd></div>
+            </dl>
+            <h2 id={blistId} className={s.sheetTitle}>B-List: records search</h2>
+            <BlistRules tone="paper" />
+            <p className={s.sheetLink}><Link to="/b-list">Open today's search</Link></p>
+          </section>
+        </Paper>
+
+        <Paper className={s.sheet}>
+          <section aria-labelledby={retconId}>
+            <dl className={s.memo}>
+              <div><dt>To</dt><dd>All field agents</dd></div>
+              <div><dt>From</dt><dd>Records division</dd></div>
+              <div><dt>Re</dt><dd>Assignment 03, timeline repair</dd></div>
+            </dl>
+            <h2 id={retconId} className={s.sheetTitle}>Retcon: timeline repair</h2>
+            <RetconRules tone="paper" />
+            <p className={s.sheetLink}><Link to="/retcon">Open today's case</Link></p>
+          </section>
+        </Paper>
 
         <Section title="About">
           <p>
