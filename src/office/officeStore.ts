@@ -27,6 +27,11 @@ const sortDays = (s: Schedule): Schedule => ({
   days: Object.fromEntries(Object.entries(s.days).sort(([a], [b]) => a.localeCompare(b))),
 })
 
+function absentAsEmpty<T>(e: unknown): { data: T[]; sha: string } {
+  if (e instanceof GitHubError && e.status === 404) return { data: [], sha: '' }
+  throw e
+}
+
 const readBranch = () => { try { return localStorage.getItem(BRANCH_KEY) } catch { return null } }
 
 export function conflictMessage(e: unknown): string {
@@ -70,8 +75,10 @@ export function useOfficeStore() {
         const [s, c, bl, rc] = await Promise.all([
           readJsonFile<Schedule>(ref, SCHEDULE_PATH, token),
           readJsonFile<Character[]>(ref, CHARACTERS_PATH, token),
-          readJsonFile<BlistPrompt[]>(ref, BLIST_PATH, token).catch(() => ({ data: [] as BlistPrompt[], sha: '' })),
-          readJsonFile<RetconRecord[]>(ref, RETCON_PATH, token).catch(() => ({ data: [] as RetconRecord[], sha: '' })),
+          // Missing files (an older branch) count as empty; any other failure is a load error,
+          // so a rate-limited read never shows every scheduled prompt as unknown.
+          readJsonFile<BlistPrompt[]>(ref, BLIST_PATH, token).catch(absentAsEmpty<BlistPrompt>),
+          readJsonFile<RetconRecord[]>(ref, RETCON_PATH, token).catch(absentAsEmpty<RetconRecord>),
         ])
         if (!live) return
         setSchedule(s.data)

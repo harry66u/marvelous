@@ -48,7 +48,7 @@ export default function OfficePage() {
               {errors.length > 0 || warnings.length > 0 ? (
                 <details className={s.panel} open={errors.length > 0}>
                   <summary className={s.lbl}>Validation: {errors.length} errors, {warnings.length} warnings</summary>
-                  <ul className={s.issues}>
+                  <ul className={s.issues} tabIndex={0} aria-label="Validation issues">
                     {issues.slice(0, 50).map((i) => (
                       <li key={i.path + i.message} className={i.level === 'error' ? s.err : s.warn}>
                         <code>{i.path}</code> {i.message}

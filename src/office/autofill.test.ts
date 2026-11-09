@@ -54,7 +54,7 @@ describe('autofillSchedule', () => {
       const d = addDays(FROM, i)
       const c = byId.get(out.days[d]!.unmasked!)!
       expect(c.answerOk).toBe(true)
-      const [lo, hi] = [1, 2, 3, 4].includes(weekday(d)) ? [1, 3] : [2, 4]
+      const [lo, hi] = [1, 2, 3, 4].includes(weekday(d)) ? [1, 2] : [2, 3]
       expect(c.difficulty).toBeGreaterThanOrEqual(lo!)
       expect(c.difficulty).toBeLessThanOrEqual(hi!)
       if (prev) expect(c.primaryTeam).not.toBe(prev)

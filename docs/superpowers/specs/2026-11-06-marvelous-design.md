@@ -494,4 +494,8 @@ Decided 2026-11-08, building M2 and M3:
 6. **B-List rarity:** **preset tiers, no backend.** Tiers come from each answer's estimated share (fame from Wikidata sitelinks, MCU and core-member boosts; see content/FACTCHECK.md). Live pick rates and "rarest answers other agents found" wait for the shared backend; until then the end screen shows "Unclaimed records".
 7. **Launch volumes:** B-List 421 prompts (60 days); Retcon 549 records (88 days). Comic events and non-MCU screen releases are not in Retcon yet.
 
+Decided 2026-11-09 (feedback: "the games are too hard"), from the 2026-11-10 shift:
+
+8. **Easier schedule.** Unmasked answers only from difficulty 1–3. B-List schedules only easy and medium prompts, judged by how many answers a casual MCU-era fan would know, and may repeat a prompt after 28 days. Retcon uses only recognizable records, with records at least three years apart, and may repeat a record after 25 days.
+
 Open: the repository is public. Making it private keeps future answers off GitHub.

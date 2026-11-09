@@ -224,7 +224,10 @@ def character_prompt(pid, text, category, members, sources, team=None, salience=
     answers = finish([a for a, _ in pairs], [weight(it) for _, it in pairs])
     # How many answers a casual fan would know: items covered by 15+ language Wikipedias, or on screen.
     renown = sum(1 for _, it in pairs if it.sitelinks >= 15 or it.mcu)
-    return {'id': pid, 'text': text, 'category': category, 'answers': answers, 'sources': sources, 'renown': renown}
+    # Answers a casual, MCU-era fan would name without thinking: on screen, or very widely covered.
+    famous = sum(1 for _, it in pairs if it.mcu or it.sitelinks >= 30)
+    return {'id': pid, 'text': text, 'category': category, 'answers': answers, 'sources': sources,
+            'renown': renown, 'famous': famous}
 
 
 def slug(s):
@@ -862,11 +865,32 @@ def mcu_introductions(items):
 
 # ---------------------------------------------------------------- main
 
+# Families a casual fan finds harder than the raw counts suggest: they ask about creators, issues
+# and years, or about word patterns, not about characters themselves.
+TRICKY = ('creator', 'creator-pair', 'debut-series', 'debut-year', 'occupation', 'wordplay', 'decade-slice')
+SERIES_OR_SPECIAL = re.compile(r'WandaVision|Falcon and the Winter Soldier|Loki|Hawkeye|Moon Knight|Ms\. Marvel|She-Hulk|'
+                               r'Secret Invasion|Echo|Agatha|Daredevil|Ironheart|Wonder Man|VisionQuest|Special|Werewolf|One Last Kill')
+
+
 def difficulty(p):
+    """1 easy, 2 medium, 3 hard, judged by how many answers a casual fan would know."""
     renown = p.pop('renown', None)
-    if renown is None:  # MCU prompts: main casts and film titles are widely known
-        return 2 if p['category'] in ('mcu-intro',) else 1
-    return 1 if renown >= 6 else 2 if renown >= 3 else 3
+    famous = p.pop('famous', None)
+    cat = p['category']
+    if renown is None:  # MCU prompts built from cast lists and release dates
+        if cat == 'mcu-titles':
+            return 1
+        if SERIES_OR_SPECIAL.search(p['text']):
+            return 2 if cat == 'mcu-cast' else 3  # series and specials: casts are less familiar
+        return 1 if cat in ('mcu-cast', 'mcu-actor') else 2
+    if cat == 'mcu-intro':
+        return 2 if famous >= 3 else 3
+    need = 12 if cat in TRICKY else 6
+    if famous >= need:
+        return 1
+    if famous >= need // 2:
+        return 2
+    return 3
 
 
 def main():

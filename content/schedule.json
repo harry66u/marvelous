@@ -48,1471 +48,1803 @@
       ]
     },
     "2026-11-10": {
-      "unmasked": "thor",
+      "unmasked": "doctor-strange",
       "blist": [
+        "mcu-cast-the-mcu-spider-man-films",
         "mcu-actor-the-iron-man-films",
-        "team-hydra",
-        "team-midnight-sons",
-        "debut-1970s",
-        "debut-1973",
-        "mcu-intro-guardians-of-the-galaxy",
-        "mcu-intro-thor"
+        "team-secret-avengers",
+        "team-sinister-six",
+        "debut-in-the-amazing-spider-man",
+        "debut-in-x-men",
+        "mcu-cast-moon-knight"
       ],
       "retcon": [
         "debut-jean-grey",
-        "mcu-doctor-strange",
-        "debut-khonshu",
+        "mcu-captain-america-the-winter-soldier",
+        "debut-hulkling",
         "mcu-deadpool-wolverine",
-        "debut-cardiac",
-        "debut-shatterstar"
+        "debut-captain-america",
+        "debut-shang-chi"
       ]
     },
     "2026-11-11": {
-      "unmasked": "hulk",
+      "unmasked": "ghost-rider-johnny-blaze",
       "blist": [
-        "mcu-cast-thunderbolts",
-        "debut-1976",
-        "debut-in-avengers",
-        "team-future-foundation",
-        "creator-john-romita-sr",
-        "mcu-intro-ant-man-and-the-wasp",
-        "mcu-intro-guardians-of-the-galaxy-vol-2"
+        "mcu-actor-the-marvels",
+        "mcu-cast-thor-ragnarok",
+        "team-brotherhood-of-mutants",
+        "team-dark-avengers",
+        "enemy-captain-america",
+        "debut-1966",
+        "mcu-cast-agatha-all-along"
       ],
       "retcon": [
-        "debut-captain-america",
-        "mcu-captain-america-the-winter-soldier",
-        "debut-shriek",
-        "debut-morbius",
-        "debut-marrow",
-        "mcu-black-panther"
+        "debut-captain-marvel-carol-danvers",
+        "mcu-captain-marvel",
+        "debut-wolverine",
+        "debut-rogue",
+        "debut-man-wolf",
+        "mcu-captain-america-brave-new-world"
       ]
     },
     "2026-11-12": {
-      "unmasked": "captain-america",
+      "unmasked": "doctor-octopus",
       "blist": [
+        "mcu-cast-deadpool-wolverine",
         "mcu-phase-three",
-        "creator-steve-ditko",
-        "debut-1974",
-        "creator-don-heck",
-        "team-excalibur",
-        "mcu-intro-avengers-age-of-ultron",
-        "mcu-intro-iron-man-3"
+        "debut-1962",
+        "team-future-foundation",
+        "both-x-men-x-force",
+        "enemy-daredevil",
+        "mcu-cast-daredevil-born-again"
       ],
       "retcon": [
-        "debut-iron-man",
+        "debut-jane-foster",
         "mcu-daredevil-born-again",
-        "debut-domino",
+        "debut-drax-the-destroyer",
         "mcu-moon-knight",
-        "debut-magma",
-        "debut-kurse"
+        "debut-malekith",
+        "debut-kro"
       ]
     },
     "2026-11-13": {
-      "unmasked": "starfox",
+      "unmasked": "werewolf-by-night",
       "blist": [
-        "team-new-mutants",
-        "creator-john-buscema",
-        "debut-1966",
-        "team-shield",
-        "mcu-intro-captain-america-the-winter-soldier",
-        "mcu-intro-spider-man-homecoming",
-        "mcu-intro-doctor-strange"
+        "mcu-actor-spider-man-far-from-home",
+        "team-the-fantastic-four",
+        "debut-1960s",
+        "team-avengers",
+        "enemy-thor",
+        "mcu-cast-loki",
+        "mcu-cast-visionquest"
       ],
       "retcon": [
-        "mcu-guardians-of-the-galaxy",
-        "mcu-ant-man",
-        "mcu-loki",
-        "debut-karma",
-        "debut-harry-osborn",
-        "debut-human-torch-jim-hammond"
+        "mcu-guardians-of-the-galaxy-vol-3",
+        "mcu-ant-man-and-the-wasp",
+        "mcu-iron-man",
+        "debut-kang-the-conqueror",
+        "debut-gorr-the-god-butcher",
+        "debut-hobgoblin-roderick-kingsley"
       ]
     },
     "2026-11-14": {
-      "unmasked": "titania",
+      "unmasked": "ebony-maw",
       "blist": [
-        "debut-1963",
-        "creators-stan-lee-steve-ditko",
-        "both-excalibur-x-men",
-        "team-defenders",
-        "mcu-intro-black-panther",
-        "mcu-intro-iron-man-2",
-        "mcu-intro-spider-man-far-from-home"
+        "mcu-actor-spider-man-brand-new-day",
+        "debut-in-avengers",
+        "team-cabal",
+        "both-avengers-the-fantastic-four",
+        "enemy-doctor-doom",
+        "mcu-cast-hawkeye",
+        "mcu-cast-secret-invasion"
       ],
       "retcon": [
-        "debut-moon-knight",
-        "mcu-captain-marvel",
-        "debut-zeus",
-        "mcu-black-widow",
-        "debut-tiger-shark",
-        "debut-attuma"
+        "debut-namor",
+        "mcu-doctor-strange",
+        "mcu-doctor-strange-in-the-multiverse-of-madness",
+        "debut-corvus-glaive",
+        "debut-thor",
+        "debut-arnim-zola"
       ]
     },
     "2026-11-15": {
-      "unmasked": "yelena-belova",
+      "unmasked": "groot",
       "blist": [
-        "debut-in-tales-of-suspense",
-        "team-secret-avengers",
-        "creators-stan-lee-jack-kirby",
-        "debut-in-x-men",
-        "mcu-intro-captain-america-civil-war",
-        "mcu-intro-thor-the-dark-world",
-        "mcu-intro-iron-man"
+        "mcu-actor-ant-man-and-the-wasp-quantumania",
+        "team-heroes-for-hire",
+        "team-shield",
+        "debut-1970s",
+        "debut-in-fantastic-four",
+        "mcu-cast-ironheart",
+        "mcu-cast-wonder-man"
       ],
       "retcon": [
-        "mcu-avengers-infinity-war",
-        "mcu-guardians-of-the-galaxy-vol-3",
-        "debut-sin",
-        "debut-diablo",
+        "mcu-black-panther-wakanda-forever",
+        "mcu-guardians-of-the-galaxy",
+        "debut-ultron",
+        "debut-deathbird",
         "debut-dracula",
-        "debut-maria-hill"
+        "debut-mandarin"
       ]
     },
     "2026-11-16": {
-      "unmasked": "malekith",
+      "unmasked": "hulk",
       "blist": [
-        "mcu-cast-the-doctor-strange-films",
-        "mcu-cast-deadpool-wolverine",
-        "creator-jack-kirby",
-        "debut-1975",
-        "team-avengers",
-        "mcu-intro-the-incredible-hulk",
-        "creators-chris-claremont-sal-buscema"
+        "mcu-cast-captain-america-civil-war",
+        "mcu-cast-the-guardians-of-the-galaxy-films",
+        "team-illuminati",
+        "debut-1964",
+        "debut-in-journey-into-mystery",
+        "team-thunderbolts",
+        "mcu-cast-wandavision"
       ],
       "retcon": [
-        "mcu-the-avengers",
+        "mcu-the-falcon-and-the-winter-soldier",
         "debut-archangel",
-        "mcu-doctor-strange-in-the-multiverse-of-madness",
-        "debut-scream",
-        "debut-sif",
-        "debut-donald-pierce"
+        "mcu-captain-america-civil-war",
+        "debut-sauron",
+        "debut-spot",
+        "debut-emma-frost"
       ]
     },
     "2026-11-17": {
-      "unmasked": "cyclops",
+      "unmasked": "rocket-raccoon",
       "blist": [
-        "mcu-cast-captain-america-civil-war",
-        "mcu-cast-black-widow",
-        "mcu-cast-black-panther",
-        "contains-a-military-rank",
-        "team-sinister-six",
-        "team-elders-of-the-universe",
-        "creator-al-milgrom"
+        "mcu-cast-shang-chi-and-the-legend-of-the-ten-rings",
+        "mcu-cast-captain-america-brave-new-world",
+        "team-hydra",
+        "team-guardians-of-the-galaxy",
+        "creator-jack-kirby",
+        "species-eternal",
+        "mcu-cast-echo"
       ],
       "retcon": [
         "mcu-wonder-man",
-        "debut-human-torch-johnny-storm",
-        "debut-spider-slayer-alistair-smythe",
-        "debut-jackal",
-        "mcu-ant-man-and-the-wasp-quantumania",
-        "debut-sentry"
+        "debut-invisible-woman",
+        "debut-us-agent",
+        "debut-jennifer-kale",
+        "mcu-avengers-age-of-ultron",
+        "debut-sharon-carter"
       ]
     },
     "2026-11-18": {
-      "unmasked": "ultron",
+      "unmasked": "hawkeye-clint-barton",
       "blist": [
-        "mcu-cast-loki",
-        "mcu-phase-one",
-        "mcu-cast-guardians-of-the-galaxy",
-        "debut-in-strange-tales",
-        "team-hellfire-club",
-        "creators-rob-liefeld-fabian-nicieza",
-        "team-x-corporation"
+        "mcu-films-2010s",
+        "mcu-cast-guardians-of-the-galaxy-vol-3",
+        "team-x-men",
+        "team-masters-of-evil",
+        "debut-1980s",
+        "species-fictional-deity",
+        "mcu-cast-the-falcon-and-the-winter-soldier"
       ],
       "retcon": [
-        "mcu-eternals",
-        "debut-bolivar-trask",
+        "mcu-hawkeye",
+        "debut-blade",
         "mcu-captain-america-the-first-avenger",
-        "debut-molecule-man",
-        "debut-cable",
-        "mcu-iron-man-3"
+        "debut-mister-negative",
+        "debut-bullseye",
+        "mcu-avengers-infinity-war"
       ]
     },
     "2026-11-19": {
-      "unmasked": "hela",
+      "unmasked": "daredevil",
       "blist": [
-        "mcu-actor-guardians-of-the-galaxy",
-        "mcu-actor-hawkeye",
-        "mcu-actor-wonder-man",
-        "contains-a-body-part",
-        "ends-girl",
-        "creators-dave-cockrum-chris-claremont",
-        "creator-rob-liefeld"
+        "mcu-actor-the-guardians-of-the-galaxy-films",
+        "mcu-actor-doctor-strange",
+        "both-x-men-x-factor",
+        "team-excalibur",
+        "ability-healing-factor",
+        "creators-stan-lee-steve-ditko",
+        "mcu-cast-she-hulk-attorney-at-law"
       ],
       "retcon": [
-        "debut-red-skull",
+        "debut-rocket-raccoon",
         "mcu-thor",
-        "debut-red-hulk",
-        "debut-muse",
-        "debut-man-wolf",
+        "debut-shuri",
+        "debut-mysterio",
+        "debut-marrow",
         "mcu-the-fantastic-four-first-steps"
       ]
     },
     "2026-11-20": {
-      "unmasked": "molecule-man",
+      "unmasked": "sabretooth",
       "blist": [
-        "mcu-actor-the-black-panther-films",
-        "mcu-cast-doctor-strange-in-the-multiverse-of-madness",
-        "mcu-cast-wonder-man",
-        "team-cabal",
-        "team-generation-x",
-        "creator-jim-cheung",
-        "creator-john-cassaday"
+        "mcu-actor-the-ant-man-films",
+        "enemy-spider-man",
+        "team-midnight-sons",
+        "team-x-force",
+        "enemy-thanos",
+        "mcu-cast-the-guardians-of-the-galaxy-holiday-special",
+        "mcu-cast-ms-marvel"
       ],
       "retcon": [
-        "mcu-ms-marvel",
-        "debut-white-rabbit",
+        "mcu-spider-man-brand-new-day",
+        "debut-zeus",
         "debut-crossbones",
-        "mcu-iron-man-2",
-        "debut-wrecker",
-        "debut-wong"
+        "mcu-ms-marvel",
+        "debut-white-tiger-hector-ayala",
+        "debut-vulture"
       ]
     },
     "2026-11-21": {
-      "unmasked": "archangel",
+      "unmasked": "sif",
       "blist": [
-        "mcu-actor-the-thor-films",
-        "mcu-cast-visionquest",
-        "mcu-cast-black-panther-wakanda-forever",
-        "debut-1965",
-        "debut-1985",
-        "creators-john-byrne-chris-claremont",
-        "creator-nunzio-defilippis"
+        "mcu-cast-ant-man-and-the-wasp-quantumania",
+        "mcu-actor-thor-love-and-thunder",
+        "mcu-disney-series",
+        "team-defenders",
+        "creator-steve-ditko",
+        "starts-death",
+        "ends-girl"
       ],
       "retcon": [
-        "mcu-ant-man-and-the-wasp",
-        "debut-corvus-glaive",
-        "debut-thor",
-        "debut-war-machine",
-        "debut-super-skrull",
-        "mcu-wandavision"
+        "mcu-avengers-endgame",
+        "debut-ego-the-living-planet",
+        "debut-talos",
+        "debut-valeria-richards",
+        "debut-spider-man-peter-parker",
+        "mcu-visionquest"
       ]
     },
     "2026-11-22": {
-      "unmasked": "hobgoblin-roderick-kingsley",
+      "unmasked": "whiplash",
       "blist": [
+        "mcu-cast-guardians-of-the-galaxy-vol-2",
         "mcu-cast-the-fantastic-four-first-steps",
-        "mcu-cast-echo",
-        "mcu-actor-avengers-infinity-war",
-        "debut-1962",
-        "team-knights-of-x",
-        "creator-tom-defalco",
-        "creators-bill-mantlo-sal-buscema"
+        "mcu-cast-doctor-strange",
+        "both-excalibur-x-men",
+        "enemy-avengers",
+        "ends-woman",
+        "starts-agent"
       ],
       "retcon": [
-        "debut-magneto",
-        "debut-thanos",
+        "debut-mister-fantastic",
+        "debut-wolfsbane",
         "mcu-the-incredible-hulk",
-        "debut-black-knight-dane-whitman",
-        "debut-mister-sinister",
+        "debut-captain-mar-vell",
+        "debut-mockingbird",
         "mcu-thunderbolts"
       ]
     },
     "2026-11-23": {
-      "unmasked": "thanos",
+      "unmasked": "star-lord",
       "blist": [
-        "mcu-actor-visionquest",
-        "mcu-actor-thor",
-        "mcu-actor-spider-man-homecoming",
-        "team-frightful-four",
-        "team-heroes-for-hire",
-        "creator-brian-michael-bendis",
-        "creator-ethan-van-sciver"
+        "mcu-actor-captain-america-the-winter-soldier",
+        "mcu-cast-ant-man",
+        "mcu-actor-thor-ragnarok",
+        "debut-1963",
+        "team-x-factor",
+        "team-avengers-1960s",
+        "contains-a-job-title"
       ],
       "retcon": [
-        "mcu-black-panther-wakanda-forever",
-        "debut-ghost-rider-robbie-reyes",
-        "debut-ant-man-scott-lang",
-        "debut-sandman",
-        "debut-marvel-boy-noh-varr",
+        "mcu-black-widow",
+        "debut-genis-vell",
+        "debut-apocalypse",
+        "debut-red-hulk",
+        "debut-mbaku",
         "mcu-thor-the-dark-world"
       ]
     },
     "2026-11-24": {
-      "unmasked": "vulture",
+      "unmasked": "invisible-woman",
       "blist": [
-        "mcu-actor-thor-the-dark-world",
-        "mcu-actor-captain-america-the-first-avenger",
-        "mcu-cast-the-guardians-of-the-galaxy-holiday-special",
-        "creators-stan-lee-john-romita-sr",
-        "team-dark-avengers",
-        "debut-in-new-mutants",
-        "creator-doug-moench"
+        "mcu-actor-captain-america-civil-war",
+        "mcu-actor-thunderbolts",
+        "mcu-actor-black-widow",
+        "species-mutate",
+        "ability-teleportation",
+        "team-frightful-four",
+        "starts-kid"
       ],
       "retcon": [
-        "debut-jane-foster",
-        "debut-morg",
+        "debut-magneto",
+        "debut-ms-marvel-kamala-khan",
         "mcu-thor-love-and-thunder",
-        "mcu-avengers-endgame",
-        "debut-the-owl",
-        "debut-star-lord"
+        "debut-valkyrie-brunnhilde",
+        "debut-strong-guy",
+        "mcu-spider-man-homecoming"
       ]
     },
     "2026-11-25": {
-      "unmasked": "echo",
+      "unmasked": "nick-fury",
       "blist": [
-        "mcu-actor-doctor-strange-in-the-multiverse-of-madness",
-        "mcu-actor-loki",
-        "mcu-cast-agatha-all-along",
-        "debut-1960s",
-        "team-marauders",
-        "debut-1972",
-        "creator-christina-weir"
+        "mcu-cast-black-panther-wakanda-forever",
+        "mcu-actor-eternals",
+        "mcu-actor-iron-man-3",
+        "enemy-x-men",
+        "creators-stan-lee-jack-kirby",
+        "team-avengers-1970s",
+        "contains-a-metal"
       ],
       "retcon": [
         "mcu-spider-man-far-from-home",
-        "debut-proteus",
-        "mcu-the-falcon-and-the-winter-soldier",
+        "debut-pip-the-troll",
+        "mcu-the-avengers",
         "debut-jubilee",
-        "debut-groot",
-        "debut-crystal"
+        "debut-hercules",
+        "debut-doctor-strange"
       ]
     },
     "2026-11-26": {
-      "unmasked": "dagger",
+      "unmasked": "spider-man-miles-morales",
       "blist": [
+        "mcu-actor-spider-man-no-way-home",
         "mcu-actor-ant-man-and-the-wasp",
-        "mcu-cast-the-mcu-spider-man-films",
-        "mcu-phase-two",
-        "contains-an-animal",
-        "starts-dark",
-        "debut-1971",
-        "creator-jim-starlin"
+        "mcu-cast-thor",
+        "species-mutant",
+        "ability-telepathy",
+        "species-asgardian",
+        "starts-blue"
       ],
       "retcon": [
         "mcu-agatha-all-along",
-        "debut-wonder-man",
-        "debut-hobgoblin-roderick-kingsley",
-        "debut-paladin",
+        "debut-winter-soldier",
+        "debut-hulk",
+        "debut-nova-sam-alexander",
         "mcu-thor-ragnarok",
-        "debut-x-23"
+        "debut-whiplash"
       ]
     },
     "2026-11-27": {
-      "unmasked": "winter-soldier",
+      "unmasked": "gorr-the-god-butcher",
       "blist": [
-        "mcu-films-2010s",
-        "mcu-actor-the-guardians-of-the-galaxy-films",
-        "mcu-cast-iron-man-3",
-        "team-thunderbolts",
-        "creator-sal-buscema",
-        "debut-1979",
-        "team-mutant-liberation-front"
+        "mcu-cast-captain-america-the-winter-soldier",
+        "mcu-phase-two",
+        "mcu-actor-the-thor-films",
+        "enemy-spider-man-1960s",
+        "species-gamma-mutate",
+        "starts-professor",
+        "ends-king"
       ],
       "retcon": [
         "debut-doctor-doom",
         "mcu-werewolf-by-night",
-        "debut-hellion",
-        "debut-kraglin",
-        "mcu-hawkeye",
-        "debut-deadpool"
+        "debut-hellcat",
+        "debut-kitty-pryde",
+        "mcu-black-panther",
+        "debut-franklin-richards"
       ]
     },
     "2026-11-28": {
-      "unmasked": "hulkling",
+      "unmasked": "mister-fantastic",
       "blist": [
-        "mcu-cast-the-thor-films",
-        "mcu-cast-avengers-endgame",
-        "mcu-actor-the-incredible-hulk",
-        "contains-a-color",
-        "team-starjammers",
-        "creator-salvador-larroca",
-        "creator-werner-roth"
+        "mcu-cast-ant-man-and-the-wasp",
+        "mcu-cast-thor-love-and-thunder",
+        "mcu-cast-black-widow",
+        "creator-stan-lee",
+        "enemy-iron-man",
+        "ends-man",
+        "starts-silver"
       ],
       "retcon": [
-        "debut-invisible-woman",
-        "debut-spider-girl-mayday-parker",
-        "mcu-captain-america-brave-new-world",
-        "debut-killmonger",
-        "debut-venom",
-        "mcu-avengers-age-of-ultron"
+        "debut-iron-man",
+        "debut-speed",
+        "mcu-ant-man-and-the-wasp-quantumania",
+        "debut-mantis",
+        "debut-vision",
+        "mcu-ant-man"
       ]
     },
     "2026-11-29": {
-      "unmasked": "howard-the-duck",
+      "unmasked": "kraven-the-hunter",
       "blist": [
-        "mcu-cast-spider-man-brand-new-day",
-        "mcu-cast-hawkeye",
-        "mcu-actor-the-avengers",
-        "debut-1969",
-        "debut-in-captain-america",
-        "creator-bob-layton",
-        "team-imperial-guard"
+        "mcu-actor-captain-america-brave-new-world",
+        "mcu-cast-the-ant-man-films",
+        "mcu-cast-iron-man-2",
+        "starts-lady",
+        "starts-doctor",
+        "debut-1977",
+        "debut-1976"
       ],
       "retcon": [
-        "debut-captain-marvel-carol-danvers",
-        "mcu-spider-man-homecoming",
-        "debut-puppet-master",
-        "mcu-captain-america-civil-war",
-        "debut-us-agent",
-        "debut-mystique"
+        "debut-cyclops",
+        "debut-mystique",
+        "debut-rhino",
+        "mcu-echo",
+        "mcu-iron-man-2",
+        "debut-multiple-man"
       ]
     },
     "2026-11-30": {
-      "unmasked": "spider-woman-jessica-drew",
+      "unmasked": "venom",
       "blist": [
-        "mcu-actor-iron-man-2",
-        "mcu-actor-echo",
-        "mcu-cast-moon-knight",
-        "ends-boy",
-        "contains-a-word-from-outer-space",
-        "team-x-corps",
-        "team-advanced-idea-mechanics"
+        "mcu-cast-spider-man-homecoming",
+        "mcu-actor-guardians-of-the-galaxy-vol-2",
+        "mcu-actor-deadpool-wolverine",
+        "starts-white",
+        "starts-captain",
+        "team-acolytes",
+        "debut-1965"
       ],
       "retcon": [
-        "debut-ghost-rider-johnny-blaze",
-        "mcu-spider-man-brand-new-day",
-        "mcu-the-guardians-of-the-galaxy-holiday-special",
-        "debut-spider-ham",
-        "debut-laufey",
-        "debut-mbaku"
+        "debut-green-goblin",
+        "mcu-she-hulk-attorney-at-law",
+        "mcu-ironheart",
+        "debut-spider-woman-jessica-drew",
+        "debut-knull",
+        "debut-mister-sinister"
       ]
     },
     "2026-12-01": {
-      "unmasked": "professor-x",
+      "unmasked": "gamora",
       "blist": [
-        "mcu-cast-captain-america-the-first-avenger",
-        "mcu-actor-the-marvels",
-        "mcu-actor-guardians-of-the-galaxy-vol-3",
-        "debut-in-the-amazing-spider-man",
-        "team-the-fantastic-four",
-        "team-new-warriors",
-        "creator-gary-friedrich"
+        "mcu-actor-guardians-of-the-galaxy",
+        "mcu-cast-captain-marvel",
+        "mcu-actor-the-mcu-spider-man-films",
+        "starts-mister",
+        "contains-a-royal-or-noble-title",
+        "debut-in-strange-tales",
+        "team-weapon-x"
       ],
       "retcon": [
         "debut-peggy-carter",
-        "debut-alex-wilder",
-        "debut-nova-sam-alexander",
-        "mcu-ironheart",
-        "debut-namor",
-        "mcu-echo"
+        "mcu-iron-man-3",
+        "debut-onslaught",
+        "mcu-loki",
+        "debut-nightcrawler",
+        "debut-x-23"
       ]
     },
     "2026-12-02": {
-      "unmasked": "sunspot",
+      "unmasked": "silver-surfer",
       "blist": [
-        "mcu-actor-thor-love-and-thunder",
-        "mcu-disney-series",
-        "mcu-actor-avengers-endgame",
-        "creator-stan-lee",
-        "starts-lady",
-        "team-champions",
-        "team-morlocks"
-      ],
-      "retcon": [
-        "debut-storm",
-        "mcu-she-hulk-attorney-at-law",
-        "debut-sunspot",
-        "debut-nico-minoru",
-        "mcu-iron-man",
-        "debut-scorpion"
-      ]
-    },
-    "2026-12-03": {
-      "unmasked": "phil-coulson",
-      "blist": [
-        "mcu-cast-spider-man-no-way-home",
-        "mcu-cast-wandavision",
-        "mcu-actor-the-captain-america-films",
-        "contains-a-job-title",
-        "team-brotherhood-of-mutants",
-        "team-acolytes",
-        "creator-jonathan-hickman"
-      ],
-      "retcon": [
-        "debut-scarlet-witch",
-        "debut-mister-fantastic",
-        "mcu-spider-man-no-way-home",
-        "mcu-the-marvels",
-        "debut-thena",
-        "debut-daimon-hellstrom"
-      ]
-    },
-    "2026-12-04": {
-      "unmasked": "rocket-raccoon",
-      "blist": [
-        "mcu-cast-guardians-of-the-galaxy-vol-3",
-        "mcu-actor-secret-invasion",
-        "mcu-cast-avengers-age-of-ultron",
-        "both-x-men-new-mutants",
-        "creator-archie-goodwin",
-        "creator-scott-lobdell",
-        "team-x-factor-investigations"
-      ],
-      "retcon": [
-        "debut-daredevil",
-        "mcu-visionquest",
-        "debut-armor",
-        "debut-taskmaster",
-        "debut-hercules",
-        "debut-gorr-the-god-butcher"
-      ]
-    },
-    "2026-12-05": {
-      "unmasked": "stature",
-      "blist": [
-        "mcu-cast-eternals",
-        "mcu-cast-the-incredible-hulk",
-        "mcu-actor-ironheart",
-        "debut-in-daredevil",
-        "creator-marv-wolfman",
-        "team-savage-land-mutates",
-        "creator-herb-trimpe"
-      ],
-      "retcon": [
-        "debut-winter-soldier",
-        "debut-beta-ray-bill",
-        "debut-mysterio",
-        "debut-martinex",
-        "debut-captain-britain-brian-braddock",
-        "debut-rachel-summers"
-      ]
-    },
-    "2026-12-06": {
-      "unmasked": "wong",
-      "blist": [
-        "mcu-cast-the-avengers",
-        "mcu-actor-captain-america-civil-war",
-        "mcu-actor-the-fantastic-four-first-steps",
-        "species-mutant",
-        "creator-fabian-nicieza",
-        "species-fictional-robot",
-        "team-purifiers"
+        "mcu-cast-the-iron-man-films",
+        "mcu-actor-thor-the-dark-world",
+        "mcu-phase-one",
+        "starts-dark",
+        "contains-a-body-part",
+        "creator-len-wein",
+        "team-hellfire-club"
       ],
       "retcon": [
         "debut-doctor-octopus",
-        "debut-toro",
-        "debut-blackheart",
-        "debut-ares",
-        "debut-jessica-jones",
-        "debut-northstar"
+        "mcu-the-guardians-of-the-galaxy-holiday-special",
+        "debut-storm",
+        "debut-silver-surfer",
+        "debut-mojo",
+        "debut-spider-man-2099"
+      ]
+    },
+    "2026-12-03": {
+      "unmasked": "war-machine",
+      "blist": [
+        "mcu-cast-the-black-panther-films",
+        "mcu-cast-the-avengers-films",
+        "mcu-films-2020s",
+        "contains-a-weather-word",
+        "debut-in-tales-of-suspense",
+        "contains-an-animal",
+        "team-elders-of-the-universe"
+      ],
+      "retcon": [
+        "debut-spider-man-miles-morales",
+        "debut-mephisto",
+        "mcu-guardians-of-the-galaxy-vol-2",
+        "mcu-shang-chi-and-the-legend-of-the-ten-rings",
+        "debut-werewolf-by-night",
+        "debut-crystal"
+      ]
+    },
+    "2026-12-04": {
+      "unmasked": "cannonball",
+      "blist": [
+        "mcu-cast-thor-the-dark-world",
+        "mcu-cast-doctor-strange-in-the-multiverse-of-madness",
+        "mcu-actor-iron-man-2",
+        "contains-a-color",
+        "debut-in-daredevil",
+        "starts-red",
+        "ability-astral-projection"
+      ],
+      "retcon": [
+        "debut-red-skull",
+        "debut-tinkerer",
+        "debut-the-grandmaster",
+        "debut-elektra",
+        "mcu-eternals",
+        "mcu-the-punisher-one-last-kill"
+      ]
+    },
+    "2026-12-05": {
+      "unmasked": "nebula",
+      "blist": [
+        "mcu-actor-iron-man",
+        "mcu-cast-black-panther",
+        "mcu-cast-the-incredible-hulk",
+        "team-new-mutants",
+        "debut-1975",
+        "ends-boy",
+        "ends-master"
+      ],
+      "retcon": [
+        "debut-hawkeye-clint-barton",
+        "mcu-deadpool-wolverine",
+        "debut-sebastian-shaw",
+        "debut-ebony-maw",
+        "debut-mole-man",
+        "mcu-spider-man-no-way-home"
+      ]
+    },
+    "2026-12-06": {
+      "unmasked": "winter-soldier",
+      "blist": [
+        "mcu-cast-spider-man-brand-new-day",
+        "mcu-cast-the-avengers",
+        "mcu-actor-avengers-infinity-war",
+        "both-avengers-defenders",
+        "team-x-treme-sanctions-executive",
+        "ability-telekinesis",
+        "enemy-hulk"
+      ],
+      "retcon": [
+        "debut-star-lord",
+        "debut-okoye",
+        "debut-songbird",
+        "mcu-wandavision",
+        "mcu-captain-america-brave-new-world",
+        "debut-hawkeye-kate-bishop"
       ]
     },
     "2026-12-07": {
-      "unmasked": "juggernaut",
+      "unmasked": "galactus",
       "blist": [
-        "mcu-cast-the-guardians-of-the-galaxy-films",
-        "mcu-cast-daredevil-born-again",
-        "mcu-cast-thor",
-        "debut-1961",
-        "team-x-men",
-        "creator-neal-adams",
-        "species-shiar"
+        "mcu-cast-spider-man-far-from-home",
+        "mcu-cast-the-doctor-strange-films",
+        "mcu-cast-avengers-endgame",
+        "team-young-avengers",
+        "both-x-men-brotherhood-of-mutants",
+        "creator-joe-simon",
+        "starts-king"
       ],
       "retcon": [
-        "debut-rocket-raccoon",
-        "debut-boomerang",
-        "debut-the-leader",
-        "debut-vulture",
-        "debut-venus",
+        "debut-black-panther",
+        "debut-wolverine",
+        "debut-yelena-belova",
+        "mcu-moon-knight",
+        "mcu-daredevil-born-again",
         "debut-pixie"
       ]
     },
     "2026-12-08": {
-      "unmasked": "ronan-the-accuser",
+      "unmasked": "professor-x",
       "blist": [
-        "mcu-actor-iron-man-3",
-        "mcu-actor-the-mcu-spider-man-films",
-        "mcu-cast-ant-man",
-        "enemy-x-men",
-        "debut-1964",
-        "enemy-hulk",
-        "species-fictional-android"
+        "mcu-cast-eternals",
+        "mcu-actor-guardians-of-the-galaxy-vol-3",
+        "debut-in-x-men",
+        "team-secret-avengers",
+        "team-sinister-six",
+        "debut-in-the-amazing-spider-man",
+        "mcu-cast-moon-knight"
       ],
       "retcon": [
-        "debut-silver-surfer",
-        "debut-werewolf-by-night",
-        "debut-mobius-m-mobius",
-        "debut-spider-man-2099",
-        "debut-misty-knight",
-        "debut-stature"
+        "debut-galactus",
+        "debut-deadpool",
+        "debut-sunfire",
+        "mcu-secret-invasion",
+        "debut-ant-man-hank-pym",
+        "mcu-iron-man"
       ]
     },
     "2026-12-09": {
       "unmasked": "ant-man-scott-lang",
       "blist": [
-        "mcu-cast-the-iron-man-films",
-        "mcu-actor-daredevil-born-again",
-        "mcu-actor-ant-man",
-        "debut-in-journey-into-mystery",
-        "starts-doctor",
-        "creator-frank-miller",
-        "both-x-men-hellfire-club"
+        "mcu-actor-avengers-age-of-ultron",
+        "mcu-cast-the-mcu-spider-man-films",
+        "debut-1966",
+        "enemy-captain-america",
+        "team-brotherhood-of-mutants",
+        "team-dark-avengers",
+        "mcu-cast-agatha-all-along"
       ],
       "retcon": [
-        "debut-blade",
-        "debut-heimdall",
-        "debut-black-widow",
-        "debut-stegron",
-        "debut-okoye",
-        "debut-frigga"
+        "debut-thanos",
+        "debut-wonder-man",
+        "mcu-doctor-strange",
+        "debut-gorr-the-god-butcher",
+        "mcu-the-marvels",
+        "debut-paladin"
       ]
     },
     "2026-12-10": {
-      "unmasked": "man-thing",
+      "unmasked": "odin",
       "blist": [
-        "mcu-actor-thunderbolts",
-        "mcu-cast-the-avengers-films",
-        "mcu-actor-the-ant-man-films",
-        "enemy-avengers",
-        "starts-captain",
-        "creator-gene-colan",
-        "creator-ron-frenz"
+        "mcu-actor-the-avengers",
+        "mcu-actor-the-iron-man-films",
+        "team-future-foundation",
+        "debut-1962",
+        "both-x-men-x-force",
+        "enemy-daredevil",
+        "mcu-cast-daredevil-born-again"
       ],
       "retcon": [
-        "debut-spider-man-peter-parker",
-        "debut-mojo",
-        "debut-sunfire",
-        "debut-ironheart",
-        "debut-hogun",
-        "debut-montana"
+        "debut-jean-grey",
+        "debut-ant-man-scott-lang",
+        "mcu-captain-marvel",
+        "mcu-captain-america-the-winter-soldier",
+        "debut-gertrude-yorkes",
+        "debut-falcon-sam-wilson"
       ]
     },
     "2026-12-11": {
-      "unmasked": "spider-ham",
+      "unmasked": "jubilee",
       "blist": [
-        "mcu-actor-black-panther",
-        "mcu-actor-eternals",
-        "mcu-cast-thor-ragnarok",
-        "starts-death",
-        "species-cyborg-in-a-work-of-fiction",
-        "occupation-ruler",
-        "enemy-new-warriors"
+        "mcu-cast-deadpool-wolverine",
+        "debut-1960s",
+        "enemy-thor",
+        "team-the-fantastic-four",
+        "team-avengers",
+        "mcu-cast-visionquest",
+        "mcu-cast-loki"
       ],
       "retcon": [
-        "debut-professor-x",
-        "debut-batroc-the-leaper",
-        "debut-prowler-hobie-brown",
-        "debut-cypher",
-        "debut-magik",
-        "debut-america-chavez"
+        "debut-war-machine",
+        "debut-adam-warlock",
+        "debut-kurse",
+        "mcu-captain-america-civil-war",
+        "mcu-the-falcon-and-the-winter-soldier",
+        "debut-ikaris"
       ]
     },
     "2026-12-12": {
-      "unmasked": "strong-guy",
+      "unmasked": "dagger",
       "blist": [
-        "mcu-cast-secret-invasion",
-        "mcu-cast-doctor-strange",
-        "mcu-cast-captain-marvel",
-        "team-x-force",
-        "enemy-excalibur",
-        "creator-grant-morrison",
-        "creator-pepe-larraz"
+        "mcu-actor-spider-man-homecoming",
+        "enemy-doctor-doom",
+        "debut-in-avengers",
+        "team-cabal",
+        "both-avengers-the-fantastic-four",
+        "mcu-cast-hawkeye",
+        "mcu-cast-secret-invasion"
       ],
       "retcon": [
-        "debut-cyclops",
-        "debut-angela",
-        "debut-major-victory",
-        "debut-sersi",
         "debut-odin",
-        "debut-spider-girl-anya-corazon"
+        "debut-captain-britain-brian-braddock",
+        "debut-venom",
+        "mcu-doctor-strange-in-the-multiverse-of-madness",
+        "debut-ultron",
+        "mcu-guardians-of-the-galaxy"
       ]
     },
     "2026-12-13": {
-      "unmasked": "gilgamesh",
+      "unmasked": "crossbones",
       "blist": [
-        "mcu-actor-wandavision",
-        "mcu-cast-captain-america-brave-new-world",
-        "mcu-cast-thor-love-and-thunder",
-        "both-x-men-x-factor",
-        "creator-gerry-conway",
-        "debut-1981",
-        "creator-j-m-dematteis"
+        "mcu-actor-doctor-strange-in-the-multiverse-of-madness",
+        "team-heroes-for-hire",
+        "debut-in-fantastic-four",
+        "team-shield",
+        "debut-1970s",
+        "mcu-cast-ironheart",
+        "mcu-cast-wonder-man"
       ],
       "retcon": [
-        "debut-black-panther",
-        "debut-triton",
-        "debut-black-cat",
-        "debut-tarantula",
-        "debut-elixir",
-        "debut-constrictor"
+        "debut-professor-x",
+        "debut-namor",
+        "mcu-black-panther-wakanda-forever",
+        "debut-corsair",
+        "debut-cable",
+        "mcu-captain-america-the-first-avenger"
       ]
     },
     "2026-12-14": {
-      "unmasked": "okoye",
+      "unmasked": "thor",
       "blist": [
-        "mcu-actor-moon-knight",
-        "mcu-actor-spider-man-brand-new-day",
-        "mcu-actor-doctor-strange",
-        "contains-a-weather-word",
-        "creators-stan-lee-don-heck",
-        "creators-roy-thomas-john-buscema",
-        "team-alpha-flight"
+        "mcu-actor-the-black-panther-films",
+        "mcu-actor-the-captain-america-films",
+        "debut-in-journey-into-mystery",
+        "debut-1964",
+        "team-illuminati",
+        "team-thunderbolts",
+        "mcu-cast-wandavision"
       ],
       "retcon": [
-        "debut-hulk",
-        "debut-silver-sable",
-        "debut-overdrive",
-        "debut-husk",
-        "debut-gladiator-melvin-potter",
-        "debut-black-bolt"
+        "debut-nick-fury",
+        "debut-mirage",
+        "debut-colossus",
+        "debut-blackheart",
+        "mcu-thor",
+        "mcu-avengers-infinity-war"
       ]
     },
     "2026-12-15": {
-      "unmasked": "domino",
+      "unmasked": "blade",
       "blist": [
-        "mcu-actor-thor-ragnarok",
-        "mcu-actor-she-hulk-attorney-at-law",
-        "mcu-cast-spider-man-far-from-home",
-        "starts-iron",
-        "starts-red",
-        "creator-george-tuska",
-        "ability-precognition"
+        "mcu-actor-ant-man-and-the-wasp-quantumania",
+        "mcu-cast-avengers-age-of-ultron",
+        "creator-jack-kirby",
+        "team-hydra",
+        "team-guardians-of-the-galaxy",
+        "species-eternal",
+        "mcu-cast-echo"
       ],
       "retcon": [
-        "debut-drax-the-destroyer",
-        "debut-hawkeye-clint-barton",
-        "debut-arnim-zola",
-        "debut-whiplash",
-        "debut-yon-rogg",
-        "debut-phyla-vell"
+        "debut-scarlet-witch",
+        "debut-spot",
+        "mcu-avengers-age-of-ultron",
+        "mcu-hawkeye",
+        "debut-arishem",
+        "debut-america-chavez"
       ]
     },
     "2026-12-16": {
-      "unmasked": "corvus-glaive",
+      "unmasked": "peggy-carter",
       "blist": [
-        "mcu-actor-agatha-all-along",
-        "mcu-actor-guardians-of-the-galaxy-vol-2",
-        "mcu-actor-the-falcon-and-the-winter-soldier",
-        "team-x-men-1970s",
-        "species-mutant-1980s",
-        "species-cosmic-entity",
-        "species-symbiote"
+        "mcu-cast-the-guardians-of-the-galaxy-films",
+        "mcu-actor-ant-man",
+        "debut-1980s",
+        "team-masters-of-evil",
+        "team-x-men",
+        "species-fictional-deity",
+        "mcu-cast-the-falcon-and-the-winter-soldier"
       ],
       "retcon": [
-        "debut-falcon-sam-wilson",
-        "debut-mad-thinker",
-        "debut-druig",
-        "debut-she-hulk",
-        "debut-stryfe",
-        "debut-polaris"
+        "mcu-the-fantastic-four-first-steps",
+        "debut-killmonger",
+        "debut-sunspot",
+        "debut-beetle-abner-jenkins",
+        "debut-black-cat",
+        "mcu-ms-marvel"
       ]
     },
     "2026-12-17": {
-      "unmasked": "spider-gwen",
+      "unmasked": "captain-marvel-carol-danvers",
       "blist": [
-        "mcu-actor-shang-chi-and-the-legend-of-the-ten-rings",
-        "mcu-actor-spider-man-no-way-home",
-        "mcu-actor-black-panther-wakanda-forever",
-        "starts-professor",
-        "team-x-men-1980s",
-        "ability-reality-warping",
-        "occupation-herald"
+        "mcu-cast-guardians-of-the-galaxy-vol-3",
+        "mcu-actor-spider-man-far-from-home",
+        "creators-stan-lee-steve-ditko",
+        "both-x-men-x-factor",
+        "team-excalibur",
+        "ability-healing-factor",
+        "mcu-cast-she-hulk-attorney-at-law"
       ],
       "retcon": [
-        "debut-punisher",
-        "debut-gorgon",
-        "debut-mephisto",
-        "debut-callisto",
-        "debut-luke-cage",
-        "debut-hydro-man"
+        "debut-thor",
+        "mcu-the-incredible-hulk",
+        "debut-kingo",
+        "debut-morbius",
+        "debut-cloak",
+        "mcu-wonder-man"
       ]
     },
     "2026-12-18": {
-      "unmasked": "jessica-jones",
+      "unmasked": "bullseye",
       "blist": [
-        "mcu-cast-iron-man-2",
-        "mcu-cast-captain-america-the-winter-soldier",
-        "mcu-actor-deadpool-wolverine",
-        "debut-1980",
-        "creator-bill-mantlo",
-        "team-horsemen-of-apocalypse",
-        "species-skrull"
+        "mcu-cast-the-marvels",
+        "team-midnight-sons",
+        "enemy-thanos",
+        "enemy-spider-man",
+        "team-x-force",
+        "mcu-cast-ms-marvel",
+        "mcu-cast-the-guardians-of-the-galaxy-holiday-special"
       ],
       "retcon": [
-        "debut-vision",
-        "debut-nick-fury",
-        "debut-dagger",
-        "debut-shanna-the-she-devil",
-        "debut-havok",
-        "debut-skaar"
+        "debut-ghost-rider-johnny-blaze",
+        "debut-rogue",
+        "mcu-ant-man-and-the-wasp",
+        "debut-purple-man",
+        "mcu-visionquest",
+        "debut-yon-rogg"
       ]
     },
     "2026-12-19": {
-      "unmasked": "banshee",
+      "unmasked": "wonder-man",
       "blist": [
-        "mcu-actor-captain-america-the-winter-soldier",
-        "mcu-actor-avengers-age-of-ultron",
-        "mcu-cast-the-falcon-and-the-winter-soldier",
-        "occupation-crime-boss",
-        "enemy-the-fantastic-four",
-        "debut-1983",
-        "both-hellions-new-mutants"
+        "mcu-actor-thor",
+        "mcu-actor-doctor-strange",
+        "mcu-actor-black-panther-wakanda-forever",
+        "team-defenders",
+        "creator-steve-ditko",
+        "contains-a-military-rank",
+        "ends-girl"
       ],
       "retcon": [
-        "debut-gamora",
-        "debut-doctor-voodoo",
-        "debut-blob",
-        "debut-maximus",
-        "debut-doctor-strange",
-        "debut-patriot-eli-bradley"
+        "debut-spider-man-peter-parker",
+        "debut-spiral",
+        "debut-corvus-glaive",
+        "mcu-guardians-of-the-galaxy-vol-3",
+        "mcu-spider-man-brand-new-day",
+        "debut-dracula"
       ]
     },
     "2026-12-20": {
-      "unmasked": "sersi",
+      "unmasked": "beast",
       "blist": [
-        "mcu-actor-the-guardians-of-the-galaxy-holiday-special",
-        "mcu-cast-she-hulk-attorney-at-law",
-        "starts-agent",
-        "ends-woman",
-        "creator-dave-cockrum",
-        "creators-roy-thomas-werner-roth",
-        "team-lethal-legion"
+        "mcu-cast-thor-ragnarok",
+        "mcu-actor-thor-love-and-thunder",
+        "mcu-cast-doctor-strange",
+        "enemy-avengers",
+        "both-excalibur-x-men",
+        "creator-don-heck",
+        "debut-1967"
       ],
       "retcon": [
-        "debut-galactus",
-        "debut-pip-the-troll",
-        "debut-phastos",
-        "debut-quentin-quire",
-        "debut-phil-coulson",
-        "debut-blastaar"
+        "debut-punisher",
+        "debut-grim-reaper",
+        "debut-stature",
+        "mcu-thunderbolts",
+        "debut-wasp-janet-van-dyne",
+        "mcu-spider-man-homecoming"
       ]
     },
     "2026-12-21": {
-      "unmasked": "blob",
+      "unmasked": "deadpool",
       "blist": [
-        "mcu-actor-black-widow",
-        "mcu-cast-ant-man-and-the-wasp",
-        "mcu-actor-captain-america-brave-new-world",
-        "species-fictional-deity",
-        "creator-chris-claremont-1980s",
-        "debut-1986",
-        "ability-pyrokinesis"
+        "mcu-actor-avengers-endgame",
+        "mcu-actor-shang-chi-and-the-legend-of-the-ten-rings",
+        "mcu-actor-the-incredible-hulk",
+        "debut-1963",
+        "team-x-factor",
+        "team-avengers-1960s",
+        "debut-in-captain-america-comics"
       ],
       "retcon": [
-        "debut-thing",
-        "debut-echo",
-        "debut-lorelei",
-        "debut-warlock-technarch",
-        "debut-trapster",
-        "debut-typhoid-mary"
+        "debut-doctor-strange",
+        "mcu-spider-man-far-from-home",
+        "debut-psycho-man",
+        "debut-arnim-zola",
+        "mcu-thor-the-dark-world",
+        "debut-malekith"
       ]
     },
     "2026-12-22": {
-      "unmasked": "apocalypse",
+      "unmasked": "magneto",
       "blist": [
-        "mcu-cast-avengers-infinity-war",
-        "mcu-cast-spider-man-homecoming",
-        "starts-king",
-        "team-x-factor",
-        "starts-silver",
-        "occupation-geneticist",
-        "debut-1982"
+        "mcu-cast-guardians-of-the-galaxy-vol-2",
+        "mcu-actor-the-marvels",
+        "mcu-cast-captain-america-brave-new-world",
+        "team-frightful-four",
+        "species-mutate",
+        "ability-teleportation",
+        "starts-agent"
       ],
       "retcon": [
-        "debut-wolverine",
-        "debut-destiny",
-        "debut-gertrude-yorkes",
-        "debut-balder",
-        "debut-absorbing-man",
-        "debut-carnage"
+        "debut-captain-marvel-carol-danvers",
+        "mcu-black-widow",
+        "debut-laufey",
+        "debut-kitty-pryde",
+        "mcu-the-avengers",
+        "debut-howard-the-duck"
       ]
     },
     "2026-12-23": {
-      "unmasked": "mobius-m-mobius",
+      "unmasked": "punisher",
       "blist": [
-        "starts-blue",
-        "mcu-cast-the-black-panther-films",
-        "mcu-cast-thor-the-dark-world",
-        "ends-king",
-        "team-weapon-x",
-        "creator-bill-everett",
-        "team-upstarts"
+        "mcu-actor-captain-america-the-winter-soldier",
+        "mcu-cast-the-fantastic-four-first-steps",
+        "mcu-cast-iron-man",
+        "team-avengers-1970s",
+        "creators-stan-lee-jack-kirby",
+        "enemy-x-men",
+        "starts-kid"
       ],
       "retcon": [
-        "debut-ultron",
-        "debut-mister-negative",
-        "debut-living-laser",
-        "debut-fantomex",
-        "debut-adam-warlock",
-        "debut-magus"
+        "debut-captain-america",
+        "debut-us-agent",
+        "mcu-thor-love-and-thunder",
+        "mcu-thor-ragnarok",
+        "debut-ka-zar",
+        "debut-doctor-doom"
       ]
     },
     "2026-12-24": {
-      "unmasked": "thing",
+      "unmasked": "falcon-sam-wilson",
       "blist": [
-        "team-guardians-of-the-galaxy",
-        "debut-in-thor",
+        "mcu-cast-shang-chi-and-the-legend-of-the-ten-rings",
+        "mcu-disney-series",
         "mcu-actor-the-avengers-films",
-        "mcu-actor-spider-man-far-from-home",
-        "enemy-thanos",
-        "enemy-punisher",
-        "species-inhuman"
+        "species-asgardian",
+        "species-mutant",
+        "ability-telepathy",
+        "starts-black"
       ],
       "retcon": [
-        "debut-shuri",
-        "debut-graviton",
-        "debut-jack-flag",
-        "debut-ebony-maw",
-        "debut-rockslide",
-        "debut-tombstone"
+        "debut-cyclops",
+        "debut-nebula",
+        "mcu-black-panther",
+        "mcu-ant-man",
+        "debut-daimon-hellstrom",
+        "debut-kingpin"
       ]
     },
     "2026-12-25": {
-      "unmasked": "shang-chi",
+      "unmasked": "yelena-belova",
       "blist": [
-        "starts-kid",
-        "both-x-men-x-force",
-        "mcu-films-2020s",
-        "mcu-actor-the-doctor-strange-films",
-        "debut-in-amazing-fantasy",
-        "occupation-astronaut",
-        "creator-mark-gruenwald"
+        "mcu-cast-black-panther-wakanda-forever",
+        "mcu-cast-thor",
+        "mcu-actor-captain-america-civil-war",
+        "species-gamma-mutate",
+        "enemy-spider-man-1960s",
+        "ends-king",
+        "contains-a-weapon"
       ],
       "retcon": [
-        "debut-pepper-potts",
-        "debut-super-adaptoid",
-        "debut-enchantress",
-        "debut-wolfsbane",
-        "debut-thane",
-        "debut-hannibal-king"
+        "debut-invisible-woman",
+        "mcu-agatha-all-along",
+        "mcu-iron-man-2",
+        "debut-iron-fist",
+        "debut-graviton",
+        "debut-scorpion"
       ]
     },
     "2026-12-26": {
-      "unmasked": "nico-minoru",
+      "unmasked": "wolfsbane",
       "blist": [
-        "species-eternal",
-        "enemy-daredevil",
-        "starts-mister",
-        "debut-in-captain-america-comics",
-        "both-thunderbolts-masters-of-evil",
-        "creator-george-perez",
-        "occupation-physician"
+        "mcu-actor-captain-america-the-first-avenger",
+        "mcu-cast-spider-man-no-way-home",
+        "mcu-actor-thor-ragnarok",
+        "enemy-iron-man",
+        "creator-stan-lee",
+        "contains-a-word-from-outer-space",
+        "starts-blue"
       ],
       "retcon": [
-        "debut-green-goblin",
-        "debut-arishem",
-        "debut-alex-power",
-        "debut-moira-mactaggert",
-        "debut-kingpin",
-        "debut-colleen-wing"
+        "debut-thing",
+        "mcu-werewolf-by-night",
+        "debut-winter-soldier",
+        "mcu-avengers-endgame",
+        "debut-stryfe",
+        "debut-captain-mar-vell"
       ]
     },
     "2026-12-27": {
-      "unmasked": "dum-dum-dugan",
+      "unmasked": "sharon-carter",
       "blist": [
-        "mcu-actor-ant-man-and-the-wasp-quantumania",
-        "creator-david-michelinie",
-        "ability-shapeshifting",
-        "mcu-cast-the-captain-america-films",
-        "debut-1984",
-        "ability-astral-projection",
-        "species-fictional-demon"
+        "mcu-actor-ant-man-and-the-wasp",
+        "mcu-actor-iron-man-3",
+        "mcu-actor-spider-man-brand-new-day",
+        "starts-lady",
+        "starts-death",
+        "ability-reality-warping",
+        "occupation-aircraft-pilot"
       ],
       "retcon": [
-        "debut-juggernaut",
-        "debut-black-mariah",
-        "debut-ikaris",
-        "debut-uatu-the-watcher",
-        "debut-stick",
-        "debut-agent-venom"
+        "debut-daredevil",
+        "debut-magus",
+        "debut-wiccan",
+        "debut-human-torch-johnny-storm",
+        "mcu-loki",
+        "mcu-echo"
       ]
     },
     "2026-12-28": {
-      "unmasked": "green-goblin",
+      "unmasked": "captain-america",
       "blist": [
-        "species-gamma-mutate",
-        "ability-telepathy",
-        "occupation-circus-performer",
-        "enemy-iron-man",
-        "starts-white",
-        "team-exiles",
-        "creators-louise-simonson-june-brigman"
+        "mcu-actor-the-fantastic-four-first-steps",
+        "mcu-cast-the-ant-man-films",
+        "mcu-actor-black-widow",
+        "team-advanced-idea-mechanics",
+        "starts-captain",
+        "debut-1973",
+        "starts-silver"
       ],
       "retcon": [
-        "debut-mandarin",
-        "debut-apocalypse",
-        "debut-mister-hyde",
-        "debut-viper-ophelia-sarkissian",
-        "debut-karolina-dean",
-        "debut-spot"
+        "debut-silver-surfer",
+        "mcu-guardians-of-the-galaxy-vol-2",
+        "mcu-ant-man-and-the-wasp-quantumania",
+        "debut-phil-coulson",
+        "debut-dagger",
+        "debut-proxima-midnight"
       ]
     },
     "2026-12-29": {
-      "unmasked": "mephisto",
+      "unmasked": "ultron",
       "blist": [
-        "team-avengers-1960s",
-        "occupation-teacher",
-        "team-x-men-1960s",
-        "contains-a-weapon",
-        "mcu-actor-captain-marvel",
-        "team-x-treme-sanctions-executive",
-        "creator-june-brigman"
+        "mcu-actor-eternals",
+        "mcu-cast-thunderbolts",
+        "mcu-cast-the-thor-films",
+        "team-weapon-x",
+        "starts-white",
+        "contains-a-metal",
+        "debut-in-strange-tales"
       ],
       "retcon": [
-        "debut-cloak",
-        "debut-prodigy-david-alleyne",
-        "debut-executioner",
-        "debut-nakia",
-        "debut-omega-red",
-        "debut-nighthawk-kyle-richmond"
+        "mcu-iron-man-3",
+        "debut-klaw",
+        "mcu-the-guardians-of-the-galaxy-holiday-special",
+        "debut-doctor-octopus",
+        "debut-hercules",
+        "debut-longshot"
       ]
     },
     "2026-12-30": {
-      "unmasked": "the-collector",
+      "unmasked": "jean-grey",
       "blist": [
-        "team-avengers-1980s",
-        "debut-1977",
-        "mcu-cast-guardians-of-the-galaxy-vol-2",
-        "species-mutant-1970s",
-        "ends-man",
-        "enemy-kingpin",
-        "team-hellions"
+        "mcu-films-2010s",
+        "mcu-phase-three",
+        "mcu-actor-guardians-of-the-galaxy",
+        "starts-dark",
+        "creator-chris-claremont",
+        "team-marauders",
+        "ends-man"
       ],
       "retcon": [
-        "debut-the-collector",
-        "debut-forge",
-        "debut-medusa",
-        "debut-longshot",
-        "debut-wasp-janet-van-dyne",
-        "debut-white-tiger-hector-ayala"
+        "debut-moon-knight",
+        "mcu-eternals",
+        "debut-mole-man",
+        "mcu-the-punisher-one-last-kill",
+        "debut-bastion",
+        "debut-high-evolutionary"
       ]
     },
     "2026-12-31": {
-      "unmasked": "vision",
+      "unmasked": "pepper-potts",
       "blist": [
-        "mcu-cast-shang-chi-and-the-legend-of-the-ten-rings",
-        "species-asgardian",
-        "occupation-contract-killer",
-        "enemy-spider-man",
-        "mcu-cast-ant-man-and-the-wasp-quantumania",
-        "debut-in-incredible-hulk",
-        "creators-roy-thomas-neal-adams"
+        "mcu-actor-thunderbolts",
+        "mcu-cast-captain-america-the-winter-soldier",
+        "mcu-films-2020s",
+        "ends-woman",
+        "team-acolytes",
+        "debut-1965",
+        "contains-an-animal"
       ],
       "retcon": [
-        "debut-baron-mordo",
-        "debut-howard-the-duck",
-        "debut-herbie",
-        "debut-ronan-the-accuser",
-        "debut-deathbird",
-        "debut-strong-guy"
+        "mcu-captain-america-brave-new-world",
+        "debut-mister-negative",
+        "debut-wolfsbane",
+        "mcu-she-hulk-attorney-at-law",
+        "debut-uatu-the-watcher",
+        "debut-okoye"
       ]
     },
     "2027-01-01": {
-      "unmasked": "trapster",
+      "unmasked": "hela",
       "blist": [
-        "creator-john-byrne",
-        "ability-telekinesis",
-        "mcu-cast-the-marvels",
-        "enemy-doctor-doom",
-        "enemy-wolverine",
-        "debut-1978",
-        "ability-technopathy"
+        "mcu-actor-guardians-of-the-galaxy-vol-2",
+        "mcu-actor-the-mcu-spider-man-films",
+        "mcu-actor-captain-marvel",
+        "debut-in-daredevil",
+        "contains-a-weather-word",
+        "starts-mister",
+        "debut-1968"
       ],
       "retcon": [
-        "debut-captain-mar-vell",
-        "debut-the-grandmaster",
-        "debut-exodus",
-        "debut-aurora",
-        "debut-morlun",
-        "debut-hyperion-marcus-milton"
+        "debut-pepper-potts",
+        "debut-nova-frankie-raye",
+        "mcu-moon-knight",
+        "mcu-ironheart",
+        "debut-cannonball",
+        "debut-ebony-maw"
       ]
     },
     "2027-01-02": {
-      "unmasked": "mad-thinker",
+      "unmasked": "kingpin",
       "blist": [
-        "mcu-cast-ms-marvel",
-        "ability-teleportation",
-        "contains-a-royal-or-noble-title",
-        "mcu-cast-the-ant-man-films",
-        "creator-chris-claremont-1970s",
-        "creator-louise-simonson",
-        "species-vampire-in-marvel-universe"
+        "mcu-cast-captain-america-the-first-avenger",
+        "mcu-cast-captain-marvel",
+        "mcu-actor-iron-man",
+        "contains-a-color",
+        "ends-master",
+        "creator-len-wein",
+        "enemy-excalibur"
       ],
       "retcon": [
-        "debut-electro",
-        "debut-corsair",
-        "debut-avalanche",
-        "debut-mole-man",
-        "debut-ant-man-hank-pym",
-        "debut-nightcrawler"
+        "debut-hawkeye-clint-barton",
+        "mcu-deadpool-wolverine",
+        "debut-nakia",
+        "debut-star-lord",
+        "mcu-shang-chi-and-the-legend-of-the-ten-rings",
+        "debut-mbaku"
       ]
     },
     "2027-01-03": {
-      "unmasked": "toad",
+      "unmasked": "mole-man",
       "blist": [
-        "mcu-cast-ironheart",
-        "team-illuminati",
-        "occupation-reporter",
-        "starts-black",
-        "species-kree",
-        "species-fictional-clone",
-        "team-maggia"
+        "mcu-cast-iron-man-2",
+        "mcu-cast-black-widow",
+        "mcu-cast-thor-the-dark-world",
+        "both-avengers-defenders",
+        "contains-a-royal-or-noble-title",
+        "debut-1977",
+        "team-x-treme-sanctions-executive"
       ],
       "retcon": [
-        "debut-the-ancient-one",
-        "debut-thundra",
-        "debut-ghost-iron-man-villain",
-        "debut-iron-monger",
-        "debut-rhino",
-        "debut-katie-power"
+        "debut-groot",
+        "debut-mystique",
+        "debut-man-thing",
+        "debut-korath-the-pursuer",
+        "mcu-the-marvels",
+        "mcu-doctor-strange"
       ]
     },
     "2027-01-04": {
-      "unmasked": "human-torch-johnny-storm",
+      "unmasked": "green-goblin",
       "blist": [
-        "debut-in-fantastic-four",
-        "contains-a-metal",
-        "enemy-spider-man-1960s",
-        "occupation-mercenary",
-        "team-masters-of-evil",
-        "ability-healing-factor",
-        "creator-steve-englehart"
+        "mcu-cast-ant-man",
+        "mcu-actor-spider-man-no-way-home",
+        "mcu-cast-avengers-infinity-war",
+        "team-young-avengers",
+        "both-x-men-brotherhood-of-mutants",
+        "starts-professor",
+        "contains-a-body-part"
       ],
       "retcon": [
-        "debut-high-evolutionary",
-        "debut-shuma-gorath",
-        "debut-rick-jones",
-        "debut-whirlwind",
-        "debut-kitty-pryde",
-        "debut-siryn"
+        "mcu-secret-invasion",
+        "debut-morlun",
+        "mcu-captain-america-the-winter-soldier",
+        "mcu-captain-marvel",
+        "debut-deadpool",
+        "debut-blade"
       ]
     },
     "2027-01-05": {
-      "unmasked": "dormammu",
+      "unmasked": "human-torch-johnny-storm",
       "blist": [
-        "occupation-aircraft-pilot",
-        "species-mutant-1960s",
-        "enemy-captain-america",
-        "debut-1967",
-        "mcu-cast-iron-man",
-        "enemy-thor",
-        "team-avengers-1970s"
+        "mcu-cast-the-incredible-hulk",
+        "mcu-cast-black-panther",
+        "debut-in-the-amazing-spider-man",
+        "team-sinister-six",
+        "team-secret-avengers",
+        "debut-in-x-men",
+        "mcu-cast-moon-knight"
       ],
       "retcon": [
-        "debut-dormammu",
-        "debut-colossus",
-        "debut-cosmo-the-spacedog",
-        "debut-amadeus-cho",
-        "debut-lady-deathstrike",
-        "debut-nightmare"
+        "debut-hulk",
+        "debut-fantomex",
+        "debut-galactus",
+        "mcu-wandavision",
+        "mcu-captain-america-civil-war",
+        "debut-carnage"
       ]
     },
     "2027-01-06": {
-      "unmasked": "iceman",
+      "unmasked": "cyclops",
       "blist": [
-        "ends-master",
-        "creator-len-wein",
-        "mcu-actor-iron-man",
-        "species-mutate",
-        "ability-intangibility",
-        "debut-1980s",
-        "occupation-private-investigator"
+        "mcu-cast-ant-man-and-the-wasp",
+        "mcu-cast-spider-man-brand-new-day",
+        "team-dark-avengers",
+        "debut-1966",
+        "team-brotherhood-of-mutants",
+        "enemy-captain-america",
+        "mcu-cast-agatha-all-along"
       ],
       "retcon": [
-        "debut-valkyrie-brunnhilde",
-        "debut-iceman",
-        "debut-beyonder",
-        "debut-sprite",
-        "debut-sebastian-shaw",
-        "debut-clea"
-      ]
-    },
-    "2027-01-07": {
-      "unmasked": "morbius",
-      "retcon": [
-        "debut-elektra",
-        "debut-lizard",
-        "debut-chthon",
-        "debut-cassandra-nova",
-        "debut-klaw",
-        "debut-chase-stein"
-      ]
-    },
-    "2027-01-08": {
-      "unmasked": "thena",
-      "retcon": [
-        "debut-yondu",
-        "debut-gwenpool",
-        "debut-malekith",
-        "debut-swarm",
-        "debut-red-guardian",
-        "debut-jack-olantern"
-      ]
-    },
-    "2027-01-09": {
-      "unmasked": "black-bolt",
-      "retcon": [
-        "debut-emma-frost",
-        "debut-nebula",
-        "debut-mirage",
-        "debut-arcade",
-        "debut-silvermane",
-        "debut-jocasta"
-      ]
-    },
-    "2027-01-10": {
-      "unmasked": "emma-frost",
-      "retcon": [
-        "debut-justin-hammer",
-        "debut-moonstone",
-        "debut-toad",
-        "debut-karnak",
-        "debut-supergiant",
-        "debut-death"
-      ]
-    },
-    "2027-01-11": {
-      "unmasked": "doctor-strange",
-      "retcon": [
-        "debut-talos",
-        "debut-yelena-belova",
-        "debut-thunderball",
-        "debut-mastermind-jason-wyngarde",
-        "debut-firestar",
-        "debut-moon-girl"
-      ]
-    },
-    "2027-01-12": {
-      "unmasked": "electro",
-      "retcon": [
-        "debut-hela",
-        "debut-tigra",
-        "debut-puma",
-        "debut-eternity",
-        "debut-korath-the-pursuer",
-        "debut-knull"
-      ]
-    },
-    "2027-01-13": {
-      "unmasked": "jubilee",
-      "retcon": [
-        "debut-kang-the-conqueror",
-        "debut-spider-gwen",
-        "debut-nova-richard-rider",
-        "debut-big-wheel",
-        "debut-battlestar",
-        "debut-calypso"
-      ]
-    },
-    "2027-01-14": {
-      "unmasked": "arnim-zola",
-      "retcon": [
-        "debut-man-thing",
-        "debut-dragon-man",
-        "debut-baron-strucker",
-        "debut-speed",
-        "debut-iron-fist",
-        "debut-egghead"
-      ]
-    },
-    "2027-01-15": {
-      "unmasked": "karolina-dean",
-      "retcon": [
-        "debut-mantis",
-        "debut-mercury",
-        "debut-quicksilver",
-        "debut-machine-man",
-        "debut-ms-marvel-kamala-khan",
-        "debut-firelord"
-      ]
-    },
-    "2027-01-16": {
-      "unmasked": "warpath",
-      "retcon": [
-        "debut-sabretooth",
-        "debut-atlas-erik-josten",
-        "debut-psycho-man",
-        "debut-cannonball",
-        "debut-namora",
-        "debut-wizard"
-      ]
-    },
-    "2027-01-17": {
-      "unmasked": "cannonball",
-      "retcon": [
-        "debut-rogue",
-        "debut-shocker",
-        "debut-beast",
-        "debut-ka-zar",
-        "debut-jennifer-kale",
-        "debut-satana"
-      ]
-    },
-    "2027-01-18": {
-      "unmasked": "carnage",
-      "retcon": [
-        "debut-gambit",
-        "debut-surtur",
-        "debut-makkari",
-        "debut-karnilla",
-        "debut-bushmaster",
+        "debut-loki",
+        "debut-spider-man-2099",
+        "mcu-guardians-of-the-galaxy",
+        "debut-storm",
+        "mcu-spider-man-no-way-home",
         "debut-molten-man"
       ]
     },
-    "2027-01-19": {
-      "unmasked": "daredevil",
+    "2027-01-07": {
+      "unmasked": "namor",
+      "blist": [
+        "mcu-actor-captain-america-brave-new-world",
+        "mcu-cast-guardians-of-the-galaxy",
+        "enemy-daredevil",
+        "both-x-men-x-force",
+        "team-future-foundation",
+        "debut-1962",
+        "mcu-cast-daredevil-born-again"
+      ],
       "retcon": [
-        "debut-bullseye",
-        "debut-madame-web",
-        "debut-mangog",
-        "debut-genis-vell",
-        "debut-valeria-richards",
-        "debut-diamondback-willis-stryker"
+        "debut-magneto",
+        "debut-talos",
+        "debut-falcon-sam-wilson",
+        "mcu-the-falcon-and-the-winter-soldier",
+        "mcu-daredevil-born-again",
+        "debut-multiple-man"
+      ]
+    },
+    "2027-01-08": {
+      "unmasked": "stature",
+      "blist": [
+        "mcu-actor-the-guardians-of-the-galaxy-films",
+        "enemy-thor",
+        "team-the-fantastic-four",
+        "team-avengers",
+        "debut-1960s",
+        "mcu-cast-loki",
+        "mcu-cast-visionquest"
+      ],
+      "retcon": [
+        "debut-spider-man-miles-morales",
+        "mcu-iron-man",
+        "debut-black-panther",
+        "mcu-black-panther-wakanda-forever",
+        "debut-siryn",
+        "debut-baron-zemo"
+      ]
+    },
+    "2027-01-09": {
+      "unmasked": "killmonger",
+      "blist": [
+        "mcu-cast-the-black-panther-films",
+        "debut-in-avengers",
+        "both-avengers-the-fantastic-four",
+        "enemy-doctor-doom",
+        "team-cabal",
+        "mcu-cast-secret-invasion",
+        "mcu-cast-hawkeye"
+      ],
+      "retcon": [
+        "debut-odin",
+        "debut-iron-monger",
+        "mcu-avengers-age-of-ultron",
+        "debut-abomination",
+        "mcu-captain-america-the-first-avenger",
+        "debut-herbie"
+      ]
+    },
+    "2027-01-10": {
+      "unmasked": "echo",
+      "blist": [
+        "mcu-cast-avengers-endgame",
+        "team-heroes-for-hire",
+        "debut-in-fantastic-four",
+        "team-shield",
+        "debut-1970s",
+        "mcu-cast-wonder-man",
+        "mcu-cast-ironheart"
+      ],
+      "retcon": [
+        "debut-vision",
+        "debut-elektra",
+        "mcu-avengers-infinity-war",
+        "mcu-the-fantastic-four-first-steps",
+        "debut-ghost-iron-man-villain",
+        "debut-wonder-man"
+      ]
+    },
+    "2027-01-11": {
+      "unmasked": "thing",
+      "blist": [
+        "mcu-cast-the-avengers-films",
+        "mcu-actor-doctor-strange-in-the-multiverse-of-madness",
+        "team-thunderbolts",
+        "debut-1964",
+        "team-illuminati",
+        "debut-in-journey-into-mystery",
+        "mcu-cast-wandavision"
+      ],
+      "retcon": [
+        "debut-ultron",
+        "debut-spot",
+        "debut-jane-foster",
+        "mcu-the-incredible-hulk",
+        "debut-ghost-rider-robbie-reyes",
+        "mcu-doctor-strange-in-the-multiverse-of-madness"
+      ]
+    },
+    "2027-01-12": {
+      "unmasked": "vision",
+      "blist": [
+        "mcu-actor-the-captain-america-films",
+        "mcu-actor-the-iron-man-films",
+        "team-hydra",
+        "team-guardians-of-the-galaxy",
+        "species-eternal",
+        "creator-jack-kirby",
+        "mcu-cast-echo"
+      ],
+      "retcon": [
+        "debut-mister-fantastic",
+        "debut-luke-cage",
+        "mcu-ms-marvel",
+        "debut-toad",
+        "mcu-wonder-man",
+        "debut-justin-hammer"
+      ]
+    },
+    "2027-01-13": {
+      "unmasked": "thanos",
+      "blist": [
+        "mcu-actor-the-doctor-strange-films",
+        "mcu-cast-the-iron-man-films",
+        "debut-1980s",
+        "team-x-men",
+        "team-masters-of-evil",
+        "species-fictional-deity",
+        "mcu-cast-the-falcon-and-the-winter-soldier"
+      ],
+      "retcon": [
+        "debut-namor",
+        "debut-mockingbird",
+        "debut-emma-frost",
+        "mcu-hawkeye",
+        "mcu-visionquest",
+        "debut-juggernaut"
+      ]
+    },
+    "2027-01-14": {
+      "unmasked": "black-widow",
+      "blist": [
+        "mcu-cast-the-captain-america-films",
+        "mcu-cast-spider-man-far-from-home",
+        "ability-healing-factor",
+        "both-x-men-x-factor",
+        "creators-stan-lee-steve-ditko",
+        "team-excalibur",
+        "mcu-cast-she-hulk-attorney-at-law"
+      ],
+      "retcon": [
+        "mcu-spider-man-homecoming",
+        "debut-purple-man",
+        "debut-shang-chi",
+        "debut-donald-pierce",
+        "debut-spider-ham",
+        "mcu-thor"
+      ]
+    },
+    "2027-01-15": {
+      "unmasked": "lizard",
+      "blist": [
+        "mcu-cast-the-doctor-strange-films",
+        "enemy-thanos",
+        "team-x-force",
+        "enemy-spider-man",
+        "team-midnight-sons",
+        "mcu-cast-the-guardians-of-the-galaxy-holiday-special",
+        "mcu-cast-ms-marvel"
+      ],
+      "retcon": [
+        "debut-thanos",
+        "debut-he-who-remains",
+        "mcu-thunderbolts",
+        "mcu-thor-the-dark-world",
+        "debut-crossbones",
+        "debut-x-23"
+      ]
+    },
+    "2027-01-16": {
+      "unmasked": "heimdall",
+      "blist": [
+        "mcu-cast-the-mcu-spider-man-films",
+        "mcu-cast-the-avengers",
+        "mcu-actor-the-black-panther-films",
+        "creator-steve-ditko",
+        "team-defenders",
+        "team-elders-of-the-universe",
+        "creator-joe-simon"
+      ],
+      "retcon": [
+        "debut-jean-grey",
+        "mcu-spider-man-brand-new-day",
+        "debut-marrow",
+        "debut-yelena-belova",
+        "mcu-the-avengers",
+        "debut-sersi"
+      ]
+    },
+    "2027-01-17": {
+      "unmasked": "okoye",
+      "blist": [
+        "mcu-cast-avengers-age-of-ultron",
+        "mcu-actor-the-thor-films",
+        "mcu-cast-doctor-strange-in-the-multiverse-of-madness",
+        "both-excalibur-x-men",
+        "enemy-avengers",
+        "debut-in-tales-of-suspense",
+        "contains-a-job-title"
+      ],
+      "retcon": [
+        "debut-gamora",
+        "debut-stature",
+        "debut-modok",
+        "mcu-ant-man-and-the-wasp",
+        "mcu-black-widow",
+        "debut-clea"
+      ]
+    },
+    "2027-01-18": {
+      "unmasked": "apocalypse",
+      "blist": [
+        "mcu-actor-avengers-infinity-war",
+        "mcu-cast-ant-man-and-the-wasp-quantumania",
+        "mcu-actor-shang-chi-and-the-legend-of-the-ten-rings",
+        "team-x-factor",
+        "team-avengers-1960s",
+        "debut-1963",
+        "team-new-mutants"
+      ],
+      "retcon": [
+        "mcu-spider-man-far-from-home",
+        "debut-sandman",
+        "mcu-thor-love-and-thunder",
+        "debut-domino",
+        "debut-punisher",
+        "debut-proteus"
+      ]
+    },
+    "2027-01-19": {
+      "unmasked": "mirage",
+      "blist": [
+        "mcu-actor-the-incredible-hulk",
+        "mcu-actor-avengers-endgame",
+        "mcu-actor-spider-man-homecoming",
+        "team-frightful-four",
+        "ability-teleportation",
+        "species-mutate",
+        "debut-1975"
+      ],
+      "retcon": [
+        "mcu-thor-ragnarok",
+        "debut-sharon-carter",
+        "mcu-iron-man-2",
+        "debut-rogue",
+        "debut-spider-woman-jessica-drew",
+        "debut-red-she-hulk"
       ]
     },
     "2027-01-20": {
-      "unmasked": "mirage",
+      "unmasked": "spider-ham",
+      "blist": [
+        "mcu-actor-black-panther-wakanda-forever",
+        "mcu-cast-iron-man",
+        "mcu-cast-captain-america-civil-war",
+        "team-avengers-1970s",
+        "enemy-x-men",
+        "creators-stan-lee-don-heck",
+        "starts-red"
+      ],
       "retcon": [
-        "debut-modok",
-        "debut-maggott",
-        "debut-spider-woman-jessica-drew",
-        "debut-rictor",
-        "debut-anole",
-        "debut-blink"
+        "mcu-guardians-of-the-galaxy-vol-3",
+        "debut-silvermane",
+        "debut-sif",
+        "mcu-ant-man",
+        "debut-apocalypse",
+        "debut-ikaris"
       ]
     },
     "2027-01-21": {
-      "unmasked": "heimdall",
+      "unmasked": "electro",
+      "blist": [
+        "mcu-actor-the-ant-man-films",
+        "mcu-cast-guardians-of-the-galaxy-vol-3",
+        "mcu-actor-deadpool-wolverine",
+        "species-mutant",
+        "ability-telepathy",
+        "species-asgardian",
+        "ends-girl"
+      ],
       "retcon": [
-        "debut-shang-chi",
-        "debut-impossible-man",
-        "debut-black-tom-cassidy",
-        "debut-living-tribunal",
-        "debut-beetle-abner-jenkins",
-        "debut-hawkeye-kate-bishop"
+        "debut-winter-soldier",
+        "mcu-avengers-endgame",
+        "debut-hellcat",
+        "debut-professor-x",
+        "mcu-agatha-all-along",
+        "debut-gorr-the-god-butcher"
       ]
     },
     "2027-01-22": {
-      "unmasked": "kingo",
+      "unmasked": "dracula",
+      "blist": [
+        "mcu-phase-one",
+        "mcu-actor-the-marvels",
+        "mcu-actor-guardians-of-the-galaxy-vol-3",
+        "enemy-spider-man-1960s",
+        "species-gamma-mutate",
+        "ends-king",
+        "starts-black"
+      ],
       "retcon": [
-        "debut-purple-man",
-        "debut-psylocke-betsy-braddock",
-        "debut-jolt",
-        "debut-tinkerer",
-        "debut-madame-masque",
-        "debut-titania"
+        "debut-ghost-rider-johnny-blaze",
+        "mcu-loki",
+        "debut-frigga",
+        "debut-sunspot",
+        "mcu-black-panther",
+        "debut-scarlet-spider-ben-reilly"
       ]
     },
     "2027-01-23": {
-      "unmasked": "mysterio",
+      "unmasked": "ego-the-living-planet",
+      "blist": [
+        "mcu-actor-captain-america-the-winter-soldier",
+        "mcu-cast-shang-chi-and-the-legend-of-the-ten-rings",
+        "mcu-actor-the-avengers",
+        "creators-stan-lee-jack-kirby",
+        "enemy-iron-man",
+        "contains-a-weapon",
+        "starts-iron"
+      ],
       "retcon": [
-        "debut-sharon-carter",
-        "debut-selene",
-        "debut-veranke",
-        "debut-hellcat",
-        "debut-kraven-the-hunter",
-        "debut-silver-samurai"
+        "debut-human-torch-johnny-storm",
+        "debut-howard-the-duck",
+        "debut-captain-america",
+        "mcu-iron-man-3",
+        "mcu-the-guardians-of-the-galaxy-holiday-special",
+        "debut-havok"
       ]
     },
     "2027-01-24": {
-      "unmasked": "magik",
+      "unmasked": "high-evolutionary",
+      "blist": [
+        "mcu-cast-the-guardians-of-the-galaxy-films",
+        "mcu-actor-captain-america-the-first-avenger",
+        "mcu-actor-ant-man",
+        "creator-stan-lee",
+        "starts-king",
+        "ends-boy",
+        "creator-roy-thomas"
+      ],
       "retcon": [
-        "debut-agatha-harkness",
-        "debut-radioactive-man",
-        "debut-elsa-bloodstone",
-        "debut-ego-the-living-planet",
-        "debut-throg",
-        "debut-meggan"
+        "mcu-echo",
+        "debut-veranke",
+        "mcu-eternals",
+        "debut-us-agent",
+        "debut-wolverine",
+        "debut-green-goblin"
       ]
     },
     "2027-01-25": {
-      "unmasked": "dracula",
+      "unmasked": "mystique",
+      "blist": [
+        "mcu-actor-captain-america-civil-war",
+        "mcu-actor-the-avengers-films",
+        "mcu-cast-deadpool-wolverine",
+        "starts-blue",
+        "contains-a-military-rank",
+        "team-champions",
+        "ability-reality-warping"
+      ],
       "retcon": [
-        "debut-franklin-richards",
-        "debut-hope-summers",
-        "debut-boom-boom",
-        "debut-viv-vision",
-        "debut-banshee",
-        "debut-devil-dinosaur"
+        "debut-iron-man",
+        "mcu-werewolf-by-night",
+        "debut-hawkeye-kate-bishop",
+        "debut-northstar",
+        "debut-zeus",
+        "mcu-captain-america-brave-new-world"
       ]
     },
     "2027-01-26": {
-      "unmasked": "magneto",
+      "unmasked": "sentry",
+      "blist": [
+        "mcu-cast-the-thor-films",
+        "mcu-actor-eternals",
+        "mcu-actor-thor-love-and-thunder",
+        "starts-lady",
+        "debut-1967",
+        "starts-death",
+        "creator-don-heck"
+      ],
       "retcon": [
-        "debut-kro",
-        "debut-starhawk",
-        "debut-hammerhead",
-        "debut-ravonna-renslayer",
-        "debut-living-brain",
-        "debut-bishop"
+        "debut-nick-fury",
+        "debut-psylocke-betsy-braddock",
+        "debut-pixie",
+        "debut-echo",
+        "mcu-guardians-of-the-galaxy-vol-2",
+        "mcu-ironheart"
       ]
     },
     "2027-01-27": {
-      "unmasked": "colossus",
+      "unmasked": "luke-cage",
+      "blist": [
+        "mcu-actor-iron-man-2",
+        "mcu-cast-the-ant-man-films",
+        "mcu-cast-thunderbolts",
+        "contains-a-word-from-outer-space",
+        "team-marauders",
+        "starts-captain",
+        "ability-intangibility"
+      ],
       "retcon": [
-        "debut-sauron",
-        "debut-night-nurse",
-        "debut-multiple-man",
-        "debut-black-dwarf",
-        "debut-he-who-remains",
-        "debut-lady-bullseye"
+        "debut-thor",
+        "debut-okoye",
+        "mcu-the-punisher-one-last-kill",
+        "mcu-ant-man-and-the-wasp-quantumania",
+        "debut-crystal",
+        "debut-hercules"
       ]
     },
     "2027-01-28": {
-      "unmasked": "cloak",
+      "unmasked": "us-agent",
+      "blist": [
+        "mcu-actor-thor-ragnarok",
+        "mcu-cast-thor-love-and-thunder",
+        "mcu-actor-ant-man-and-the-wasp",
+        "team-weapon-x",
+        "starts-silver",
+        "debut-in-strange-tales",
+        "starts-white"
+      ],
       "retcon": [
-        "debut-lilandra",
-        "debut-moondragon",
-        "debut-songbird",
-        "debut-quake",
-        "debut-the-serpent",
-        "debut-aleta-ogord"
+        "debut-moon-knight",
+        "debut-mad-thinker",
+        "debut-morbius",
+        "mcu-doctor-strange",
+        "mcu-shang-chi-and-the-legend-of-the-ten-rings",
+        "debut-cannonball"
       ]
     },
     "2027-01-29": {
-      "unmasked": "shocker",
+      "unmasked": "rogue",
+      "blist": [
+        "mcu-actor-iron-man-3",
+        "mcu-films-2020s",
+        "mcu-actor-ant-man-and-the-wasp-quantumania",
+        "debut-1968",
+        "debut-1961",
+        "starts-doctor",
+        "contains-a-metal"
+      ],
       "retcon": [
-        "debut-alicia-masters",
-        "debut-supreme-intelligence",
-        "debut-lilith",
-        "debut-charlie-27",
-        "debut-kingo",
-        "debut-ajak"
+        "debut-hawkeye-clint-barton",
+        "debut-prowler-hobie-brown",
+        "debut-star-lord",
+        "debut-jubilee",
+        "mcu-captain-marvel",
+        "mcu-moon-knight"
       ]
     },
     "2027-01-30": {
-      "unmasked": "tinkerer",
+      "unmasked": "justin-hammer",
+      "blist": [
+        "mcu-cast-captain-marvel",
+        "mcu-cast-guardians-of-the-galaxy-vol-2",
+        "mcu-cast-iron-man-3",
+        "starts-dark",
+        "starts-mister",
+        "creator-len-wein",
+        "both-thunderbolts-masters-of-evil"
+      ],
       "retcon": [
-        "debut-deacon-frost",
-        "debut-bastion",
-        "debut-the-stranger",
-        "debut-the-hood",
-        "debut-morgan-le-fay",
-        "debut-doop"
+        "mcu-wandavision",
+        "debut-corvus-glaive",
+        "mcu-deadpool-wolverine",
+        "debut-franklin-richards",
+        "debut-mobius-m-mobius",
+        "debut-the-leader"
       ]
     },
     "2027-01-31": {
-      "unmasked": "mastermind-jason-wyngarde",
+      "unmasked": "kitty-pryde",
+      "blist": [
+        "mcu-cast-captain-america-the-winter-soldier",
+        "mcu-actor-doctor-strange",
+        "mcu-actor-spider-man-far-from-home",
+        "both-avengers-defenders",
+        "starts-agent",
+        "team-the-hand",
+        "debut-1977"
+      ],
       "retcon": [
-        "debut-terrax",
-        "debut-wyatt-wingfoot",
-        "debut-proxima-midnight",
-        "debut-rocket-racer",
-        "debut-lockjaw",
-        "debut-spiral"
+        "mcu-she-hulk-attorney-at-law",
+        "debut-malekith",
+        "debut-beast",
+        "debut-captain-marvel-carol-danvers",
+        "debut-white-tiger-hector-ayala",
+        "mcu-guardians-of-the-galaxy"
       ]
     },
     "2027-02-01": {
-      "unmasked": "x-23",
+      "unmasked": "mobius-m-mobius",
+      "blist": [
+        "mcu-actor-guardians-of-the-galaxy",
+        "mcu-cast-thor-ragnarok",
+        "mcu-cast-the-fantastic-four-first-steps",
+        "both-x-men-brotherhood-of-mutants",
+        "team-young-avengers",
+        "ends-man",
+        "starts-professor"
+      ],
       "retcon": [
-        "debut-fandral",
-        "debut-mockingbird",
-        "debut-molly-hayes",
-        "debut-quasar",
-        "debut-surge",
-        "debut-grim-reaper"
+        "debut-rocket-raccoon",
+        "mcu-captain-america-civil-war",
+        "debut-shuma-gorath",
+        "debut-spider-man-2099",
+        "mcu-the-falcon-and-the-winter-soldier",
+        "debut-nebula"
       ]
     },
     "2027-02-02": {
-      "unmasked": "gamora",
+      "unmasked": "spider-woman-jessica-drew",
+      "blist": [
+        "mcu-cast-the-marvels",
+        "mcu-phase-three",
+        "team-sinister-six",
+        "team-secret-avengers",
+        "debut-in-x-men",
+        "debut-in-the-amazing-spider-man",
+        "mcu-cast-moon-knight"
+      ],
       "retcon": [
-        "debut-wendigo",
-        "debut-count-nefaria",
-        "debut-hulkling",
-        "debut-scarlet-spider-ben-reilly",
-        "debut-honey-badger",
-        "debut-cecilia-reyes"
+        "debut-loki",
+        "mcu-black-panther-wakanda-forever",
+        "debut-medusa",
+        "mcu-daredevil-born-again",
+        "debut-sabretooth",
+        "debut-khonshu"
       ]
     },
     "2027-02-03": {
-      "unmasked": "captain-marvel-carol-danvers",
+      "unmasked": "frigga",
+      "blist": [
+        "mcu-cast-ant-man-and-the-wasp",
+        "mcu-actor-the-fantastic-four-first-steps",
+        "debut-1966",
+        "team-dark-avengers",
+        "enemy-captain-america",
+        "team-brotherhood-of-mutants",
+        "mcu-cast-agatha-all-along"
+      ],
       "retcon": [
-        "debut-nikki-gold",
-        "debut-ghost-rider-danny-ketch",
-        "debut-thunderstrike",
-        "debut-ulik",
-        "debut-red-she-hulk",
-        "debut-warpath"
+        "mcu-avengers-age-of-ultron",
+        "debut-mangog",
+        "debut-america-chavez",
+        "mcu-the-marvels",
+        "debut-maria-hill",
+        "debut-kang-the-conqueror"
+      ]
+    },
+    "2027-02-04": {
+      "unmasked": "emma-frost",
+      "blist": [
+        "mcu-cast-doctor-strange",
+        "mcu-cast-spider-man-homecoming",
+        "enemy-daredevil",
+        "debut-1962",
+        "team-future-foundation",
+        "both-x-men-x-force",
+        "mcu-cast-daredevil-born-again"
+      ],
+      "retcon": [
+        "debut-daredevil",
+        "debut-iron-fist",
+        "mcu-captain-america-the-winter-soldier",
+        "debut-abomination",
+        "debut-stick",
+        "mcu-captain-america-the-first-avenger"
+      ]
+    },
+    "2027-02-05": {
+      "unmasked": "juggernaut",
+      "blist": [
+        "mcu-cast-iron-man-2",
+        "team-the-fantastic-four",
+        "enemy-thor",
+        "team-avengers",
+        "debut-1960s",
+        "mcu-cast-visionquest",
+        "mcu-cast-loki"
+      ],
+      "retcon": [
+        "debut-doctor-octopus",
+        "debut-werewolf-by-night",
+        "debut-cloak",
+        "mcu-avengers-infinity-war",
+        "mcu-doctor-strange-in-the-multiverse-of-madness",
+        "debut-corsair"
+      ]
+    },
+    "2027-02-06": {
+      "unmasked": "morbius",
+      "blist": [
+        "mcu-cast-guardians-of-the-galaxy",
+        "both-avengers-the-fantastic-four",
+        "team-cabal",
+        "debut-in-avengers",
+        "enemy-doctor-doom",
+        "mcu-cast-secret-invasion",
+        "mcu-cast-hawkeye"
+      ],
+      "retcon": [
+        "debut-red-skull",
+        "debut-ms-marvel-kamala-khan",
+        "mcu-spider-man-no-way-home",
+        "mcu-iron-man",
+        "debut-elektra",
+        "debut-rhino"
+      ]
+    },
+    "2027-02-07": {
+      "unmasked": "blob",
+      "blist": [
+        "mcu-phase-two",
+        "team-heroes-for-hire",
+        "debut-in-fantastic-four",
+        "team-shield",
+        "debut-1970s",
+        "mcu-cast-wonder-man",
+        "mcu-cast-ironheart"
+      ],
+      "retcon": [
+        "mcu-secret-invasion",
+        "debut-high-evolutionary",
+        "debut-lizard",
+        "debut-blade",
+        "debut-jocasta",
+        "mcu-the-incredible-hulk"
       ]
     }
   }

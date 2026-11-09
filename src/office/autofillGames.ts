@@ -1,5 +1,5 @@
 import type { BlistPrompt, RetconRecord, Schedule } from '../content/types'
-import { BLIST_COOLDOWN_DAYS, RETCON_COOLDOWN_DAYS } from '../content/validateGames'
+import { BLIST_COOLDOWN_DAYS, RETCON_COOLDOWN_DAYS, RETCON_MIN_YEAR_GAP } from '../content/validateGames'
 import { PROMPTS_PER_DAY } from '../games/blist/logic/game'
 import { RECORDS_PER_DAY } from '../games/retcon/logic/game'
 import { pick, seededRandom } from '../lib/random'
@@ -39,8 +39,9 @@ export function promptSubjects(p: Pick<BlistPrompt, 'id' | 'category'>): string[
 
 /**
  * Fill empty B-List days in [from, to] (only days that already have an Unmasked answer). Each day:
- * seven unused prompts, at most two from one family, no shared subject; easy days take one harder
- * prompt, hard days three. Ordered easiest first. Seeded by date, so reruns agree.
+ * seven prompts not used in the cooldown, at most two from one family (three for MCU), no shared
+ * subject. Weekdays take six easy prompts and one medium, weekends five and two. Hard prompts
+ * (difficulty 3) are never scheduled. Ordered easiest first. Seeded by date, so reruns agree.
  */
 export function autofillBlist(schedule: Schedule, prompts: readonly BlistPrompt[], from: string, to: string, salt = ''): Schedule {
   const days = { ...schedule.days }
@@ -50,8 +51,8 @@ export function autofillBlist(schedule: Schedule, prompts: readonly BlistPrompt[
     const entry = days[date]
     if (!entry?.unmasked || entry.blist) continue
     const rand = seededRandom(`blist:${date}${salt}`)
-    const free = pool.filter((p) => cooled(uses, p.id, date, BLIST_COOLDOWN_DAYS))
-    const hardSlots = hardDay(date) ? 3 : 2
+    const free = pool.filter((p) => p.difficulty <= 2 && cooled(uses, p.id, date, BLIST_COOLDOWN_DAYS))
+    const mediumSlots = hardDay(date) ? 2 : 1
     let chosen: BlistPrompt[] = []
     // Strict first; if the remaining pool cannot make a day, relax the family cap step by step.
     // MCU prompts are about a third of the pool, so they may take three slots; other families two.
@@ -79,7 +80,7 @@ export function autofillBlist(schedule: Schedule, prompts: readonly BlistPrompt[
           left.set(promptFamily(chosenOne), (left.get(promptFamily(chosenOne)) ?? 1) - 1)
         }
       }
-      take((p) => p.difficulty >= 2, hardSlots)
+      take((p) => p.difficulty === 2, mediumSlots)
       take((p) => p.difficulty === 1, PROMPTS_PER_DAY - chosen.length)
       take(() => true, PROMPTS_PER_DAY - chosen.length) // relax difficulty if a band ran dry
       if (chosen.length === PROMPTS_PER_DAY) break
@@ -96,9 +97,10 @@ const recordDifficulty = (r: RetconRecord) => r.difficulty ?? (r.kind === 'debut
 const decade = (r: RetconRecord) => r.date.slice(0, 3)
 
 /**
- * Fill empty Retcon days in [from, to] (only days with an Unmasked answer). Each day: six unused
- * records with six different years, at most two per decade, at most four first appearances, at
- * most two deep cuts (difficulty 4+), and a well-known anchor first.
+ * Fill empty Retcon days in [from, to] (only days with an Unmasked answer). Each day: six records
+ * not used in the cooldown, at least RETCON_MIN_YEAR_GAP years apart, at most two per decade, at
+ * most four first appearances, at most one harder record (difficulty 4), never a deep cut
+ * (difficulty 5), and a well-known anchor first.
  */
 export function autofillRetcon(schedule: Schedule, records: readonly RetconRecord[], from: string, to: string, salt = ''): Schedule {
   const days = { ...schedule.days }
@@ -108,15 +110,18 @@ export function autofillRetcon(schedule: Schedule, records: readonly RetconRecor
     const entry = days[date]
     if (!entry?.unmasked || entry.retcon) continue
     const rand = seededRandom(`retcon:${date}${salt}`)
-    const free = pool.filter((r) => cooled(uses, r.id, date, RETCON_COOLDOWN_DAYS))
+    const free = pool.filter((r) => recordDifficulty(r) <= 4 && cooled(uses, r.id, date, RETCON_COOLDOWN_DAYS))
     let chosen: RetconRecord[] = []
     // Strict first; relax the decade, first-appearance and deep-cut caps if the pool runs thin.
     // Six different years is a hard rule and never relaxes.
-    for (const [perDecade, debuts, deep] of [[2, 4, 2], [2, 5, 3], [3, 6, 4], [6, 6, 6]] as const) {
+    for (const [perDecade, debuts, deep, gap] of [
+      [2, 4, 1, RETCON_MIN_YEAR_GAP], [2, 5, 1, RETCON_MIN_YEAR_GAP], [3, 5, 2, RETCON_MIN_YEAR_GAP], [3, 6, 2, 1], [6, 6, 6, 1],
+    ] as const) {
       chosen = []
+      const year = (r: RetconRecord) => Number(r.date.slice(0, 4))
       const fits = (r: RetconRecord) =>
         !chosen.includes(r) &&
-        !chosen.some((c) => c.date.slice(0, 4) === r.date.slice(0, 4)) &&
+        !chosen.some((c) => Math.abs(year(c) - year(r)) < gap) &&
         chosen.filter((c) => decade(c) === decade(r)).length < perDecade &&
         (r.kind !== 'debut' || chosen.filter((c) => c.kind === 'debut').length < debuts) &&
         (recordDifficulty(r) < 4 || chosen.filter((c) => recordDifficulty(c) >= 4).length < deep)

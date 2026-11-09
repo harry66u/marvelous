@@ -9,8 +9,8 @@ Marvelous is an unofficial fan game. It is not affiliated with, endorsed by, or 
 All three games are live:
 
 - **Unmasked**, identify the variant: 499 fact-checked characters (235 can be daily answers), 90 days scheduled from 2026-11-06.
-- **B-List**, records search: 421 prompts with 10,800 accepted answers in five rarity tiers, 60 days scheduled from 2026-11-08.
-- **Retcon**, timeline repair: 549 dated records (first appearances and MCU releases), 88 days scheduled from 2026-11-08.
+- **B-List**, records search: 421 prompts (167 easy, 98 medium, 156 hard) with 10,800 accepted answers in five rarity tiers, scheduled through 2027-02-07.
+- **Retcon**, timeline repair: 549 dated records (first appearances and MCU releases), scheduled through 2027-02-07.
 
 Also built: the branch-monitor home page, End of shift (`/shift`), the Agent file (`/agent`), the combined share report, the Field Manual and the Git-backed Scheduling Office.
 
@@ -51,9 +51,9 @@ Open `/office` on the live site.
 
 Edits are validated before saving, become commits, and go live after Vercel redeploys (about a minute). **Auto-fill** fills empty days in the next 90 using the same rules as the launch schedule:
 
-- Unmasked: easier answers Monday to Thursday, harder Friday to Sunday; no answer repeated within 120 days; no team on two days in a row.
-- B-List: seven unused prompts (none repeated within 180 days), at most two from one family (three for MCU), no two on the same subject, two harder prompts on weekdays and three at weekends.
-- Retcon: six unused records with six different years, a well-known anchor first, a mix of decades and kinds.
+- Unmasked: only well-known characters (difficulty 1–3): the most famous Monday to Thursday, slightly less famous Friday to Sunday; no answer repeated within 120 days; no team on two days in a row.
+- B-List: only easy and medium prompts (never hard ones). Six easy and one medium on weekdays, five and two at weekends; no prompt repeated within 28 days; at most two from one family (three for MCU); no two on the same subject.
+- Retcon: only recognizable records (MCU releases and well-known first appearances, at most one harder record a day, never a deep cut); six records at least three years apart; a well-known anchor first; no record repeated within 25 days.
 
 The day editor shows each day's B-List requests and Retcon records, and can re-roll or clear them.
 
@@ -64,7 +64,7 @@ npx tsx scripts/autofill-schedule.ts from=YYYY-MM-DD days=90   # Unmasked
 npx tsx scripts/autofill-games.ts from=YYYY-MM-DD days=90      # B-List and Retcon
 ```
 
-B-List needs new prompts after 2027-01-06 and Retcon new records after 2027-02-03 (see Content).
+All three games are scheduled through 2027-02-07.
 
 ## Content
 

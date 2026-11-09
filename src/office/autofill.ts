@@ -3,20 +3,23 @@ import { UNMASKED_COOLDOWN_DAYS } from '../content/validate'
 import { addDays, daysBetween, weekday } from '../lib/time'
 import { pick, seededRandom } from '../lib/random'
 
-/** Mon-Thu favour easier answers, Fri-Sun harder ones. */
+/** Mon-Thu favour the best-known answers, Fri-Sun slightly less famous ones. */
 function band(date: string): [number, number] {
   const d = weekday(date) // 0 = Sunday
-  return d >= 1 && d <= 4 ? [1, 3] : [2, 4]
+  return d >= 1 && d <= 4 ? [1, 2] : [2, 3]
 }
 
+/** Deep cuts (difficulty 4 and 5) are never daily answers; they stay in the pool as guesses. */
+export const MAX_ANSWER_DIFFICULTY = 3
+
 /**
- * Fill empty days in [from, to] with answerOk characters. Same policy as
- * scripts/research/initial_schedule.py: band by weekday, cooldown both ways,
- * never the same primary team two days running, seeded by date. Existing days are kept.
+ * Fill empty days in [from, to] with answerOk characters of difficulty 3 or less: band by
+ * weekday, cooldown both ways, never the same primary team two days running, seeded by date.
+ * Existing days are kept.
  */
 export function autofillSchedule(schedule: Schedule, chars: readonly Character[], from: string, to: string): Schedule {
   const byId = new Map(chars.map((c) => [c.id, c]))
-  const pool = chars.filter((c) => c.answerOk).sort((a, b) => a.id.localeCompare(b.id))
+  const pool = chars.filter((c) => c.answerOk && c.difficulty <= MAX_ANSWER_DIFFICULTY).sort((a, b) => a.id.localeCompare(b.id))
   const days = { ...schedule.days }
   const uses = new Map<string, string[]>()
   for (const [date, e] of Object.entries(days)) {

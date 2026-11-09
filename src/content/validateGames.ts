@@ -4,9 +4,14 @@ import { RECORDS_PER_DAY } from '../games/retcon/logic/game.js'
 import { matchKey } from '../lib/match.js'
 import { TIERS, type BlistPrompt, type Issue, type RetconRecord, type Schedule } from './types.js'
 
-/** A prompt or record may not run again within this many days. */
-export const BLIST_COOLDOWN_DAYS = 180
-export const RETCON_COOLDOWN_DAYS = 180
+/**
+ * A prompt or record may not run again within this many days. Kept short on purpose: the schedule
+ * draws only on easy and medium prompts and on well-known records, so those come round again.
+ */
+export const BLIST_COOLDOWN_DAYS = 28
+export const RETCON_COOLDOWN_DAYS = 25
+/** No two records on one day may be closer than this many years, so the order can be reasoned out. */
+export const RETCON_MIN_YEAR_GAP = 3
 export const MIN_ANSWERS = 5
 
 const KEBAB = /^[a-z0-9]+(-[a-z0-9]+)*$/
@@ -110,6 +115,9 @@ export function validateGameSchedule(schedule: Schedule, prompts: BlistPrompt[],
         }
         const year = r.date.slice(0, 4)
         if (years.has(year)) add('error', at, `Two records share the year ${year}.`)
+        else if ([...years].some((y) => Math.abs(Number(y) - Number(year)) < RETCON_MIN_YEAR_GAP)) {
+          add('warning', at, `Records within ${RETCON_MIN_YEAR_GAP} years of each other (${year}) make the day harder.`)
+        }
         years.add(year)
         const prev = lastRecord.get(id)
         if (prev !== undefined && prev !== date && daysBetween(prev, date) < RETCON_COOLDOWN_DAYS) {
