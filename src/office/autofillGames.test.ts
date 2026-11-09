@@ -8,7 +8,7 @@ const FROM = '2026-11-09' // a Monday
 const TO = addDays(FROM, 13)
 
 const prompts: BlistPrompt[] = Array.from({ length: 150 }, (_, i) => ({
-  id: `p-${i}`,
+  id: `p${i}`,
   text: `Prompt ${i}`,
   category: ['team', 'enemy', 'mcu-cast', 'species', 'wordplay'][i % 5]!,
   difficulty: ([1, 1, 1, 2, 3] as const)[i % 5]!,

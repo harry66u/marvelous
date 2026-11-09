@@ -20,15 +20,19 @@ describe('compareCharacters', () => {
     expect([a.debut, a.debutDir]).toEqual(['exact', null])
     expect(compareCharacters(ch('a', 'A', { debutYear: 1940 }), ch('b', 'B', { debutYear: 2000 })).debut).toBe('no')
   })
-  it('intersecting teams without matching primaries is close', () => {
-    const a = ch('a', 'A', { primaryTeam: 'avengers', teams: ['avengers', 'x-men'] })
-    const b = ch('b', 'B', { primaryTeam: 'x-men', teams: ['x-men'] })
+  it('the world clue is exact for the same world, whatever the teams', () => {
+    const a = ch('a', 'A', { world: 'spider-man', primaryTeam: 'avengers', teams: ['avengers'] })
+    const b = ch('b', 'B', { world: 'spider-man', primaryTeam: 'sinister-six', teams: ['sinister-six'] })
+    expect(compareCharacters(a, b).affiliation).toBe('exact')
+  })
+  it('different worlds that share a team are close', () => {
+    const a = ch('a', 'A', { world: 'x-men', primaryTeam: 'x-men', teams: ['x-men', 'avengers'] })
+    const b = ch('b', 'B', { world: 'avengers', primaryTeam: 'avengers', teams: ['avengers'] })
     expect(compareCharacters(a, b).affiliation).toBe('close')
   })
-  it('both none is exact; none never counts as a shared team', () => {
-    expect(compareCharacters(ch('a', 'A'), ch('b', 'B')).affiliation).toBe('exact')
-    const a = ch('a', 'A', { primaryTeam: 'avengers', teams: ['none'] })
-    const b = ch('b', 'B', { primaryTeam: 'x-men', teams: ['none'] })
+  it('different worlds with no shared team are no match; none never counts as a shared team', () => {
+    const a = ch('a', 'A', { world: 'cosmic', primaryTeam: 'none', teams: ['none'] })
+    const b = ch('b', 'B', { world: 'mystic', primaryTeam: 'none', teams: ['none'] })
     expect(compareCharacters(a, b).affiliation).toBe('no')
   })
   it('name is exact only for the same id', () => {

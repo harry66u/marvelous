@@ -1,4 +1,4 @@
-import { teamName, teamShort } from '../../../content/teams'
+import { WORLD_LABEL } from '../../../content/types'
 import type { Alignment, Gender, Origin, PublicCharacter } from '../../../content/types'
 import type { Mark } from '../../../lib/marks'
 import { ATTRIBUTE_ORDER, compareCharacters, decadeOf } from '../logic/compare'
@@ -24,7 +24,7 @@ export const ORIGIN_LABEL: Record<Origin, string> = {
 export const GENDER_LABEL: Record<Gender, string> = { male: 'Male', female: 'Female', other: 'Other' }
 
 export const ATTRIBUTE_NAME: Record<Attribute, string> = {
-  affiliation: 'Affiliation',
+  affiliation: 'World',
   debut: 'Debut',
   alignment: 'Alignment',
   origin: 'Origin',
@@ -34,7 +34,7 @@ export const ATTRIBUTE_NAME: Record<Attribute, string> = {
 
 /** Column headers for the guess grid. */
 export const ATTRIBUTE_SHORT: Record<Attribute, string> = {
-  affiliation: 'Affil.',
+  affiliation: 'World',
   debut: 'Debut',
   alignment: 'Align.',
   origin: 'Origin',
@@ -70,7 +70,7 @@ export function describeGuess(guess: PublicCharacter, answer: PublicCharacter): 
   const f = compareCharacters(guess, answer)
   const decade = `${decadeOf(guess.debutYear)}s`
   const values: Record<Attribute, [label: string, full: string]> = {
-    affiliation: [teamShort(guess.primaryTeam), teamName(guess.primaryTeam)],
+    affiliation: [WORLD_LABEL[guess.world] === 'Fantastic Four' ? 'Fant. Four' : WORLD_LABEL[guess.world] === 'Street level' ? 'Street' : WORLD_LABEL[guess.world], WORLD_LABEL[guess.world]],
     debut: [decade, decade],
     alignment: [ALIGNMENT_LABEL[guess.alignment], ALIGNMENT_LABEL[guess.alignment]],
     origin: [ORIGIN_LABEL[guess.origin], ORIGIN_LABEL[guess.origin]],

@@ -1,5 +1,6 @@
 import { useId } from 'react'
 import { teamName } from '../../../content/teams'
+import { WORLD_LABEL } from '../../../content/types'
 import type { PublicCharacter } from '../../../content/types'
 import { formatMemoDate } from '../../../lib/time'
 import Portrait from '../../../ui/id/Portrait'
@@ -26,7 +27,8 @@ export default function CaseFile({ character: c, number, date, slam, stamped = t
   const fields: [label: string, value: string][] = [
     ['Subject', c.name],
     ['Known as', c.realName ?? 'Not on file'],
-    ['Affiliation', teamName(c.primaryTeam)],
+    ['World', WORLD_LABEL[c.world]],
+    ['Team', c.primaryTeam === 'none' ? 'None on file' : teamName(c.primaryTeam)],
     ['First record', firstRecord(c)],
     ['Classification', `${ALIGNMENT_LABEL[c.alignment]} · ${origin}`],
     ['MCU', c.mcuFirst ?? 'Not on file'],

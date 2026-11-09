@@ -52,7 +52,7 @@ Open `/office` on the live site.
 Edits are validated before saving, become commits, and go live after Vercel redeploys (about a minute). **Auto-fill** fills empty days in the next 90 using the same rules as the launch schedule:
 
 - Unmasked: only well-known characters (difficulty 1–3): the most famous Monday to Thursday, slightly less famous Friday to Sunday; no answer repeated within 120 days; no team on two days in a row.
-- B-List: only easy and medium prompts (never hard ones). Six easy and one medium on weekdays, five and two at weekends; no prompt repeated within 28 days; at most two from one family (three for MCU); no two on the same subject.
+- B-List: only prompts a fan of the films and series can answer (MCU prompts plus a short list of well-known comics teams and villains), easy or medium. Six easy and one medium on weekdays, five and two at weekends; no prompt repeated within 16 days; at most two of one kind; no two on the same subject.
 - Retcon: only recognizable records (MCU releases and well-known first appearances, at most one harder record a day, never a deep cut); six records at least three years apart; a well-known anchor first; no record repeated within 25 days.
 
 The day editor shows each day's B-List requests and Retcon records, and can re-roll or clear them.

@@ -8,7 +8,7 @@ import { TIERS, type BlistPrompt, type Issue, type RetconRecord, type Schedule }
  * A prompt or record may not run again within this many days. Kept short on purpose: the schedule
  * draws only on easy and medium prompts and on well-known records, so those come round again.
  */
-export const BLIST_COOLDOWN_DAYS = 28
+export const BLIST_COOLDOWN_DAYS = 16
 export const RETCON_COOLDOWN_DAYS = 25
 /** No two records on one day may be closer than this many years, so the order can be reasoned out. */
 export const RETCON_MIN_YEAR_GAP = 3

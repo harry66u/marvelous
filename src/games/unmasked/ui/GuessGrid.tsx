@@ -1,3 +1,4 @@
+import { WORLDS, WORLD_HINT, WORLD_LABEL } from '../../../content/types'
 import { useEffect, useId, useMemo, useRef, type CSSProperties } from 'react'
 import type { PublicCharacter } from '../../../content/types'
 import { ATTRIBUTE_ORDER } from '../logic/compare'
@@ -45,6 +46,14 @@ export default function GuessGrid({ guesses, answer, fresh, nextAttempt, follow 
         <li><i className={`${s.chip} ${s.no}`}>{MARK_SYMBOL.no}</i>No match</li>
         <li>▲ ▼ Subject debuted later / earlier</li>
       </ul>
+      <div className={s.worlds}>
+        <h3 className={s.worldsHead}>Worlds on file</h3>
+        <ul className={s.worldList}>
+          {WORLDS.map((w) => (
+            <li key={w}><b>{WORLD_LABEL[w]}</b> <span>{WORLD_HINT[w]}</span></li>
+          ))}
+        </ul>
+      </div>
     </section>
   )
 }

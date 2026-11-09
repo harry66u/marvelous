@@ -138,7 +138,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q818844"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ability-healing-factor",
@@ -859,7 +860,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1152040"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "ability-intangibility",
@@ -1056,7 +1058,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q47148394"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ability-precognition",
@@ -1171,7 +1174,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q520667"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "ability-pyrokinesis",
@@ -1375,7 +1379,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2069787"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "ability-reality-warping",
@@ -1543,7 +1548,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q21451555"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ability-shapeshifting",
@@ -1864,7 +1870,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1925011"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ability-technopathy",
@@ -2004,7 +2011,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q47148949"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "ability-telekinesis",
@@ -2222,7 +2230,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q186446"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ability-telepathy",
@@ -2653,7 +2662,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q170612"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "ability-teleportation",
@@ -2952,7 +2962,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q11032077"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-avengers-defenders",
@@ -3141,7 +3152,8 @@
    "https://www.wikidata.org/wiki/Q106843272",
    "https://www.wikidata.org/wiki/Q609250"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-avengers-the-fantastic-four",
@@ -3295,7 +3307,8 @@
    "https://www.wikidata.org/wiki/Q106843272",
    "https://www.wikidata.org/wiki/Q152098"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-excalibur-x-men",
@@ -3512,7 +3525,8 @@
    "https://www.wikidata.org/wiki/Q2603976",
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-hellions-new-mutants",
@@ -3622,7 +3636,8 @@
    "https://www.wikidata.org/wiki/Q2295246",
    "https://www.wikidata.org/wiki/Q1047918"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "both-thunderbolts-masters-of-evil",
@@ -3761,7 +3776,8 @@
    "https://www.wikidata.org/wiki/Q2527918",
    "https://www.wikidata.org/wiki/Q2193435"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "both-x-men-brotherhood-of-mutants",
@@ -3960,7 +3976,8 @@
    "https://www.wikidata.org/wiki/Q128452",
    "https://www.wikidata.org/wiki/Q514974"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-x-men-hellfire-club",
@@ -4143,7 +4160,8 @@
    "https://www.wikidata.org/wiki/Q128452",
    "https://www.wikidata.org/wiki/Q2109149"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "both-x-men-new-mutants",
@@ -4436,7 +4454,8 @@
    "https://www.wikidata.org/wiki/Q128452",
    "https://www.wikidata.org/wiki/Q1047918"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "both-x-men-x-factor",
@@ -4636,7 +4655,8 @@
    "https://www.wikidata.org/wiki/Q128452",
    "https://www.wikidata.org/wiki/Q2211423"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "both-x-men-x-force",
@@ -4961,7 +4981,8 @@
    "https://www.wikidata.org/wiki/Q128452",
    "https://www.wikidata.org/wiki/Q938034"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "contains-a-body-part",
@@ -5036,10 +5057,10 @@
     "tier": "restricted"
    },
    {
-    "name": "Deadly Hands",
+    "name": "Brother Hand",
     "aliases": [
-     "Commander Hand",
-     "Brother Hand"
+     "Deadly Hands",
+     "Commander Hand"
     ],
     "share": 0.00861,
     "tier": "classified"
@@ -5183,7 +5204,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-color",
@@ -5207,9 +5229,9 @@
    {
     "name": "Jean Grey",
     "aliases": [
-     "Jean Elaine Grey",
+     "Jean Grey-Summers",
      "Jean Elaine Gray",
-     "Jean Grey-Summers"
+     "Jean Elaine Grey"
     ],
     "share": 0.12476,
     "tier": "common"
@@ -5266,8 +5288,8 @@
     "name": "Doc Green",
     "aliases": [
      "Green Hulk",
-     "Green Goliath",
-     "Jade Giant"
+     "Jade Giant",
+     "Green Goliath"
     ],
     "share": 0.01357,
     "tier": "restricted"
@@ -5421,8 +5443,8 @@
    {
     "name": "Blue Man",
     "aliases": [
-     "Blue Totem",
-     "Scarlet Centurion"
+     "Scarlet Centurion",
+     "Blue Totem"
     ],
     "share": 0.00138,
     "tier": "sealed"
@@ -5890,8 +5912,8 @@
    {
     "name": "John Grey",
     "aliases": [
-     "Dr. John Grey",
-     "Professor John Grey"
+     "Professor John Grey",
+     "Dr. John Grey"
     ],
     "share": 6e-05,
     "tier": "sealed"
@@ -6041,7 +6063,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-job-title",
@@ -6059,8 +6082,8 @@
    {
     "name": "Professor X",
     "aliases": [
-     "Professor Xavier",
-     "Professor"
+     "Professor",
+     "Professor Xavier"
     ],
     "share": 0.15523,
     "tier": "common"
@@ -6710,7 +6733,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-metal",
@@ -6970,7 +6994,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-military-rank",
@@ -7206,16 +7231,16 @@
     "tier": "sealed"
    },
    {
-    "name": "Colonel Bel-Dann",
-    "aliases": [
-     "General Bel-Dann"
-    ],
+    "name": "Colonel Vazhin",
+    "aliases": [],
     "share": 1e-05,
     "tier": "sealed"
    },
    {
-    "name": "Colonel Vazhin",
-    "aliases": [],
+    "name": "General Bel-Dann",
+    "aliases": [
+     "Colonel Bel-Dann"
+    ],
     "share": 1e-05,
     "tier": "sealed"
    }
@@ -7224,7 +7249,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-royal-or-noble-title",
@@ -7518,9 +7544,9 @@
    {
     "name": "Fred Dukes",
     "aliases": [
+     "Frederick J. Dukes",
      "Frederick Dukes",
-     "Freddie Dukes",
-     "Frederick J. Dukes"
+     "Freddie Dukes"
     ],
     "share": 0.00148,
     "tier": "sealed"
@@ -7817,8 +7843,8 @@
     "name": "Lord Samédàr",
     "aliases": [
      "Admiral Lord Samedar",
-     "Admiral Lord Samédàr",
-     "Lord Samedar"
+     "Lord Samedar",
+     "Admiral Lord Samédàr"
     ],
     "share": 1e-05,
     "tier": "sealed"
@@ -7864,7 +7890,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-weapon",
@@ -7874,8 +7901,8 @@
    {
     "name": "Blade",
     "aliases": [
-     "Frank Blade",
-     "Hannibal Francis Blade"
+     "Hannibal Francis Blade",
+     "Frank Blade"
     ],
     "share": 0.44792,
     "tier": "common"
@@ -7883,8 +7910,8 @@
    {
     "name": "Rocket Raccoon",
     "aliases": [
-     "Ranger Rocket",
-     "Rocket"
+     "Rocket",
+     "Ranger Rocket"
     ],
     "share": 0.27023,
     "tier": "common"
@@ -8112,7 +8139,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-weather-word",
@@ -8163,8 +8191,8 @@
    {
     "name": "Johnny Storm",
     "aliases": [
-     "Jonathan Lowell Spencer Storm",
-     "Jonathan Storm"
+     "Jonathan Storm",
+     "Jonathan Lowell Spencer Storm"
     ],
     "share": 0.02477,
     "tier": "restricted"
@@ -8172,9 +8200,9 @@
    {
     "name": "Sue Storm",
     "aliases": [
-     "Susan Storm-Richards",
      "Susan Storm",
-     "Susan Storm Richards"
+     "Susan Storm Richards",
+     "Susan Storm-Richards"
     ],
     "share": 0.02002,
     "tier": "restricted"
@@ -8342,7 +8370,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-a-word-from-outer-space",
@@ -8680,7 +8709,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "contains-an-animal",
@@ -8690,15 +8720,15 @@
    {
     "name": "Spider-Man",
     "aliases": [
+     "The Human Spider",
+     "Shadow Spider",
+     "Spider Man",
+     "Your Friendly Neighborhood Spider-Man",
      "Friendly Neighborhood Spider-Man",
      "Iron Spider",
-     "Spider Man",
-     "The Fantastic Spider-Man",
-     "Your Friendly Neighborhood Spider-Man",
-     "Spiderman",
      "The Amazing Spider-Man",
-     "Shadow Spider",
-     "The Human Spider"
+     "Spiderman",
+     "The Fantastic Spider-Man"
     ],
     "share": 0.481,
     "tier": "common"
@@ -8725,8 +8755,8 @@
    {
     "name": "Ant-Man",
     "aliases": [
-     "Ant Man",
-     "Antman"
+     "Antman",
+     "Ant Man"
     ],
     "share": 0.05237,
     "tier": "filed"
@@ -8742,8 +8772,8 @@
    {
     "name": "Wasp",
     "aliases": [
-     "Winsome Wasp",
-     "The Wasp"
+     "The Wasp",
+     "Winsome Wasp"
     ],
     "share": 0.04738,
     "tier": "filed"
@@ -8996,8 +9026,8 @@
    {
     "name": "Raven",
     "aliases": [
-     "Raven Darkholme",
-     "Raven Darkhölme"
+     "Raven Darkhölme",
+     "Raven Darkholme"
     ],
     "share": 0.0005,
     "tier": "sealed"
@@ -9205,8 +9235,8 @@
    {
     "name": "Jackal",
     "aliases": [
-     "Scarlet Spider",
-     "Spider-Carnage"
+     "Spider-Carnage",
+     "Scarlet Spider"
     ],
     "share": 0.00015,
     "tier": "sealed"
@@ -9479,8 +9509,8 @@
     "name": "Cat God",
     "aliases": [
      "Panther Goddess",
-     "Panther-Spirit",
      "Cat Goddess",
+     "Panther-Spirit",
      "Sacred Black Panther"
     ],
     "share": 1e-05,
@@ -9529,7 +9559,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-al-milgrom",
@@ -9620,7 +9651,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1723117"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-archie-goodwin",
@@ -9719,7 +9751,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q633841"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-bill-everett",
@@ -9853,7 +9886,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1837116"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-bill-mantlo",
@@ -10143,7 +10177,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2323986"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-bob-layton",
@@ -10255,7 +10290,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2907736"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-brian-michael-bendis",
@@ -10405,7 +10441,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q720012"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-chris-claremont",
@@ -12068,7 +12105,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q631369"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-chris-claremont-1970s",
@@ -12580,7 +12618,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q631369"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-chris-claremont-1980s",
@@ -13333,7 +13372,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q631369"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-christina-weir",
@@ -13456,7 +13496,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1083319"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-dave-cockrum",
@@ -13942,7 +13983,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q902536"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-david-michelinie",
@@ -14082,7 +14124,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q352292"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-don-heck",
@@ -14286,10 +14329,12 @@
     "name": "Crimson Dynamo",
     "aliases": [
      "Alexander Nevsky",
+     "Anton Igorevich Vanko",
      "Anton Vanko",
      "Boris Turgenov",
      "Dmitri Bukharin",
      "Galina Nemirovsky",
+     "Ivan Vanko",
      "Valentin Shatalov"
     ],
     "share": 0.0001,
@@ -14338,7 +14383,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2548090"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-doug-moench",
@@ -14438,7 +14484,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q718507"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-ethan-van-sciver",
@@ -14524,7 +14571,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q743003"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-fabian-nicieza",
@@ -14728,7 +14776,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1994601"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-frank-miller",
@@ -14844,7 +14893,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q207676"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-gary-friedrich",
@@ -14941,7 +14991,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q93938"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-gene-colan",
@@ -15152,7 +15203,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1266750"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-george-perez",
@@ -15263,7 +15315,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1375856"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-george-tuska",
@@ -15343,9 +15396,7 @@
      "Boris Turgenov",
      "Dmitri Bukharin",
      "Galina Nemirovsky",
-     "Valentin Shatalov",
-     "Yuri Bezukhov",
-     "Yuri Petrovitch"
+     "Valentin Shatalov"
     ],
     "share": 0.00089,
     "tier": "sealed"
@@ -15376,7 +15427,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2053669"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-gerry-conway",
@@ -15604,7 +15656,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q525314"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-grant-morrison",
@@ -15752,7 +15805,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q943047"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-herb-trimpe",
@@ -15858,7 +15912,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q569239"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-j-m-dematteis",
@@ -15958,7 +16013,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q354298"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-jack-kirby",
@@ -17548,7 +17604,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q311607"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "creator-jim-cheung",
@@ -17666,7 +17723,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1100780"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-jim-starlin",
@@ -17798,7 +17856,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1376982"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-joe-simon",
@@ -17906,7 +17965,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q725384"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-john-buscema",
@@ -18115,7 +18175,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1395905"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-john-byrne",
@@ -18768,7 +18829,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q475618"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-john-cassaday",
@@ -18880,7 +18942,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q286371"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-john-romita-sr",
@@ -19118,7 +19181,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1484216"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-jonathan-hickman",
@@ -19199,7 +19263,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3809926"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-june-brigman",
@@ -19333,7 +19398,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q532874"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-len-wein",
@@ -19568,7 +19634,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q51057"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-louise-simonson",
@@ -19832,7 +19899,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q469794"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-mark-gruenwald",
@@ -19955,7 +20023,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q362217"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-marv-wolfman",
@@ -20117,7 +20186,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1333734"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-neal-adams",
@@ -20248,7 +20318,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1341343"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-nunzio-defilippis",
@@ -20371,7 +20442,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2005172"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-pepe-larraz",
@@ -20462,7 +20534,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q6071777"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-rob-liefeld",
@@ -20630,7 +20703,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2061990"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-ron-frenz",
@@ -20726,7 +20800,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q355775"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-roy-thomas",
@@ -21234,7 +21309,7 @@
    {
     "name": "Doctor Nemesis",
     "aliases": [
-     "Michael Stockton"
+     "James Bradley"
     ],
     "share": 0.00022,
     "tier": "sealed"
@@ -21381,7 +21456,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q981976"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creator-sal-buscema",
@@ -21699,7 +21775,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q723788"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-salvador-larroca",
@@ -21811,7 +21888,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q585741"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-scott-lobdell",
@@ -22028,7 +22106,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1340698"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-stan-lee",
@@ -24313,10 +24392,9 @@
    {
     "name": "Crime-Master",
     "aliases": [
-     "Crime Master I",
-     "Crime-Master I",
-     "Nicholas Lewis",
-     "Nicholas Lewis Sr."
+     "Bennett Brant",
+     "Crime Master III",
+     "Crime-Master III"
     ],
     "share": 1e-05,
     "tier": "sealed"
@@ -24734,7 +24812,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q181900"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "creator-steve-ditko",
@@ -25403,7 +25482,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q355652"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "creator-steve-englehart",
@@ -25528,7 +25608,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q964815"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-tom-defalco",
@@ -25680,7 +25761,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q703897"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creator-werner-roth",
@@ -25820,7 +25902,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q7983490"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-bill-mantlo-sal-buscema",
@@ -25896,7 +25979,8 @@
    "https://www.wikidata.org/wiki/Q2323986",
    "https://www.wikidata.org/wiki/Q723788"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-chris-claremont-sal-buscema",
@@ -26010,7 +26094,8 @@
    "https://www.wikidata.org/wiki/Q631369",
    "https://www.wikidata.org/wiki/Q723788"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-dave-cockrum-chris-claremont",
@@ -26426,7 +26511,8 @@
    "https://www.wikidata.org/wiki/Q902536",
    "https://www.wikidata.org/wiki/Q631369"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-john-byrne-chris-claremont",
@@ -26879,7 +26965,8 @@
    "https://www.wikidata.org/wiki/Q475618",
    "https://www.wikidata.org/wiki/Q631369"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-louise-simonson-june-brigman",
@@ -27008,7 +27095,8 @@
    "https://www.wikidata.org/wiki/Q469794",
    "https://www.wikidata.org/wiki/Q532874"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-rob-liefeld-fabian-nicieza",
@@ -27107,7 +27195,8 @@
    "https://www.wikidata.org/wiki/Q2061990",
    "https://www.wikidata.org/wiki/Q1994601"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-roy-thomas-john-buscema",
@@ -27191,7 +27280,8 @@
    "https://www.wikidata.org/wiki/Q981976",
    "https://www.wikidata.org/wiki/Q1395905"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-roy-thomas-neal-adams",
@@ -27299,7 +27389,8 @@
    "https://www.wikidata.org/wiki/Q981976",
    "https://www.wikidata.org/wiki/Q1341343"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-roy-thomas-werner-roth",
@@ -27423,7 +27514,8 @@
    "https://www.wikidata.org/wiki/Q981976",
    "https://www.wikidata.org/wiki/Q7983490"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-stan-lee-don-heck",
@@ -27573,7 +27665,8 @@
    "https://www.wikidata.org/wiki/Q181900",
    "https://www.wikidata.org/wiki/Q2548090"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "creators-stan-lee-jack-kirby",
@@ -28987,7 +29080,8 @@
    "https://www.wikidata.org/wiki/Q181900",
    "https://www.wikidata.org/wiki/Q311607"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "creators-stan-lee-john-romita-sr",
@@ -29149,7 +29243,8 @@
    "https://www.wikidata.org/wiki/Q181900",
    "https://www.wikidata.org/wiki/Q1484216"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "creators-stan-lee-steve-ditko",
@@ -29795,7 +29890,8 @@
    "https://www.wikidata.org/wiki/Q181900",
    "https://www.wikidata.org/wiki/Q355652"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1960s",
@@ -32813,7 +32909,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1961",
@@ -32949,7 +33046,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1962",
@@ -33402,7 +33500,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1963",
@@ -34010,7 +34109,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1964",
@@ -34480,7 +34580,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1965",
@@ -34832,7 +34933,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1966",
@@ -35191,7 +35293,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1967",
@@ -35462,7 +35565,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1968",
@@ -35727,7 +35831,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1969",
@@ -35924,7 +36029,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1970s",
@@ -37566,7 +37672,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1971",
@@ -37669,7 +37776,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1972",
@@ -37794,7 +37902,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1973",
@@ -37991,7 +38100,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1974",
@@ -38129,7 +38239,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1975",
@@ -38404,7 +38515,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1976",
@@ -38608,7 +38720,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1977",
@@ -38961,7 +39074,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-1978",
@@ -39058,7 +39172,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1979",
@@ -39250,7 +39365,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1980",
@@ -39525,7 +39641,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1980s",
@@ -40979,7 +41096,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-1981",
@@ -41132,7 +41250,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1982",
@@ -41331,7 +41450,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1983",
@@ -41541,7 +41661,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1984",
@@ -41766,7 +41887,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1985",
@@ -41948,7 +42070,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-1986",
@@ -42128,7 +42251,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-amazing-fantasy",
@@ -42274,7 +42398,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-avengers",
@@ -42497,7 +42622,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-in-captain-america",
@@ -42597,7 +42723,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-captain-america-comics",
@@ -42697,7 +42824,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-in-daredevil",
@@ -42840,7 +42968,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-in-fantastic-four",
@@ -43281,7 +43410,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-in-incredible-hulk",
@@ -43482,7 +43612,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-journey-into-mystery",
@@ -43729,7 +43860,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-in-new-mutants",
@@ -43958,7 +44090,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-strange-tales",
@@ -44133,7 +44266,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-in-tales-of-suspense",
@@ -44291,7 +44425,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "debut-in-the-amazing-spider-man",
@@ -45086,7 +45221,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "debut-in-thor",
@@ -45234,7 +45370,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "debut-in-x-men",
@@ -47069,7 +47206,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "ends-boy",
@@ -47137,7 +47275,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ends-girl",
@@ -47239,7 +47378,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ends-king",
@@ -47323,7 +47463,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ends-man",
@@ -47333,12 +47474,12 @@
    {
     "name": "Spider-Man",
     "aliases": [
-     "Friendly Neighborhood Spider-Man",
      "Spider Man",
-     "The Fantastic Spider-Man",
      "Your Friendly Neighborhood Spider-Man",
+     "Friendly Neighborhood Spider-Man",
+     "The Amazing Spider-Man",
      "Spiderman",
-     "The Amazing Spider-Man"
+     "The Fantastic Spider-Man"
     ],
     "share": 0.53213,
     "tier": "common"
@@ -47352,9 +47493,9 @@
    {
     "name": "Ant-Man",
     "aliases": [
+     "Antman",
      "Ant Man",
-     "Giant-Man",
-     "Antman"
+     "Giant-Man"
     ],
     "share": 0.05793,
     "tier": "filed"
@@ -47842,7 +47983,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ends-master",
@@ -47998,7 +48140,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "ends-woman",
@@ -48058,7 +48201,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-avengers",
@@ -48175,7 +48319,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q322646"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "enemy-captain-america",
@@ -48343,7 +48488,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q190679"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "enemy-daredevil",
@@ -48523,7 +48669,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q327553"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "enemy-doctor-doom",
@@ -48675,7 +48822,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q430178"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "enemy-excalibur",
@@ -48770,7 +48918,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2603976"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-hulk",
@@ -48917,7 +49066,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q188760"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-iron-man",
@@ -49058,7 +49208,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q180704"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "enemy-kingpin",
@@ -49176,7 +49327,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1753322"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-new-warriors",
@@ -49256,7 +49408,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2731643"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "enemy-punisher",
@@ -49351,7 +49504,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q729150"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "enemy-spider-man",
@@ -50047,7 +50201,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q79037"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "enemy-spider-man-1960s",
@@ -50340,7 +50495,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q79037"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "enemy-thanos",
@@ -50460,7 +50616,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2276627"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "enemy-the-fantastic-four",
@@ -50600,7 +50757,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q152098"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-thor",
@@ -50780,7 +50938,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q717588"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "enemy-wolverine",
@@ -50928,7 +51087,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q186422"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "enemy-x-men",
@@ -51196,7 +51356,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-agatha-all-along",
@@ -51301,7 +51462,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Agatha_All_Along"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-ant-man",
@@ -51404,7 +51566,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-ant-man-and-the-wasp",
@@ -51527,7 +51690,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-ant-man-and-the-wasp-quantumania",
@@ -51626,7 +51790,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-avengers-age-of-ultron",
@@ -51779,7 +51944,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-avengers-endgame",
@@ -51916,7 +52082,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Endgame"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-avengers-infinity-war",
@@ -52141,7 +52308,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-black-panther",
@@ -52248,7 +52416,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Panther_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-black-panther-wakanda-forever",
@@ -52355,7 +52524,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-black-widow",
@@ -52430,7 +52600,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-captain-america-brave-new-world",
@@ -52513,7 +52684,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-captain-america-civil-war",
@@ -52666,7 +52838,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-captain-america-the-first-avenger",
@@ -52753,7 +52926,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-captain-america-the-winter-soldier",
@@ -52860,7 +53034,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-captain-marvel",
@@ -52949,7 +53124,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-daredevil-born-again",
@@ -53150,7 +53326,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-deadpool-wolverine",
@@ -53225,7 +53402,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Deadpool_&_Wolverine"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-doctor-strange",
@@ -53308,7 +53486,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-doctor-strange-in-the-multiverse-of-madness",
@@ -53375,7 +53554,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-echo",
@@ -53454,7 +53634,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Echo_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-eternals",
@@ -53551,7 +53732,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Eternals_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-guardians-of-the-galaxy",
@@ -53658,7 +53840,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-guardians-of-the-galaxy-vol-2",
@@ -53749,7 +53932,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-guardians-of-the-galaxy-vol-3",
@@ -53864,7 +54048,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-hawkeye",
@@ -53983,7 +54168,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Hawkeye_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-iron-man",
@@ -54040,7 +54226,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-iron-man-2",
@@ -54105,7 +54292,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_2"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-iron-man-3",
@@ -54202,7 +54390,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-ironheart",
@@ -54349,7 +54538,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ironheart_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-loki",
@@ -54504,7 +54694,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Loki_(TV_series)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-moon-knight",
@@ -54611,7 +54802,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Moon_Knight_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-ms-marvel",
@@ -54782,7 +54974,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ms._Marvel_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-secret-invasion",
@@ -54897,7 +55090,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Secret_Invasion_(miniseries)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-shang-chi-and-the-legend-of-the-ten-rings",
@@ -54982,7 +55176,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-she-hulk-attorney-at-law",
@@ -55111,7 +55306,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-spider-man-brand-new-day",
@@ -55192,7 +55388,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-spider-man-far-from-home",
@@ -55289,7 +55486,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-spider-man-homecoming",
@@ -55400,7 +55598,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-spider-man-no-way-home",
@@ -55513,7 +55712,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-ant-man-films",
@@ -55658,7 +55858,8 @@
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp",
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-avengers",
@@ -55739,7 +55940,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-avengers-films",
@@ -55987,7 +56189,8 @@
    "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
    "https://en.wikipedia.org/wiki/Avengers:_Endgame"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-black-panther-films",
@@ -56107,7 +56310,8 @@
    "https://en.wikipedia.org/wiki/Black_Panther_(film)",
    "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-captain-america-films",
@@ -56349,7 +56553,8 @@
    "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
    "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-doctor-strange-films",
@@ -56427,7 +56632,8 @@
    "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)",
    "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-falcon-and-the-winter-soldier",
@@ -56534,7 +56740,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-fantastic-four-first-steps",
@@ -56625,7 +56832,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-guardians-of-the-galaxy-films",
@@ -56758,7 +56966,8 @@
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-guardians-of-the-galaxy-holiday-special",
@@ -56849,7 +57058,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-incredible-hulk",
@@ -56916,7 +57126,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-iron-man-films",
@@ -57043,7 +57254,8 @@
    "https://en.wikipedia.org/wiki/Iron_Man_2",
    "https://en.wikipedia.org/wiki/Iron_Man_3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-marvels",
@@ -57134,7 +57346,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Marvels"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-mcu-spider-man-films",
@@ -57328,7 +57541,8 @@
    "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
    "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-the-thor-films",
@@ -57486,7 +57700,8 @@
    "https://en.wikipedia.org/wiki/Thor:_Ragnarok",
    "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-thor",
@@ -57593,7 +57808,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-thor-love-and-thunder",
@@ -57660,7 +57876,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-thor-ragnarok",
@@ -57743,7 +57960,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-thor-the-dark-world",
@@ -57866,7 +58084,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-thunderbolts",
@@ -57965,7 +58184,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thunderbolts*"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-actor-visionquest",
@@ -58088,7 +58308,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/VisionQuest"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-wandavision",
@@ -58171,7 +58392,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/WandaVision"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-actor-wonder-man",
@@ -58242,7 +58464,240 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Wonder_Man_(TV_series)"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
+ },
+ {
+  "id": "mcu-asgardians",
+  "text": "Name an Asgardian in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Thor",
+    "aliases": [],
+    "share": 0.35503,
+    "tier": "common"
+   },
+   {
+    "name": "Loki",
+    "aliases": [],
+    "share": 0.16563,
+    "tier": "common"
+   },
+   {
+    "name": "Odin",
+    "aliases": [],
+    "share": 0.10603,
+    "tier": "common"
+   },
+   {
+    "name": "Hela",
+    "aliases": [],
+    "share": 0.07727,
+    "tier": "filed"
+   },
+   {
+    "name": "Heimdall",
+    "aliases": [],
+    "share": 0.06045,
+    "tier": "filed"
+   },
+   {
+    "name": "Frigga",
+    "aliases": [],
+    "share": 0.04946,
+    "tier": "filed"
+   },
+   {
+    "name": "Valkyrie",
+    "aliases": [
+     "Brunnhilde"
+    ],
+    "share": 0.04175,
+    "tier": "filed"
+   },
+   {
+    "name": "Sif",
+    "aliases": [
+     "Lady Sif"
+    ],
+    "share": 0.03605,
+    "tier": "filed"
+   },
+   {
+    "name": "Volstagg",
+    "aliases": [],
+    "share": 0.03167,
+    "tier": "filed"
+   },
+   {
+    "name": "Fandral",
+    "aliases": [],
+    "share": 0.0282,
+    "tier": "restricted"
+   },
+   {
+    "name": "Skurge",
+    "aliases": [],
+    "share": 0.02539,
+    "tier": "restricted"
+   },
+   {
+    "name": "Bor",
+    "aliases": [],
+    "share": 0.02308,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-avengers-roster",
+  "text": "Name a member of the Avengers in the MCU films",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Iron Man",
+    "aliases": [
+     "Tony Stark"
+    ],
+    "share": 0.32535,
+    "tier": "common"
+   },
+   {
+    "name": "Captain America",
+    "aliases": [
+     "Steve Rogers"
+    ],
+    "share": 0.15178,
+    "tier": "common"
+   },
+   {
+    "name": "Thor",
+    "aliases": [],
+    "share": 0.09717,
+    "tier": "filed"
+   },
+   {
+    "name": "Hulk",
+    "aliases": [
+     "Bruce Banner"
+    ],
+    "share": 0.07081,
+    "tier": "filed"
+   },
+   {
+    "name": "Black Widow",
+    "aliases": [
+     "Natasha Romanoff"
+    ],
+    "share": 0.0554,
+    "tier": "filed"
+   },
+   {
+    "name": "Hawkeye",
+    "aliases": [
+     "Clint Barton"
+    ],
+    "share": 0.04533,
+    "tier": "filed"
+   },
+   {
+    "name": "Spider-Man",
+    "aliases": [
+     "Peter Parker"
+    ],
+    "share": 0.03826,
+    "tier": "filed"
+   },
+   {
+    "name": "Black Panther",
+    "aliases": [
+     "T'Challa"
+    ],
+    "share": 0.03303,
+    "tier": "filed"
+   },
+   {
+    "name": "Doctor Strange",
+    "aliases": [
+     "Stephen Strange"
+    ],
+    "share": 0.02902,
+    "tier": "restricted"
+   },
+   {
+    "name": "Scarlet Witch",
+    "aliases": [
+     "Wanda Maximoff",
+     "Wanda"
+    ],
+    "share": 0.02584,
+    "tier": "restricted"
+   },
+   {
+    "name": "Vision",
+    "aliases": [],
+    "share": 0.02327,
+    "tier": "restricted"
+   },
+   {
+    "name": "Captain Marvel",
+    "aliases": [
+     "Carol Danvers"
+    ],
+    "share": 0.02115,
+    "tier": "restricted"
+   },
+   {
+    "name": "Falcon",
+    "aliases": [
+     "Sam Wilson"
+    ],
+    "share": 0.01936,
+    "tier": "restricted"
+   },
+   {
+    "name": "War Machine",
+    "aliases": [
+     "James Rhodes",
+     "Rhodey"
+    ],
+    "share": 0.01785,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ant-Man",
+    "aliases": [
+     "Scott Lang"
+    ],
+    "share": 0.01654,
+    "tier": "restricted"
+   },
+   {
+    "name": "Rocket",
+    "aliases": [
+     "Rocket Raccoon"
+    ],
+    "share": 0.01541,
+    "tier": "restricted"
+   },
+   {
+    "name": "Nebula",
+    "aliases": [],
+    "share": 0.01442,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-agatha-all-along",
@@ -58329,7 +58784,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Agatha_All_Along"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-ant-man",
@@ -58418,7 +58874,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-ant-man-and-the-wasp",
@@ -58519,7 +58976,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-ant-man-and-the-wasp-quantumania",
@@ -58590,7 +59048,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-avengers-age-of-ultron",
@@ -58724,7 +59183,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-avengers-endgame",
@@ -58848,7 +59308,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Endgame"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-avengers-infinity-war",
@@ -59044,7 +59505,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-black-panther",
@@ -59132,7 +59594,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Panther_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-black-panther-wakanda-forever",
@@ -59217,7 +59680,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-black-widow",
@@ -59282,7 +59746,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-captain-america-brave-new-world",
@@ -59355,7 +59820,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-captain-america-civil-war",
@@ -59495,7 +59961,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-captain-america-the-first-avenger",
@@ -59576,7 +60043,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-captain-america-the-winter-soldier",
@@ -59669,7 +60137,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-captain-marvel",
@@ -59743,7 +60212,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-daredevil-born-again",
@@ -59917,7 +60387,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-deadpool-wolverine",
@@ -59982,7 +60453,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Deadpool_&_Wolverine"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-doctor-strange",
@@ -60047,7 +60519,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-doctor-strange-in-the-multiverse-of-madness",
@@ -60102,7 +60575,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-echo",
@@ -60175,7 +60649,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Echo_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-eternals",
@@ -60252,7 +60727,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Eternals_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-guardians-of-the-galaxy",
@@ -60339,7 +60815,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-guardians-of-the-galaxy-vol-2",
@@ -60412,7 +60889,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-guardians-of-the-galaxy-vol-3",
@@ -60503,7 +60981,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-hawkeye",
@@ -60604,7 +61083,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Hawkeye_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-iron-man",
@@ -60657,7 +61137,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-iron-man-2",
@@ -60719,7 +61200,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_2"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-iron-man-3",
@@ -60801,7 +61283,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Iron_Man_3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-ironheart",
@@ -60922,7 +61405,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ironheart_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-loki",
@@ -61043,7 +61527,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Loki_(TV_series)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-moon-knight",
@@ -61130,7 +61615,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Moon_Knight_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-ms-marvel",
@@ -61265,7 +61751,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ms._Marvel_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-secret-invasion",
@@ -61359,7 +61846,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Secret_Invasion_(miniseries)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-shang-chi-and-the-legend-of-the-ten-rings",
@@ -61432,7 +61920,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-she-hulk-attorney-at-law",
@@ -61549,7 +62038,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-spider-man-brand-new-day",
@@ -61624,7 +62114,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-spider-man-far-from-home",
@@ -61707,7 +62198,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-spider-man-homecoming",
@@ -61804,7 +62296,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-spider-man-no-way-home",
@@ -61893,7 +62386,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-ant-man-films",
@@ -62063,7 +62557,8 @@
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp",
    "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-avengers",
@@ -62138,7 +62633,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-avengers-films",
@@ -62420,7 +62916,8 @@
    "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
    "https://en.wikipedia.org/wiki/Avengers:_Endgame"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-black-panther-films",
@@ -62544,7 +63041,8 @@
    "https://en.wikipedia.org/wiki/Black_Panther_(film)",
    "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-captain-america-films",
@@ -62822,7 +63320,8 @@
    "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
    "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-doctor-strange-films",
@@ -62902,7 +63401,8 @@
    "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)",
    "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-falcon-and-the-winter-soldier",
@@ -62996,7 +63496,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-fantastic-four-first-steps",
@@ -63079,7 +63580,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-guardians-of-the-galaxy-films",
@@ -63222,7 +63724,8 @@
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
    "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-guardians-of-the-galaxy-holiday-special",
@@ -63295,7 +63798,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-incredible-hulk",
@@ -63350,7 +63854,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-iron-man-films",
@@ -63495,7 +64000,8 @@
    "https://en.wikipedia.org/wiki/Iron_Man_2",
    "https://en.wikipedia.org/wiki/Iron_Man_3"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-marvels",
@@ -63570,7 +64076,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/The_Marvels"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-mcu-spider-man-films",
@@ -63798,7 +64305,8 @@
    "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
    "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-the-thor-films",
@@ -63966,7 +64474,8 @@
    "https://en.wikipedia.org/wiki/Thor:_Ragnarok",
    "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-thor",
@@ -64049,7 +64558,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor_(film)"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-thor-love-and-thunder",
@@ -64104,7 +64614,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-thor-ragnarok",
@@ -64171,7 +64682,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-thor-the-dark-world",
@@ -64268,7 +64780,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-thunderbolts",
@@ -64359,7 +64872,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Thunderbolts*"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-cast-visionquest",
@@ -64461,7 +64975,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/VisionQuest"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-wandavision",
@@ -64528,7 +65043,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/WandaVision"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-cast-wonder-man",
@@ -64583,7 +65099,215 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Wonder_Man_(TV_series)"
   ],
-  "difficulty": 2
+  "difficulty": 3,
+  "screen": true
+ },
+ {
+  "id": "mcu-directors",
+  "text": "Name a director of an MCU film",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Russo brothers",
+    "aliases": [
+     "Anthony Russo",
+     "Joe Russo",
+     "Russo",
+     "The Russos"
+    ],
+    "share": 0.30102,
+    "tier": "common"
+   },
+   {
+    "name": "James Gunn",
+    "aliases": [
+     "Gunn"
+    ],
+    "share": 0.14043,
+    "tier": "common"
+   },
+   {
+    "name": "Taika Waititi",
+    "aliases": [
+     "Waititi"
+    ],
+    "share": 0.0899,
+    "tier": "filed"
+   },
+   {
+    "name": "Jon Favreau",
+    "aliases": [
+     "Favreau"
+    ],
+    "share": 0.06551,
+    "tier": "filed"
+   },
+   {
+    "name": "Joss Whedon",
+    "aliases": [
+     "Whedon"
+    ],
+    "share": 0.05125,
+    "tier": "filed"
+   },
+   {
+    "name": "Ryan Coogler",
+    "aliases": [
+     "Coogler"
+    ],
+    "share": 0.04194,
+    "tier": "filed"
+   },
+   {
+    "name": "Jon Watts",
+    "aliases": [
+     "Watts"
+    ],
+    "share": 0.0354,
+    "tier": "filed"
+   },
+   {
+    "name": "Sam Raimi",
+    "aliases": [
+     "Raimi"
+    ],
+    "share": 0.03056,
+    "tier": "filed"
+   },
+   {
+    "name": "Kenneth Branagh",
+    "aliases": [
+     "Branagh"
+    ],
+    "share": 0.02685,
+    "tier": "restricted"
+   },
+   {
+    "name": "Scott Derrickson",
+    "aliases": [
+     "Derrickson"
+    ],
+    "share": 0.02391,
+    "tier": "restricted"
+   },
+   {
+    "name": "Shane Black",
+    "aliases": [],
+    "share": 0.02153,
+    "tier": "restricted"
+   },
+   {
+    "name": "Peyton Reed",
+    "aliases": [
+     "Reed"
+    ],
+    "share": 0.01957,
+    "tier": "restricted"
+   },
+   {
+    "name": "Joe Johnston",
+    "aliases": [
+     "Johnston"
+    ],
+    "share": 0.01792,
+    "tier": "restricted"
+   },
+   {
+    "name": "Chloé Zhao",
+    "aliases": [
+     "Chloe Zhao",
+     "Zhao"
+    ],
+    "share": 0.01651,
+    "tier": "restricted"
+   },
+   {
+    "name": "Shawn Levy",
+    "aliases": [
+     "Levy"
+    ],
+    "share": 0.01531,
+    "tier": "restricted"
+   },
+   {
+    "name": "Alan Taylor",
+    "aliases": [],
+    "share": 0.01426,
+    "tier": "restricted"
+   },
+   {
+    "name": "Louis Leterrier",
+    "aliases": [
+     "Leterrier"
+    ],
+    "share": 0.01334,
+    "tier": "restricted"
+   },
+   {
+    "name": "Cate Shortland",
+    "aliases": [
+     "Shortland"
+    ],
+    "share": 0.01253,
+    "tier": "restricted"
+   },
+   {
+    "name": "Destin Daniel Cretton",
+    "aliases": [
+     "Cretton"
+    ],
+    "share": 0.0118,
+    "tier": "restricted"
+   },
+   {
+    "name": "Anna Boden and Ryan Fleck",
+    "aliases": [
+     "Anna Boden",
+     "Ryan Fleck",
+     "Boden",
+     "Fleck"
+    ],
+    "share": 0.01115,
+    "tier": "restricted"
+   },
+   {
+    "name": "Nia DaCosta",
+    "aliases": [
+     "DaCosta"
+    ],
+    "share": 0.01057,
+    "tier": "restricted"
+   },
+   {
+    "name": "Julius Onah",
+    "aliases": [
+     "Onah"
+    ],
+    "share": 0.01004,
+    "tier": "restricted"
+   },
+   {
+    "name": "Jake Schreier",
+    "aliases": [
+     "Schreier"
+    ],
+    "share": 0.00957,
+    "tier": "classified"
+   },
+   {
+    "name": "Matt Shakman",
+    "aliases": [
+     "Shakman"
+    ],
+    "share": 0.00913,
+    "tier": "classified"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 2,
+  "screen": true
  },
  {
   "id": "mcu-disney-series",
@@ -64682,7 +65406,321 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-film-villains",
+  "text": "Name the villain of an MCU film",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Thanos",
+    "aliases": [],
+    "share": 0.27189,
+    "tier": "common"
+   },
+   {
+    "name": "Loki",
+    "aliases": [],
+    "share": 0.12684,
+    "tier": "common"
+   },
+   {
+    "name": "Ultron",
+    "aliases": [],
+    "share": 0.0812,
+    "tier": "filed"
+   },
+   {
+    "name": "Killmonger",
+    "aliases": [
+     "Erik Killmonger",
+     "N'Jadaka"
+    ],
+    "share": 0.05917,
+    "tier": "filed"
+   },
+   {
+    "name": "Hela",
+    "aliases": [],
+    "share": 0.04629,
+    "tier": "filed"
+   },
+   {
+    "name": "Red Skull",
+    "aliases": [
+     "Johann Schmidt"
+    ],
+    "share": 0.03788,
+    "tier": "filed"
+   },
+   {
+    "name": "Mysterio",
+    "aliases": [
+     "Quentin Beck"
+    ],
+    "share": 0.03197,
+    "tier": "filed"
+   },
+   {
+    "name": "Vulture",
+    "aliases": [
+     "Adrian Toomes"
+    ],
+    "share": 0.0276,
+    "tier": "restricted"
+   },
+   {
+    "name": "Green Goblin",
+    "aliases": [
+     "Norman Osborn"
+    ],
+    "share": 0.02425,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ego",
+    "aliases": [
+     "Ego the Living Planet"
+    ],
+    "share": 0.0216,
+    "tier": "restricted"
+   },
+   {
+    "name": "Kang the Conqueror",
+    "aliases": [
+     "Kang",
+     "He Who Remains"
+    ],
+    "share": 0.01945,
+    "tier": "restricted"
+   },
+   {
+    "name": "Doctor Octopus",
+    "aliases": [
+     "Doc Ock",
+     "Otto Octavius"
+    ],
+    "share": 0.01767,
+    "tier": "restricted"
+   },
+   {
+    "name": "Iron Monger",
+    "aliases": [
+     "Obadiah Stane"
+    ],
+    "share": 0.01618,
+    "tier": "restricted"
+   },
+   {
+    "name": "Abomination",
+    "aliases": [
+     "Emil Blonsky"
+    ],
+    "share": 0.01492,
+    "tier": "restricted"
+   },
+   {
+    "name": "Whiplash",
+    "aliases": [
+     "Ivan Vanko"
+    ],
+    "share": 0.01383,
+    "tier": "restricted"
+   },
+   {
+    "name": "Aldrich Killian",
+    "aliases": [
+     "Killian"
+    ],
+    "share": 0.01288,
+    "tier": "restricted"
+   },
+   {
+    "name": "Malekith",
+    "aliases": [],
+    "share": 0.01205,
+    "tier": "restricted"
+   },
+   {
+    "name": "Alexander Pierce",
+    "aliases": [
+     "Pierce"
+    ],
+    "share": 0.01131,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ronan the Accuser",
+    "aliases": [
+     "Ronan"
+    ],
+    "share": 0.01066,
+    "tier": "restricted"
+   },
+   {
+    "name": "Yellowjacket",
+    "aliases": [
+     "Darren Cross"
+    ],
+    "share": 0.01008,
+    "tier": "restricted"
+   },
+   {
+    "name": "Baron Zemo",
+    "aliases": [
+     "Helmut Zemo",
+     "Zemo"
+    ],
+    "share": 0.00955,
+    "tier": "classified"
+   },
+   {
+    "name": "Kaecilius",
+    "aliases": [],
+    "share": 0.00907,
+    "tier": "classified"
+   },
+   {
+    "name": "Ghost",
+    "aliases": [
+     "Ava Starr"
+    ],
+    "share": 0.00864,
+    "tier": "classified"
+   },
+   {
+    "name": "Yon-Rogg",
+    "aliases": [],
+    "share": 0.00824,
+    "tier": "classified"
+   },
+   {
+    "name": "Taskmaster",
+    "aliases": [
+     "Antonia Dreykov"
+    ],
+    "share": 0.00788,
+    "tier": "classified"
+   },
+   {
+    "name": "Dreykov",
+    "aliases": [
+     "General Dreykov"
+    ],
+    "share": 0.00755,
+    "tier": "classified"
+   },
+   {
+    "name": "Wenwu",
+    "aliases": [
+     "Xu Wenwu",
+     "The Mandarin"
+    ],
+    "share": 0.00724,
+    "tier": "classified"
+   },
+   {
+    "name": "Kro",
+    "aliases": [],
+    "share": 0.00696,
+    "tier": "classified"
+   },
+   {
+    "name": "Electro",
+    "aliases": [
+     "Max Dillon"
+    ],
+    "share": 0.00669,
+    "tier": "classified"
+   },
+   {
+    "name": "Sandman",
+    "aliases": [
+     "Flint Marko"
+    ],
+    "share": 0.00645,
+    "tier": "classified"
+   },
+   {
+    "name": "Lizard",
+    "aliases": [
+     "Curt Connors"
+    ],
+    "share": 0.00622,
+    "tier": "classified"
+   },
+   {
+    "name": "Gorr the God Butcher",
+    "aliases": [
+     "Gorr"
+    ],
+    "share": 0.00601,
+    "tier": "classified"
+   },
+   {
+    "name": "Namor",
+    "aliases": [],
+    "share": 0.00581,
+    "tier": "classified"
+   },
+   {
+    "name": "High Evolutionary",
+    "aliases": [],
+    "share": 0.00562,
+    "tier": "classified"
+   },
+   {
+    "name": "Dar-Benn",
+    "aliases": [],
+    "share": 0.00544,
+    "tier": "classified"
+   },
+   {
+    "name": "Cassandra Nova",
+    "aliases": [],
+    "share": 0.00528,
+    "tier": "classified"
+   },
+   {
+    "name": "Red Hulk",
+    "aliases": [
+     "Thaddeus Ross",
+     "Thunderbolt Ross"
+    ],
+    "share": 0.00512,
+    "tier": "classified"
+   },
+   {
+    "name": "Galactus",
+    "aliases": [],
+    "share": 0.00497,
+    "tier": "classified"
+   },
+   {
+    "name": "Silver Surfer",
+    "aliases": [
+     "Shalla-Bal"
+    ],
+    "share": 0.00483,
+    "tier": "classified"
+   },
+   {
+    "name": "Sentry",
+    "aliases": [
+     "The Void",
+     "Bob"
+    ],
+    "share": 0.0047,
+    "tier": "classified"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-films-2010s",
@@ -64839,7 +65877,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-films-2020s",
@@ -64954,7 +65993,531 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-fliers",
+  "text": "Name an MCU hero who can fly",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Iron Man",
+    "aliases": [
+     "Tony Stark"
+    ],
+    "share": 0.34768,
+    "tier": "common"
+   },
+   {
+    "name": "Thor",
+    "aliases": [],
+    "share": 0.1622,
+    "tier": "common"
+   },
+   {
+    "name": "Captain Marvel",
+    "aliases": [
+     "Carol Danvers"
+    ],
+    "share": 0.10384,
+    "tier": "common"
+   },
+   {
+    "name": "Vision",
+    "aliases": [],
+    "share": 0.07567,
+    "tier": "filed"
+   },
+   {
+    "name": "Falcon",
+    "aliases": [
+     "Sam Wilson"
+    ],
+    "share": 0.0592,
+    "tier": "filed"
+   },
+   {
+    "name": "War Machine",
+    "aliases": [
+     "James Rhodes",
+     "Rhodey"
+    ],
+    "share": 0.04844,
+    "tier": "filed"
+   },
+   {
+    "name": "Scarlet Witch",
+    "aliases": [
+     "Wanda Maximoff",
+     "Wanda"
+    ],
+    "share": 0.04089,
+    "tier": "filed"
+   },
+   {
+    "name": "Doctor Strange",
+    "aliases": [
+     "Stephen Strange"
+    ],
+    "share": 0.0353,
+    "tier": "filed"
+   },
+   {
+    "name": "Star-Lord",
+    "aliases": [
+     "Peter Quill"
+    ],
+    "share": 0.03101,
+    "tier": "filed"
+   },
+   {
+    "name": "Ikaris",
+    "aliases": [],
+    "share": 0.02762,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ironheart",
+    "aliases": [
+     "Riri Williams"
+    ],
+    "share": 0.02487,
+    "tier": "restricted"
+   },
+   {
+    "name": "Rescue",
+    "aliases": [
+     "Pepper Potts"
+    ],
+    "share": 0.0226,
+    "tier": "restricted"
+   },
+   {
+    "name": "Sentry",
+    "aliases": [
+     "Bob"
+    ],
+    "share": 0.02069,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-gamma",
+  "text": "Name a gamma-powered character in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Hulk",
+    "aliases": [
+     "Bruce Banner"
+    ],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "She-Hulk",
+    "aliases": [
+     "Jennifer Walters",
+     "Jen Walters"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Abomination",
+    "aliases": [
+     "Emil Blonsky"
+    ],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Red Hulk",
+    "aliases": [
+     "Thaddeus Ross",
+     "Thunderbolt Ross"
+    ],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "The Leader",
+    "aliases": [
+     "Samuel Sterns",
+     "Leader"
+    ],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Skaar",
+    "aliases": [],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-guardians",
+  "text": "Name a member of the Guardians of the Galaxy in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Star-Lord",
+    "aliases": [
+     "Peter Quill",
+     "Quill"
+    ],
+    "share": 0.36341,
+    "tier": "common"
+   },
+   {
+    "name": "Gamora",
+    "aliases": [],
+    "share": 0.16954,
+    "tier": "common"
+   },
+   {
+    "name": "Rocket",
+    "aliases": [
+     "Rocket Raccoon"
+    ],
+    "share": 0.10853,
+    "tier": "common"
+   },
+   {
+    "name": "Groot",
+    "aliases": [
+     "Baby Groot",
+     "I am Groot"
+    ],
+    "share": 0.07909,
+    "tier": "filed"
+   },
+   {
+    "name": "Drax",
+    "aliases": [
+     "Drax the Destroyer"
+    ],
+    "share": 0.06188,
+    "tier": "filed"
+   },
+   {
+    "name": "Mantis",
+    "aliases": [],
+    "share": 0.05063,
+    "tier": "filed"
+   },
+   {
+    "name": "Nebula",
+    "aliases": [],
+    "share": 0.04274,
+    "tier": "filed"
+   },
+   {
+    "name": "Kraglin",
+    "aliases": [],
+    "share": 0.0369,
+    "tier": "filed"
+   },
+   {
+    "name": "Cosmo",
+    "aliases": [
+     "Cosmo the Spacedog"
+    ],
+    "share": 0.03241,
+    "tier": "filed"
+   },
+   {
+    "name": "Adam Warlock",
+    "aliases": [],
+    "share": 0.02887,
+    "tier": "restricted"
+   },
+   {
+    "name": "Phyla",
+    "aliases": [],
+    "share": 0.02599,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-heroes-shows",
+  "text": "Name the title hero of an MCU Disney+ series",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Loki",
+    "aliases": [],
+    "share": 0.34117,
+    "tier": "common"
+   },
+   {
+    "name": "Scarlet Witch",
+    "aliases": [
+     "Wanda Maximoff",
+     "Wanda"
+    ],
+    "share": 0.15916,
+    "tier": "common"
+   },
+   {
+    "name": "Hawkeye",
+    "aliases": [
+     "Clint Barton",
+     "Kate Bishop"
+    ],
+    "share": 0.10189,
+    "tier": "common"
+   },
+   {
+    "name": "Moon Knight",
+    "aliases": [
+     "Marc Spector",
+     "Steven Grant"
+    ],
+    "share": 0.07425,
+    "tier": "filed"
+   },
+   {
+    "name": "Ms. Marvel",
+    "aliases": [
+     "Kamala Khan"
+    ],
+    "share": 0.05809,
+    "tier": "filed"
+   },
+   {
+    "name": "She-Hulk",
+    "aliases": [
+     "Jennifer Walters",
+     "Jen Walters"
+    ],
+    "share": 0.04753,
+    "tier": "filed"
+   },
+   {
+    "name": "Falcon",
+    "aliases": [
+     "Sam Wilson"
+    ],
+    "share": 0.04012,
+    "tier": "filed"
+   },
+   {
+    "name": "Winter Soldier",
+    "aliases": [
+     "Bucky Barnes",
+     "Bucky"
+    ],
+    "share": 0.03464,
+    "tier": "filed"
+   },
+   {
+    "name": "Daredevil",
+    "aliases": [
+     "Matt Murdock"
+    ],
+    "share": 0.03043,
+    "tier": "filed"
+   },
+   {
+    "name": "Echo",
+    "aliases": [
+     "Maya Lopez"
+    ],
+    "share": 0.0271,
+    "tier": "restricted"
+   },
+   {
+    "name": "Agatha Harkness",
+    "aliases": [
+     "Agatha"
+    ],
+    "share": 0.0244,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ironheart",
+    "aliases": [
+     "Riri Williams"
+    ],
+    "share": 0.02218,
+    "tier": "restricted"
+   },
+   {
+    "name": "Wonder Man",
+    "aliases": [
+     "Simon Williams"
+    ],
+    "share": 0.02031,
+    "tier": "restricted"
+   },
+   {
+    "name": "Vision",
+    "aliases": [],
+    "share": 0.01872,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-hydra",
+  "text": "Name a Hydra member from the MCU films",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Red Skull",
+    "aliases": [
+     "Johann Schmidt"
+    ],
+    "share": 0.41494,
+    "tier": "common"
+   },
+   {
+    "name": "Arnim Zola",
+    "aliases": [
+     "Zola"
+    ],
+    "share": 0.19358,
+    "tier": "common"
+   },
+   {
+    "name": "Alexander Pierce",
+    "aliases": [
+     "Pierce"
+    ],
+    "share": 0.12392,
+    "tier": "common"
+   },
+   {
+    "name": "Brock Rumlow",
+    "aliases": [
+     "Rumlow",
+     "Crossbones"
+    ],
+    "share": 0.09031,
+    "tier": "filed"
+   },
+   {
+    "name": "Jasper Sitwell",
+    "aliases": [
+     "Sitwell"
+    ],
+    "share": 0.07065,
+    "tier": "filed"
+   },
+   {
+    "name": "Baron Strucker",
+    "aliases": [
+     "Wolfgang von Strucker",
+     "Strucker"
+    ],
+    "share": 0.05781,
+    "tier": "filed"
+   },
+   {
+    "name": "Winter Soldier",
+    "aliases": [
+     "Bucky Barnes",
+     "Bucky"
+    ],
+    "share": 0.0488,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 2,
+  "screen": true
+ },
+ {
+  "id": "mcu-infinity-stones",
+  "text": "Name an Infinity Stone",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Mind Stone",
+    "aliases": [
+     "Mind"
+    ],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Time Stone",
+    "aliases": [
+     "Time",
+     "Eye of Agamotto"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Space Stone",
+    "aliases": [
+     "Space",
+     "Tesseract"
+    ],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Soul Stone",
+    "aliases": [
+     "Soul"
+    ],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Reality Stone",
+    "aliases": [
+     "Reality",
+     "Aether"
+    ],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Power Stone",
+    "aliases": [
+     "Power",
+     "Orb"
+    ],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-intro-ant-man",
@@ -65097,7 +66660,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-ant-man-and-the-wasp",
@@ -65174,7 +66738,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-avengers-age-of-ultron",
@@ -65251,7 +66816,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-black-panther",
@@ -65343,7 +66909,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-captain-america-civil-war",
@@ -65437,7 +67004,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-captain-america-the-winter-soldier",
@@ -65566,7 +67134,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-captain-marvel",
@@ -65693,7 +67262,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-doctor-strange",
@@ -65806,7 +67376,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-eternals",
@@ -65867,7 +67438,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-guardians-of-the-galaxy",
@@ -66010,7 +67582,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-guardians-of-the-galaxy-vol-2",
@@ -66135,7 +67708,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-iron-man",
@@ -66303,7 +67877,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-iron-man-2",
@@ -66398,7 +67973,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-iron-man-3",
@@ -66499,7 +68075,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-spider-man-far-from-home",
@@ -66602,7 +68179,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-spider-man-homecoming",
@@ -66791,7 +68369,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-the-avengers",
@@ -66856,7 +68435,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-the-incredible-hulk",
@@ -66948,7 +68528,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-thor",
@@ -67090,7 +68671,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-thor-ragnarok",
@@ -67169,7 +68751,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
  },
  {
   "id": "mcu-intro-thor-the-dark-world",
@@ -67252,7 +68835,230 @@
   "sources": [
    "https://www.wikidata.org/wiki/Property:P4584"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": true
+ },
+ {
+  "id": "mcu-mjolnir",
+  "text": "Name a character who has held Mjolnir in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Thor",
+    "aliases": [],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Captain America",
+    "aliases": [
+     "Steve Rogers"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Jane Foster",
+    "aliases": [
+     "Mighty Thor"
+    ],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Vision",
+    "aliases": [],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Odin",
+    "aliases": [],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Hela",
+    "aliases": [],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 2,
+  "screen": true
+ },
+ {
+  "id": "mcu-original-avengers",
+  "text": "Name one of the six original Avengers from The Avengers (2012)",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Iron Man",
+    "aliases": [
+     "Tony Stark"
+    ],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Captain America",
+    "aliases": [
+     "Steve Rogers"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Thor",
+    "aliases": [],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Hulk",
+    "aliases": [
+     "Bruce Banner"
+    ],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Black Widow",
+    "aliases": [
+     "Natasha Romanoff"
+    ],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Hawkeye",
+    "aliases": [
+     "Clint Barton"
+    ],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-phase-five",
+  "text": "Name an MCU film from Phase Five",
+  "category": "mcu-titles",
+  "answers": [
+   {
+    "name": "Ant-Man and the Wasp: Quantumania",
+    "aliases": [
+     "Quantumania"
+    ],
+    "share": 0.22507,
+    "tier": "common"
+   },
+   {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "aliases": [],
+    "share": 0.22507,
+    "tier": "common"
+   },
+   {
+    "name": "The Marvels",
+    "aliases": [],
+    "share": 0.22507,
+    "tier": "common"
+   },
+   {
+    "name": "Deadpool & Wolverine",
+    "aliases": [],
+    "share": 0.15069,
+    "tier": "common"
+   },
+   {
+    "name": "Captain America: Brave New World",
+    "aliases": [
+     "Brave New World"
+    ],
+    "share": 0.08705,
+    "tier": "filed"
+   },
+   {
+    "name": "Thunderbolts*",
+    "aliases": [],
+    "share": 0.08705,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-phase-four",
+  "text": "Name an MCU film from Phase Four",
+  "category": "mcu-titles",
+  "answers": [
+   {
+    "name": "Black Widow",
+    "aliases": [],
+    "share": 0.15804,
+    "tier": "common"
+   },
+   {
+    "name": "Eternals",
+    "aliases": [],
+    "share": 0.15804,
+    "tier": "common"
+   },
+   {
+    "name": "Shang-Chi and the Legend of the Ten Rings",
+    "aliases": [],
+    "share": 0.15804,
+    "tier": "common"
+   },
+   {
+    "name": "Spider-Man: No Way Home",
+    "aliases": [
+     "No Way Home"
+    ],
+    "share": 0.15804,
+    "tier": "common"
+   },
+   {
+    "name": "Black Panther: Wakanda Forever",
+    "aliases": [
+     "Wakanda Forever"
+    ],
+    "share": 0.12262,
+    "tier": "common"
+   },
+   {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "aliases": [],
+    "share": 0.12262,
+    "tier": "common"
+   },
+   {
+    "name": "Thor: Love and Thunder",
+    "aliases": [
+     "Love and Thunder"
+    ],
+    "share": 0.12262,
+    "tier": "common"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
+  ],
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-phase-one",
@@ -67301,7 +69107,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-phase-three",
@@ -67390,7 +69197,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "mcu-phase-two",
@@ -67443,7 +69251,1111 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-places-cosmic",
+  "text": "Name a planet, realm or dimension in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Asgard",
+    "aliases": [],
+    "share": 0.31702,
+    "tier": "common"
+   },
+   {
+    "name": "Titan",
+    "aliases": [],
+    "share": 0.14789,
+    "tier": "common"
+   },
+   {
+    "name": "Vormir",
+    "aliases": [],
+    "share": 0.09468,
+    "tier": "filed"
+   },
+   {
+    "name": "Sakaar",
+    "aliases": [],
+    "share": 0.06899,
+    "tier": "filed"
+   },
+   {
+    "name": "Xandar",
+    "aliases": [],
+    "share": 0.05398,
+    "tier": "filed"
+   },
+   {
+    "name": "Knowhere",
+    "aliases": [],
+    "share": 0.04417,
+    "tier": "filed"
+   },
+   {
+    "name": "Quantum Realm",
+    "aliases": [],
+    "share": 0.03728,
+    "tier": "filed"
+   },
+   {
+    "name": "Jotunheim",
+    "aliases": [],
+    "share": 0.03219,
+    "tier": "filed"
+   },
+   {
+    "name": "Hala",
+    "aliases": [],
+    "share": 0.02828,
+    "tier": "restricted"
+   },
+   {
+    "name": "Nidavellir",
+    "aliases": [],
+    "share": 0.02518,
+    "tier": "restricted"
+   },
+   {
+    "name": "Svartalfheim",
+    "aliases": [],
+    "share": 0.02268,
+    "tier": "restricted"
+   },
+   {
+    "name": "Vanaheim",
+    "aliases": [],
+    "share": 0.02061,
+    "tier": "restricted"
+   },
+   {
+    "name": "Morag",
+    "aliases": [],
+    "share": 0.01887,
+    "tier": "restricted"
+   },
+   {
+    "name": "Dark Dimension",
+    "aliases": [],
+    "share": 0.01739,
+    "tier": "restricted"
+   },
+   {
+    "name": "Mirror Dimension",
+    "aliases": [],
+    "share": 0.01612,
+    "tier": "restricted"
+   },
+   {
+    "name": "Contraxia",
+    "aliases": [],
+    "share": 0.01502,
+    "tier": "restricted"
+   },
+   {
+    "name": "Berhert",
+    "aliases": [],
+    "share": 0.01405,
+    "tier": "restricted"
+   },
+   {
+    "name": "Counter-Earth",
+    "aliases": [],
+    "share": 0.01319,
+    "tier": "restricted"
+   },
+   {
+    "name": "Omnipotence City",
+    "aliases": [],
+    "share": 0.01243,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-places-earth",
+  "text": "Name a fictional country, city or hidden place on Earth in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Wakanda",
+    "aliases": [],
+    "share": 0.38451,
+    "tier": "common"
+   },
+   {
+    "name": "Sokovia",
+    "aliases": [],
+    "share": 0.17938,
+    "tier": "common"
+   },
+   {
+    "name": "New Asgard",
+    "aliases": [],
+    "share": 0.11483,
+    "tier": "common"
+   },
+   {
+    "name": "Kamar-Taj",
+    "aliases": [],
+    "share": 0.08368,
+    "tier": "filed"
+   },
+   {
+    "name": "Talokan",
+    "aliases": [],
+    "share": 0.06547,
+    "tier": "filed"
+   },
+   {
+    "name": "Ta Lo",
+    "aliases": [],
+    "share": 0.05357,
+    "tier": "filed"
+   },
+   {
+    "name": "Westview",
+    "aliases": [],
+    "share": 0.04522,
+    "tier": "filed"
+   },
+   {
+    "name": "Madripoor",
+    "aliases": [],
+    "share": 0.03904,
+    "tier": "filed"
+   },
+   {
+    "name": "Puente Antiguo",
+    "aliases": [],
+    "share": 0.0343,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-pym-tech",
+  "text": "Name a character who has shrunk with Pym Particles in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Ant-Man",
+    "aliases": [
+     "Scott Lang"
+    ],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Wasp",
+    "aliases": [
+     "Hope van Dyne"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Hank Pym",
+    "aliases": [],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Janet van Dyne",
+    "aliases": [],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Yellowjacket",
+    "aliases": [
+     "Darren Cross"
+    ],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Cassie Lang",
+    "aliases": [
+     "Stature"
+    ],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-shield",
+  "text": "Name a S.H.I.E.L.D. agent from the MCU films",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Nick Fury",
+    "aliases": [
+     "Fury"
+    ],
+    "share": 0.38451,
+    "tier": "common"
+   },
+   {
+    "name": "Phil Coulson",
+    "aliases": [
+     "Coulson"
+    ],
+    "share": 0.17938,
+    "tier": "common"
+   },
+   {
+    "name": "Black Widow",
+    "aliases": [
+     "Natasha Romanoff"
+    ],
+    "share": 0.11483,
+    "tier": "common"
+   },
+   {
+    "name": "Maria Hill",
+    "aliases": [],
+    "share": 0.08368,
+    "tier": "filed"
+   },
+   {
+    "name": "Hawkeye",
+    "aliases": [
+     "Clint Barton"
+    ],
+    "share": 0.06547,
+    "tier": "filed"
+   },
+   {
+    "name": "Sharon Carter",
+    "aliases": [
+     "Agent 13"
+    ],
+    "share": 0.05357,
+    "tier": "filed"
+   },
+   {
+    "name": "Jasper Sitwell",
+    "aliases": [
+     "Sitwell"
+    ],
+    "share": 0.04522,
+    "tier": "filed"
+   },
+   {
+    "name": "Brock Rumlow",
+    "aliases": [
+     "Rumlow",
+     "Crossbones"
+    ],
+    "share": 0.03904,
+    "tier": "filed"
+   },
+   {
+    "name": "Peggy Carter",
+    "aliases": [],
+    "share": 0.0343,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-snapped",
+  "text": "Name a character who turned to dust in the Snap in Avengers: Infinity War",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Spider-Man",
+    "aliases": [
+     "Peter Parker"
+    ],
+    "share": 0.33536,
+    "tier": "common"
+   },
+   {
+    "name": "Black Panther",
+    "aliases": [
+     "T'Challa"
+    ],
+    "share": 0.15645,
+    "tier": "common"
+   },
+   {
+    "name": "Doctor Strange",
+    "aliases": [
+     "Stephen Strange"
+    ],
+    "share": 0.10015,
+    "tier": "common"
+   },
+   {
+    "name": "Star-Lord",
+    "aliases": [
+     "Peter Quill"
+    ],
+    "share": 0.07299,
+    "tier": "filed"
+   },
+   {
+    "name": "Groot",
+    "aliases": [],
+    "share": 0.0571,
+    "tier": "filed"
+   },
+   {
+    "name": "Scarlet Witch",
+    "aliases": [
+     "Wanda Maximoff",
+     "Wanda"
+    ],
+    "share": 0.04672,
+    "tier": "filed"
+   },
+   {
+    "name": "Winter Soldier",
+    "aliases": [
+     "Bucky Barnes",
+     "Bucky"
+    ],
+    "share": 0.03944,
+    "tier": "filed"
+   },
+   {
+    "name": "Falcon",
+    "aliases": [
+     "Sam Wilson"
+    ],
+    "share": 0.03405,
+    "tier": "filed"
+   },
+   {
+    "name": "Nick Fury",
+    "aliases": [
+     "Fury"
+    ],
+    "share": 0.02991,
+    "tier": "restricted"
+   },
+   {
+    "name": "Drax",
+    "aliases": [
+     "Drax the Destroyer"
+    ],
+    "share": 0.02664,
+    "tier": "restricted"
+   },
+   {
+    "name": "Mantis",
+    "aliases": [],
+    "share": 0.02399,
+    "tier": "restricted"
+   },
+   {
+    "name": "Maria Hill",
+    "aliases": [],
+    "share": 0.0218,
+    "tier": "restricted"
+   },
+   {
+    "name": "Wasp",
+    "aliases": [
+     "Hope van Dyne"
+    ],
+    "share": 0.01996,
+    "tier": "restricted"
+   },
+   {
+    "name": "Hank Pym",
+    "aliases": [],
+    "share": 0.0184,
+    "tier": "restricted"
+   },
+   {
+    "name": "Janet van Dyne",
+    "aliases": [],
+    "share": 0.01705,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-spider-man-villains",
+  "text": "Name a villain from the MCU Spider-Man films",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Mysterio",
+    "aliases": [
+     "Quentin Beck"
+    ],
+    "share": 0.37311,
+    "tier": "common"
+   },
+   {
+    "name": "Vulture",
+    "aliases": [
+     "Adrian Toomes"
+    ],
+    "share": 0.17406,
+    "tier": "common"
+   },
+   {
+    "name": "Green Goblin",
+    "aliases": [
+     "Norman Osborn"
+    ],
+    "share": 0.11143,
+    "tier": "common"
+   },
+   {
+    "name": "Doctor Octopus",
+    "aliases": [
+     "Doc Ock",
+     "Otto Octavius"
+    ],
+    "share": 0.0812,
+    "tier": "filed"
+   },
+   {
+    "name": "Electro",
+    "aliases": [
+     "Max Dillon"
+    ],
+    "share": 0.06353,
+    "tier": "filed"
+   },
+   {
+    "name": "Sandman",
+    "aliases": [
+     "Flint Marko"
+    ],
+    "share": 0.05198,
+    "tier": "filed"
+   },
+   {
+    "name": "Lizard",
+    "aliases": [
+     "Curt Connors"
+    ],
+    "share": 0.04388,
+    "tier": "filed"
+   },
+   {
+    "name": "Shocker",
+    "aliases": [
+     "Herman Schultz",
+     "Jackson Brice"
+    ],
+    "share": 0.03788,
+    "tier": "filed"
+   },
+   {
+    "name": "Scorpion",
+    "aliases": [
+     "Mac Gargan"
+    ],
+    "share": 0.03328,
+    "tier": "filed"
+   },
+   {
+    "name": "Tinkerer",
+    "aliases": [
+     "Phineas Mason"
+    ],
+    "share": 0.02964,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-stark-family",
+  "text": "Name a member of the Stark family in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Tony Stark",
+    "aliases": [
+     "Iron Man"
+    ],
+    "share": 0.46445,
+    "tier": "common"
+   },
+   {
+    "name": "Pepper Potts",
+    "aliases": [
+     "Rescue",
+     "Virginia Potts"
+    ],
+    "share": 0.21667,
+    "tier": "common"
+   },
+   {
+    "name": "Howard Stark",
+    "aliases": [],
+    "share": 0.13871,
+    "tier": "common"
+   },
+   {
+    "name": "Morgan Stark",
+    "aliases": [],
+    "share": 0.10108,
+    "tier": "common"
+   },
+   {
+    "name": "Maria Stark",
+    "aliases": [],
+    "share": 0.07908,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 2,
+  "screen": true
+ },
+ {
+  "id": "mcu-thanos-children",
+  "text": "Name one of Thanos's children in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Gamora",
+    "aliases": [],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Nebula",
+    "aliases": [],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Ebony Maw",
+    "aliases": [],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "Proxima Midnight",
+    "aliases": [],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Corvus Glaive",
+    "aliases": [],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Cull Obsidian",
+    "aliases": [],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-thunderbolts",
+  "text": "Name a member of the MCU's Thunderbolts*",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Yelena Belova",
+    "aliases": [
+     "Yelena"
+    ],
+    "share": 0.43622,
+    "tier": "common"
+   },
+   {
+    "name": "Winter Soldier",
+    "aliases": [
+     "Bucky Barnes",
+     "Bucky"
+    ],
+    "share": 0.20351,
+    "tier": "common"
+   },
+   {
+    "name": "Red Guardian",
+    "aliases": [
+     "Alexei Shostakov",
+     "Alexei"
+    ],
+    "share": 0.13028,
+    "tier": "common"
+   },
+   {
+    "name": "U.S. Agent",
+    "aliases": [
+     "John Walker"
+    ],
+    "share": 0.09494,
+    "tier": "filed"
+   },
+   {
+    "name": "Ghost",
+    "aliases": [
+     "Ava Starr"
+    ],
+    "share": 0.07427,
+    "tier": "filed"
+   },
+   {
+    "name": "Sentry",
+    "aliases": [
+     "Bob",
+     "The Void"
+    ],
+    "share": 0.06078,
+    "tier": "filed"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
+ },
+ {
+  "id": "mcu-villain-actors",
+  "text": "Name an actor who played the villain in an MCU film",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Josh Brolin",
+    "aliases": [
+     "Brolin"
+    ],
+    "share": 0.27733,
+    "tier": "common"
+   },
+   {
+    "name": "Tom Hiddleston",
+    "aliases": [
+     "Hiddleston"
+    ],
+    "share": 0.12938,
+    "tier": "common"
+   },
+   {
+    "name": "Michael B. Jordan",
+    "aliases": [
+     "Michael B Jordan"
+    ],
+    "share": 0.08282,
+    "tier": "filed"
+   },
+   {
+    "name": "Cate Blanchett",
+    "aliases": [
+     "Blanchett"
+    ],
+    "share": 0.06036,
+    "tier": "filed"
+   },
+   {
+    "name": "James Spader",
+    "aliases": [
+     "Spader"
+    ],
+    "share": 0.04722,
+    "tier": "filed"
+   },
+   {
+    "name": "Jake Gyllenhaal",
+    "aliases": [
+     "Gyllenhaal"
+    ],
+    "share": 0.03864,
+    "tier": "filed"
+   },
+   {
+    "name": "Michael Keaton",
+    "aliases": [
+     "Keaton"
+    ],
+    "share": 0.03261,
+    "tier": "filed"
+   },
+   {
+    "name": "Willem Dafoe",
+    "aliases": [
+     "Dafoe"
+    ],
+    "share": 0.02816,
+    "tier": "restricted"
+   },
+   {
+    "name": "Hugo Weaving",
+    "aliases": [
+     "Weaving"
+    ],
+    "share": 0.02474,
+    "tier": "restricted"
+   },
+   {
+    "name": "Jonathan Majors",
+    "aliases": [
+     "Majors"
+    ],
+    "share": 0.02203,
+    "tier": "restricted"
+   },
+   {
+    "name": "Christian Bale",
+    "aliases": [
+     "Bale"
+    ],
+    "share": 0.01984,
+    "tier": "restricted"
+   },
+   {
+    "name": "Kurt Russell",
+    "aliases": [
+     "Russell"
+    ],
+    "share": 0.01803,
+    "tier": "restricted"
+   },
+   {
+    "name": "Jeff Bridges",
+    "aliases": [
+     "Bridges"
+    ],
+    "share": 0.01651,
+    "tier": "restricted"
+   },
+   {
+    "name": "Mads Mikkelsen",
+    "aliases": [
+     "Mikkelsen"
+    ],
+    "share": 0.01521,
+    "tier": "restricted"
+   },
+   {
+    "name": "Robert Redford",
+    "aliases": [
+     "Redford"
+    ],
+    "share": 0.0141,
+    "tier": "restricted"
+   },
+   {
+    "name": "Alfred Molina",
+    "aliases": [
+     "Molina"
+    ],
+    "share": 0.01314,
+    "tier": "restricted"
+   },
+   {
+    "name": "Jamie Foxx",
+    "aliases": [
+     "Foxx"
+    ],
+    "share": 0.01229,
+    "tier": "restricted"
+   },
+   {
+    "name": "Mickey Rourke",
+    "aliases": [
+     "Rourke"
+    ],
+    "share": 0.01154,
+    "tier": "restricted"
+   },
+   {
+    "name": "Tim Roth",
+    "aliases": [
+     "Roth"
+    ],
+    "share": 0.01087,
+    "tier": "restricted"
+   },
+   {
+    "name": "Guy Pearce",
+    "aliases": [
+     "Pearce"
+    ],
+    "share": 0.01028,
+    "tier": "restricted"
+   },
+   {
+    "name": "Lee Pace",
+    "aliases": [
+     "Pace"
+    ],
+    "share": 0.00974,
+    "tier": "classified"
+   },
+   {
+    "name": "Daniel Brühl",
+    "aliases": [
+     "Bruhl",
+     "Daniel Bruhl"
+    ],
+    "share": 0.00925,
+    "tier": "classified"
+   },
+   {
+    "name": "Tony Leung",
+    "aliases": [
+     "Leung"
+    ],
+    "share": 0.00881,
+    "tier": "classified"
+   },
+   {
+    "name": "Jude Law",
+    "aliases": [],
+    "share": 0.00841,
+    "tier": "classified"
+   },
+   {
+    "name": "Corey Stoll",
+    "aliases": [
+     "Stoll"
+    ],
+    "share": 0.00804,
+    "tier": "classified"
+   },
+   {
+    "name": "Christopher Eccleston",
+    "aliases": [
+     "Eccleston"
+    ],
+    "share": 0.0077,
+    "tier": "classified"
+   },
+   {
+    "name": "Hannah John-Kamen",
+    "aliases": [],
+    "share": 0.00739,
+    "tier": "classified"
+   },
+   {
+    "name": "Tenoch Huerta",
+    "aliases": [
+     "Huerta"
+    ],
+    "share": 0.0071,
+    "tier": "classified"
+   },
+   {
+    "name": "Chukwudi Iwuji",
+    "aliases": [
+     "Iwuji"
+    ],
+    "share": 0.00683,
+    "tier": "classified"
+   },
+   {
+    "name": "Zawe Ashton",
+    "aliases": [
+     "Ashton"
+    ],
+    "share": 0.00658,
+    "tier": "classified"
+   },
+   {
+    "name": "Emma Corrin",
+    "aliases": [
+     "Corrin"
+    ],
+    "share": 0.00635,
+    "tier": "classified"
+   },
+   {
+    "name": "Harrison Ford",
+    "aliases": [],
+    "share": 0.00613,
+    "tier": "classified"
+   },
+   {
+    "name": "Lewis Pullman",
+    "aliases": [
+     "Pullman"
+    ],
+    "share": 0.00592,
+    "tier": "classified"
+   },
+   {
+    "name": "Ray Winstone",
+    "aliases": [
+     "Winstone"
+    ],
+    "share": 0.00573,
+    "tier": "classified"
+   },
+   {
+    "name": "Ralph Ineson",
+    "aliases": [
+     "Ineson"
+    ],
+    "share": 0.00555,
+    "tier": "classified"
+   },
+   {
+    "name": "Julia Garner",
+    "aliases": [
+     "Garner"
+    ],
+    "share": 0.00538,
+    "tier": "classified"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 2,
+  "screen": true
+ },
+ {
+  "id": "mcu-wakandans",
+  "text": "Name a Wakandan character in the MCU",
+  "category": "mcu-curated",
+  "answers": [
+   {
+    "name": "Black Panther",
+    "aliases": [
+     "T'Challa"
+    ],
+    "share": 0.34117,
+    "tier": "common"
+   },
+   {
+    "name": "Shuri",
+    "aliases": [],
+    "share": 0.15916,
+    "tier": "common"
+   },
+   {
+    "name": "Okoye",
+    "aliases": [],
+    "share": 0.10189,
+    "tier": "common"
+   },
+   {
+    "name": "Killmonger",
+    "aliases": [
+     "Erik Killmonger",
+     "N'Jadaka"
+    ],
+    "share": 0.07425,
+    "tier": "filed"
+   },
+   {
+    "name": "Nakia",
+    "aliases": [],
+    "share": 0.05809,
+    "tier": "filed"
+   },
+   {
+    "name": "M'Baku",
+    "aliases": [],
+    "share": 0.04753,
+    "tier": "filed"
+   },
+   {
+    "name": "Ramonda",
+    "aliases": [
+     "Queen Ramonda"
+    ],
+    "share": 0.04012,
+    "tier": "filed"
+   },
+   {
+    "name": "Zuri",
+    "aliases": [],
+    "share": 0.03464,
+    "tier": "filed"
+   },
+   {
+    "name": "W'Kabi",
+    "aliases": [],
+    "share": 0.03043,
+    "tier": "filed"
+   },
+   {
+    "name": "T'Chaka",
+    "aliases": [],
+    "share": 0.0271,
+    "tier": "restricted"
+   },
+   {
+    "name": "Ayo",
+    "aliases": [],
+    "share": 0.0244,
+    "tier": "restricted"
+   },
+   {
+    "name": "N'Jobu",
+    "aliases": [],
+    "share": 0.02218,
+    "tier": "restricted"
+   },
+   {
+    "name": "Aneka",
+    "aliases": [],
+    "share": 0.02031,
+    "tier": "restricted"
+   },
+   {
+    "name": "Toussaint",
+    "aliases": [],
+    "share": 0.01872,
+    "tier": "restricted"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+  ],
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "occupation-aircraft-pilot",
@@ -67723,7 +70635,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2095549"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "occupation-astronaut",
@@ -67822,7 +70735,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q11631"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-circus-performer",
@@ -68039,7 +70953,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q17307272"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-contract-killer",
@@ -68230,7 +71145,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q378770"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "occupation-crime-boss",
@@ -68423,7 +71339,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q4947495"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-geneticist",
@@ -68543,7 +71460,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3126128"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-herald",
@@ -68628,7 +71546,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q696819"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-mercenary",
@@ -69019,7 +71938,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q178197"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "occupation-physician",
@@ -69096,7 +72016,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q39631"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-private-investigator",
@@ -69318,7 +72239,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1058617"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-reporter",
@@ -69465,7 +72387,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q42909"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-ruler",
@@ -69590,7 +72513,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1097498"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "occupation-teacher",
@@ -69734,7 +72658,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q37226"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-asgardian",
@@ -69978,7 +72903,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q4412856"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "species-cosmic-entity",
@@ -70123,7 +73049,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q16251459"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "species-cyborg-in-a-work-of-fiction",
@@ -70458,7 +73385,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q22074477"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-eternal",
@@ -70606,7 +73534,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1618814"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "species-fictional-android",
@@ -70693,7 +73622,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q22074483"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-fictional-clone",
@@ -70801,7 +73731,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q18327525"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-fictional-deity",
@@ -71063,7 +73994,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q17624054"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "species-fictional-demon",
@@ -71248,7 +74180,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q34315358"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-fictional-robot",
@@ -71422,7 +74355,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q18327510"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "species-gamma-mutate",
@@ -71602,7 +74536,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q96239200"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "species-inhuman",
@@ -71730,7 +74665,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q110826383"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-kree",
@@ -71813,7 +74749,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1831952"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "species-mutant",
@@ -75841,7 +78778,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1094617"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "species-mutant-1960s",
@@ -76059,7 +78997,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1094617"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "species-mutant-1970s",
@@ -76271,7 +79210,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1094617"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "species-mutant-1980s",
@@ -76836,7 +79776,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1094617"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-mutate",
@@ -79084,7 +82025,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q14831768"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "species-shiar",
@@ -79200,7 +82142,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q19623"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-skrull",
@@ -79314,7 +82257,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q637245"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-symbiote",
@@ -79390,7 +82334,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2911641"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "species-vampire-in-marvel-universe",
@@ -79560,7 +82505,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q5797488"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "starts-agent",
@@ -79668,7 +82614,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-black",
@@ -79854,7 +82801,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-blue",
@@ -79928,7 +82876,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-captain",
@@ -80042,7 +82991,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-dark",
@@ -80116,7 +83066,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-death",
@@ -80206,7 +83157,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-doctor",
@@ -80320,7 +83272,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-iron",
@@ -80398,7 +83351,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-kid",
@@ -80458,7 +83412,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-king",
@@ -80518,7 +83473,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-lady",
@@ -80640,7 +83596,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-mister",
@@ -80766,7 +83723,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-professor",
@@ -80776,8 +83734,8 @@
    {
     "name": "Professor X",
     "aliases": [
-     "Professor Xavier",
-     "Professor"
+     "Professor",
+     "Professor Xavier"
     ],
     "share": 0.99089,
     "tier": "common"
@@ -80837,7 +83795,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-red",
@@ -80961,7 +83920,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-silver",
@@ -81023,7 +83983,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "starts-white",
@@ -81119,7 +84080,8 @@
    "https://www.wikidata.org/"
   ],
   "notes": "Answers are Marvel character names and aliases on file at Wikidata.",
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-acolytes",
@@ -81219,7 +84181,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2734743"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-advanced-idea-mechanics",
@@ -81309,7 +84272,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2548427"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-alpha-flight",
@@ -81543,7 +84507,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q281762"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-avengers",
@@ -82787,7 +85752,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q322646"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-avengers-1960s",
@@ -83158,7 +86124,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q106843272"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-avengers-1970s",
@@ -83411,7 +86378,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q106843272"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-avengers-1980s",
@@ -83546,7 +86514,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q106843272"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-brotherhood-of-mutants",
@@ -83931,7 +86900,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q514974"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-cabal",
@@ -84061,7 +87031,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3649124"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-champions",
@@ -84185,7 +87156,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q605093"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-dark-avengers",
@@ -84333,7 +87305,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q578371"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-defenders",
@@ -84859,7 +87832,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q609250"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-elders-of-the-universe",
@@ -84956,7 +87930,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3038387"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-excalibur",
@@ -85235,7 +88210,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2603976"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-exiles",
@@ -85333,7 +88309,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1074284"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-frightful-four",
@@ -85481,7 +88458,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2457162"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-future-foundation",
@@ -85606,7 +88584,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q13519922"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-generation-x",
@@ -85735,11 +88714,12 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1922133"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-guardians-of-the-galaxy",
-  "text": "Name a member of Guardians of the Galaxy",
+  "text": "Name a member of the Guardians of the Galaxy",
   "category": "team",
   "answers": [
    {
@@ -86025,7 +89005,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2545790"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-hellfire-club",
@@ -86066,7 +89047,6 @@
     "name": "Sebastian Shaw",
     "aliases": [
      "Black Bishop",
-     "Black King",
      "Klaus Schmidt",
      "Sebastian Hiram Shaw"
     ],
@@ -86159,6 +89139,7 @@
    {
     "name": "Blackheart",
     "aliases": [
+     "Black King",
      "Son of Mephisto"
     ],
     "share": 0.02403,
@@ -86375,7 +89356,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2109149"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-hellions",
@@ -86538,7 +89520,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2295246"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-heroes-for-hire",
@@ -86779,7 +89762,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q600790"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-horsemen-of-apocalypse",
@@ -86880,7 +89864,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2690825"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-hydra",
@@ -87210,7 +90195,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3052324"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-illuminati",
@@ -87344,7 +90330,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q632771"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-imperial-guard",
@@ -87544,7 +90531,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q834240"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-knights-of-x",
@@ -87653,7 +90641,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q111832939"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-lethal-legion",
@@ -87736,7 +90725,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3236892"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-maggia",
@@ -87862,7 +90852,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q775416"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-marauders",
@@ -88069,7 +91060,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1075698"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-masters-of-evil",
@@ -88420,7 +91412,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2193435"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-midnight-sons",
@@ -88541,7 +91534,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3072235"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-morlocks",
@@ -88765,7 +91759,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q927511"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-mutant-liberation-front",
@@ -88871,7 +91866,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3088476"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-new-mutants",
@@ -89258,7 +92254,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1047918"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-new-warriors",
@@ -89419,7 +92416,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2731643"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-purifiers",
@@ -89499,7 +92497,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q1622538"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-savage-land-mutates",
@@ -89590,7 +92589,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3330930"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-secret-avengers",
@@ -89804,7 +92804,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2594763"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-shield",
@@ -90193,7 +93194,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q911971"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-sinister-six",
@@ -90421,7 +93423,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2082275"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-starjammers",
@@ -90557,7 +93560,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q19632"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-the-fantastic-four",
@@ -90835,7 +93839,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q152098"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-the-hand",
@@ -91038,7 +94043,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2550236"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-thunderbolts",
@@ -91548,7 +94554,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2527918"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-upstarts",
@@ -91629,7 +94636,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3367070"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-weapon-x",
@@ -91854,7 +94862,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2053320"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-x-corporation",
@@ -91991,7 +95000,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q3570300"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-x-corps",
@@ -92091,7 +95101,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q11001793"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-x-factor",
@@ -92446,7 +95457,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q2211423"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-x-factor-investigations",
@@ -92534,7 +95546,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q8041445"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-x-force",
@@ -92951,7 +95964,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q938034"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  },
  {
   "id": "team-x-men",
@@ -94090,7 +97104,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": true
  },
  {
   "id": "team-x-men-1960s",
@@ -94261,7 +97276,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-x-men-1970s",
@@ -94428,7 +97444,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-x-men-1980s",
@@ -94701,7 +97718,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q128452"
   ],
-  "difficulty": 3
+  "difficulty": 3,
+  "screen": false
  },
  {
   "id": "team-x-treme-sanctions-executive",
@@ -94801,7 +97819,8 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q8041531"
   ],
-  "difficulty": 2
+  "difficulty": 2,
+  "screen": false
  },
  {
   "id": "team-young-avengers",
@@ -94937,6 +97956,7 @@
   "sources": [
    "https://www.wikidata.org/wiki/Q897867"
   ],
-  "difficulty": 1
+  "difficulty": 1,
+  "screen": false
  }
 ]

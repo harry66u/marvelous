@@ -10,7 +10,7 @@ const teams: Team[] = [
 function char(over: Partial<Character> = {}): Character {
   return {
     id: 'storm', name: 'Storm', aliases: [], realName: 'Ororo Munroe',
-    primaryTeam: 'x-men', teams: ['x-men'], debutYear: 1975, debutIssue: 'Giant-Size X-Men #1',
+    primaryTeam: 'x-men', teams: ['x-men'], world: 'x-men', debutYear: 1975, debutIssue: 'Giant-Size X-Men #1',
     debutDate: '1975-05', alignment: 'hero', origin: 'mutant', gender: 'female',
     mcu: false, mcuFirst: null, answerOk: true, difficulty: 2, caseNote: 'Weather.',
     archetype: 'caped', sources: ['https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)'], notes: '',

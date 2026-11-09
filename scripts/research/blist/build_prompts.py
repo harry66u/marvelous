@@ -224,10 +224,11 @@ def character_prompt(pid, text, category, members, sources, team=None, salience=
     answers = finish([a for a, _ in pairs], [weight(it) for _, it in pairs])
     # How many answers a casual fan would know: items covered by 15+ language Wikipedias, or on screen.
     renown = sum(1 for _, it in pairs if it.sitelinks >= 15 or it.mcu)
+    on_screen = sum(1 for _, it in pairs if it.mcu)
     # Answers a casual, MCU-era fan would name without thinking: on screen, or very widely covered.
     famous = sum(1 for _, it in pairs if it.mcu or it.sitelinks >= 30)
     return {'id': pid, 'text': text, 'category': category, 'answers': answers, 'sources': sources,
-            'renown': renown, 'famous': famous}
+            'renown': renown, 'famous': famous, 'onScreen': on_screen}
 
 
 def slug(s):
@@ -285,7 +286,7 @@ SKIP_ORGS = {'United States Army', 'New York City Police Department', 'Daily Bug
 def team_name(label):
     if label.startswith('The '):
         return 'the ' + label[4:]
-    if label.endswith(THE_SUFFIX) or label in ('Generation X', 'Brotherhood of Mutants', 'Masters of Evil', 'Lethal Legion'):
+    if label.endswith(THE_SUFFIX) or label in ('Guardians of the Galaxy', 'Generation X', 'Brotherhood of Mutants', 'Masters of Evil', 'Lethal Legion'):
         return 'the ' + label
     return label
 
@@ -636,6 +637,10 @@ PHASES = {
     'Phase One': ['Iron Man', 'The Incredible Hulk', 'Iron Man 2', 'Thor', 'Captain America: The First Avenger', 'The Avengers'],
     'Phase Two': ['Iron Man 3', 'Thor: The Dark World', 'Captain America: The Winter Soldier', 'Guardians of the Galaxy',
                   'Avengers: Age of Ultron', 'Ant-Man'],
+    'Phase Four': ['Black Widow', 'Shang-Chi and the Legend of the Ten Rings', 'Eternals', 'Spider-Man: No Way Home',
+                   'Doctor Strange in the Multiverse of Madness', 'Thor: Love and Thunder', 'Black Panther: Wakanda Forever'],
+    'Phase Five': ['Ant-Man and the Wasp: Quantumania', 'Guardians of the Galaxy Vol. 3', 'The Marvels', 'Deadpool & Wolverine',
+                   'Captain America: Brave New World', 'Thunderbolts*'],
     'Phase Three': ['Captain America: Civil War', 'Doctor Strange', 'Guardians of the Galaxy Vol. 2', 'Spider-Man: Homecoming',
                     'Thor: Ragnarok', 'Black Panther', 'Avengers: Infinity War', 'Ant-Man and the Wasp', 'Captain Marvel',
                     'Avengers: Endgame', 'Spider-Man: Far From Home'],
@@ -863,6 +868,19 @@ def mcu_introductions(items):
     return out
 
 
+# ---------------------------------------------------------------- hand-written MCU prompts
+
+def curated():
+    """content/research/blist_mcu_curated.json: answers listed most-named first, weighted by rank."""
+    out = []
+    for c in json.loads((ROOT / 'content/research/blist_mcu_curated.json').read_text()):
+        answers = [{'name': n, 'aliases': list(al)} for n, al in c['answers']]
+        weights = [1 / (i + 1) ** 1.1 for i in range(len(answers))]
+        out.append({'id': c['id'], 'text': c['text'], 'category': 'mcu-curated', 'answers': finish(answers, weights),
+                    'sources': ['https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe'], 'fixed': c['difficulty']})
+    return out
+
+
 # ---------------------------------------------------------------- main
 
 # Families a casual fan finds harder than the raw counts suggest: they ask about creators, issues
@@ -872,8 +890,28 @@ SERIES_OR_SPECIAL = re.compile(r'WandaVision|Falcon and the Winter Soldier|Loki|
                                r'Secret Invasion|Echo|Agatha|Daredevil|Ironheart|Wonder Man|VisionQuest|Special|Werewolf|One Last Kill')
 
 
+# Comics prompts a film-and-series fan can answer: big screen teams and the main heroes' villains.
+SCREEN_COMICS = {
+    'team-avengers', 'team-x-men', 'team-the-fantastic-four', 'team-guardians-of-the-galaxy', 'team-shield',
+    'team-hydra', 'team-thunderbolts', 'team-defenders', 'team-sinister-six', 'enemy-spider-man',
+    'enemy-captain-america', 'enemy-iron-man', 'enemy-thor', 'enemy-the-x-men', 'enemy-x-men',
+    'species-asgardian', 'species-mutant', 'ability-healing-factor', 'ability-telepathy',
+}
+
+
+def screen_known(p):
+    """True when a fan of the films and series could answer: every MCU prompt, and comics prompts
+    whose best-known answers are mostly characters who have appeared on screen."""
+    on_screen = p.pop('onScreen', None)
+    if p['category'].startswith('mcu'):
+        return True
+    return p['id'] in SCREEN_COMICS
+
+
 def difficulty(p):
     """1 easy, 2 medium, 3 hard, judged by how many answers a casual fan would know."""
+    if 'fixed' in p:
+        return p.pop('fixed')
     renown = p.pop('renown', None)
     famous = p.pop('famous', None)
     cat = p['category']
@@ -881,7 +919,7 @@ def difficulty(p):
         if cat == 'mcu-titles':
             return 1
         if SERIES_OR_SPECIAL.search(p['text']):
-            return 2 if cat == 'mcu-cast' else 3  # series and specials: casts are less familiar
+            return 3  # series and specials: their casts are far less familiar than the films'
         return 1 if cat in ('mcu-cast', 'mcu-actor') else 2
     if cat == 'mcu-intro':
         return 2 if famous >= 3 else 3
@@ -913,6 +951,7 @@ def main():
         'occupation': by_label_map(items, 'occupation', OCCUPATIONS, 'occupation'),
         'mcu-titles': mcu_titles(), 'mcu-franchise': mcu_franchises(),
         'debut': debuts(items), 'mcu-intro': mcu_introductions(items),
+        'mcu-curated': curated(),
     }
     base = [p for ps in families.values() for p in ps]
     families['decade-slice'] = decade_slices(items, base)
@@ -924,6 +963,7 @@ def main():
             seen_ids.add(p['id'])
             seen_text.add(p['text'])
             p['difficulty'] = difficulty(p)
+            p['screen'] = screen_known(p)
             prompts.append(p)
         print(f'{fam:10} {len(ps)}')
     prompts.sort(key=lambda p: p['id'])

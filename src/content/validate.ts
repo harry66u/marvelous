@@ -1,5 +1,5 @@
 import { isIsoDate, daysBetween } from '../lib/time'
-import { ARCHETYPES, ORIGINS } from './types'
+import { ARCHETYPES, ORIGINS, WORLDS } from './types'
 import type { Character, Issue, PublicCharacter, Schedule, Team } from './types'
 
 export const UNMASKED_COOLDOWN_DAYS = 120
@@ -28,6 +28,7 @@ export function validateCharacters(chars: Character[], teams: Team[]): Issue[] {
 
     const nameKey = c.name.trim().toLowerCase()
     if (!nameKey) add('error', `${p}.name`, 'Name is empty.')
+    if (!(WORLDS as readonly string[]).includes(c.world)) add('error', `${p}.world`, `World "${c.world}" is not one of ${WORLDS.join(', ')}.`)
     else if (seenNames.has(nameKey)) add('error', `${p}.name`, `Duplicate name "${c.name}".`)
     seenNames.add(nameKey)
     if (!c.debutIssue || !c.debutIssue.trim()) add('error', `${p}.debutIssue`, 'Debut issue is empty.')

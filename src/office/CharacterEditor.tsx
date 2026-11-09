@@ -1,12 +1,12 @@
 import { useMemo, useState, type ReactNode } from 'react'
 import Button from '../ui/Button'
 import { TEAMS } from '../content/teams'
-import { ARCHETYPES, ORIGINS, type Character, type Issue } from '../content/types'
+import { ARCHETYPES, ORIGINS, WORLDS, WORLD_LABEL, type Character, type Issue } from '../content/types'
 import s from './Office.module.css'
 
 const lines = (v: string) => v.split('\n').map((x) => x.trim()).filter(Boolean)
 const blank = (): Character => ({
-  id: 'new-character', name: 'New character', aliases: [], realName: null, primaryTeam: 'none', teams: [],
+  id: 'new-character', name: 'New character', aliases: [], realName: null, primaryTeam: 'none', teams: [], world: 'avengers',
   debutYear: 2000, debutIssue: '', debutDate: '2000', alignment: 'hero', origin: 'mutant', gender: 'other',
   mcu: false, mcuFirst: null, answerOk: false, difficulty: 3, caseNote: '', archetype: 'caped', sources: [], notes: '',
 })
@@ -64,6 +64,11 @@ export default function CharacterEditor({ chars, issues, onChange, onAdd }: Prop
             <Field label="Real name"><input value={c.realName ?? ''} onChange={(e) => set({ realName: e.target.value || null })} /></Field>
             <Field label="Aliases (one per line)">
               <textarea rows={3} defaultValue={c.aliases.join('\n')} key={`al-${sel}`} onChange={(e) => set({ aliases: lines(e.target.value) })} />
+            </Field>
+            <Field label="World">
+              <select value={c.world} onChange={(e) => set({ world: e.target.value as Character['world'] })}>
+                {WORLDS.map((w) => <option key={w} value={w}>{WORLD_LABEL[w]}</option>)}
+              </select>
             </Field>
             <Field label="Primary team">
               <select value={c.primaryTeam} onChange={(e) => set({ primaryTeam: e.target.value })}>

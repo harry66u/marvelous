@@ -18,6 +18,29 @@ export const ARCHETYPES = [
 ] as const
 export type Archetype = (typeof ARCHETYPES)[number]
 
+/**
+ * The broad corner of Marvel a character belongs to: Unmasked's first clue. Nine worlds a casual fan
+ * recognizes, instead of seventy teams.
+ */
+export const WORLDS = ['avengers', 'x-men', 'spider-man', 'fantastic-four', 'cosmic', 'asgard', 'mystic', 'street', 'agencies'] as const
+export type World = (typeof WORLDS)[number]
+export const WORLD_LABEL: Record<World, string> = {
+  avengers: 'Avengers', 'x-men': 'X-Men', 'spider-man': 'Spider-Man', 'fantastic-four': 'Fantastic Four',
+  cosmic: 'Cosmic', asgard: 'Asgard', mystic: 'Mystic', street: 'Street level', agencies: 'Agencies',
+}
+/** what each world covers, for the legend and the Field Manual */
+export const WORLD_HINT: Record<World, string> = {
+  avengers: 'Avengers, Hulk, Wakanda, Iron Man and their foes',
+  'x-men': 'mutants, X-Men and their foes',
+  'spider-man': 'Spider-heroes, Spidey’s cast and villains, Venom',
+  'fantastic-four': 'the Four, Doctor Doom, the Inhumans, Atlantis',
+  cosmic: 'Guardians, Thanos, Eternals, Kree, Skrulls, Galactus',
+  asgard: 'Thor, Loki, Asgardians and other gods',
+  mystic: 'Doctor Strange, Ghost Rider, Blade, demons and magic',
+  street: 'Daredevil, Punisher, Luke Cage, Kingpin, Moon Knight',
+  agencies: 'S.H.I.E.L.D., Hydra, A.I.M., the TVA',
+}
+
 /** Team/affiliation id from content/teams.json, or 'none' (primaryTeam only). */
 export type TeamId = string
 
@@ -28,6 +51,7 @@ export interface Character {
   realName: string | null
   primaryTeam: TeamId
   teams: TeamId[]
+  world: World
   otherTeams?: string[]
   debutYear: number
   debutIssue: string
@@ -86,6 +110,8 @@ export interface BlistPrompt {
   /** grouping for scheduling variety: team, creator, ability, mcu, wordplay, ... */
   category: string
   difficulty: 1 | 2 | 3
+  /** answerable by someone who knows the films and series (false: needs comics knowledge) */
+  screen?: boolean
   answers: BlistAnswer[]
   sources: string[]
   notes?: string

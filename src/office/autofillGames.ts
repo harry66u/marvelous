@@ -22,8 +22,12 @@ function lastUses(schedule: Schedule, field: 'blist' | 'retcon'): Map<string, st
 const cooled = (uses: Map<string, string[]>, id: string, date: string, days: number) =>
   (uses.get(id) ?? []).every((d) => Math.abs(daysBetween(d, date)) >= days)
 
-/** Top-level family ("mcu-cast" -> "mcu"), so a day never leans on one kind of prompt. */
-export const promptFamily = (p: Pick<BlistPrompt, 'category'>) => p.category.split('-')[0]!
+/**
+ * Family for variety caps: MCU prompts by kind ("mcu-cast", "mcu-actor", "mcu-curated", ...), the
+ * rest by top level ("team-pair" -> "team"), so a day mixes casts, actors, places and teams.
+ */
+export const promptFamily = (p: Pick<BlistPrompt, 'category'>) =>
+  p.category.startsWith('mcu') ? p.category : p.category.split('-')[0]!
 
 /** What a prompt is about, so two prompts on one day never share a subject. */
 export function promptSubjects(p: Pick<BlistPrompt, 'id' | 'category'>): string[] {
@@ -32,9 +36,9 @@ export function promptSubjects(p: Pick<BlistPrompt, 'id' | 'category'>): string[
     .replace(/-(19|20)\d0s$/, '')
     .replace(/^the-/, '')
     .replace(/^mcu-/, '')
-  // The first two words name the subject: "guardians-of-the-galaxy-vol-3" and "guardians-of-the-galaxy-films"
-  // are both "guardians-of"; "x-men-new-mutants" is "x-men".
-  return [id.split('-').slice(0, 2).join('-')]
+  // The first word names the subject: "guardians-of-the-galaxy-vol-3", "guardians-of-the-galaxy-films"
+  // and the MCU "guardians" roster are all "guardians"; "avengers-roster" and "avengers" are one subject.
+  return [id.split('-')[0]!]
 }
 
 /**
@@ -51,17 +55,18 @@ export function autofillBlist(schedule: Schedule, prompts: readonly BlistPrompt[
     const entry = days[date]
     if (!entry?.unmasked || entry.blist) continue
     const rand = seededRandom(`blist:${date}${salt}`)
-    const free = pool.filter((p) => p.difficulty <= 2 && cooled(uses, p.id, date, BLIST_COOLDOWN_DAYS))
+    // Screen-known prompts only (MCU, and comics prompts an MCU fan can answer), easy or medium.
+    const free = pool.filter((p) => p.screen !== false && p.difficulty <= 2 && cooled(uses, p.id, date, BLIST_COOLDOWN_DAYS))
     const mediumSlots = hardDay(date) ? 2 : 1
     let chosen: BlistPrompt[] = []
     // Strict first; if the remaining pool cannot make a day, relax the family cap step by step.
-    // MCU prompts are about a third of the pool, so they may take three slots; other families two.
+    // Two prompts per family; relaxed only if the remaining pool cannot make a day.
     for (const step of [0, 1, 2]) {
-      const familyCap = (f: string) => (step === 2 ? PROMPTS_PER_DAY : f === 'mcu' ? 3 : 2 + step)
+      const familyCap = () => (step === 2 ? PROMPTS_PER_DAY : 2 + step)
       chosen = []
       const fits = (p: BlistPrompt) => {
         if (chosen.includes(p)) return false
-        if (chosen.filter((c) => promptFamily(c) === promptFamily(p)).length >= familyCap(promptFamily(p))) return false
+        if (chosen.filter((c) => promptFamily(c) === promptFamily(p)).length >= familyCap()) return false
         const subj = new Set(chosen.flatMap(promptSubjects))
         return !promptSubjects(p).some((s) => subj.has(s))
       }

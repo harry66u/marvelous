@@ -16,7 +16,7 @@ describe('ManualPage', () => {
     renderPage()
     expect(screen.getByRole('heading', { level: 1, name: 'Field manual' })).toBeInTheDocument()
     expect(screen.getByRole('heading', { name: /Unmasked/ })).toBeInTheDocument()
-    for (const term of ['Affiliation', 'Debut', 'Alignment', 'Origin', 'Gender', 'MCU']) {
+    for (const term of ['World', 'Debut', 'Alignment', 'Origin', 'Gender', 'MCU']) {
       expect(screen.getByText(term, { selector: 'dt' })).toBeInTheDocument()
     }
     expect(screen.getByText(/Exact \(orange\)/)).toBeInTheDocument()

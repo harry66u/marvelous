@@ -30,8 +30,9 @@ function same<T>(a: T, b: T): Mark {
 }
 
 export function compareCharacters(guess: PublicCharacter, answer: PublicCharacter): Feedback {
+  // The world clue: exact for the same world; close when the worlds differ but the two share a team.
   let affiliation: Mark = 'no'
-  if (guess.primaryTeam === answer.primaryTeam) affiliation = 'exact'
+  if (guess.world === answer.world) affiliation = 'exact'
   else {
     const mine = teamSet(guess)
     if ([...teamSet(answer)].some((t) => mine.has(t))) affiliation = 'close'

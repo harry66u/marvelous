@@ -4,7 +4,7 @@ import { caseCode, describeGuess, firstRecord, monogram } from './labels'
 describe('describeGuess', () => {
   it('reads the Rogue fixture row in full for screen readers', () => {
     expect(describeGuess(rogue, storm).text).toBe(
-      'Rogue. Affiliation X-Men, exact. Debut 1980s, close, the subject debuted earlier. ' +
+      'Rogue. World X-Men, exact. Debut 1980s, close, the subject debuted earlier. ' +
         'Alignment Hero, exact. Origin Mutant, exact. Gender Female, exact. MCU No, exact. Not the subject.',
     )
   })
@@ -13,7 +13,7 @@ describe('describeGuess', () => {
     const row = describeGuess(galactus, storm)
     expect(row.nameMark).toBe('no')
     expect(row.cells.map((c) => [c.key, c.label, c.mark, c.arrow])).toEqual([
-      ['affiliation', 'None', 'no', null],
+      ['affiliation', 'Cosmic', 'no', null],
       ['debut', '1960s', 'close', '▲'],
       ['alignment', 'Villain', 'no', null],
       ['origin', 'Cosmic', 'no', null],
@@ -29,14 +29,14 @@ describe('describeGuess', () => {
   })
 
   it('does not double the full stop after a name that ends in one', () => {
-    expect(describeGuess(modok, storm).text.startsWith('M.O.D.O.K. Affiliation None, no match.')).toBe(true)
+    expect(describeGuess(modok, storm).text.startsWith('M.O.D.O.K. World Avengers, no match.')).toBe(true)
   })
 
-  it('uses the short team label in the cell and the full name for screen readers', () => {
-    const reed = ch('reed', 'Mister Fantastic', { primaryTeam: 'fantastic-four', teams: ['fantastic-four'] })
+  it('uses a short world label in the cell and the full name for screen readers', () => {
+    const reed = ch('reed', 'Mister Fantastic', { primaryTeam: 'fantastic-four', teams: ['fantastic-four'], world: 'fantastic-four' })
     const row = describeGuess(reed, storm)
-    expect(row.cells[0]?.label).toBe('F. Four')
-    expect(row.text).toContain('Affiliation Fantastic Four, no match.')
+    expect(row.cells[0]?.label).toBe('Fant. Four')
+    expect(row.text).toContain('World Fantastic Four, no match.')
   })
 })
 

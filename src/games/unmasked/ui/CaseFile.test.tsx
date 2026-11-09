@@ -22,7 +22,7 @@ describe('CaseFile', () => {
     expect(within(card).getByText('Case 0001-U')).toBeInTheDocument()
     expect(field('Subject')).toBe('Storm')
     expect(field('Known as')).toBe('Ororo Munroe')
-    expect(field('Affiliation')).toBe('X-Men')
+    expect(field('World')).toBe('X-Men')
     expect(field('First record')).toBe('Giant-Size X-Men #1 (May 1975)')
     expect(field('Classification')).toBe('Hero · Mutant')
     expect(field('MCU')).toBe('Not on file')

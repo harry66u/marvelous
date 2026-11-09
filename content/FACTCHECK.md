@@ -469,3 +469,29 @@ When live rarity is switched on, these presets become the prior in the blend.
 - **Comic first appearances:** the cover month from the fact-checked Unmasked data. The record names the issue, and the real name when it differs. A legacy codename's record dates the person's first appearance; for example, Agent Venom's record dates Flash Thompson in Amazing Fantasy #15. Unmasked uses the same definition.
 - **MCU titles:** first U.S. release (films) or Disney+ premiere (series and specials), from each title's Wikipedia page.
 - **Validation:** no two records on a day share a year, and no record repeats within 180 days.
+
+
+## Unmasked World clue (added 2026-11-09)
+
+The first Unmasked clue was the primary team, out of about 70 teams. Players who only know the Avengers and the X-Men could not use it, so it is now the character's **world**, one of nine:
+
+Avengers, X-Men, Spider-Man, Fantastic Four, Cosmic, Asgard, Mystic, Street level, Agencies.
+
+- **Exact:** the same world.
+- **Close:** different worlds, but the two have been on the same team. Wolverine, for example, is close to an Avengers subject.
+- **How worlds were set:** each character's world comes from their primary team, with hand-made calls in `scripts/research/unmasked/assign_worlds.py`:
+  - characters with no team: Venom is Spider-Man, Doctor Strange is Mystic, Punisher is Street level;
+  - characters whose own corner of Marvel is not their team's: Spider-Man is an Avenger but belongs to Spider-Man, and Thor is an Avenger but belongs to Asgard.
+- **Judgment calls:**
+  - Wakanda and Atlantis characters count as Avengers, because MCU fans meet them there.
+  - The Inhumans count as Fantastic Four, where they first appeared.
+  - Hulk's villains count as Avengers.
+
+## B-List: screen-first prompts (added 2026-11-09)
+
+Feedback was that the requests were too comic-based. The schedule now uses only prompts a fan of the films and series can answer:
+
+- every MCU prompt (casts, actors, phases, and 23 hand-written prompts such as Infinity Stones, MCU villains, the Snap and places);
+- an allowlist of comics prompts whose answers are mostly on screen: the Avengers, X-Men, Fantastic Four, Guardians, S.H.I.E.L.D., Hydra, Thunderbolts, Defenders, Sinister Six, and the villains of Spider-Man, Captain America, Iron Man, Thor and the X-Men.
+
+Creator, debut, occupation and wordplay prompts stay in `content/blist.json`, but nothing schedules them. The hand-written prompts are in `content/research/blist_mcu_curated.json`, with answers listed most-named first.

@@ -4,7 +4,7 @@ import { MARK_SYMBOL } from './labels'
 import s from './FieldManual.module.css'
 
 const COUNTS: [term: string, definition: string][] = [
-  ['Affiliation', "Primary team. Exact when it matches the subject's; close when the two share any notable team."],
+  ['World', 'Which corner of Marvel the subject belongs to (listed below the grid). Exact when it matches; close when the worlds differ but the two have been on the same team.'],
   [
     'Debut',
     'Decade of first published appearance. Exact for the same decade, close for the decade either side. ▲ means the subject debuted later, ▼ earlier.',
@@ -45,7 +45,7 @@ export function UnmaskedRules({ tone = 'dark' }: { tone?: 'dark' | 'paper' }) {
         </li>
         <li>
           <i className={`${s.chip} ${s.close}`} aria-hidden="true">{MARK_SYMBOL.close}</i>
-          <span><b>Close (mustard):</b> near, as defined above. Only Affiliation and Debut can be close.</span>
+          <span><b>Close (mustard):</b> near, as defined above. Only World and Debut can be close.</span>
         </li>
         <li>
           <i className={`${s.chip} ${s.no}`} aria-hidden="true">{MARK_SYMBOL.no}</i>

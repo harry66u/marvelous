@@ -6,7 +6,7 @@ describe('FieldManual', () => {
   it('explains every count and every mark in plain words', () => {
     render(<FieldManual open onClose={() => {}} />)
     const dialog = screen.getByRole('dialog', { name: 'Field manual' })
-    for (const term of ['Affiliation', 'Debut', 'Alignment', 'Origin', 'Gender', 'MCU']) {
+    for (const term of ['World', 'Debut', 'Alignment', 'Origin', 'Gender', 'MCU']) {
       expect(within(dialog).getByText(term, { selector: 'dt' })).toBeInTheDocument()
     }
     expect(within(dialog).getByText(/Exact \(orange\)/)).toBeInTheDocument()

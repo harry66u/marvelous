@@ -8,7 +8,7 @@ import type { Character } from '../content/types'
 const b64 = (s: string) => btoa(String.fromCharCode(...new TextEncoder().encode(s)))
 const today = etDateOf(new Date())
 const chars: Character[] = [0, 1, 2].map((i) => ({
-  id: `char-${i}`, name: `Char ${i}`, aliases: [], realName: null, primaryTeam: 'none', teams: [],
+  id: `char-${i}`, name: `Char ${i}`, aliases: [], realName: null, primaryTeam: 'none', teams: [], world: 'avengers',
   debutYear: 1970, debutIssue: '#1', debutDate: '1970', alignment: 'hero', origin: 'mutant', gender: 'other',
   mcu: false, mcuFirst: null, answerOk: true, difficulty: 2, caseNote: 'n', archetype: 'caped',
   sources: ['https://example.com'], notes: '',

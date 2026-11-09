@@ -27,7 +27,7 @@ const subject: PublicCharacter = {
 }
 const roster = [subject, rogue, galactus, peter, miles, modok, strange]
 const ROGUE_ROW =
-  'Rogue. Affiliation X-Men, exact. Debut 1980s, close, the subject debuted earlier. ' +
+  'Rogue. World X-Men, exact. Debut 1980s, close, the subject debuted earlier. ' +
   'Alignment Hero, exact. Origin Mutant, exact. Gender Female, exact. MCU No, exact. Not the subject.'
 
 function readyCharacters(): CharactersState {
@@ -105,7 +105,7 @@ describe('UnmaskedPage', () => {
     renderPage()
     await guess(user, 'sto')
     const list = screen.getByRole('list', { name: 'Attempts on file' })
-    expect(within(list).getByText(/^Storm\. Affiliation X-Men, exact\./)).toBeInTheDocument()
+    expect(within(list).getByText(/^Storm\. World X-Men, exact\./)).toBeInTheDocument()
     expect(stored().state.guesses).toEqual(['storm'])
   })
 

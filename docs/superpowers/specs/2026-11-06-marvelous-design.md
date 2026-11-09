@@ -498,4 +498,7 @@ Decided 2026-11-09 (feedback: "the games are too hard"), from the 2026-11-10 shi
 
 8. **Easier schedule.** Unmasked answers only from difficulty 1–3. B-List schedules only easy and medium prompts, judged by how many answers a casual MCU-era fan would know, and may repeat a prompt after 28 days. Retcon uses only recognizable records, with records at least three years apart, and may repeat a record after 25 days.
 
+9. **B-List is screen-first** (feedback: "too comic based"). Only MCU prompts and an allowlist of comics prompts an MCU fan can answer are scheduled; a prompt may repeat after 16 days.
+10. **Unmasked's first clue is World, not team** (feedback: players only knew the Avengers and the X-Men). Nine worlds, all listed under the grid; close means a shared team. See content/FACTCHECK.md.
+
 Open: the repository is public. Making it private keeps future answers off GitHub.

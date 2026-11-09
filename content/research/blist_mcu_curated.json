@@ -1,0 +1,1781 @@
+[
+ {
+  "id": "mcu-infinity-stones",
+  "text": "Name an Infinity Stone",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Mind Stone",
+    [
+     "Mind"
+    ]
+   ],
+   [
+    "Time Stone",
+    [
+     "Time",
+     "Eye of Agamotto"
+    ]
+   ],
+   [
+    "Space Stone",
+    [
+     "Space",
+     "Tesseract"
+    ]
+   ],
+   [
+    "Soul Stone",
+    [
+     "Soul"
+    ]
+   ],
+   [
+    "Reality Stone",
+    [
+     "Reality",
+     "Aether"
+    ]
+   ],
+   [
+    "Power Stone",
+    [
+     "Power",
+     "Orb"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-original-avengers",
+  "text": "Name one of the six original Avengers from The Avengers (2012)",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Iron Man",
+    [
+     "Tony Stark"
+    ]
+   ],
+   [
+    "Captain America",
+    [
+     "Steve Rogers"
+    ]
+   ],
+   [
+    "Thor",
+    []
+   ],
+   [
+    "Hulk",
+    [
+     "Bruce Banner"
+    ]
+   ],
+   [
+    "Black Widow",
+    [
+     "Natasha Romanoff"
+    ]
+   ],
+   [
+    "Hawkeye",
+    [
+     "Clint Barton"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-avengers-roster",
+  "text": "Name a member of the Avengers in the MCU films",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Iron Man",
+    [
+     "Tony Stark"
+    ]
+   ],
+   [
+    "Captain America",
+    [
+     "Steve Rogers"
+    ]
+   ],
+   [
+    "Thor",
+    []
+   ],
+   [
+    "Hulk",
+    [
+     "Bruce Banner"
+    ]
+   ],
+   [
+    "Black Widow",
+    [
+     "Natasha Romanoff"
+    ]
+   ],
+   [
+    "Hawkeye",
+    [
+     "Clint Barton"
+    ]
+   ],
+   [
+    "Spider-Man",
+    [
+     "Peter Parker"
+    ]
+   ],
+   [
+    "Black Panther",
+    [
+     "T'Challa"
+    ]
+   ],
+   [
+    "Doctor Strange",
+    [
+     "Stephen Strange"
+    ]
+   ],
+   [
+    "Scarlet Witch",
+    [
+     "Wanda Maximoff",
+     "Wanda"
+    ]
+   ],
+   [
+    "Vision",
+    []
+   ],
+   [
+    "Captain Marvel",
+    [
+     "Carol Danvers"
+    ]
+   ],
+   [
+    "Falcon",
+    [
+     "Sam Wilson"
+    ]
+   ],
+   [
+    "War Machine",
+    [
+     "James Rhodes",
+     "Rhodey"
+    ]
+   ],
+   [
+    "Ant-Man",
+    [
+     "Scott Lang"
+    ]
+   ],
+   [
+    "Rocket",
+    [
+     "Rocket Raccoon"
+    ]
+   ],
+   [
+    "Nebula",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-guardians",
+  "text": "Name a member of the Guardians of the Galaxy in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Star-Lord",
+    [
+     "Peter Quill",
+     "Quill"
+    ]
+   ],
+   [
+    "Gamora",
+    []
+   ],
+   [
+    "Rocket",
+    [
+     "Rocket Raccoon"
+    ]
+   ],
+   [
+    "Groot",
+    [
+     "Baby Groot",
+     "I am Groot"
+    ]
+   ],
+   [
+    "Drax",
+    [
+     "Drax the Destroyer"
+    ]
+   ],
+   [
+    "Mantis",
+    []
+   ],
+   [
+    "Nebula",
+    []
+   ],
+   [
+    "Kraglin",
+    []
+   ],
+   [
+    "Cosmo",
+    [
+     "Cosmo the Spacedog"
+    ]
+   ],
+   [
+    "Adam Warlock",
+    []
+   ],
+   [
+    "Phyla",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-film-villains",
+  "text": "Name the villain of an MCU film",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Thanos",
+    []
+   ],
+   [
+    "Loki",
+    []
+   ],
+   [
+    "Ultron",
+    []
+   ],
+   [
+    "Killmonger",
+    [
+     "Erik Killmonger",
+     "N'Jadaka"
+    ]
+   ],
+   [
+    "Hela",
+    []
+   ],
+   [
+    "Red Skull",
+    [
+     "Johann Schmidt"
+    ]
+   ],
+   [
+    "Mysterio",
+    [
+     "Quentin Beck"
+    ]
+   ],
+   [
+    "Vulture",
+    [
+     "Adrian Toomes"
+    ]
+   ],
+   [
+    "Green Goblin",
+    [
+     "Norman Osborn"
+    ]
+   ],
+   [
+    "Ego",
+    [
+     "Ego the Living Planet"
+    ]
+   ],
+   [
+    "Kang the Conqueror",
+    [
+     "Kang",
+     "He Who Remains"
+    ]
+   ],
+   [
+    "Doctor Octopus",
+    [
+     "Doc Ock",
+     "Otto Octavius"
+    ]
+   ],
+   [
+    "Iron Monger",
+    [
+     "Obadiah Stane"
+    ]
+   ],
+   [
+    "Abomination",
+    [
+     "Emil Blonsky"
+    ]
+   ],
+   [
+    "Whiplash",
+    [
+     "Ivan Vanko"
+    ]
+   ],
+   [
+    "Aldrich Killian",
+    [
+     "Killian"
+    ]
+   ],
+   [
+    "Malekith",
+    []
+   ],
+   [
+    "Alexander Pierce",
+    [
+     "Pierce"
+    ]
+   ],
+   [
+    "Ronan the Accuser",
+    [
+     "Ronan"
+    ]
+   ],
+   [
+    "Yellowjacket",
+    [
+     "Darren Cross"
+    ]
+   ],
+   [
+    "Baron Zemo",
+    [
+     "Helmut Zemo",
+     "Zemo"
+    ]
+   ],
+   [
+    "Kaecilius",
+    []
+   ],
+   [
+    "Ghost",
+    [
+     "Ava Starr"
+    ]
+   ],
+   [
+    "Yon-Rogg",
+    []
+   ],
+   [
+    "Taskmaster",
+    [
+     "Antonia Dreykov"
+    ]
+   ],
+   [
+    "Dreykov",
+    [
+     "General Dreykov"
+    ]
+   ],
+   [
+    "Wenwu",
+    [
+     "Xu Wenwu",
+     "The Mandarin"
+    ]
+   ],
+   [
+    "Kro",
+    []
+   ],
+   [
+    "Electro",
+    [
+     "Max Dillon"
+    ]
+   ],
+   [
+    "Sandman",
+    [
+     "Flint Marko"
+    ]
+   ],
+   [
+    "Lizard",
+    [
+     "Curt Connors"
+    ]
+   ],
+   [
+    "Gorr the God Butcher",
+    [
+     "Gorr"
+    ]
+   ],
+   [
+    "Namor",
+    []
+   ],
+   [
+    "High Evolutionary",
+    []
+   ],
+   [
+    "Dar-Benn",
+    []
+   ],
+   [
+    "Cassandra Nova",
+    []
+   ],
+   [
+    "Red Hulk",
+    [
+     "Thaddeus Ross",
+     "Thunderbolt Ross"
+    ]
+   ],
+   [
+    "Galactus",
+    []
+   ],
+   [
+    "Silver Surfer",
+    [
+     "Shalla-Bal"
+    ]
+   ],
+   [
+    "Sentry",
+    [
+     "The Void",
+     "Bob"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-snapped",
+  "text": "Name a character who turned to dust in the Snap in Avengers: Infinity War",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Spider-Man",
+    [
+     "Peter Parker"
+    ]
+   ],
+   [
+    "Black Panther",
+    [
+     "T'Challa"
+    ]
+   ],
+   [
+    "Doctor Strange",
+    [
+     "Stephen Strange"
+    ]
+   ],
+   [
+    "Star-Lord",
+    [
+     "Peter Quill"
+    ]
+   ],
+   [
+    "Groot",
+    []
+   ],
+   [
+    "Scarlet Witch",
+    [
+     "Wanda Maximoff",
+     "Wanda"
+    ]
+   ],
+   [
+    "Winter Soldier",
+    [
+     "Bucky Barnes",
+     "Bucky"
+    ]
+   ],
+   [
+    "Falcon",
+    [
+     "Sam Wilson"
+    ]
+   ],
+   [
+    "Nick Fury",
+    [
+     "Fury"
+    ]
+   ],
+   [
+    "Drax",
+    [
+     "Drax the Destroyer"
+    ]
+   ],
+   [
+    "Mantis",
+    []
+   ],
+   [
+    "Maria Hill",
+    []
+   ],
+   [
+    "Wasp",
+    [
+     "Hope van Dyne"
+    ]
+   ],
+   [
+    "Hank Pym",
+    []
+   ],
+   [
+    "Janet van Dyne",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-thanos-children",
+  "text": "Name one of Thanos's children in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Gamora",
+    []
+   ],
+   [
+    "Nebula",
+    []
+   ],
+   [
+    "Ebony Maw",
+    []
+   ],
+   [
+    "Proxima Midnight",
+    []
+   ],
+   [
+    "Corvus Glaive",
+    []
+   ],
+   [
+    "Cull Obsidian",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-wakandans",
+  "text": "Name a Wakandan character in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Black Panther",
+    [
+     "T'Challa"
+    ]
+   ],
+   [
+    "Shuri",
+    []
+   ],
+   [
+    "Okoye",
+    []
+   ],
+   [
+    "Killmonger",
+    [
+     "Erik Killmonger",
+     "N'Jadaka"
+    ]
+   ],
+   [
+    "Nakia",
+    []
+   ],
+   [
+    "M'Baku",
+    []
+   ],
+   [
+    "Ramonda",
+    [
+     "Queen Ramonda"
+    ]
+   ],
+   [
+    "Zuri",
+    []
+   ],
+   [
+    "W'Kabi",
+    []
+   ],
+   [
+    "T'Chaka",
+    []
+   ],
+   [
+    "Ayo",
+    []
+   ],
+   [
+    "N'Jobu",
+    []
+   ],
+   [
+    "Aneka",
+    []
+   ],
+   [
+    "Toussaint",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-asgardians",
+  "text": "Name an Asgardian in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Thor",
+    []
+   ],
+   [
+    "Loki",
+    []
+   ],
+   [
+    "Odin",
+    []
+   ],
+   [
+    "Hela",
+    []
+   ],
+   [
+    "Heimdall",
+    []
+   ],
+   [
+    "Frigga",
+    []
+   ],
+   [
+    "Valkyrie",
+    [
+     "Brunnhilde"
+    ]
+   ],
+   [
+    "Sif",
+    [
+     "Lady Sif"
+    ]
+   ],
+   [
+    "Volstagg",
+    []
+   ],
+   [
+    "Fandral",
+    []
+   ],
+   [
+    "Skurge",
+    []
+   ],
+   [
+    "Bor",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-spider-man-villains",
+  "text": "Name a villain from the MCU Spider-Man films",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Mysterio",
+    [
+     "Quentin Beck"
+    ]
+   ],
+   [
+    "Vulture",
+    [
+     "Adrian Toomes"
+    ]
+   ],
+   [
+    "Green Goblin",
+    [
+     "Norman Osborn"
+    ]
+   ],
+   [
+    "Doctor Octopus",
+    [
+     "Doc Ock",
+     "Otto Octavius"
+    ]
+   ],
+   [
+    "Electro",
+    [
+     "Max Dillon"
+    ]
+   ],
+   [
+    "Sandman",
+    [
+     "Flint Marko"
+    ]
+   ],
+   [
+    "Lizard",
+    [
+     "Curt Connors"
+    ]
+   ],
+   [
+    "Shocker",
+    [
+     "Herman Schultz",
+     "Jackson Brice"
+    ]
+   ],
+   [
+    "Scorpion",
+    [
+     "Mac Gargan"
+    ]
+   ],
+   [
+    "Tinkerer",
+    [
+     "Phineas Mason"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-places-cosmic",
+  "text": "Name a planet, realm or dimension in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Asgard",
+    []
+   ],
+   [
+    "Titan",
+    []
+   ],
+   [
+    "Vormir",
+    []
+   ],
+   [
+    "Sakaar",
+    []
+   ],
+   [
+    "Xandar",
+    []
+   ],
+   [
+    "Knowhere",
+    []
+   ],
+   [
+    "Quantum Realm",
+    []
+   ],
+   [
+    "Jotunheim",
+    []
+   ],
+   [
+    "Hala",
+    []
+   ],
+   [
+    "Nidavellir",
+    []
+   ],
+   [
+    "Svartalfheim",
+    []
+   ],
+   [
+    "Vanaheim",
+    []
+   ],
+   [
+    "Morag",
+    []
+   ],
+   [
+    "Dark Dimension",
+    []
+   ],
+   [
+    "Mirror Dimension",
+    []
+   ],
+   [
+    "Contraxia",
+    []
+   ],
+   [
+    "Berhert",
+    []
+   ],
+   [
+    "Counter-Earth",
+    []
+   ],
+   [
+    "Omnipotence City",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-places-earth",
+  "text": "Name a fictional country, city or hidden place on Earth in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Wakanda",
+    []
+   ],
+   [
+    "Sokovia",
+    []
+   ],
+   [
+    "New Asgard",
+    []
+   ],
+   [
+    "Kamar-Taj",
+    []
+   ],
+   [
+    "Talokan",
+    []
+   ],
+   [
+    "Ta Lo",
+    []
+   ],
+   [
+    "Westview",
+    []
+   ],
+   [
+    "Madripoor",
+    []
+   ],
+   [
+    "Puente Antiguo",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-gamma",
+  "text": "Name a gamma-powered character in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Hulk",
+    [
+     "Bruce Banner"
+    ]
+   ],
+   [
+    "She-Hulk",
+    [
+     "Jennifer Walters",
+     "Jen Walters"
+    ]
+   ],
+   [
+    "Abomination",
+    [
+     "Emil Blonsky"
+    ]
+   ],
+   [
+    "Red Hulk",
+    [
+     "Thaddeus Ross",
+     "Thunderbolt Ross"
+    ]
+   ],
+   [
+    "The Leader",
+    [
+     "Samuel Sterns",
+     "Leader"
+    ]
+   ],
+   [
+    "Skaar",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-fliers",
+  "text": "Name an MCU hero who can fly",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Iron Man",
+    [
+     "Tony Stark"
+    ]
+   ],
+   [
+    "Thor",
+    []
+   ],
+   [
+    "Captain Marvel",
+    [
+     "Carol Danvers"
+    ]
+   ],
+   [
+    "Vision",
+    []
+   ],
+   [
+    "Falcon",
+    [
+     "Sam Wilson"
+    ]
+   ],
+   [
+    "War Machine",
+    [
+     "James Rhodes",
+     "Rhodey"
+    ]
+   ],
+   [
+    "Scarlet Witch",
+    [
+     "Wanda Maximoff",
+     "Wanda"
+    ]
+   ],
+   [
+    "Doctor Strange",
+    [
+     "Stephen Strange"
+    ]
+   ],
+   [
+    "Star-Lord",
+    [
+     "Peter Quill"
+    ]
+   ],
+   [
+    "Ikaris",
+    []
+   ],
+   [
+    "Ironheart",
+    [
+     "Riri Williams"
+    ]
+   ],
+   [
+    "Rescue",
+    [
+     "Pepper Potts"
+    ]
+   ],
+   [
+    "Sentry",
+    [
+     "Bob"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-shield",
+  "text": "Name a S.H.I.E.L.D. agent from the MCU films",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Nick Fury",
+    [
+     "Fury"
+    ]
+   ],
+   [
+    "Phil Coulson",
+    [
+     "Coulson"
+    ]
+   ],
+   [
+    "Black Widow",
+    [
+     "Natasha Romanoff"
+    ]
+   ],
+   [
+    "Maria Hill",
+    []
+   ],
+   [
+    "Hawkeye",
+    [
+     "Clint Barton"
+    ]
+   ],
+   [
+    "Sharon Carter",
+    [
+     "Agent 13"
+    ]
+   ],
+   [
+    "Jasper Sitwell",
+    [
+     "Sitwell"
+    ]
+   ],
+   [
+    "Brock Rumlow",
+    [
+     "Rumlow",
+     "Crossbones"
+    ]
+   ],
+   [
+    "Peggy Carter",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-hydra",
+  "text": "Name a Hydra member from the MCU films",
+  "difficulty": 2,
+  "answers": [
+   [
+    "Red Skull",
+    [
+     "Johann Schmidt"
+    ]
+   ],
+   [
+    "Arnim Zola",
+    [
+     "Zola"
+    ]
+   ],
+   [
+    "Alexander Pierce",
+    [
+     "Pierce"
+    ]
+   ],
+   [
+    "Brock Rumlow",
+    [
+     "Rumlow",
+     "Crossbones"
+    ]
+   ],
+   [
+    "Jasper Sitwell",
+    [
+     "Sitwell"
+    ]
+   ],
+   [
+    "Baron Strucker",
+    [
+     "Wolfgang von Strucker",
+     "Strucker"
+    ]
+   ],
+   [
+    "Winter Soldier",
+    [
+     "Bucky Barnes",
+     "Bucky"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-thunderbolts",
+  "text": "Name a member of the MCU's Thunderbolts*",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Yelena Belova",
+    [
+     "Yelena"
+    ]
+   ],
+   [
+    "Winter Soldier",
+    [
+     "Bucky Barnes",
+     "Bucky"
+    ]
+   ],
+   [
+    "Red Guardian",
+    [
+     "Alexei Shostakov",
+     "Alexei"
+    ]
+   ],
+   [
+    "U.S. Agent",
+    [
+     "John Walker"
+    ]
+   ],
+   [
+    "Ghost",
+    [
+     "Ava Starr"
+    ]
+   ],
+   [
+    "Sentry",
+    [
+     "Bob",
+     "The Void"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-villain-actors",
+  "text": "Name an actor who played the villain in an MCU film",
+  "difficulty": 2,
+  "answers": [
+   [
+    "Josh Brolin",
+    [
+     "Brolin"
+    ]
+   ],
+   [
+    "Tom Hiddleston",
+    [
+     "Hiddleston"
+    ]
+   ],
+   [
+    "Michael B. Jordan",
+    [
+     "Michael B Jordan"
+    ]
+   ],
+   [
+    "Cate Blanchett",
+    [
+     "Blanchett"
+    ]
+   ],
+   [
+    "James Spader",
+    [
+     "Spader"
+    ]
+   ],
+   [
+    "Jake Gyllenhaal",
+    [
+     "Gyllenhaal"
+    ]
+   ],
+   [
+    "Michael Keaton",
+    [
+     "Keaton"
+    ]
+   ],
+   [
+    "Willem Dafoe",
+    [
+     "Dafoe"
+    ]
+   ],
+   [
+    "Hugo Weaving",
+    [
+     "Weaving"
+    ]
+   ],
+   [
+    "Jonathan Majors",
+    [
+     "Majors"
+    ]
+   ],
+   [
+    "Christian Bale",
+    [
+     "Bale"
+    ]
+   ],
+   [
+    "Kurt Russell",
+    [
+     "Russell"
+    ]
+   ],
+   [
+    "Jeff Bridges",
+    [
+     "Bridges"
+    ]
+   ],
+   [
+    "Mads Mikkelsen",
+    [
+     "Mikkelsen"
+    ]
+   ],
+   [
+    "Robert Redford",
+    [
+     "Redford"
+    ]
+   ],
+   [
+    "Alfred Molina",
+    [
+     "Molina"
+    ]
+   ],
+   [
+    "Jamie Foxx",
+    [
+     "Foxx"
+    ]
+   ],
+   [
+    "Mickey Rourke",
+    [
+     "Rourke"
+    ]
+   ],
+   [
+    "Tim Roth",
+    [
+     "Roth"
+    ]
+   ],
+   [
+    "Guy Pearce",
+    [
+     "Pearce"
+    ]
+   ],
+   [
+    "Lee Pace",
+    [
+     "Pace"
+    ]
+   ],
+   [
+    "Daniel Brühl",
+    [
+     "Bruhl",
+     "Daniel Bruhl"
+    ]
+   ],
+   [
+    "Tony Leung",
+    [
+     "Leung"
+    ]
+   ],
+   [
+    "Jude Law",
+    []
+   ],
+   [
+    "Corey Stoll",
+    [
+     "Stoll"
+    ]
+   ],
+   [
+    "Christopher Eccleston",
+    [
+     "Eccleston"
+    ]
+   ],
+   [
+    "Hannah John-Kamen",
+    []
+   ],
+   [
+    "Tenoch Huerta",
+    [
+     "Huerta"
+    ]
+   ],
+   [
+    "Chukwudi Iwuji",
+    [
+     "Iwuji"
+    ]
+   ],
+   [
+    "Zawe Ashton",
+    [
+     "Ashton"
+    ]
+   ],
+   [
+    "Emma Corrin",
+    [
+     "Corrin"
+    ]
+   ],
+   [
+    "Harrison Ford",
+    []
+   ],
+   [
+    "Lewis Pullman",
+    [
+     "Pullman"
+    ]
+   ],
+   [
+    "Ray Winstone",
+    [
+     "Winstone"
+    ]
+   ],
+   [
+    "Ralph Ineson",
+    [
+     "Ineson"
+    ]
+   ],
+   [
+    "Julia Garner",
+    [
+     "Garner"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-directors",
+  "text": "Name a director of an MCU film",
+  "difficulty": 2,
+  "answers": [
+   [
+    "Russo brothers",
+    [
+     "Anthony Russo",
+     "Joe Russo",
+     "Russo",
+     "The Russos"
+    ]
+   ],
+   [
+    "James Gunn",
+    [
+     "Gunn"
+    ]
+   ],
+   [
+    "Taika Waititi",
+    [
+     "Waititi"
+    ]
+   ],
+   [
+    "Jon Favreau",
+    [
+     "Favreau"
+    ]
+   ],
+   [
+    "Joss Whedon",
+    [
+     "Whedon"
+    ]
+   ],
+   [
+    "Ryan Coogler",
+    [
+     "Coogler"
+    ]
+   ],
+   [
+    "Jon Watts",
+    [
+     "Watts"
+    ]
+   ],
+   [
+    "Sam Raimi",
+    [
+     "Raimi"
+    ]
+   ],
+   [
+    "Kenneth Branagh",
+    [
+     "Branagh"
+    ]
+   ],
+   [
+    "Scott Derrickson",
+    [
+     "Derrickson"
+    ]
+   ],
+   [
+    "Shane Black",
+    []
+   ],
+   [
+    "Peyton Reed",
+    [
+     "Reed"
+    ]
+   ],
+   [
+    "Joe Johnston",
+    [
+     "Johnston"
+    ]
+   ],
+   [
+    "Chloé Zhao",
+    [
+     "Chloe Zhao",
+     "Zhao"
+    ]
+   ],
+   [
+    "Shawn Levy",
+    [
+     "Levy"
+    ]
+   ],
+   [
+    "Alan Taylor",
+    []
+   ],
+   [
+    "Louis Leterrier",
+    [
+     "Leterrier"
+    ]
+   ],
+   [
+    "Cate Shortland",
+    [
+     "Shortland"
+    ]
+   ],
+   [
+    "Destin Daniel Cretton",
+    [
+     "Cretton"
+    ]
+   ],
+   [
+    "Anna Boden and Ryan Fleck",
+    [
+     "Anna Boden",
+     "Ryan Fleck",
+     "Boden",
+     "Fleck"
+    ]
+   ],
+   [
+    "Nia DaCosta",
+    [
+     "DaCosta"
+    ]
+   ],
+   [
+    "Julius Onah",
+    [
+     "Onah"
+    ]
+   ],
+   [
+    "Jake Schreier",
+    [
+     "Schreier"
+    ]
+   ],
+   [
+    "Matt Shakman",
+    [
+     "Shakman"
+    ]
+   ]
+  ]
+ },
+ {
+  "id": "mcu-heroes-shows",
+  "text": "Name the title hero of an MCU Disney+ series",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Loki",
+    []
+   ],
+   [
+    "Scarlet Witch",
+    [
+     "Wanda Maximoff",
+     "Wanda"
+    ]
+   ],
+   [
+    "Hawkeye",
+    [
+     "Clint Barton",
+     "Kate Bishop"
+    ]
+   ],
+   [
+    "Moon Knight",
+    [
+     "Marc Spector",
+     "Steven Grant"
+    ]
+   ],
+   [
+    "Ms. Marvel",
+    [
+     "Kamala Khan"
+    ]
+   ],
+   [
+    "She-Hulk",
+    [
+     "Jennifer Walters",
+     "Jen Walters"
+    ]
+   ],
+   [
+    "Falcon",
+    [
+     "Sam Wilson"
+    ]
+   ],
+   [
+    "Winter Soldier",
+    [
+     "Bucky Barnes",
+     "Bucky"
+    ]
+   ],
+   [
+    "Daredevil",
+    [
+     "Matt Murdock"
+    ]
+   ],
+   [
+    "Echo",
+    [
+     "Maya Lopez"
+    ]
+   ],
+   [
+    "Agatha Harkness",
+    [
+     "Agatha"
+    ]
+   ],
+   [
+    "Ironheart",
+    [
+     "Riri Williams"
+    ]
+   ],
+   [
+    "Wonder Man",
+    [
+     "Simon Williams"
+    ]
+   ],
+   [
+    "Vision",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-stark-family",
+  "text": "Name a member of the Stark family in the MCU",
+  "difficulty": 2,
+  "answers": [
+   [
+    "Tony Stark",
+    [
+     "Iron Man"
+    ]
+   ],
+   [
+    "Pepper Potts",
+    [
+     "Rescue",
+     "Virginia Potts"
+    ]
+   ],
+   [
+    "Howard Stark",
+    []
+   ],
+   [
+    "Morgan Stark",
+    []
+   ],
+   [
+    "Maria Stark",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-mjolnir",
+  "text": "Name a character who has held Mjolnir in the MCU",
+  "difficulty": 2,
+  "answers": [
+   [
+    "Thor",
+    []
+   ],
+   [
+    "Captain America",
+    [
+     "Steve Rogers"
+    ]
+   ],
+   [
+    "Jane Foster",
+    [
+     "Mighty Thor"
+    ]
+   ],
+   [
+    "Vision",
+    []
+   ],
+   [
+    "Odin",
+    []
+   ],
+   [
+    "Hela",
+    []
+   ]
+  ]
+ },
+ {
+  "id": "mcu-pym-tech",
+  "text": "Name a character who has shrunk with Pym Particles in the MCU",
+  "difficulty": 1,
+  "answers": [
+   [
+    "Ant-Man",
+    [
+     "Scott Lang"
+    ]
+   ],
+   [
+    "Wasp",
+    [
+     "Hope van Dyne"
+    ]
+   ],
+   [
+    "Hank Pym",
+    []
+   ],
+   [
+    "Janet van Dyne",
+    []
+   ],
+   [
+    "Yellowjacket",
+    [
+     "Darren Cross"
+    ]
+   ],
+   [
+    "Cassie Lang",
+    [
+     "Stature"
+    ]
+   ]
+  ]
+ }
+]

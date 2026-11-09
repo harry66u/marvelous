@@ -7,7 +7,7 @@ function fixture(n = 200): Character[] {
   const teams = ['avengers', 'x-men', 'fantastic-four', 'none']
   return Array.from({ length: n }, (_, i) => ({
     id: `char-${i}`, name: `Char ${i}`, aliases: [], realName: null,
-    primaryTeam: teams[i % 4]!, teams: [], debutYear: 1970, debutIssue: '#1', debutDate: '1970',
+    primaryTeam: teams[i % 4]!, teams: [], world: 'avengers', debutYear: 1970, debutIssue: '#1', debutDate: '1970',
     alignment: 'hero', origin: 'mutant', gender: 'other', mcu: false, mcuFirst: null,
     answerOk: i % 10 !== 9, difficulty: ((i % 4) + 1) as 1 | 2 | 3 | 4, caseNote: 'note',
     archetype: 'caped', sources: ['https://example.com'], notes: '',

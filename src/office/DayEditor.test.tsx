@@ -3,7 +3,7 @@ import DayEditor from './DayEditor'
 import type { Character, Schedule } from '../content/types'
 
 const ch = (id: string, name: string): Character => ({
-  id, name, aliases: [], realName: null, primaryTeam: 'none', teams: [], debutYear: 1970, debutIssue: 'X #1',
+  id, name, aliases: [], realName: null, primaryTeam: 'none', teams: [], world: 'avengers', debutYear: 1970, debutIssue: 'X #1',
   debutDate: '1970-01', alignment: 'hero', origin: 'mutant', gender: 'male', mcu: false, mcuFirst: null,
   answerOk: true, difficulty: 2, caseNote: 'Subject exists.', archetype: 'caped', sources: ['https://x'], notes: '',
 })

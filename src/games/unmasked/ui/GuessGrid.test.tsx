@@ -20,7 +20,7 @@ describe('GuessGrid', () => {
     const visual = container.querySelector('li [aria-hidden="true"]')
     expect(visual).not.toBeNull()
     const text = visual?.textContent ?? ''
-    for (const piece of ['Galactus', '✕', 'None', '1960s', '▲', '≈', 'Villain', 'Cosmic', 'Male', '✓']) {
+    for (const piece of ['Galactus', '✕', '1960s', '▲', '≈', 'Villain', 'Cosmic', 'Male', '✓']) {
       expect(text).toContain(piece)
     }
   })
@@ -35,7 +35,7 @@ describe('GuessGrid', () => {
   it('shows the column header, the next empty attempt and the legend', () => {
     render(<GuessGrid guesses={[galactus]} answer={storm} fresh={new Set()} nextAttempt={2} />)
     expect(screen.getByText('— Attempt 2 —')).toBeInTheDocument()
-    for (const h of ['Affil.', 'Align.', 'Gender']) expect(screen.getAllByText(h).length).toBeGreaterThan(0)
+    for (const h of ['World', 'Align.', 'Gender']) expect(screen.getAllByText(h).length).toBeGreaterThan(0)
     expect(screen.getByText('Exact')).toBeInTheDocument()
     expect(screen.getByText('Close')).toBeInTheDocument()
     expect(screen.getByText('No match')).toBeInTheDocument()
